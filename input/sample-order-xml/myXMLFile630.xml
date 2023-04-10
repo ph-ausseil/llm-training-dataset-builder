@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-03" >
+      <Customer id="CUST44591"
+  firstname="Molli"
+  lastname="Ackerley"
+  email="Molli.Ackerley@example.com"
+  />        <Seller id="EMP23939"
+  firstname="Lanna"
+  lastname="Aprile"
+  email="Lanna.Aprile@examplecompany.com"
+  />      <Items><Item><SKU>P94266</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>9</Quantity><Price>51.82</Price></Item><Item><SKU>P11591</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>10</Quantity><Price>88.37</Price></Item><Item><SKU>P39298</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>7</Quantity><Price>88.59</Price></Item><Item><SKU>P93220</SKU><Description>Utility Knife - Retractable</Description><Quantity>3</Quantity><Price>83.26</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-08" >
+      <Customer id="CUST51247"
+  firstname="Shauna"
+  lastname="Gilmour"
+  email="Shauna.Gilmour@example.com"
+  />        <Seller id="EMP15578"
+  firstname="Annice"
+  lastname="Liebermann"
+  email="Annice.Liebermann@examplecompany.com"
+  />      <Items><Item><SKU>P25536</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>6</Quantity><Price>88.41</Price></Item><Item><SKU>P54015</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>6</Quantity><Price>5.81</Price></Item><Item><SKU>P85759</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>10</Quantity><Price>25.19</Price></Item><Item><SKU>P60622</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>7</Quantity><Price>16.49</Price></Item>
+      </Items>
+    </Order>

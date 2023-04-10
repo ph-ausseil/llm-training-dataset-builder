@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-12" >
+      <Customer id="CUST50676"
+  firstname="Deirdre"
+  lastname="Mintz"
+  email="Deirdre.Mintz@example.com"
+  />        <Seller id="EMP15910"
+  firstname="Sherrie"
+  lastname="Cyrie"
+  email="Sherrie.Cyrie@examplecompany.com"
+  />      <Items><Item><SKU>P15605</SKU><Description>Miter Saw - 10 inch</Description><Quantity>7</Quantity><Price>64.24</Price></Item><Item><SKU>P18858</SKU><Description>Miter Saw - 10 inch</Description><Quantity>1</Quantity><Price>81.5</Price></Item><Item><SKU>P52660</SKU><Description>Power Drill - 18V</Description><Quantity>4</Quantity><Price>12.72</Price></Item><Item><SKU>P15645</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>82.49</Price></Item>
+      </Items>
+    </Order>

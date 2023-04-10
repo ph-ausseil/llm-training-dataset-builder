@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-06-07">
+  
+      
+  <Customer id="CUST94538" firstname="Wynne" lastname="Karl" email="Wynne.Karl@example.com"/>
+          
+  <Seller id="EMP58240" firstname="Nelle" lastname="Thunell" email="Nelle.Thunell@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>2</Quantity>
+      <Price>7.238</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>3</Quantity>
+      <Price>12.397</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>41.239000000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P65232</SKU>
+      <Description>Level - 24 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>73.62300000000002</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>905.8</TotalPrice>
+</Order>

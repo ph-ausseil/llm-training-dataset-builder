@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-05" >
+      <Customer id="CUST86597"
+  firstname="Lanna"
+  lastname="Nerita"
+  email="Lanna.Nerita@example.com"
+  />        <Seller id="EMP77151"
+  firstname="Farrah"
+  lastname="Fairweather"
+  email="Farrah.Fairweather@examplecompany.com"
+  />      <Items><Item><SKU>P78340</SKU><Description>Workbench - Portable</Description><Quantity>9</Quantity><Price>42.15</Price></Item><Item><SKU>P93410</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>6</Quantity><Price>40.24</Price></Item><Item><SKU>P50237</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>1</Quantity><Price>86.58</Price></Item><Item><SKU>P56175</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>2</Quantity><Price>44.98</Price></Item>
+      </Items>
+    </Order>

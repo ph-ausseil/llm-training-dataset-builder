@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-14" >
+      <Customer id="CUST81035"
+  firstname="Norine"
+  lastname="Phi"
+  email="Norine.Phi@example.com"
+  />        <Seller id="EMP88247"
+  firstname="Fernande"
+  lastname="Kirbee"
+  email="Fernande.Kirbee@examplecompany.com"
+  />      <Items><Item><SKU>P89702</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>8</Quantity><Price>57.46</Price></Item><Item><SKU>P23277</SKU><Description>Hacksaw - 12 inch</Description><Quantity>7</Quantity><Price>9.04</Price></Item><Item><SKU>P95898</SKU><Description>Nail Gun - Electric</Description><Quantity>3</Quantity><Price>85.87</Price></Item><Item><SKU>P49064</SKU><Description>Hacksaw - 12 inch</Description><Quantity>5</Quantity><Price>7.88</Price></Item>
+      </Items>
+    </Order>

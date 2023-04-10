@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-10" >
+      <Customer id="CUST16859"
+  firstname="Damaris"
+  lastname="Janene"
+  email="Damaris.Janene@example.com"
+  />        <Seller id="EMP30594"
+  firstname="Mureil"
+  lastname="Roche"
+  email="Mureil.Roche@examplecompany.com"
+  />      <Items><Item><SKU>P90810</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>10</Quantity><Price>36.02</Price></Item><Item><SKU>P36654</SKU><Description>Safety Goggles - Clear</Description><Quantity>9</Quantity><Price>10.85</Price></Item><Item><SKU>P72914</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>6</Quantity><Price>45.18</Price></Item><Item><SKU>P21665</SKU><Description>Jigsaw - Cordless</Description><Quantity>7</Quantity><Price>8.1</Price></Item>
+      </Items>
+    </Order>

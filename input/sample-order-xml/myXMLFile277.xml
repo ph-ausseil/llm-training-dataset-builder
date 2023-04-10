@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-05-17" >
+      <Customer id="CUST14997"
+  firstname="Ardeen"
+  lastname="Palocz"
+  email="Ardeen.Palocz@example.com"
+  />        <Seller id="EMP91157"
+  firstname="Vevay"
+  lastname="Kirstin"
+  email="Vevay.Kirstin@examplecompany.com"
+  />      <Items><Item><SKU>P96691</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>7</Quantity><Price>89.68</Price></Item><Item><SKU>P34781</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>13.19</Price></Item><Item><SKU>P72092</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>6</Quantity><Price>49.63</Price></Item><Item><SKU>P20560</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>80.4</Price></Item>
+      </Items>
+    </Order>

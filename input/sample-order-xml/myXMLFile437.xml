@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-28" >
+      <Customer id="CUST76134"
+  firstname="Bernie"
+  lastname="Horan"
+  email="Bernie.Horan@example.com"
+  />        <Seller id="EMP63070"
+  firstname="Donetta"
+  lastname="Docilla"
+  email="Donetta.Docilla@examplecompany.com"
+  />      <Items><Item><SKU>P94688</SKU><Description>Safety Goggles - Clear</Description><Quantity>10</Quantity><Price>43.28</Price></Item><Item><SKU>P16796</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>2</Quantity><Price>76.03</Price></Item><Item><SKU>P27874</SKU><Description>Workbench - Portable</Description><Quantity>9</Quantity><Price>18.32</Price></Item><Item><SKU>P82441</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>9</Quantity><Price>82.74</Price></Item>
+      </Items>
+    </Order>

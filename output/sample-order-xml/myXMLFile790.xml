@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-10-24">
+  
+      
+  <Customer id="CUST73483" firstname="Nita" lastname="Fillbert" email="Nita.Fillbert@example.com"/>
+          
+  <Seller id="EMP73847" firstname="Linet" lastname="Vastah" email="Linet.Vastah@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>6</Quantity>
+      <Price>5.502000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>5</Quantity>
+      <Price>21.462000000000003</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>75.78900000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>67.368</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>485.58</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-21" >
+      <Customer id="CUST63177"
+  firstname="Theodora"
+  lastname="Abram"
+  email="Theodora.Abram@example.com"
+  />        <Seller id="EMP49611"
+  firstname="Shirlee"
+  lastname="Redmond"
+  email="Shirlee.Redmond@examplecompany.com"
+  />      <Items><Item><SKU>P13793</SKU><Description>Safety Goggles - Clear</Description><Quantity>4</Quantity><Price>50.58</Price></Item><Item><SKU>P75722</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>1</Quantity><Price>32.53</Price></Item><Item><SKU>P56726</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>2</Quantity><Price>6.26</Price></Item><Item><SKU>P54208</SKU><Description>Garden Hose - 50ft</Description><Quantity>3</Quantity><Price>6.44</Price></Item>
+      </Items>
+    </Order>

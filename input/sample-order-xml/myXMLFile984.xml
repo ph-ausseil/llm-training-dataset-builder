@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-05" >
+      <Customer id="CUST79758"
+  firstname="Flo"
+  lastname="Haymes"
+  email="Flo.Haymes@example.com"
+  />        <Seller id="EMP48376"
+  firstname="Debee"
+  lastname="Merat"
+  email="Debee.Merat@examplecompany.com"
+  />      <Items><Item><SKU>P31593</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>10</Quantity><Price>85.91</Price></Item><Item><SKU>P27721</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>6</Quantity><Price>76.19</Price></Item><Item><SKU>P72568</SKU><Description>Work Gloves - Leather</Description><Quantity>9</Quantity><Price>75.55</Price></Item><Item><SKU>P69900</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>9</Quantity><Price>77.41</Price></Item>
+      </Items>
+    </Order>

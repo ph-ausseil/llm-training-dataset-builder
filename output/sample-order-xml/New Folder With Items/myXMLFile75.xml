@@ -1,0 +1,8 @@
+<Order id="ODR34425184" date="2021-09-19">
+      
+      <Customer id="CUST99095" firstname="Mahalia" lastname="Ellord" email="Mahalia.Ellord@example.com" />
+        <Seller id="EMP14348" firstname="Jinny" lastname="Pandolfi" email="Jinny.Pandolfi@company.com" />
+      <Items>
+        <Item><SKU>P42408</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>2</Quantity><Price>1.48</Price></Item><Item><SKU>P82551</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>5</Quantity><Price>8.07</Price></Item><Item><SKU>P11854</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>1</Quantity><Price>83.18</Price></Item>
+      </Items>
+    <TotalPrice>2.96</TotalPrice><TotalPrice>43.31</TotalPrice><TotalPrice>126.49000000000001</TotalPrice></Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-02-26" >
+      <Customer id="CUST32222"
+  firstname="Julieta"
+  lastname="Ardeha"
+  email="Julieta.Ardeha@example.com"
+  />        <Seller id="EMP33343"
+  firstname="Margalo"
+  lastname="Whiffen"
+  email="Margalo.Whiffen@examplecompany.com"
+  />      <Items><Item><SKU>P37862</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>6</Quantity><Price>68.78</Price></Item><Item><SKU>P78552</SKU><Description>Garden Hose - 50ft</Description><Quantity>6</Quantity><Price>89.51</Price></Item><Item><SKU>P87419</SKU><Description>Hammer - 16 oz</Description><Quantity>10</Quantity><Price>59.58</Price></Item><Item><SKU>P95621</SKU><Description>Miter Saw - 10 inch</Description><Quantity>9</Quantity><Price>89.5</Price></Item>
+      </Items>
+    </Order>

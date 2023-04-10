@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-12-01" >
+      <Customer id="CUST33304"
+  firstname="Farrah"
+  lastname="Carlson"
+  email="Farrah.Carlson@example.com"
+  />        <Seller id="EMP29174"
+  firstname="Fred"
+  lastname="Hutchison"
+  email="Fred.Hutchison@examplecompany.com"
+  />      <Items><Item><SKU>P90035</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>5</Quantity><Price>78.47</Price></Item><Item><SKU>P86422</SKU><Description>Safety Goggles - Clear</Description><Quantity>3</Quantity><Price>25.8</Price></Item><Item><SKU>P70959</SKU><Description>Socket Set - 40 pieces</Description><Quantity>5</Quantity><Price>51.1</Price></Item><Item><SKU>P97206</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>1</Quantity><Price>53.43</Price></Item>
+      </Items>
+    </Order>

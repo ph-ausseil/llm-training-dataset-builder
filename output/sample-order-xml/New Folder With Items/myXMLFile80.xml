@@ -1,0 +1,8 @@
+<Order id="ODR66125021" date="2022-06-20">
+      
+      <Customer id="CUST72536" firstname="Moyna" lastname="Eben" email="Moyna.Eben@example.com" />
+        <Seller id="EMP60912" firstname="Darci" lastname="Michella" email="Darci.Michella@company.com" />
+      <Items>
+        <Item><SKU>P13228</SKU><Description>Tile Cutter - Manual</Description><Quantity>2</Quantity><Price>67.12</Price></Item><Item><SKU>P31743</SKU><Description>Hand Saw - 12 inch</Description><Quantity>2</Quantity><Price>51.01</Price></Item><Item><SKU>P29358</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>2</Quantity><Price>53.45</Price></Item>
+      </Items>
+    <TotalPrice>134.24</TotalPrice><TotalPrice>236.26</TotalPrice><TotalPrice>343.15999999999997</TotalPrice></Order>

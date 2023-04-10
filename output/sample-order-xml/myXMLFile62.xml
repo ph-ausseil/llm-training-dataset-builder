@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-11-06">
+  
+      
+  <Customer id="CUST13308" firstname="Althea" lastname="Avi" email="Althea.Avi@example.com"/>
+          
+  <Seller id="EMP29995" firstname="Donnie" lastname="Girardo" email="Donnie.Girardo@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>1</Quantity>
+      <Price>79.002</Price>
+    </Item>
+    <Item>
+      <SKU>P90277</SKU>
+      <Description>Bolt Cutter - 24 inch</Description>
+      <Quantity>1</Quantity>
+      <Price>52.95400000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>10</Quantity>
+      <Price>5.764000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P19253</SKU>
+      <Description>Outdoor Lantern - Solar Powered</Description>
+      <Quantity>8</Quantity>
+      <Price>84.88700000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>868.69</TotalPrice>
+</Order>

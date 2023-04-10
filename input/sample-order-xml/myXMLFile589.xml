@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-19" >
+      <Customer id="CUST19464"
+  firstname="Selia"
+  lastname="Sikorski"
+  email="Selia.Sikorski@example.com"
+  />        <Seller id="EMP49582"
+  firstname="Dominga"
+  lastname="Afton"
+  email="Dominga.Afton@examplecompany.com"
+  />      <Items><Item><SKU>P42162</SKU><Description>Nail Gun - Electric</Description><Quantity>10</Quantity><Price>8.97</Price></Item><Item><SKU>P27115</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>9</Quantity><Price>43.94</Price></Item><Item><SKU>P22367</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>8</Quantity><Price>19.37</Price></Item><Item><SKU>P43801</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>10</Quantity><Price>53.52</Price></Item>
+      </Items>
+    </Order>

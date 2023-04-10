@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-04" >
+      <Customer id="CUST61475"
+  firstname="Heida"
+  lastname="Lacombe"
+  email="Heida.Lacombe@example.com"
+  />        <Seller id="EMP24478"
+  firstname="Donetta"
+  lastname="Isidore"
+  email="Donetta.Isidore@examplecompany.com"
+  />      <Items><Item><SKU>P33597</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>4</Quantity><Price>13.04</Price></Item><Item><SKU>P49168</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>7</Quantity><Price>5.86</Price></Item><Item><SKU>P12939</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>8</Quantity><Price>67.91</Price></Item><Item><SKU>P77925</SKU><Description>Tape Measure - 25 ft</Description><Quantity>4</Quantity><Price>27.1</Price></Item>
+      </Items>
+    </Order>

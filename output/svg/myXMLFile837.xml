@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-04-07">
+  
+      
+  <Customer id="CUST86559" firstname="Mariann" lastname="Brackely" email="Mariann.Brackely@example.com"/>
+          
+  <Seller id="EMP13561" firstname="Tomasina" lastname="Craggie" email="Tomasina.Craggie@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>1</Quantity>
+      <Price>94.47900000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P49316</SKU>
+      <Description>Heavy-Duty Extension Cord - 100ft</Description>
+      <Quantity>6</Quantity>
+      <Price>52.615500000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>2</Quantity>
+      <Price>94.08</Price>
+    </Item>
+    <Item>
+      <SKU>P77259</SKU>
+      <Description>Wire Stripper - 8 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>8.904000000000002</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>633.95</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-18" >
+      <Customer id="CUST87777"
+  firstname="Nelle"
+  lastname="Palocz"
+  email="Nelle.Palocz@example.com"
+  />        <Seller id="EMP63204"
+  firstname="Evita"
+  lastname="Allys"
+  email="Evita.Allys@examplecompany.com"
+  />      <Items><Item><SKU>P53283</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>8</Quantity><Price>33.8</Price></Item><Item><SKU>P77569</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>5</Quantity><Price>50.33</Price></Item><Item><SKU>P13899</SKU><Description>LED Light Bulb - 60W</Description><Quantity>1</Quantity><Price>49.8</Price></Item><Item><SKU>P45299</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>20.56</Price></Item>
+      </Items>
+    </Order>

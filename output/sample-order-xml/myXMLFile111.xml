@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-03-11">
+  
+      
+  <Customer id="CUST70600" firstname="Silvana" lastname="Faust" email="Silvana.Faust@example.com"/>
+          
+  <Seller id="EMP11475" firstname="Malina" lastname="Kendrick" email="Malina.Kendrick@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>58.3</Price>
+    </Item>
+    <Item>
+      <SKU>P72757</SKU>
+      <Description>Tape Measure - 25 ft</Description>
+      <Quantity>3</Quantity>
+      <Price>90.08</Price>
+    </Item>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>5</Quantity>
+      <Price>37.82</Price>
+    </Item>
+    <Item>
+      <SKU>P17627</SKU>
+      <Description>Caulking Gun - Heavy Duty</Description>
+      <Quantity>4</Quantity>
+      <Price>18.63</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>708.76</TotalPrice>
+</Order>

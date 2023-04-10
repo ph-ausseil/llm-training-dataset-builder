@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-20" >
+      <Customer id="CUST93189"
+  firstname="Natka"
+  lastname="Truc"
+  email="Natka.Truc@example.com"
+  />        <Seller id="EMP16333"
+  firstname="Aeriela"
+  lastname="Camden"
+  email="Aeriela.Camden@examplecompany.com"
+  />      <Items><Item><SKU>P13691</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>2</Quantity><Price>80.02</Price></Item><Item><SKU>P30784</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>3</Quantity><Price>76.53</Price></Item><Item><SKU>P85018</SKU><Description>Tape Measure - 25 ft</Description><Quantity>7</Quantity><Price>25.59</Price></Item><Item><SKU>P97297</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>1</Quantity><Price>53.51</Price></Item>
+      </Items>
+    </Order>

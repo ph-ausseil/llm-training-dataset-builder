@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-26" >
+      <Customer id="CUST67310"
+  firstname="Gusella"
+  lastname="Kussell"
+  email="Gusella.Kussell@example.com"
+  />        <Seller id="EMP22103"
+  firstname="Romona"
+  lastname="Ursulette"
+  email="Romona.Ursulette@examplecompany.com"
+  />      <Items><Item><SKU>P32632</SKU><Description>Hand Saw - 12 inch</Description><Quantity>6</Quantity><Price>25.27</Price></Item><Item><SKU>P48930</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>25.66</Price></Item><Item><SKU>P77077</SKU><Description>Tape Measure - 25 ft</Description><Quantity>6</Quantity><Price>37.45</Price></Item><Item><SKU>P20230</SKU><Description>Tarp - 12x16 ft</Description><Quantity>2</Quantity><Price>27.95</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-06-05" >
+      <Customer id="CUST39406"
+  firstname="Joelly"
+  lastname="Ailyn"
+  email="Joelly.Ailyn@example.com"
+  />        <Seller id="EMP24145"
+  firstname="Inga"
+  lastname="Tengdin"
+  email="Inga.Tengdin@examplecompany.com"
+  />      <Items><Item><SKU>P92950</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>10</Quantity><Price>6.41</Price></Item><Item><SKU>P40515</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>9</Quantity><Price>28.06</Price></Item><Item><SKU>P19072</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>8</Quantity><Price>36.8</Price></Item><Item><SKU>P29294</SKU><Description>Work Gloves - Leather</Description><Quantity>1</Quantity><Price>83.13</Price></Item>
+      </Items>
+    </Order>

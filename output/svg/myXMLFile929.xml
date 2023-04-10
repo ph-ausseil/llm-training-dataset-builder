@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2023-01-31">
+  
+      
+  <Customer id="CUST46400" firstname="Adelle" lastname="Montgomery" email="Adelle.Montgomery@example.com"/>
+          
+  <Seller id="EMP89866" firstname="Stephanie" lastname="Anton" email="Stephanie.Anton@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>12</Quantity>
+      <Price>44.988</Price>
+    </Item>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>107.976</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>4</Quantity>
+      <Price>13.524</Price>
+    </Item>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>6</Quantity>
+      <Price>104.304</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>2191.56</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-14" >
+      <Customer id="CUST78150"
+  firstname="Collen"
+  lastname="Jenness"
+  email="Collen.Jenness@example.com"
+  />        <Seller id="EMP83834"
+  firstname="Consuela"
+  lastname="Cynar"
+  email="Consuela.Cynar@examplecompany.com"
+  />      <Items><Item><SKU>P18801</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>7</Quantity><Price>58.86</Price></Item><Item><SKU>P56212</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>61.72</Price></Item><Item><SKU>P38390</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>8</Quantity><Price>18.05</Price></Item><Item><SKU>P38020</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>80.1</Price></Item>
+      </Items>
+    </Order>

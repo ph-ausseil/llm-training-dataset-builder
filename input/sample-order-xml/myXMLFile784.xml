@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-28" >
+      <Customer id="CUST63946"
+  firstname="Petronia"
+  lastname="Bultman"
+  email="Petronia.Bultman@example.com"
+  />        <Seller id="EMP60889"
+  firstname="Carlie"
+  lastname="Pip"
+  email="Carlie.Pip@examplecompany.com"
+  />      <Items><Item><SKU>P87443</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>1</Quantity><Price>54.87</Price></Item><Item><SKU>P87919</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>9</Quantity><Price>60.18</Price></Item><Item><SKU>P60147</SKU><Description>Miter Saw - 10 inch</Description><Quantity>4</Quantity><Price>73.68</Price></Item><Item><SKU>P52318</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>5</Quantity><Price>26.43</Price></Item>
+      </Items>
+    </Order>

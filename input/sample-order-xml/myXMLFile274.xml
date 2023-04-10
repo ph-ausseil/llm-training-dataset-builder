@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-28" >
+      <Customer id="CUST24624"
+  firstname="Brooks"
+  lastname="Anselmi"
+  email="Brooks.Anselmi@example.com"
+  />        <Seller id="EMP86962"
+  firstname="Willetta"
+  lastname="Rosalba"
+  email="Willetta.Rosalba@examplecompany.com"
+  />      <Items><Item><SKU>P65478</SKU><Description>Jigsaw - Cordless</Description><Quantity>7</Quantity><Price>48.62</Price></Item><Item><SKU>P50537</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>10</Quantity><Price>82.25</Price></Item><Item><SKU>P77143</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>3</Quantity><Price>70.6</Price></Item><Item><SKU>P75364</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>31.67</Price></Item>
+      </Items>
+    </Order>

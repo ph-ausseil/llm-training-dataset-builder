@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-11" >
+      <Customer id="CUST42347"
+  firstname="Justinn"
+  lastname="Sammons"
+  email="Justinn.Sammons@example.com"
+  />        <Seller id="EMP29224"
+  firstname="Liana"
+  lastname="Federica"
+  email="Liana.Federica@examplecompany.com"
+  />      <Items><Item><SKU>P40540</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>6</Quantity><Price>79.56</Price></Item><Item><SKU>P59818</SKU><Description>Tile Cutter - Manual</Description><Quantity>6</Quantity><Price>26.87</Price></Item><Item><SKU>P70282</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>9</Quantity><Price>18.72</Price></Item><Item><SKU>P44008</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>4</Quantity><Price>40.2</Price></Item>
+      </Items>
+    </Order>

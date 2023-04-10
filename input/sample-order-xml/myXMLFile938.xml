@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-20" >
+      <Customer id="CUST43843"
+  firstname="Arabel"
+  lastname="Glenden"
+  email="Arabel.Glenden@example.com"
+  />        <Seller id="EMP17736"
+  firstname="Ida"
+  lastname="Natica"
+  email="Ida.Natica@examplecompany.com"
+  />      <Items><Item><SKU>P15913</SKU><Description>Tarp - 12x16 ft</Description><Quantity>3</Quantity><Price>41.6</Price></Item><Item><SKU>P13879</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>8</Quantity><Price>39.38</Price></Item><Item><SKU>P68822</SKU><Description>Tape Measure - 25 ft</Description><Quantity>4</Quantity><Price>50.2</Price></Item><Item><SKU>P15282</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>7</Quantity><Price>68.61</Price></Item>
+      </Items>
+    </Order>

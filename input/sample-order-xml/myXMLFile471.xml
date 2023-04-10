@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-20" >
+      <Customer id="CUST58353"
+  firstname="Frances"
+  lastname="Bandeen"
+  email="Frances.Bandeen@example.com"
+  />        <Seller id="EMP40100"
+  firstname="Iseabal"
+  lastname="Fadiman"
+  email="Iseabal.Fadiman@examplecompany.com"
+  />      <Items><Item><SKU>P95807</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>5</Quantity><Price>19.47</Price></Item><Item><SKU>P33999</SKU><Description>Safety Goggles - Clear</Description><Quantity>4</Quantity><Price>40.11</Price></Item><Item><SKU>P58269</SKU><Description>Hacksaw - 12 inch</Description><Quantity>10</Quantity><Price>73.53</Price></Item><Item><SKU>P63190</SKU><Description>Garden Hose - 50ft</Description><Quantity>8</Quantity><Price>79.54</Price></Item>
+      </Items>
+    </Order>

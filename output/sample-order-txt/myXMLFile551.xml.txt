@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1827.85.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Phylis Leifeste.
+Question : What is the cost of item 'P64945'?
+Answer : The  cost of item 'P64945' was $21.56.
+Question : What is the name of item 'P64945'?
+Answer : The  name of item 'P64945' was 'Utility Knife - Retractable'.
+Question : What is the SKU of item 'Utility Knife - Retractable'?
+Answer : The  SKU of item 'Utility Knife - Retractable' was 'P64945'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-01-27'.
+Question : What is the email address of the customer with ID 'CUST65394'?
+Answer : The  email address of the customer with ID 'CUST65394' was 'Fernande.Dimitris@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Utility Knife - Retractable' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Utility Knife - Retractable' items ordered in the sales order with ID 'ODR50574929' was $21.560000000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $73.11.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1645.07.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $93.676.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1827.85.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Phylis Leifeste.
+Question : What is the cost of item 'P87047'?
+Answer : The  cost of item 'P87047' was $749.41.
+Question : What is the name of item 'P87047'?
+Answer : The  name of item 'P87047' was 'Wrench Set - 10 pieces'.
+Question : What is the SKU of item 'Wrench Set - 10 pieces'?
+Answer : The  SKU of item 'Wrench Set - 10 pieces' was 'P87047'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-01-27'.
+Question : What is the email address of the customer with ID 'CUST65394'?
+Answer : The  email address of the customer with ID 'CUST65394' was 'Fernande.Dimitris@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929' was $749.408.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $73.11.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1645.07.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $93.676.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1827.85.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Phylis Leifeste.
+Question : What is the cost of item 'P65232'?
+Answer : The  cost of item 'P65232' was $736.23.
+Question : What is the name of item 'P65232'?
+Answer : The  name of item 'P65232' was 'Level - 24 inch'.
+Question : What is the SKU of item 'Level - 24 inch'?
+Answer : The  SKU of item 'Level - 24 inch' was 'P65232'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-01-27'.
+Question : What is the email address of the customer with ID 'CUST65394'?
+Answer : The  email address of the customer with ID 'CUST65394' was 'Fernande.Dimitris@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929' was $736.2300000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $73.11.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1645.07.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $93.676.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1827.85.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Phylis Leifeste.
+Question : What is the cost of item 'P91537'?
+Answer : The  cost of item 'P91537' was $320.65.
+Question : What is the name of item 'P91537'?
+Answer : The  name of item 'P91537' was 'Miter Saw - 10 inch'.
+Question : What is the SKU of item 'Miter Saw - 10 inch'?
+Answer : The  SKU of item 'Miter Saw - 10 inch' was 'P91537'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-01-27'.
+Question : What is the email address of the customer with ID 'CUST65394'?
+Answer : The  email address of the customer with ID 'CUST65394' was 'Fernande.Dimitris@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929' was $320.65.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $73.11.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1645.07.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $93.676.

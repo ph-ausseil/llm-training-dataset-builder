@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1084.82.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mignon Blake.
+Question : What is the cost of item 'P73288'?
+Answer : The  cost of item 'P73288' was $120.65.
+Question : What is the name of item 'P73288'?
+Answer : The  name of item 'P73288' was 'Stud Finder - Digital'.
+Question : What is the SKU of item 'Stud Finder - Digital'?
+Answer : The  SKU of item 'Stud Finder - Digital' was 'P73288'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-06'.
+Question : What is the email address of the customer with ID 'CUST42306'?
+Answer : The  email address of the customer with ID 'CUST42306' was 'Christian.Dowski@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Stud Finder - Digital' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Stud Finder - Digital' items ordered in the sales order with ID 'ODR50574929' was $120.64999999999999.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $976.34.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1084.82.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mignon Blake.
+Question : What is the cost of item 'P14222'?
+Answer : The  cost of item 'P14222' was $458.0.
+Question : What is the name of item 'P14222'?
+Answer : The  name of item 'P14222' was 'Nail Gun - Electric'.
+Question : What is the SKU of item 'Nail Gun - Electric'?
+Answer : The  SKU of item 'Nail Gun - Electric' was 'P14222'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-06'.
+Question : What is the email address of the customer with ID 'CUST42306'?
+Answer : The  email address of the customer with ID 'CUST42306' was 'Christian.Dowski@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929' was $458.0.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $976.34.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1084.82.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mignon Blake.
+Question : What is the cost of item 'P91537'?
+Answer : The  cost of item 'P91537' was $233.2.
+Question : What is the name of item 'P91537'?
+Answer : The  name of item 'P91537' was 'Miter Saw - 10 inch'.
+Question : What is the SKU of item 'Miter Saw - 10 inch'?
+Answer : The  SKU of item 'Miter Saw - 10 inch' was 'P91537'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-06'.
+Question : What is the email address of the customer with ID 'CUST42306'?
+Answer : The  email address of the customer with ID 'CUST42306' was 'Christian.Dowski@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929' was $233.2.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $976.34.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1084.82.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mignon Blake.
+Question : What is the cost of item 'P12338'?
+Answer : The  cost of item 'P12338' was $272.97.
+Question : What is the name of item 'P12338'?
+Answer : The  name of item 'P12338' was 'Hammer - 16 oz'.
+Question : What is the SKU of item 'Hammer - 16 oz'?
+Answer : The  SKU of item 'Hammer - 16 oz' was 'P12338'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-06'.
+Question : What is the email address of the customer with ID 'CUST42306'?
+Answer : The  email address of the customer with ID 'CUST42306' was 'Christian.Dowski@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929' was $272.96999999999997.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $976.34.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.

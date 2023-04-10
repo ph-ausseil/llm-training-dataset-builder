@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-04" >
+      <Customer id="CUST87924"
+  firstname="Carlie"
+  lastname="Esmaria"
+  email="Carlie.Esmaria@example.com"
+  />        <Seller id="EMP71159"
+  firstname="Lily"
+  lastname="Rillings"
+  email="Lily.Rillings@examplecompany.com"
+  />      <Items><Item><SKU>P45719</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>3</Quantity><Price>65.58</Price></Item><Item><SKU>P47530</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>3</Quantity><Price>17.22</Price></Item><Item><SKU>P49776</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>79.22</Price></Item><Item><SKU>P12354</SKU><Description>Work Gloves - Leather</Description><Quantity>3</Quantity><Price>41.8</Price></Item>
+      </Items>
+    </Order>

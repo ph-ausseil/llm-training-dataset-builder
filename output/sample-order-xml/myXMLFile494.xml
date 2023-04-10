@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-07-22">
+  
+      
+  <Customer id="CUST72660" firstname="Addia" lastname="Paton" email="Addia.Paton@example.com"/>
+          
+  <Seller id="EMP50523" firstname="Darci" lastname="Matthew" email="Darci.Matthew@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>4</Quantity>
+      <Price>62.97500000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>1</Quantity>
+      <Price>68.486</Price>
+    </Item>
+    <Item>
+      <SKU>P41806</SKU>
+      <Description>Electric Screwdriver - 3.6V</Description>
+      <Quantity>2</Quantity>
+      <Price>49.104000000000006</Price>
+    </Item>
+    <Item>
+      <SKU>P72757</SKU>
+      <Description>Tape Measure - 25 ft</Description>
+      <Quantity>7</Quantity>
+      <Price>99.08800000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1112.21</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-27" >
+      <Customer id="CUST48049"
+  firstname="Brietta"
+  lastname="Kannry"
+  email="Brietta.Kannry@example.com"
+  />        <Seller id="EMP34283"
+  firstname="Vita"
+  lastname="Earlie"
+  email="Vita.Earlie@examplecompany.com"
+  />      <Items><Item><SKU>P58217</SKU><Description>Stud Finder - Digital</Description><Quantity>3</Quantity><Price>68.08</Price></Item><Item><SKU>P41714</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>8</Quantity><Price>78.64</Price></Item><Item><SKU>P31513</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>5</Quantity><Price>87.23</Price></Item><Item><SKU>P78786</SKU><Description>Work Gloves - Leather</Description><Quantity>2</Quantity><Price>57.97</Price></Item>
+      </Items>
+    </Order>

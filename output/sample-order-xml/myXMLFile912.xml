@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-09-10">
+  
+      
+  <Customer id="CUST71907" firstname="Brynna" lastname="Podvin" email="Brynna.Podvin@example.com"/>
+          
+  <Seller id="EMP74512" firstname="Minda" lastname="Howlyn" email="Minda.Howlyn@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>95.61200000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>41.239000000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P43386</SKU>
+      <Description>Pipe Wrench - 14 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>83.44600000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>64.13</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1228.5</TotalPrice>
+</Order>

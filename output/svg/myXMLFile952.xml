@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-11-26">
+  
+      
+  <Customer id="CUST23572" firstname="Vevay" lastname="Zetta" email="Vevay.Zetta@example.com"/>
+          
+  <Seller id="EMP55808" firstname="Marguerite" lastname="Amadas" email="Marguerite.Amadas@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>7</Quantity>
+      <Price>22.484</Price>
+    </Item>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>9</Quantity>
+      <Price>62.97500000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>5</Quantity>
+      <Price>79.39800000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P72757</SKU>
+      <Description>Tape Measure - 25 ft</Description>
+      <Quantity>7</Quantity>
+      <Price>99.08800000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1814.77</TotalPrice>
+</Order>

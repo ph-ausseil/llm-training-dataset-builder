@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-16" >
+      <Customer id="CUST60389"
+  firstname="Ulrike"
+  lastname="Slifka"
+  email="Ulrike.Slifka@example.com"
+  />        <Seller id="EMP49039"
+  firstname="Tybie"
+  lastname="Peti"
+  email="Tybie.Peti@examplecompany.com"
+  />      <Items><Item><SKU>P73913</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>8</Quantity><Price>32.72</Price></Item><Item><SKU>P42865</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>10</Quantity><Price>76.7</Price></Item><Item><SKU>P13952</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>1</Quantity><Price>39.89</Price></Item><Item><SKU>P14476</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>5</Quantity><Price>70.98</Price></Item>
+      </Items>
+    </Order>

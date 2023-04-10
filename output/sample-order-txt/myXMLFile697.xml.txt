@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1768.13.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Aryn Erlandson.
+Question : What is the cost of item 'P12338'?
+Answer : The  cost of item 'P12338' was $600.53.
+Question : What is the name of item 'P12338'?
+Answer : The  name of item 'P12338' was 'Hammer - 16 oz'.
+Question : What is the SKU of item 'Hammer - 16 oz'?
+Answer : The  SKU of item 'Hammer - 16 oz' was 'P12338'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-01-12'.
+Question : What is the email address of the customer with ID 'CUST63311'?
+Answer : The  email address of the customer with ID 'CUST63311' was 'Shel.Holtz@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929' was $600.534.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $68.01.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1591.32.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $100.089.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1768.13.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Aryn Erlandson.
+Question : What is the cost of item 'P14222'?
+Answer : The  cost of item 'P14222' was $503.8.
+Question : What is the name of item 'P14222'?
+Answer : The  name of item 'P14222' was 'Nail Gun - Electric'.
+Question : What is the SKU of item 'Nail Gun - Electric'?
+Answer : The  SKU of item 'Nail Gun - Electric' was 'P14222'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-01-12'.
+Question : What is the email address of the customer with ID 'CUST63311'?
+Answer : The  email address of the customer with ID 'CUST63311' was 'Shel.Holtz@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929' was $503.80000000000007.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $68.01.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1591.32.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $100.089.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1768.13.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Aryn Erlandson.
+Question : What is the cost of item 'P28369'?
+Answer : The  cost of item 'P28369' was $452.05.
+Question : What is the name of item 'P28369'?
+Answer : The  name of item 'P28369' was 'Sandpaper - Assorted Grits'.
+Question : What is the SKU of item 'Sandpaper - Assorted Grits'?
+Answer : The  SKU of item 'Sandpaper - Assorted Grits' was 'P28369'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-01-12'.
+Question : What is the email address of the customer with ID 'CUST63311'?
+Answer : The  email address of the customer with ID 'CUST63311' was 'Shel.Holtz@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Sandpaper - Assorted Grits' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Sandpaper - Assorted Grits' items ordered in the sales order with ID 'ODR50574929' was $452.045.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $68.01.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1591.32.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $100.089.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1768.13.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Aryn Erlandson.
+Question : What is the cost of item 'P24286'?
+Answer : The  cost of item 'P24286' was $211.75.
+Question : What is the name of item 'P24286'?
+Answer : The  name of item 'P24286' was 'Paint Brush Set - 5 pieces'.
+Question : What is the SKU of item 'Paint Brush Set - 5 pieces'?
+Answer : The  SKU of item 'Paint Brush Set - 5 pieces' was 'P24286'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-01-12'.
+Question : What is the email address of the customer with ID 'CUST63311'?
+Answer : The  email address of the customer with ID 'CUST63311' was 'Shel.Holtz@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Paint Brush Set - 5 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Paint Brush Set - 5 pieces' items ordered in the sales order with ID 'ODR50574929' was $211.75000000000003.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $68.01.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1591.32.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $100.089.

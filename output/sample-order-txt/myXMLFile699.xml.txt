@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $832.26.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Rosaline Connelly.
+Question : What is the cost of item 'P32122'?
+Answer : The  cost of item 'P32122' was $134.74.
+Question : What is the name of item 'P32122'?
+Answer : The  name of item 'P32122' was 'Pliers Set - 3 pieces'.
+Question : What is the SKU of item 'Pliers Set - 3 pieces'?
+Answer : The  SKU of item 'Pliers Set - 3 pieces' was 'P32122'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-25'.
+Question : What is the email address of the customer with ID 'CUST41768'?
+Answer : The  email address of the customer with ID 'CUST41768' was 'Agnese.Anastatius@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 13.
+Question : What is the total price of all 'Pliers Set - 3 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Pliers Set - 3 pieces' items ordered in the sales order with ID 'ODR50574929' was $134.736.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $64.02.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $749.03.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Garden Hose - 50ft' with a price of $73.899.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $832.26.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Rosaline Connelly.
+Question : What is the cost of item 'P91537'?
+Answer : The  cost of item 'P91537' was $122.43.
+Question : What is the name of item 'P91537'?
+Answer : The  name of item 'P91537' was 'Miter Saw - 10 inch'.
+Question : What is the SKU of item 'Miter Saw - 10 inch'?
+Answer : The  SKU of item 'Miter Saw - 10 inch' was 'P91537'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-25'.
+Question : What is the email address of the customer with ID 'CUST41768'?
+Answer : The  email address of the customer with ID 'CUST41768' was 'Agnese.Anastatius@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 13.
+Question : What is the total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929' was $122.42999999999999.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $64.02.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $749.03.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Garden Hose - 50ft' with a price of $73.899.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $832.26.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Rosaline Connelly.
+Question : What is the cost of item 'P85960'?
+Answer : The  cost of item 'P85960' was $131.7.
+Question : What is the name of item 'P85960'?
+Answer : The  name of item 'P85960' was 'LED Light Bulb - 60W'.
+Question : What is the SKU of item 'LED Light Bulb - 60W'?
+Answer : The  SKU of item 'LED Light Bulb - 60W' was 'P85960'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-25'.
+Question : What is the email address of the customer with ID 'CUST41768'?
+Answer : The  email address of the customer with ID 'CUST41768' was 'Agnese.Anastatius@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 13.
+Question : What is the total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929' was $131.7015.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $64.02.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $749.03.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Garden Hose - 50ft' with a price of $73.899.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $832.26.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Rosaline Connelly.
+Question : What is the cost of item 'P33159'?
+Answer : The  cost of item 'P33159' was $443.39.
+Question : What is the name of item 'P33159'?
+Answer : The  name of item 'P33159' was 'Garden Hose - 50ft'.
+Question : What is the SKU of item 'Garden Hose - 50ft'?
+Answer : The  SKU of item 'Garden Hose - 50ft' was 'P33159'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-25'.
+Question : What is the email address of the customer with ID 'CUST41768'?
+Answer : The  email address of the customer with ID 'CUST41768' was 'Agnese.Anastatius@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 13.
+Question : What is the total price of all 'Garden Hose - 50ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Garden Hose - 50ft' items ordered in the sales order with ID 'ODR50574929' was $443.394.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $64.02.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $749.03.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Garden Hose - 50ft' with a price of $73.899.

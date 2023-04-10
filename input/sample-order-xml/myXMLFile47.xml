@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-17" >
+      <Customer id="CUST67489"
+  firstname="Kayla"
+  lastname="Vanni"
+  email="Kayla.Vanni@example.com"
+  />        <Seller id="EMP93842"
+  firstname="Lacie"
+  lastname="Nisbet"
+  email="Lacie.Nisbet@examplecompany.com"
+  />      <Items><Item><SKU>P67717</SKU><Description>LED Light Bulb - 60W</Description><Quantity>3</Quantity><Price>5.46</Price></Item><Item><SKU>P56390</SKU><Description>Jigsaw - Cordless</Description><Quantity>10</Quantity><Price>12.38</Price></Item><Item><SKU>P11839</SKU><Description>Nail Gun - Electric</Description><Quantity>6</Quantity><Price>54.64</Price></Item><Item><SKU>P88753</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>2</Quantity><Price>18.03</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,8 @@
+<Order id="ODR96031425" date="2021-07-11">
+      
+      <Customer id="CUST4648" firstname="Morganica" lastname="Bearnard" email="Morganica.Bearnard@example.com" />
+        <Seller id="EMP91449" firstname="Maud" lastname="Brittani" email="Maud.Brittani@company.com" />
+      <Items>
+        <Item><SKU>P34399</SKU><Description>Garden Hose - 50ft</Description><Quantity>1</Quantity><Price>66.47</Price></Item><Item><SKU>P60857</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>80.68</Price></Item><Item><SKU>P44344</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>3</Quantity><Price>34.04</Price></Item>
+      </Items>
+    <TotalPrice>66.47</TotalPrice><TotalPrice>469.87</TotalPrice><TotalPrice>571.99</TotalPrice></Order>

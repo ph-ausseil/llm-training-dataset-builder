@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-26" >
+      <Customer id="CUST57037"
+  firstname="Ashlee"
+  lastname="Leifeste"
+  email="Ashlee.Leifeste@example.com"
+  />        <Seller id="EMP83809"
+  firstname="Lory"
+  lastname="Georgy"
+  email="Lory.Georgy@examplecompany.com"
+  />      <Items><Item><SKU>P67133</SKU><Description>Hacksaw - 12 inch</Description><Quantity>9</Quantity><Price>34.56</Price></Item><Item><SKU>P83884</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>9.15</Price></Item><Item><SKU>P31663</SKU><Description>Stud Finder - Digital</Description><Quantity>1</Quantity><Price>82.33</Price></Item><Item><SKU>P62223</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>8</Quantity><Price>67.17</Price></Item>
+      </Items>
+    </Order>

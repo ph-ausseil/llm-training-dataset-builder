@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-28" >
+      <Customer id="CUST92178"
+  firstname="Amii"
+  lastname="Amethist"
+  email="Amii.Amethist@example.com"
+  />        <Seller id="EMP83935"
+  firstname="Rori"
+  lastname="Kosey"
+  email="Rori.Kosey@examplecompany.com"
+  />      <Items><Item><SKU>P55657</SKU><Description>Hammer - 16 oz</Description><Quantity>7</Quantity><Price>8.89</Price></Item><Item><SKU>P46030</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>6</Quantity><Price>54.91</Price></Item><Item><SKU>P20121</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>10</Quantity><Price>39.33</Price></Item><Item><SKU>P77567</SKU><Description>Work Gloves - Leather</Description><Quantity>4</Quantity><Price>71.07</Price></Item>
+      </Items>
+    </Order>

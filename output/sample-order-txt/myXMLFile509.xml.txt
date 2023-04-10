@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1076.23.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Beverley Honoria.
+Question : What is the cost of item 'P37543'?
+Answer : The  cost of item 'P37543' was $616.37.
+Question : What is the name of item 'P37543'?
+Answer : The  name of item 'P37543' was 'Safety Goggles - Clear'.
+Question : What is the SKU of item 'Safety Goggles - Clear'?
+Answer : The  SKU of item 'Safety Goggles - Clear' was 'P37543'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-12-25'.
+Question : What is the email address of the customer with ID 'CUST63881'?
+Answer : The  email address of the customer with ID 'CUST63881' was 'Antonietta.Firmin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Safety Goggles - Clear' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Safety Goggles - Clear' items ordered in the sales order with ID 'ODR50574929' was $616.374.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $67.26.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $968.61.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $93.676.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1076.23.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Beverley Honoria.
+Question : What is the cost of item 'P87047'?
+Answer : The  cost of item 'P87047' was $374.7.
+Question : What is the name of item 'P87047'?
+Answer : The  name of item 'P87047' was 'Wrench Set - 10 pieces'.
+Question : What is the SKU of item 'Wrench Set - 10 pieces'?
+Answer : The  SKU of item 'Wrench Set - 10 pieces' was 'P87047'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-12-25'.
+Question : What is the email address of the customer with ID 'CUST63881'?
+Answer : The  email address of the customer with ID 'CUST63881' was 'Antonietta.Firmin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929' was $374.704.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $67.26.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $968.61.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $93.676.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1076.23.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Beverley Honoria.
+Question : What is the cost of item 'P65232'?
+Answer : The  cost of item 'P65232' was $73.62.
+Question : What is the name of item 'P65232'?
+Answer : The  name of item 'P65232' was 'Level - 24 inch'.
+Question : What is the SKU of item 'Level - 24 inch'?
+Answer : The  SKU of item 'Level - 24 inch' was 'P65232'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-12-25'.
+Question : What is the email address of the customer with ID 'CUST63881'?
+Answer : The  email address of the customer with ID 'CUST63881' was 'Antonietta.Firmin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929' was $73.62300000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $67.26.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $968.61.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $93.676.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1076.23.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Beverley Honoria.
+Question : What is the cost of item 'P17878'?
+Answer : The  cost of item 'P17878' was $11.53.
+Question : What is the name of item 'P17878'?
+Answer : The  name of item 'P17878' was 'Jigsaw - Cordless'.
+Question : What is the SKU of item 'Jigsaw - Cordless'?
+Answer : The  SKU of item 'Jigsaw - Cordless' was 'P17878'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-12-25'.
+Question : What is the email address of the customer with ID 'CUST63881'?
+Answer : The  email address of the customer with ID 'CUST63881' was 'Antonietta.Firmin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929' was $11.528000000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $67.26.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $968.61.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $93.676.

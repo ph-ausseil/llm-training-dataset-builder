@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-07-15" >
+      <Customer id="CUST44394"
+  firstname="Karlee"
+  lastname="Amand"
+  email="Karlee.Amand@example.com"
+  />        <Seller id="EMP46272"
+  firstname="Lanna"
+  lastname="Pyle"
+  email="Lanna.Pyle@examplecompany.com"
+  />      <Items><Item><SKU>P30975</SKU><Description>Level - 24 inch</Description><Quantity>1</Quantity><Price>73.21</Price></Item><Item><SKU>P42558</SKU><Description>Tool Box - 19 inch</Description><Quantity>6</Quantity><Price>49.27</Price></Item><Item><SKU>P47429</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>2</Quantity><Price>73.71</Price></Item><Item><SKU>P67025</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>3</Quantity><Price>44.6</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,8 @@
+<Order id="ODR25977829" date="2022-08-27">
+      
+      <Customer id="CUST72054" firstname="Oralee" lastname="Bury" email="Oralee.Bury@example.com" />
+        <Seller id="EMP487" firstname="Rani" lastname="Joni" email="Rani.Joni@company.com" />
+      <Items>
+        <Item><SKU>P61815</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>1</Quantity><Price>49.79</Price></Item><Item><SKU>P41458</SKU><Description>Garden Hose - 50ft</Description><Quantity>2</Quantity><Price>40.87</Price></Item><Item><SKU>P88666</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>4</Quantity><Price>85.15</Price></Item>
+      </Items>
+    <TotalPrice>49.79</TotalPrice><TotalPrice>131.53</TotalPrice><TotalPrice>472.13</TotalPrice></Order>

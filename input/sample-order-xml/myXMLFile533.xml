@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-12-25" >
+      <Customer id="CUST54596"
+  firstname="Paola"
+  lastname="Alcott"
+  email="Paola.Alcott@example.com"
+  />        <Seller id="EMP12929"
+  firstname="Glynnis"
+  lastname="Justinn"
+  email="Glynnis.Justinn@examplecompany.com"
+  />      <Items><Item><SKU>P76406</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>2</Quantity><Price>23.36</Price></Item><Item><SKU>P36838</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>6</Quantity><Price>59.5</Price></Item><Item><SKU>P39809</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>1</Quantity><Price>22.22</Price></Item><Item><SKU>P38199</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>9</Quantity><Price>31.65</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-14" >
+      <Customer id="CUST40904"
+  firstname="Melina"
+  lastname="Andrel"
+  email="Melina.Andrel@example.com"
+  />        <Seller id="EMP66555"
+  firstname="Minda"
+  lastname="Morgun"
+  email="Minda.Morgun@examplecompany.com"
+  />      <Items><Item><SKU>P76970</SKU><Description>Power Drill - 18V</Description><Quantity>10</Quantity><Price>69.88</Price></Item><Item><SKU>P49216</SKU><Description>Jigsaw - Cordless</Description><Quantity>6</Quantity><Price>88.95</Price></Item><Item><SKU>P52800</SKU><Description>Stud Finder - Digital</Description><Quantity>10</Quantity><Price>63.61</Price></Item><Item><SKU>P38002</SKU><Description>Utility Knife - Retractable</Description><Quantity>1</Quantity><Price>87.1</Price></Item>
+      </Items>
+    </Order>

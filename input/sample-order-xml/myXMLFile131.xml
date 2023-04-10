@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-12-28" >
+      <Customer id="CUST18439"
+  firstname="Lila"
+  lastname="Iaverne"
+  email="Lila.Iaverne@example.com"
+  />        <Seller id="EMP94585"
+  firstname="Lucille"
+  lastname="Lipson"
+  email="Lucille.Lipson@examplecompany.com"
+  />      <Items><Item><SKU>P85549</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>7</Quantity><Price>89.25</Price></Item><Item><SKU>P42478</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>3</Quantity><Price>89.9</Price></Item><Item><SKU>P25046</SKU><Description>LED Light Bulb - 60W</Description><Quantity>10</Quantity><Price>63.03</Price></Item><Item><SKU>P85539</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>34.08</Price></Item>
+      </Items>
+    </Order>

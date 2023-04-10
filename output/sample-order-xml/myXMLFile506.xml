@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-09-18">
+  
+      
+  <Customer id="CUST87375" firstname="Selma" lastname="Schlosser" email="Selma.Schlosser@example.com"/>
+          
+  <Seller id="EMP45016" firstname="Ottilie" lastname="Herrera" email="Ottilie.Herrera@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>4</Quantity>
+      <Price>65.373</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>2</Quantity>
+      <Price>6.909000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P77259</SKU>
+      <Description>Wire Stripper - 8 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>8.904000000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P47249</SKU>
+      <Description>Wooden Ladder - 8 ft</Description>
+      <Quantity>4</Quantity>
+      <Price>52.92</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>531.51</TotalPrice>
+</Order>

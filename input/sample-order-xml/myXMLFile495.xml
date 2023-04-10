@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-13" >
+      <Customer id="CUST63591"
+  firstname="Xylina"
+  lastname="Maroney"
+  email="Xylina.Maroney@example.com"
+  />        <Seller id="EMP99914"
+  firstname="Mignon"
+  lastname="Strephon"
+  email="Mignon.Strephon@examplecompany.com"
+  />      <Items><Item><SKU>P60713</SKU><Description>Power Drill - 18V</Description><Quantity>1</Quantity><Price>27.71</Price></Item><Item><SKU>P68279</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>8</Quantity><Price>44.94</Price></Item><Item><SKU>P28316</SKU><Description>Hacksaw - 12 inch</Description><Quantity>3</Quantity><Price>89.87</Price></Item><Item><SKU>P94477</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>4</Quantity><Price>85.78</Price></Item>
+      </Items>
+    </Order>

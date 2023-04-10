@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-25" >
+      <Customer id="CUST75302"
+  firstname="Joy"
+  lastname="Miru"
+  email="Joy.Miru@example.com"
+  />        <Seller id="EMP44242"
+  firstname="Gabriellia"
+  lastname="Ball"
+  email="Gabriellia.Ball@examplecompany.com"
+  />      <Items><Item><SKU>P27072</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>9</Quantity><Price>30.59</Price></Item><Item><SKU>P95021</SKU><Description>Tape Measure - 25 ft</Description><Quantity>5</Quantity><Price>5.3</Price></Item><Item><SKU>P98631</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>8</Quantity><Price>37.95</Price></Item><Item><SKU>P90933</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>7</Quantity><Price>52.73</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $2043.11.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Micheline Elisha.
+Question : What is the cost of item 'P19253'?
+Answer : The  cost of item 'P19253' was $694.53.
+Question : What is the name of item 'P19253'?
+Answer : The  name of item 'P19253' was 'Outdoor Lantern - Solar Powered'.
+Question : What is the SKU of item 'Outdoor Lantern - Solar Powered'?
+Answer : The  SKU of item 'Outdoor Lantern - Solar Powered' was 'P19253'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-23'.
+Question : What is the email address of the customer with ID 'CUST92615'?
+Answer : The  email address of the customer with ID 'CUST92615' was 'Alyssa.Carmena@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929' was $694.53.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $75.67.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1838.8.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $2043.11.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Micheline Elisha.
+Question : What is the cost of item 'P35922'?
+Answer : The  cost of item 'P35922' was $288.72.
+Question : What is the name of item 'P35922'?
+Answer : The  name of item 'P35922' was 'Chisel Set - 4 pieces'.
+Question : What is the SKU of item 'Chisel Set - 4 pieces'?
+Answer : The  SKU of item 'Chisel Set - 4 pieces' was 'P35922'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-23'.
+Question : What is the email address of the customer with ID 'CUST92615'?
+Answer : The  email address of the customer with ID 'CUST92615' was 'Alyssa.Carmena@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Chisel Set - 4 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Chisel Set - 4 pieces' items ordered in the sales order with ID 'ODR50574929' was $288.72.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $75.67.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1838.8.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $2043.11.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Micheline Elisha.
+Question : What is the cost of item 'P53084'?
+Answer : The  cost of item 'P53084' was $149.96.
+Question : What is the name of item 'P53084'?
+Answer : The  name of item 'P53084' was 'Cordless Circular Saw - 6.5 inch'.
+Question : What is the SKU of item 'Cordless Circular Saw - 6.5 inch'?
+Answer : The  SKU of item 'Cordless Circular Saw - 6.5 inch' was 'P53084'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-23'.
+Question : What is the email address of the customer with ID 'CUST92615'?
+Answer : The  email address of the customer with ID 'CUST92615' was 'Alyssa.Carmena@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Cordless Circular Saw - 6.5 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Cordless Circular Saw - 6.5 inch' items ordered in the sales order with ID 'ODR50574929' was $149.96.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $75.67.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1838.8.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $2043.11.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Micheline Elisha.
+Question : What is the cost of item 'P12338'?
+Answer : The  cost of item 'P12338' was $909.9.
+Question : What is the name of item 'P12338'?
+Answer : The  name of item 'P12338' was 'Hammer - 16 oz'.
+Question : What is the SKU of item 'Hammer - 16 oz'?
+Answer : The  SKU of item 'Hammer - 16 oz' was 'P12338'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-23'.
+Question : What is the email address of the customer with ID 'CUST92615'?
+Answer : The  email address of the customer with ID 'CUST92615' was 'Alyssa.Carmena@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929' was $909.9.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $75.67.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1838.8.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.

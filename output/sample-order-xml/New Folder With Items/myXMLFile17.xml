@@ -1,0 +1,8 @@
+<Order id="ODR65891981" date="2022-02-16">
+      
+      <Customer id="CUST24873" firstname="Fawne" lastname="Tacye" email="Fawne.Tacye@example.com" />
+        <Seller id="EMP9952" firstname="Jacquetta" lastname="Trace" email="Jacquetta.Trace@company.com" />
+      <Items>
+        <Item><SKU>P52215</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>5</Quantity><Price>1.66</Price></Item><Item><SKU>P10884</SKU><Description>Miter Saw - 10 inch</Description><Quantity>2</Quantity><Price>28.67</Price></Item><Item><SKU>P53940</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>1</Quantity><Price>63.54</Price></Item>
+      </Items>
+    <TotalPrice>8.299999999999999</TotalPrice><TotalPrice>65.64</TotalPrice><TotalPrice>129.18</TotalPrice></Order>

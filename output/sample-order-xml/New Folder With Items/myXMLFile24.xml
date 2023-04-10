@@ -1,0 +1,8 @@
+<Order id="ODR6859074" date="2022-06-29">
+      
+      <Customer id="CUST65250" firstname="Johna" lastname="Lunsford" email="Johna.Lunsford@example.com" />
+        <Seller id="EMP37012" firstname="Aigneis" lastname="Duwalt" email="Aigneis.Duwalt@company.com" />
+      <Items>
+        <Item><SKU>P76471</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>1</Quantity><Price>19.59</Price></Item><Item><SKU>P72243</SKU><Description>Miter Saw - 10 inch</Description><Quantity>4</Quantity><Price>9.92</Price></Item><Item><SKU>P74195</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>3</Quantity><Price>9.76</Price></Item>
+      </Items>
+    <TotalPrice>19.59</TotalPrice><TotalPrice>59.269999999999996</TotalPrice><TotalPrice>88.55</TotalPrice></Order>

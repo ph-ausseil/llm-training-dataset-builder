@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-11" >
+      <Customer id="CUST52027"
+  firstname="Leontine"
+  lastname="Bryna"
+  email="Leontine.Bryna@example.com"
+  />        <Seller id="EMP84019"
+  firstname="Henriette"
+  lastname="Atonsah"
+  email="Henriette.Atonsah@examplecompany.com"
+  />      <Items><Item><SKU>P12739</SKU><Description>Socket Set - 40 pieces</Description><Quantity>6</Quantity><Price>24.34</Price></Item><Item><SKU>P61941</SKU><Description>Tape Measure - 25 ft</Description><Quantity>10</Quantity><Price>88.12</Price></Item><Item><SKU>P55798</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>9</Quantity><Price>67.12</Price></Item><Item><SKU>P67586</SKU><Description>Level - 24 inch</Description><Quantity>6</Quantity><Price>52.82</Price></Item>
+      </Items>
+    </Order>

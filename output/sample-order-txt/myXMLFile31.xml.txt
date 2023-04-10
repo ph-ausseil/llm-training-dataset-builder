@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1473.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mariann Bryna.
+Question : What is the cost of item 'P10753'?
+Answer : The  cost of item 'P10753' was $42.92.
+Question : What is the name of item 'P10753'?
+Answer : The  name of item 'P10753' was 'Work Gloves - Leather'.
+Question : What is the SKU of item 'Work Gloves - Leather'?
+Answer : The  SKU of item 'Work Gloves - Leather' was 'P10753'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-05-02'.
+Question : What is the email address of the customer with ID 'CUST93347'?
+Answer : The  email address of the customer with ID 'CUST93347' was 'Camile.Munn@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Work Gloves - Leather' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Work Gloves - Leather' items ordered in the sales order with ID 'ODR50574929' was $42.92400000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $77.56.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1326.28.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1473.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mariann Bryna.
+Question : What is the cost of item 'P65232'?
+Answer : The  cost of item 'P65232' was $281.11.
+Question : What is the name of item 'P65232'?
+Answer : The  name of item 'P65232' was 'Level - 24 inch'.
+Question : What is the SKU of item 'Level - 24 inch'?
+Answer : The  SKU of item 'Level - 24 inch' was 'P65232'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-05-02'.
+Question : What is the email address of the customer with ID 'CUST93347'?
+Answer : The  email address of the customer with ID 'CUST93347' was 'Camile.Munn@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929' was $281.10600000000005.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $77.56.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1326.28.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1473.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mariann Bryna.
+Question : What is the cost of item 'P28369'?
+Answer : The  cost of item 'P28369' was $862.99.
+Question : What is the name of item 'P28369'?
+Answer : The  name of item 'P28369' was 'Sandpaper - Assorted Grits'.
+Question : What is the SKU of item 'Sandpaper - Assorted Grits'?
+Answer : The  SKU of item 'Sandpaper - Assorted Grits' was 'P28369'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-05-02'.
+Question : What is the email address of the customer with ID 'CUST93347'?
+Answer : The  email address of the customer with ID 'CUST93347' was 'Camile.Munn@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Sandpaper - Assorted Grits' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Sandpaper - Assorted Grits' items ordered in the sales order with ID 'ODR50574929' was $862.9949999999999.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $77.56.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1326.28.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1473.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mariann Bryna.
+Question : What is the cost of item 'P12338'?
+Answer : The  cost of item 'P12338' was $286.62.
+Question : What is the name of item 'P12338'?
+Answer : The  name of item 'P12338' was 'Hammer - 16 oz'.
+Question : What is the SKU of item 'Hammer - 16 oz'?
+Answer : The  SKU of item 'Hammer - 16 oz' was 'P12338'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-05-02'.
+Question : What is the email address of the customer with ID 'CUST93347'?
+Answer : The  email address of the customer with ID 'CUST93347' was 'Camile.Munn@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929' was $286.61850000000004.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $77.56.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1326.28.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.

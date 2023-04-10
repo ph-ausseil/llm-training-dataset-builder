@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-12-07">
+  
+      
+  <Customer id="CUST87049" firstname="Paule" lastname="Seligman" email="Paule.Seligman@example.com"/>
+          
+  <Seller id="EMP24596" firstname="Yvonne" lastname="Wilkinson" email="Yvonne.Wilkinson@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>3</Quantity>
+      <Price>73.899</Price>
+    </Item>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>10</Quantity>
+      <Price>5.502000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>3</Quantity>
+      <Price>9.870000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>8</Quantity>
+      <Price>67.368</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>845.27</TotalPrice>
+</Order>

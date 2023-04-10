@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-18" >
+      <Customer id="CUST47228"
+  firstname="Beverley"
+  lastname="Suk"
+  email="Beverley.Suk@example.com"
+  />        <Seller id="EMP85068"
+  firstname="Mady"
+  lastname="Audly"
+  email="Mady.Audly@examplecompany.com"
+  />      <Items><Item><SKU>P67701</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>6</Quantity><Price>76.08</Price></Item><Item><SKU>P98079</SKU><Description>Safety Goggles - Clear</Description><Quantity>2</Quantity><Price>59.27</Price></Item><Item><SKU>P31685</SKU><Description>Hammer - 16 oz</Description><Quantity>5</Quantity><Price>35.24</Price></Item><Item><SKU>P86081</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>6</Quantity><Price>14.94</Price></Item>
+      </Items>
+    </Order>

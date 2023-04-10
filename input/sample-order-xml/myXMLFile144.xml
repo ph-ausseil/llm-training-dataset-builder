@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-18" >
+      <Customer id="CUST69685"
+  firstname="Violet"
+  lastname="Stilwell"
+  email="Violet.Stilwell@example.com"
+  />        <Seller id="EMP53228"
+  firstname="Annice"
+  lastname="Gavrila"
+  email="Annice.Gavrila@examplecompany.com"
+  />      <Items><Item><SKU>P81843</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>9</Quantity><Price>31.62</Price></Item><Item><SKU>P65877</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>4</Quantity><Price>38.82</Price></Item><Item><SKU>P45209</SKU><Description>Garden Hose - 50ft</Description><Quantity>9</Quantity><Price>87.15</Price></Item><Item><SKU>P90207</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>5</Quantity><Price>81.91</Price></Item>
+      </Items>
+    </Order>

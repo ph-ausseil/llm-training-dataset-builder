@@ -1,0 +1,76 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $198.62.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Sharai Catie.
+Question : What is the cost of item 'P90361'?
+Answer : The  cost of item 'P90361' was $97.99.
+Question : What is the name of item 'P90361'?
+Answer : The  name of item 'P90361' was 'Power Drill - 18V'.
+Question : What is the SKU of item 'Power Drill - 18V'?
+Answer : The  SKU of item 'Power Drill - 18V' was 'P90361'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-12-17'.
+Question : What is the email address of the customer with ID 'CUST43662'?
+Answer : The  email address of the customer with ID 'CUST43662' was 'Mariele.Beebe@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 8.
+Question : What is the total price of all 'Power Drill - 18V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Power Drill - 18V' items ordered in the sales order with ID 'ODR50574929' was $97.988.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $24.83.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $178.76.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Power Drill - 18V' with a price of $48.994.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $198.62.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Sharai Catie.
+Question : What is the cost of item 'P77259'?
+Answer : The  cost of item 'P77259' was $18.66.
+Question : What is the name of item 'P77259'?
+Answer : The  name of item 'P77259' was 'Wire Stripper - 8 inch'.
+Question : What is the SKU of item 'Wire Stripper - 8 inch'?
+Answer : The  SKU of item 'Wire Stripper - 8 inch' was 'P77259'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-12-17'.
+Question : What is the email address of the customer with ID 'CUST43662'?
+Answer : The  email address of the customer with ID 'CUST43662' was 'Mariele.Beebe@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 8.
+Question : What is the total price of all 'Wire Stripper - 8 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wire Stripper - 8 inch' items ordered in the sales order with ID 'ODR50574929' was $18.656000000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $24.83.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $178.76.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Power Drill - 18V' with a price of $48.994.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $198.62.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Sharai Catie.
+Question : What is the cost of item 'P17627'?
+Answer : The  cost of item 'P17627' was $81.97.
+Question : What is the name of item 'P17627'?
+Answer : The  name of item 'P17627' was 'Caulking Gun - Heavy Duty'.
+Question : What is the SKU of item 'Caulking Gun - Heavy Duty'?
+Answer : The  SKU of item 'Caulking Gun - Heavy Duty' was 'P17627'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-12-17'.
+Question : What is the email address of the customer with ID 'CUST43662'?
+Answer : The  email address of the customer with ID 'CUST43662' was 'Mariele.Beebe@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 8.
+Question : What is the total price of all 'Caulking Gun - Heavy Duty' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Caulking Gun - Heavy Duty' items ordered in the sales order with ID 'ODR50574929' was $81.97200000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $24.83.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $178.76.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Power Drill - 18V' with a price of $48.994.

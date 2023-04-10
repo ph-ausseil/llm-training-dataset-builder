@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1405.97.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Gwenneth Sheng.
+Question : What is the cost of item 'P12338'?
+Answer : The  cost of item 'P12338' was $859.86.
+Question : What is the name of item 'P12338'?
+Answer : The  name of item 'P12338' was 'Hammer - 16 oz'.
+Question : What is the SKU of item 'Hammer - 16 oz'?
+Answer : The  SKU of item 'Hammer - 16 oz' was 'P12338'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-23'.
+Question : What is the email address of the customer with ID 'CUST29461'?
+Answer : The  email address of the customer with ID 'CUST29461' was 'Annecorinne.Thornburg@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929' was $859.8555.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $56.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1265.37.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1405.97.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Gwenneth Sheng.
+Question : What is the cost of item 'P90361'?
+Answer : The  cost of item 'P90361' was $467.67.
+Question : What is the name of item 'P90361'?
+Answer : The  name of item 'P90361' was 'Power Drill - 18V'.
+Question : What is the SKU of item 'Power Drill - 18V'?
+Answer : The  SKU of item 'Power Drill - 18V' was 'P90361'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-23'.
+Question : What is the email address of the customer with ID 'CUST29461'?
+Answer : The  email address of the customer with ID 'CUST29461' was 'Annecorinne.Thornburg@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Power Drill - 18V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Power Drill - 18V' items ordered in the sales order with ID 'ODR50574929' was $467.67.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $56.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1265.37.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1405.97.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Gwenneth Sheng.
+Question : What is the cost of item 'P13379'?
+Answer : The  cost of item 'P13379' was $34.55.
+Question : What is the name of item 'P13379'?
+Answer : The  name of item 'P13379' was 'Measuring Tape - 16 ft'.
+Question : What is the SKU of item 'Measuring Tape - 16 ft'?
+Answer : The  SKU of item 'Measuring Tape - 16 ft' was 'P13379'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-23'.
+Question : What is the email address of the customer with ID 'CUST29461'?
+Answer : The  email address of the customer with ID 'CUST29461' was 'Annecorinne.Thornburg@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Measuring Tape - 16 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Measuring Tape - 16 ft' items ordered in the sales order with ID 'ODR50574929' was $34.545.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $56.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1265.37.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1405.97.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Gwenneth Sheng.
+Question : What is the cost of item 'P85960'?
+Answer : The  cost of item 'P85960' was $43.9.
+Question : What is the name of item 'P85960'?
+Answer : The  name of item 'P85960' was 'LED Light Bulb - 60W'.
+Question : What is the SKU of item 'LED Light Bulb - 60W'?
+Answer : The  SKU of item 'LED Light Bulb - 60W' was 'P85960'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-23'.
+Question : What is the email address of the customer with ID 'CUST29461'?
+Answer : The  email address of the customer with ID 'CUST29461' was 'Annecorinne.Thornburg@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929' was $43.9005.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $56.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1265.37.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.

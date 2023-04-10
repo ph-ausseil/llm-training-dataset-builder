@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-08" >
+      <Customer id="CUST48425"
+  firstname="Melanie"
+  lastname="Ashok"
+  email="Melanie.Ashok@example.com"
+  />        <Seller id="EMP50871"
+  firstname="Aimil"
+  lastname="Alrich"
+  email="Aimil.Alrich@examplecompany.com"
+  />      <Items><Item><SKU>P86581</SKU><Description>Socket Set - 40 pieces</Description><Quantity>1</Quantity><Price>65.56</Price></Item><Item><SKU>P55634</SKU><Description>Stud Finder - Digital</Description><Quantity>1</Quantity><Price>60.24</Price></Item><Item><SKU>P72659</SKU><Description>Hacksaw - 12 inch</Description><Quantity>7</Quantity><Price>5.79</Price></Item><Item><SKU>P52596</SKU><Description>LED Light Bulb - 60W</Description><Quantity>8</Quantity><Price>81.22</Price></Item>
+      </Items>
+    </Order>

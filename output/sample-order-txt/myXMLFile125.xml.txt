@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1029.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Corina Judye.
+Question : What is the cost of item 'P77259'?
+Answer : The  cost of item 'P77259' was $65.3.
+Question : What is the name of item 'P77259'?
+Answer : The  name of item 'P77259' was 'Wire Stripper - 8 inch'.
+Question : What is the SKU of item 'Wire Stripper - 8 inch'?
+Answer : The  SKU of item 'Wire Stripper - 8 inch' was 'P77259'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-16'.
+Question : What is the email address of the customer with ID 'CUST32165'?
+Answer : The  email address of the customer with ID 'CUST32165' was 'Molli.Philipp@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Wire Stripper - 8 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wire Stripper - 8 inch' items ordered in the sales order with ID 'ODR50574929' was $65.296.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.2.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $926.68.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $98.56.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1029.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Corina Judye.
+Question : What is the cost of item 'P66553'?
+Answer : The  cost of item 'P66553' was $191.22.
+Question : What is the name of item 'P66553'?
+Answer : The  name of item 'P66553' was 'Screwdriver Set - 6 pieces'.
+Question : What is the SKU of item 'Screwdriver Set - 6 pieces'?
+Answer : The  SKU of item 'Screwdriver Set - 6 pieces' was 'P66553'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-16'.
+Question : What is the email address of the customer with ID 'CUST32165'?
+Answer : The  email address of the customer with ID 'CUST32165' was 'Molli.Philipp@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Screwdriver Set - 6 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Screwdriver Set - 6 pieces' items ordered in the sales order with ID 'ODR50574929' was $191.22400000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.2.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $926.68.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $98.56.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1029.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Corina Judye.
+Question : What is the cost of item 'P57547'?
+Answer : The  cost of item 'P57547' was $689.92.
+Question : What is the name of item 'P57547'?
+Answer : The  name of item 'P57547' was 'Cordless Leaf Blower - 20V'.
+Question : What is the SKU of item 'Cordless Leaf Blower - 20V'?
+Answer : The  SKU of item 'Cordless Leaf Blower - 20V' was 'P57547'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-16'.
+Question : What is the email address of the customer with ID 'CUST32165'?
+Answer : The  email address of the customer with ID 'CUST32165' was 'Molli.Philipp@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Cordless Leaf Blower - 20V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Cordless Leaf Blower - 20V' items ordered in the sales order with ID 'ODR50574929' was $689.9200000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.2.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $926.68.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $98.56.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1029.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Corina Judye.
+Question : What is the cost of item 'P85138'?
+Answer : The  cost of item 'P85138' was $83.2.
+Question : What is the name of item 'P85138'?
+Answer : The  name of item 'P85138' was 'Tarp - 12x16 ft'.
+Question : What is the SKU of item 'Tarp - 12x16 ft'?
+Answer : The  SKU of item 'Tarp - 12x16 ft' was 'P85138'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-16'.
+Question : What is the email address of the customer with ID 'CUST32165'?
+Answer : The  email address of the customer with ID 'CUST32165' was 'Molli.Philipp@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Tarp - 12x16 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tarp - 12x16 ft' items ordered in the sales order with ID 'ODR50574929' was $83.20400000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.2.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $926.68.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $98.56.

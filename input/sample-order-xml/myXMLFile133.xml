@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-25" >
+      <Customer id="CUST26082"
+  firstname="Atlanta"
+  lastname="Teryn"
+  email="Atlanta.Teryn@example.com"
+  />        <Seller id="EMP92495"
+  firstname="Aurore"
+  lastname="Kazimir"
+  email="Aurore.Kazimir@examplecompany.com"
+  />      <Items><Item><SKU>P21862</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>4</Quantity><Price>67.02</Price></Item><Item><SKU>P95309</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>3</Quantity><Price>32.38</Price></Item><Item><SKU>P19708</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>8</Quantity><Price>68.29</Price></Item><Item><SKU>P10587</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>6</Quantity><Price>74.93</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-02-13" >
+      <Customer id="CUST29426"
+  firstname="Bernardine"
+  lastname="Borrell"
+  email="Bernardine.Borrell@example.com"
+  />        <Seller id="EMP34859"
+  firstname="Vita"
+  lastname="Gladstone"
+  email="Vita.Gladstone@examplecompany.com"
+  />      <Items><Item><SKU>P66553</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>10</Quantity><Price>86.92</Price></Item><Item><SKU>P65232</SKU><Description>Level - 24 inch</Description><Quantity>9</Quantity><Price>66.93</Price></Item><Item><SKU>P60272</SKU><Description>Socket Set - 40 pieces</Description><Quantity>10</Quantity><Price>9.4</Price></Item><Item><SKU>P53084</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>6</Quantity><Price>37.49</Price></Item>
+      </Items>
+    </Order>

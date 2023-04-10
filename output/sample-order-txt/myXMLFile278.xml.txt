@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1411.68.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Amara Maribeth.
+Question : What is the cost of item 'P90277'?
+Answer : The  cost of item 'P90277' was $202.19.
+Question : What is the name of item 'P90277'?
+Answer : The  name of item 'P90277' was 'Bolt Cutter - 24 inch'.
+Question : What is the SKU of item 'Bolt Cutter - 24 inch'?
+Answer : The  SKU of item 'Bolt Cutter - 24 inch' was 'P90277'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-08-11'.
+Question : What is the email address of the customer with ID 'CUST62510'?
+Answer : The  email address of the customer with ID 'CUST62510' was 'Ann-Marie.Anestassia@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 22.
+Question : What is the total price of all 'Bolt Cutter - 24 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Bolt Cutter - 24 inch' items ordered in the sales order with ID 'ODR50574929' was $202.18800000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $64.17.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1270.51.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $75.411.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1411.68.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Amara Maribeth.
+Question : What is the cost of item 'P32122'?
+Answer : The  cost of item 'P32122' was $673.68.
+Question : What is the name of item 'P32122'?
+Answer : The  name of item 'P32122' was 'Pliers Set - 3 pieces'.
+Question : What is the SKU of item 'Pliers Set - 3 pieces'?
+Answer : The  SKU of item 'Pliers Set - 3 pieces' was 'P32122'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-08-11'.
+Question : What is the email address of the customer with ID 'CUST62510'?
+Answer : The  email address of the customer with ID 'CUST62510' was 'Ann-Marie.Anestassia@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 22.
+Question : What is the total price of all 'Pliers Set - 3 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Pliers Set - 3 pieces' items ordered in the sales order with ID 'ODR50574929' was $673.68.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $64.17.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1270.51.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $75.411.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1411.68.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Amara Maribeth.
+Question : What is the cost of item 'P47249'?
+Answer : The  cost of item 'P47249' was $158.76.
+Question : What is the name of item 'P47249'?
+Answer : The  name of item 'P47249' was 'Wooden Ladder - 8 ft'.
+Question : What is the SKU of item 'Wooden Ladder - 8 ft'?
+Answer : The  SKU of item 'Wooden Ladder - 8 ft' was 'P47249'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-08-11'.
+Question : What is the email address of the customer with ID 'CUST62510'?
+Answer : The  email address of the customer with ID 'CUST62510' was 'Ann-Marie.Anestassia@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 22.
+Question : What is the total price of all 'Wooden Ladder - 8 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wooden Ladder - 8 ft' items ordered in the sales order with ID 'ODR50574929' was $158.76.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $64.17.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1270.51.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $75.411.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1411.68.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Amara Maribeth.
+Question : What is the cost of item 'P88497'?
+Answer : The  cost of item 'P88497' was $377.06.
+Question : What is the name of item 'P88497'?
+Answer : The  name of item 'P88497' was 'Adjustable Wrench - 12 inch'.
+Question : What is the SKU of item 'Adjustable Wrench - 12 inch'?
+Answer : The  SKU of item 'Adjustable Wrench - 12 inch' was 'P88497'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-08-11'.
+Question : What is the email address of the customer with ID 'CUST62510'?
+Answer : The  email address of the customer with ID 'CUST62510' was 'Ann-Marie.Anestassia@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 22.
+Question : What is the total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929' was $377.055.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $64.17.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1270.51.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $75.411.

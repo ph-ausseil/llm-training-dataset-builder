@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-23" >
+      <Customer id="CUST49035"
+  firstname="Elka"
+  lastname="Ursulette"
+  email="Elka.Ursulette@example.com"
+  />        <Seller id="EMP93774"
+  firstname="Luci"
+  lastname="Klotz"
+  email="Luci.Klotz@examplecompany.com"
+  />      <Items><Item><SKU>P71241</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>8</Quantity><Price>35.2</Price></Item><Item><SKU>P19107</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>1</Quantity><Price>71.44</Price></Item><Item><SKU>P67275</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>6</Quantity><Price>30.61</Price></Item><Item><SKU>P17257</SKU><Description>Tape Measure - 25 ft</Description><Quantity>4</Quantity><Price>60.26</Price></Item>
+      </Items>
+    </Order>

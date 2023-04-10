@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-27" >
+      <Customer id="CUST97256"
+  firstname="Corry"
+  lastname="Calhoun"
+  email="Corry.Calhoun@example.com"
+  />        <Seller id="EMP44085"
+  firstname="Sabina"
+  lastname="Ambrosia"
+  email="Sabina.Ambrosia@examplecompany.com"
+  />      <Items><Item><SKU>P42647</SKU><Description>Safety Goggles - Clear</Description><Quantity>2</Quantity><Price>9.09</Price></Item><Item><SKU>P28849</SKU><Description>Power Drill - 18V</Description><Quantity>4</Quantity><Price>42.84</Price></Item><Item><SKU>P50961</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>1</Quantity><Price>80.66</Price></Item><Item><SKU>P81485</SKU><Description>Garden Hose - 50ft</Description><Quantity>4</Quantity><Price>83.18</Price></Item>
+      </Items>
+    </Order>

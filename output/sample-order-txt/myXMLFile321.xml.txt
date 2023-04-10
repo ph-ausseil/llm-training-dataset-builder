@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $840.12.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Chastity Ranjiv.
+Question : What is the cost of item 'P42816'?
+Answer : The  cost of item 'P42816' was $80.32.
+Question : What is the name of item 'P42816'?
+Answer : The  name of item 'P42816' was 'Paint Roller Kit - 9 inch'.
+Question : What is the SKU of item 'Paint Roller Kit - 9 inch'?
+Answer : The  SKU of item 'Paint Roller Kit - 9 inch' was 'P42816'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-15'.
+Question : What is the email address of the customer with ID 'CUST40211'?
+Answer : The  email address of the customer with ID 'CUST40211' was 'Candi.Eiser@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Paint Roller Kit - 9 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Paint Roller Kit - 9 inch' items ordered in the sales order with ID 'ODR50574929' was $80.32.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.51.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $756.11.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $840.12.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Chastity Ranjiv.
+Question : What is the cost of item 'P87047'?
+Answer : The  cost of item 'P87047' was $340.64.
+Question : What is the name of item 'P87047'?
+Answer : The  name of item 'P87047' was 'Wrench Set - 10 pieces'.
+Question : What is the SKU of item 'Wrench Set - 10 pieces'?
+Answer : The  SKU of item 'Wrench Set - 10 pieces' was 'P87047'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-15'.
+Question : What is the email address of the customer with ID 'CUST40211'?
+Answer : The  email address of the customer with ID 'CUST40211' was 'Candi.Eiser@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929' was $340.64.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.51.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $756.11.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $840.12.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Chastity Ranjiv.
+Question : What is the cost of item 'P91537'?
+Answer : The  cost of item 'P91537' was $116.6.
+Question : What is the name of item 'P91537'?
+Answer : The  name of item 'P91537' was 'Miter Saw - 10 inch'.
+Question : What is the SKU of item 'Miter Saw - 10 inch'?
+Answer : The  SKU of item 'Miter Saw - 10 inch' was 'P91537'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-15'.
+Question : What is the email address of the customer with ID 'CUST40211'?
+Answer : The  email address of the customer with ID 'CUST40211' was 'Candi.Eiser@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929' was $116.6.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.51.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $756.11.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $840.12.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Chastity Ranjiv.
+Question : What is the cost of item 'P85138'?
+Answer : The  cost of item 'P85138' was $302.56.
+Question : What is the name of item 'P85138'?
+Answer : The  name of item 'P85138' was 'Tarp - 12x16 ft'.
+Question : What is the SKU of item 'Tarp - 12x16 ft'?
+Answer : The  SKU of item 'Tarp - 12x16 ft' was 'P85138'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-15'.
+Question : What is the email address of the customer with ID 'CUST40211'?
+Answer : The  email address of the customer with ID 'CUST40211' was 'Candi.Eiser@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Tarp - 12x16 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tarp - 12x16 ft' items ordered in the sales order with ID 'ODR50574929' was $302.56.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.51.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $756.11.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-22" >
+      <Customer id="CUST77937"
+  firstname="Viviene"
+  lastname="Middleton"
+  email="Viviene.Middleton@example.com"
+  />        <Seller id="EMP11536"
+  firstname="Madeleine"
+  lastname="Peti"
+  email="Madeleine.Peti@examplecompany.com"
+  />      <Items><Item><SKU>P17506</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>6</Quantity><Price>42.39</Price></Item><Item><SKU>P30804</SKU><Description>Tool Box - 19 inch</Description><Quantity>1</Quantity><Price>55.96</Price></Item><Item><SKU>P53209</SKU><Description>Hand Saw - 12 inch</Description><Quantity>8</Quantity><Price>68.21</Price></Item><Item><SKU>P53117</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>1</Quantity><Price>17.36</Price></Item>
+      </Items>
+    </Order>

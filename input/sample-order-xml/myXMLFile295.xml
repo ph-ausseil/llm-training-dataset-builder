@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-07" >
+      <Customer id="CUST75537"
+  firstname="Dotty"
+  lastname="Claudine"
+  email="Dotty.Claudine@example.com"
+  />        <Seller id="EMP99013"
+  firstname="Fayre"
+  lastname="Mandler"
+  email="Fayre.Mandler@examplecompany.com"
+  />      <Items><Item><SKU>P48265</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>3</Quantity><Price>10.98</Price></Item><Item><SKU>P16815</SKU><Description>Tape Measure - 25 ft</Description><Quantity>3</Quantity><Price>89.11</Price></Item><Item><SKU>P79271</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>4</Quantity><Price>57.14</Price></Item><Item><SKU>P51308</SKU><Description>LED Light Bulb - 60W</Description><Quantity>8</Quantity><Price>41.93</Price></Item>
+      </Items>
+    </Order>

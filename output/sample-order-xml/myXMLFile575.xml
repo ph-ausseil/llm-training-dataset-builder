@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2023-02-18">
+  
+      
+  <Customer id="CUST47479" firstname="Madeleine" lastname="Taima" email="Madeleine.Taima@example.com"/>
+          
+  <Seller id="EMP85304" firstname="Basia" lastname="Wu" email="Basia.Wu@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>10</Quantity>
+      <Price>45.384</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>8</Quantity>
+      <Price>102.192</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>12</Quantity>
+      <Price>34.416</Price>
+    </Item>
+    <Item>
+      <SKU>P65232</SKU>
+      <Description>Level - 24 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>80.316</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>2085.95</TotalPrice>
+</Order>

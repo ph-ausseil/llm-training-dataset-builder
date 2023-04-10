@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-03-09" >
+      <Customer id="CUST91356"
+  firstname="Rochette"
+  lastname="Hachmin"
+  email="Rochette.Hachmin@example.com"
+  />        <Seller id="EMP38599"
+  firstname="Claudina"
+  lastname="Prober"
+  email="Claudina.Prober@examplecompany.com"
+  />      <Items><Item><SKU>P83428</SKU><Description>Power Drill - 18V</Description><Quantity>7</Quantity><Price>58.4</Price></Item><Item><SKU>P87895</SKU><Description>Tool Box - 19 inch</Description><Quantity>10</Quantity><Price>32.39</Price></Item><Item><SKU>P73589</SKU><Description>Workbench - Portable</Description><Quantity>9</Quantity><Price>16.38</Price></Item><Item><SKU>P52288</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>1</Quantity><Price>86.59</Price></Item>
+      </Items>
+    </Order>

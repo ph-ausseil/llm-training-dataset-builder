@@ -1,0 +1,8 @@
+<Order id="ODR25648196" date="2022-07-19">
+      
+      <Customer id="CUST5390" firstname="Rosabelle" lastname="Delp" email="Rosabelle.Delp@example.com" />
+        <Seller id="EMP71186" firstname="Roberta" lastname="Boycey" email="Roberta.Boycey@company.com" />
+      <Items>
+        <Item><SKU>P82253</SKU><Description>Garden Hose - 50ft</Description><Quantity>5</Quantity><Price>37.85</Price></Item><Item><SKU>P34077</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>2</Quantity><Price>42</Price></Item><Item><SKU>P42137</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>5</Quantity><Price>38.77</Price></Item>
+      </Items>
+    <TotalPrice>189.25</TotalPrice><TotalPrice>273.25</TotalPrice><TotalPrice>467.1</TotalPrice></Order>

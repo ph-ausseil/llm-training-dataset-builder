@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-06-07">
+  
+      
+  <Customer id="CUST25010" firstname="Hollie" lastname="Diogenes" email="Hollie.Diogenes@example.com"/>
+          
+  <Seller id="EMP51215" firstname="Meriel" lastname="Natalia" email="Meriel.Natalia@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>79.002</Price>
+    </Item>
+    <Item>
+      <SKU>P90277</SKU>
+      <Description>Bolt Cutter - 24 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>52.95400000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P72757</SKU>
+      <Description>Tape Measure - 25 ft</Description>
+      <Quantity>5</Quantity>
+      <Price>99.08800000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>10</Quantity>
+      <Price>79.39800000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>2529.98</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-03" >
+      <Customer id="CUST68717"
+  firstname="Bernie"
+  lastname="Poll"
+  email="Bernie.Poll@example.com"
+  />        <Seller id="EMP47631"
+  firstname="Ronna"
+  lastname="Raimondo"
+  email="Ronna.Raimondo@examplecompany.com"
+  />      <Items><Item><SKU>P81468</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>3</Quantity><Price>33</Price></Item><Item><SKU>P52585</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>3</Quantity><Price>67.96</Price></Item><Item><SKU>P59919</SKU><Description>Tool Box - 19 inch</Description><Quantity>6</Quantity><Price>75.64</Price></Item><Item><SKU>P88556</SKU><Description>Tarp - 12x16 ft</Description><Quantity>5</Quantity><Price>62.9</Price></Item>
+      </Items>
+    </Order>

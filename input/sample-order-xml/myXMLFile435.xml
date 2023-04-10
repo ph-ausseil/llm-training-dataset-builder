@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-07-15" >
+      <Customer id="CUST53055"
+  firstname="Albertina"
+  lastname="Gaynor"
+  email="Albertina.Gaynor@example.com"
+  />        <Seller id="EMP96404"
+  firstname="Halette"
+  lastname="Smitt"
+  email="Halette.Smitt@examplecompany.com"
+  />      <Items><Item><SKU>P12524</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>2</Quantity><Price>64.16</Price></Item><Item><SKU>P27745</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>2</Quantity><Price>59.27</Price></Item><Item><SKU>P82791</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>28.46</Price></Item><Item><SKU>P99971</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>7</Quantity><Price>65.54</Price></Item>
+      </Items>
+    </Order>

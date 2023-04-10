@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-03-12" >
+      <Customer id="CUST30304"
+  firstname="Kate"
+  lastname="Waldron"
+  email="Kate.Waldron@example.com"
+  />        <Seller id="EMP95545"
+  firstname="Candi"
+  lastname="Baptlsta"
+  email="Candi.Baptlsta@examplecompany.com"
+  />      <Items><Item><SKU>P99920</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>5</Quantity><Price>69.06</Price></Item><Item><SKU>P38119</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>20.92</Price></Item><Item><SKU>P18126</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>2</Quantity><Price>19.53</Price></Item><Item><SKU>P32576</SKU><Description>Power Drill - 18V</Description><Quantity>10</Quantity><Price>14.83</Price></Item>
+      </Items>
+    </Order>

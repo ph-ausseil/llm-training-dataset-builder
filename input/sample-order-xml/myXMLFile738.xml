@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-12-01" >
+      <Customer id="CUST41202"
+  firstname="Pierette"
+  lastname="Skell"
+  email="Pierette.Skell@example.com"
+  />        <Seller id="EMP32657"
+  firstname="Alyda"
+  lastname="Hebner"
+  email="Alyda.Hebner@examplecompany.com"
+  />      <Items><Item><SKU>P78468</SKU><Description>Tool Box - 19 inch</Description><Quantity>6</Quantity><Price>41.24</Price></Item><Item><SKU>P71122</SKU><Description>Power Drill - 18V</Description><Quantity>8</Quantity><Price>12.77</Price></Item><Item><SKU>P30160</SKU><Description>Safety Goggles - Clear</Description><Quantity>9</Quantity><Price>22.2</Price></Item><Item><SKU>P39489</SKU><Description>Stud Finder - Digital</Description><Quantity>10</Quantity><Price>45.75</Price></Item>
+      </Items>
+    </Order>

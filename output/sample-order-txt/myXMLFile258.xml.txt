@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1026.5.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Teriann Dermott.
+Question : What is the cost of item 'P79695'?
+Answer : The  cost of item 'P79695' was $153.43.
+Question : What is the name of item 'P79695'?
+Answer : The  name of item 'P79695' was 'Tile Cutter - Manual'.
+Question : What is the SKU of item 'Tile Cutter - Manual'?
+Answer : The  SKU of item 'Tile Cutter - Manual' was 'P79695'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-11-21'.
+Question : What is the email address of the customer with ID 'CUST59327'?
+Answer : The  email address of the customer with ID 'CUST59327' was 'Elfreda.Ricki@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929' was $153.42600000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.03.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $923.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $81.02850000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1026.5.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Teriann Dermott.
+Question : What is the cost of item 'P14831'?
+Answer : The  cost of item 'P14831' was $23.67.
+Question : What is the name of item 'P14831'?
+Answer : The  name of item 'P14831' was 'Workbench - Portable'.
+Question : What is the SKU of item 'Workbench - Portable'?
+Answer : The  SKU of item 'Workbench - Portable' was 'P14831'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-11-21'.
+Question : What is the email address of the customer with ID 'CUST59327'?
+Answer : The  email address of the customer with ID 'CUST59327' was 'Elfreda.Ricki@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Workbench - Portable' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Workbench - Portable' items ordered in the sales order with ID 'ODR50574929' was $23.667.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.03.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $923.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $81.02850000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1026.5.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Teriann Dermott.
+Question : What is the cost of item 'P19253'?
+Answer : The  cost of item 'P19253' was $810.29.
+Question : What is the name of item 'P19253'?
+Answer : The  name of item 'P19253' was 'Outdoor Lantern - Solar Powered'.
+Question : What is the SKU of item 'Outdoor Lantern - Solar Powered'?
+Answer : The  SKU of item 'Outdoor Lantern - Solar Powered' was 'P19253'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-11-21'.
+Question : What is the email address of the customer with ID 'CUST59327'?
+Answer : The  email address of the customer with ID 'CUST59327' was 'Elfreda.Ricki@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929' was $810.2850000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.03.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $923.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $81.02850000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1026.5.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Teriann Dermott.
+Question : What is the cost of item 'P17627'?
+Answer : The  cost of item 'P17627' was $39.12.
+Question : What is the name of item 'P17627'?
+Answer : The  name of item 'P17627' was 'Caulking Gun - Heavy Duty'.
+Question : What is the SKU of item 'Caulking Gun - Heavy Duty'?
+Answer : The  SKU of item 'Caulking Gun - Heavy Duty' was 'P17627'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-11-21'.
+Question : What is the email address of the customer with ID 'CUST59327'?
+Answer : The  email address of the customer with ID 'CUST59327' was 'Elfreda.Ricki@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Caulking Gun - Heavy Duty' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Caulking Gun - Heavy Duty' items ordered in the sales order with ID 'ODR50574929' was $39.123.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.03.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $923.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $81.02850000000001.

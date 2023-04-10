@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1782.19.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Loree Bonucci.
+Question : What is the cost of item 'P53084'?
+Answer : The  cost of item 'P53084' was $314.92.
+Question : What is the name of item 'P53084'?
+Answer : The  name of item 'P53084' was 'Cordless Circular Saw - 6.5 inch'.
+Question : What is the SKU of item 'Cordless Circular Saw - 6.5 inch'?
+Answer : The  SKU of item 'Cordless Circular Saw - 6.5 inch' was 'P53084'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-28'.
+Question : What is the email address of the customer with ID 'CUST63224'?
+Answer : The  email address of the customer with ID 'CUST63224' was 'Pearline.Joeann@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 28.
+Question : What is the total price of all 'Cordless Circular Saw - 6.5 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Cordless Circular Saw - 6.5 inch' items ordered in the sales order with ID 'ODR50574929' was $314.91600000000005.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.65.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1603.97.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1782.19.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Loree Bonucci.
+Question : What is the cost of item 'P56185'?
+Answer : The  cost of item 'P56185' was $755.83.
+Question : What is the name of item 'P56185'?
+Answer : The  name of item 'P56185' was 'Hacksaw - 12 inch'.
+Question : What is the SKU of item 'Hacksaw - 12 inch'?
+Answer : The  SKU of item 'Hacksaw - 12 inch' was 'P56185'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-28'.
+Question : What is the email address of the customer with ID 'CUST63224'?
+Answer : The  email address of the customer with ID 'CUST63224' was 'Pearline.Joeann@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 28.
+Question : What is the total price of all 'Hacksaw - 12 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hacksaw - 12 inch' items ordered in the sales order with ID 'ODR50574929' was $755.8320000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.65.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1603.97.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1782.19.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Loree Bonucci.
+Question : What is the cost of item 'P60272'?
+Answer : The  cost of item 'P60272' was $49.35.
+Question : What is the name of item 'P60272'?
+Answer : The  name of item 'P60272' was 'Socket Set - 40 pieces'.
+Question : What is the SKU of item 'Socket Set - 40 pieces'?
+Answer : The  SKU of item 'Socket Set - 40 pieces' was 'P60272'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-28'.
+Question : What is the email address of the customer with ID 'CUST63224'?
+Answer : The  email address of the customer with ID 'CUST63224' was 'Pearline.Joeann@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 28.
+Question : What is the total price of all 'Socket Set - 40 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Socket Set - 40 pieces' items ordered in the sales order with ID 'ODR50574929' was $49.35000000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.65.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1603.97.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1782.19.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Loree Bonucci.
+Question : What is the cost of item 'P72757'?
+Answer : The  cost of item 'P72757' was $662.09.
+Question : What is the name of item 'P72757'?
+Answer : The  name of item 'P72757' was 'Tape Measure - 25 ft'.
+Question : What is the SKU of item 'Tape Measure - 25 ft'?
+Answer : The  SKU of item 'Tape Measure - 25 ft' was 'P72757'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-28'.
+Question : What is the email address of the customer with ID 'CUST63224'?
+Answer : The  email address of the customer with ID 'CUST63224' was 'Pearline.Joeann@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 28.
+Question : What is the total price of all 'Tape Measure - 25 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tape Measure - 25 ft' items ordered in the sales order with ID 'ODR50574929' was $662.088.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.65.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1603.97.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.

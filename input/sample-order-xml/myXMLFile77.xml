@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-02-23" >
+      <Customer id="CUST66880"
+  firstname="Valeda"
+  lastname="Cullin"
+  email="Valeda.Cullin@example.com"
+  />        <Seller id="EMP82866"
+  firstname="Elyssa"
+  lastname="Zrike"
+  email="Elyssa.Zrike@examplecompany.com"
+  />      <Items><Item><SKU>P19959</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>6</Quantity><Price>12.79</Price></Item><Item><SKU>P22608</SKU><Description>Tool Box - 19 inch</Description><Quantity>9</Quantity><Price>50.28</Price></Item><Item><SKU>P97136</SKU><Description>Jigsaw - Cordless</Description><Quantity>1</Quantity><Price>34.75</Price></Item><Item><SKU>P79804</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>7</Quantity><Price>37.57</Price></Item>
+      </Items>
+    </Order>

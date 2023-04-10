@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-03-26">
+  
+      
+  <Customer id="CUST79334" firstname="Juliane" lastname="Katrine" email="Juliane.Katrine@example.com"/>
+          
+  <Seller id="EMP89760" firstname="Olwen" lastname="Firmin" email="Olwen.Firmin@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>41.239000000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P77259</SKU>
+      <Description>Wire Stripper - 8 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>9.328000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P65232</SKU>
+      <Description>Level - 24 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>73.62300000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>64.13</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1396.98</TotalPrice>
+</Order>

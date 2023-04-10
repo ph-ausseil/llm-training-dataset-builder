@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-24" >
+      <Customer id="CUST13832"
+  firstname="Isa"
+  lastname="Cath"
+  email="Isa.Cath@example.com"
+  />        <Seller id="EMP98723"
+  firstname="Gerianna"
+  lastname="Carmena"
+  email="Gerianna.Carmena@examplecompany.com"
+  />      <Items><Item><SKU>P56929</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>10</Quantity><Price>78.33</Price></Item><Item><SKU>P89340</SKU><Description>Jigsaw - Cordless</Description><Quantity>10</Quantity><Price>33.82</Price></Item><Item><SKU>P30642</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>6</Quantity><Price>32.06</Price></Item><Item><SKU>P91889</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>5</Quantity><Price>33.69</Price></Item>
+      </Items>
+    </Order>

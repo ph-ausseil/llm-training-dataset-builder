@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-08-14">
+  
+      
+  <Customer id="CUST69097" firstname="Merle" lastname="Colyer" email="Merle.Colyer@example.com"/>
+          
+  <Seller id="EMP11158" firstname="Mahalia" lastname="Flyn" email="Mahalia.Flyn@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>98.97800000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>93.676</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>41.239000000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>5</Quantity>
+      <Price>68.486</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1286.24</TotalPrice>
+</Order>

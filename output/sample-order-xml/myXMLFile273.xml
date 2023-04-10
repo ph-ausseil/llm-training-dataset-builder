@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-09-23">
+  
+      
+  <Customer id="CUST62419" firstname="Tybie" lastname="Dorine" email="Tybie.Dorine@example.com"/>
+          
+  <Seller id="EMP19018" firstname="Viviene" lastname="Vivle" email="Viviene.Vivle@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>10</Quantity>
+      <Price>93.676</Price>
+    </Item>
+    <Item>
+      <SKU>P43386</SKU>
+      <Description>Pipe Wrench - 14 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>83.44600000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>4</Quantity>
+      <Price>5.764000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>9</Quantity>
+      <Price>98.56</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>2597.87</TotalPrice>
+</Order>

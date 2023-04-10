@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-08-29">
+  
+      
+  <Customer id="CUST17939" firstname="Pamella" lastname="Christal" email="Pamella.Christal@example.com"/>
+          
+  <Seller id="EMP25381" firstname="Joelly" lastname="Sikorski" email="Joelly.Sikorski@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P73288</SKU>
+      <Description>Stud Finder - Digital</Description>
+      <Quantity>5</Quantity>
+      <Price>26.543000000000003</Price>
+    </Item>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>70.57600000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P43386</SKU>
+      <Description>Pipe Wrench - 14 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>83.44600000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>7</Quantity>
+      <Price>95.61200000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1918.76</TotalPrice>
+</Order>

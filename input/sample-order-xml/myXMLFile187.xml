@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-11" >
+      <Customer id="CUST17702"
+  firstname="Belva"
+  lastname="Vilma"
+  email="Belva.Vilma@example.com"
+  />        <Seller id="EMP66742"
+  firstname="Shel"
+  lastname="Harriman"
+  email="Shel.Harriman@examplecompany.com"
+  />      <Items><Item><SKU>P97030</SKU><Description>Work Gloves - Leather</Description><Quantity>9</Quantity><Price>88.98</Price></Item><Item><SKU>P84494</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>7</Quantity><Price>90.07</Price></Item><Item><SKU>P47348</SKU><Description>Utility Knife - Retractable</Description><Quantity>1</Quantity><Price>77.74</Price></Item><Item><SKU>P97507</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>9</Quantity><Price>59.54</Price></Item>
+      </Items>
+    </Order>

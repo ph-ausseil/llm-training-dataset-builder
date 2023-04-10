@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-16" >
+      <Customer id="CUST88845"
+  firstname="Adelle"
+  lastname="Marcellus"
+  email="Adelle.Marcellus@example.com"
+  />        <Seller id="EMP46110"
+  firstname="Hope"
+  lastname="Khorma"
+  email="Hope.Khorma@examplecompany.com"
+  />      <Items><Item><SKU>P23531</SKU><Description>Power Drill - 18V</Description><Quantity>1</Quantity><Price>61.85</Price></Item><Item><SKU>P40511</SKU><Description>Hand Saw - 12 inch</Description><Quantity>7</Quantity><Price>17.52</Price></Item><Item><SKU>P47120</SKU><Description>Power Drill - 18V</Description><Quantity>1</Quantity><Price>86.49</Price></Item><Item><SKU>P39164</SKU><Description>Tile Cutter - Manual</Description><Quantity>2</Quantity><Price>42.02</Price></Item>
+      </Items>
+    </Order>

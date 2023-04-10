@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1054.28.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Eolanda Anastatius.
+Question : What is the cost of item 'P88497'?
+Answer : The  cost of item 'P88497' was $359.1.
+Question : What is the name of item 'P88497'?
+Answer : The  name of item 'P88497' was 'Adjustable Wrench - 12 inch'.
+Question : What is the SKU of item 'Adjustable Wrench - 12 inch'?
+Answer : The  SKU of item 'Adjustable Wrench - 12 inch' was 'P88497'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-06'.
+Question : What is the email address of the customer with ID 'CUST49785'?
+Answer : The  email address of the customer with ID 'CUST49785' was 'Dagmar.Parette@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929' was $359.09999999999997.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $55.49.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $948.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $77.17.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1054.28.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Eolanda Anastatius.
+Question : What is the cost of item 'P90361'?
+Answer : The  cost of item 'P90361' was $267.24.
+Question : What is the name of item 'P90361'?
+Answer : The  name of item 'P90361' was 'Power Drill - 18V'.
+Question : What is the SKU of item 'Power Drill - 18V'?
+Answer : The  SKU of item 'Power Drill - 18V' was 'P90361'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-06'.
+Question : What is the email address of the customer with ID 'CUST49785'?
+Answer : The  email address of the customer with ID 'CUST49785' was 'Dagmar.Parette@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Power Drill - 18V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Power Drill - 18V' items ordered in the sales order with ID 'ODR50574929' was $267.24.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $55.49.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $948.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $77.17.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1054.28.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Eolanda Anastatius.
+Question : What is the cost of item 'P49316'?
+Answer : The  cost of item 'P49316' was $350.77.
+Question : What is the name of item 'P49316'?
+Answer : The  name of item 'P49316' was 'Heavy-Duty Extension Cord - 100ft'.
+Question : What is the SKU of item 'Heavy-Duty Extension Cord - 100ft'?
+Answer : The  SKU of item 'Heavy-Duty Extension Cord - 100ft' was 'P49316'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-06'.
+Question : What is the email address of the customer with ID 'CUST49785'?
+Answer : The  email address of the customer with ID 'CUST49785' was 'Dagmar.Parette@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929' was $350.77.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $55.49.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $948.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $77.17.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1054.28.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Eolanda Anastatius.
+Question : What is the cost of item 'P19253'?
+Answer : The  cost of item 'P19253' was $77.17.
+Question : What is the name of item 'P19253'?
+Answer : The  name of item 'P19253' was 'Outdoor Lantern - Solar Powered'.
+Question : What is the SKU of item 'Outdoor Lantern - Solar Powered'?
+Answer : The  SKU of item 'Outdoor Lantern - Solar Powered' was 'P19253'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-06'.
+Question : What is the email address of the customer with ID 'CUST49785'?
+Answer : The  email address of the customer with ID 'CUST49785' was 'Dagmar.Parette@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929' was $77.17.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $55.49.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $948.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $77.17.

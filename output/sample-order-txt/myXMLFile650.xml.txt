@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $636.89.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Minne Croix.
+Question : What is the cost of item 'P49316'?
+Answer : The  cost of item 'P49316' was $50.11.
+Question : What is the name of item 'P49316'?
+Answer : The  name of item 'P49316' was 'Heavy-Duty Extension Cord - 100ft'.
+Question : What is the SKU of item 'Heavy-Duty Extension Cord - 100ft'?
+Answer : The  SKU of item 'Heavy-Duty Extension Cord - 100ft' was 'P49316'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-01-23'.
+Question : What is the email address of the customer with ID 'CUST99538'?
+Answer : The  email address of the customer with ID 'CUST99538' was 'Zia.Soneson@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 17.
+Question : What is the total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929' was $50.11.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.46.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $573.2.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Heavy-Duty Extension Cord - 100ft' with a price of $50.11.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $636.89.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Minne Croix.
+Question : What is the cost of item 'P79695'?
+Answer : The  cost of item 'P79695' was $219.18.
+Question : What is the name of item 'P79695'?
+Answer : The  name of item 'P79695' was 'Tile Cutter - Manual'.
+Question : What is the SKU of item 'Tile Cutter - Manual'?
+Answer : The  SKU of item 'Tile Cutter - Manual' was 'P79695'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-01-23'.
+Question : What is the email address of the customer with ID 'CUST99538'?
+Answer : The  email address of the customer with ID 'CUST99538' was 'Zia.Soneson@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 17.
+Question : What is the total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929' was $219.18.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.46.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $573.2.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Heavy-Duty Extension Cord - 100ft' with a price of $50.11.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $636.89.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Minne Croix.
+Question : What is the cost of item 'P17878'?
+Answer : The  cost of item 'P17878' was $10.48.
+Question : What is the name of item 'P17878'?
+Answer : The  name of item 'P17878' was 'Jigsaw - Cordless'.
+Question : What is the SKU of item 'Jigsaw - Cordless'?
+Answer : The  SKU of item 'Jigsaw - Cordless' was 'P17878'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-01-23'.
+Question : What is the email address of the customer with ID 'CUST99538'?
+Answer : The  email address of the customer with ID 'CUST99538' was 'Zia.Soneson@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 17.
+Question : What is the total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929' was $10.48.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.46.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $573.2.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Heavy-Duty Extension Cord - 100ft' with a price of $50.11.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $636.89.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Minne Croix.
+Question : What is the cost of item 'P41806'?
+Answer : The  cost of item 'P41806' was $357.12.
+Question : What is the name of item 'P41806'?
+Answer : The  name of item 'P41806' was 'Electric Screwdriver - 3.6V'.
+Question : What is the SKU of item 'Electric Screwdriver - 3.6V'?
+Answer : The  SKU of item 'Electric Screwdriver - 3.6V' was 'P41806'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-01-23'.
+Question : What is the email address of the customer with ID 'CUST99538'?
+Answer : The  email address of the customer with ID 'CUST99538' was 'Zia.Soneson@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 17.
+Question : What is the total price of all 'Electric Screwdriver - 3.6V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Electric Screwdriver - 3.6V' items ordered in the sales order with ID 'ODR50574929' was $357.12.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.46.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $573.2.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Heavy-Duty Extension Cord - 100ft' with a price of $50.11.

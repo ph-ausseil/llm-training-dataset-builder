@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1617.25.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Arlina Pettiford.
+Question : What is the cost of item 'P43386'?
+Answer : The  cost of item 'P43386' was $500.68.
+Question : What is the name of item 'P43386'?
+Answer : The  name of item 'P43386' was 'Pipe Wrench - 14 inch'.
+Question : What is the SKU of item 'Pipe Wrench - 14 inch'?
+Answer : The  SKU of item 'Pipe Wrench - 14 inch' was 'P43386'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-08-07'.
+Question : What is the email address of the customer with ID 'CUST94766'?
+Answer : The  email address of the customer with ID 'CUST94766' was 'Gale.Deny@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 31.
+Question : What is the total price of all 'Pipe Wrench - 14 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Pipe Wrench - 14 inch' items ordered in the sales order with ID 'ODR50574929' was $500.67600000000004.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.17.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1455.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Pipe Wrench - 14 inch' with a price of $83.44600000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1617.25.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Arlina Pettiford.
+Question : What is the cost of item 'P17878'?
+Answer : The  cost of item 'P17878' was $40.35.
+Question : What is the name of item 'P17878'?
+Answer : The  name of item 'P17878' was 'Jigsaw - Cordless'.
+Question : What is the SKU of item 'Jigsaw - Cordless'?
+Answer : The  SKU of item 'Jigsaw - Cordless' was 'P17878'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-08-07'.
+Question : What is the email address of the customer with ID 'CUST94766'?
+Answer : The  email address of the customer with ID 'CUST94766' was 'Gale.Deny@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 31.
+Question : What is the total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929' was $40.348000000000006.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.17.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1455.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Pipe Wrench - 14 inch' with a price of $83.44600000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1617.25.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Arlina Pettiford.
+Question : What is the cost of item 'P79695'?
+Answer : The  cost of item 'P79695' was $361.65.
+Question : What is the name of item 'P79695'?
+Answer : The  name of item 'P79695' was 'Tile Cutter - Manual'.
+Question : What is the SKU of item 'Tile Cutter - Manual'?
+Answer : The  SKU of item 'Tile Cutter - Manual' was 'P79695'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-08-07'.
+Question : What is the email address of the customer with ID 'CUST94766'?
+Answer : The  email address of the customer with ID 'CUST94766' was 'Gale.Deny@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 31.
+Question : What is the total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929' was $361.64700000000005.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.17.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1455.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Pipe Wrench - 14 inch' with a price of $83.44600000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1617.25.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Arlina Pettiford.
+Question : What is the cost of item 'P35922'?
+Answer : The  cost of item 'P35922' was $714.58.
+Question : What is the name of item 'P35922'?
+Answer : The  name of item 'P35922' was 'Chisel Set - 4 pieces'.
+Question : What is the SKU of item 'Chisel Set - 4 pieces'?
+Answer : The  SKU of item 'Chisel Set - 4 pieces' was 'P35922'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-08-07'.
+Question : What is the email address of the customer with ID 'CUST94766'?
+Answer : The  email address of the customer with ID 'CUST94766' was 'Gale.Deny@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 31.
+Question : What is the total price of all 'Chisel Set - 4 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Chisel Set - 4 pieces' items ordered in the sales order with ID 'ODR50574929' was $714.5820000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.17.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1455.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Pipe Wrench - 14 inch' with a price of $83.44600000000001.

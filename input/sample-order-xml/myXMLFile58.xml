@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-10" >
+      <Customer id="CUST12470"
+  firstname="Ekaterina"
+  lastname="Jacinda"
+  email="Ekaterina.Jacinda@example.com"
+  />        <Seller id="EMP94443"
+  firstname="Maye"
+  lastname="Chinua"
+  email="Maye.Chinua@examplecompany.com"
+  />      <Items><Item><SKU>P89176</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>8</Quantity><Price>42.76</Price></Item><Item><SKU>P55185</SKU><Description>Utility Knife - Retractable</Description><Quantity>10</Quantity><Price>35.76</Price></Item><Item><SKU>P56556</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>2</Quantity><Price>13.94</Price></Item><Item><SKU>P13203</SKU><Description>Hacksaw - 12 inch</Description><Quantity>6</Quantity><Price>82.9</Price></Item>
+      </Items>
+    </Order>

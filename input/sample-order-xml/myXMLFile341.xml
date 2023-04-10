@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-05-04" >
+      <Customer id="CUST48954"
+  firstname="Glenda"
+  lastname="Kesley"
+  email="Glenda.Kesley@example.com"
+  />        <Seller id="EMP84792"
+  firstname="Steffane"
+  lastname="Gale"
+  email="Steffane.Gale@examplecompany.com"
+  />      <Items><Item><SKU>P94795</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>10</Quantity><Price>35.49</Price></Item><Item><SKU>P73473</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>6</Quantity><Price>50.84</Price></Item><Item><SKU>P20090</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>8</Quantity><Price>17.74</Price></Item><Item><SKU>P67345</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>3</Quantity><Price>19.21</Price></Item>
+      </Items>
+    </Order>

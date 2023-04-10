@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-03-21">
+  
+      
+  <Customer id="CUST12870" firstname="Ivett" lastname="Karna" email="Ivett.Karna@example.com"/>
+          
+  <Seller id="EMP81339" firstname="Nataline" lastname="Nicoline" email="Nataline.Nicoline@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>3</Quantity>
+      <Price>40.7715</Price>
+    </Item>
+    <Item>
+      <SKU>P43386</SKU>
+      <Description>Pipe Wrench - 14 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>79.653</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>9</Quantity>
+      <Price>95.5395</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>4</Quantity>
+      <Price>65.373</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1960.54</TotalPrice>
+</Order>

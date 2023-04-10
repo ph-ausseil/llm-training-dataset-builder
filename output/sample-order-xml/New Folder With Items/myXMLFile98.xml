@@ -1,0 +1,8 @@
+<Order id="ODR43592319" date="2021-11-06">
+      
+      <Customer id="CUST14964" firstname="Dominga" lastname="Lemuela" email="Dominga.Lemuela@example.com" />
+        <Seller id="EMP81365" firstname="Priscilla" lastname="Stanwood" email="Priscilla.Stanwood@company.com" />
+      <Items>
+        <Item><SKU>P1080</SKU><Description>Tarp - 12x16 ft</Description><Quantity>4</Quantity><Price>90.76</Price></Item><Item><SKU>P86105</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>1</Quantity><Price>73.85</Price></Item><Item><SKU>P52397</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>64.43</Price></Item>
+      </Items>
+    <TotalPrice>363.04</TotalPrice><TotalPrice>436.89</TotalPrice><TotalPrice>759.04</TotalPrice></Order>

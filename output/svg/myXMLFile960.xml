@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-02-28">
+  
+      
+  <Customer id="CUST70602" firstname="Leona" lastname="Sacken" email="Leona.Sacken@example.com"/>
+          
+  <Seller id="EMP15252" firstname="Fanchon" lastname="Sinegold" email="Fanchon.Sinegold@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>7</Quantity>
+      <Price>5.24</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>72.18</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>71.82</Price>
+    </Item>
+    <Item>
+      <SKU>P85960</SKU>
+      <Description>LED Light Bulb - 60W</Description>
+      <Quantity>6</Quantity>
+      <Price>41.81</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>647.0</TotalPrice>
+</Order>

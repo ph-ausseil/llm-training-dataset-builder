@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-28" >
+      <Customer id="CUST83291"
+  firstname="Lorenza"
+  lastname="Fulmer"
+  email="Lorenza.Fulmer@example.com"
+  />        <Seller id="EMP66084"
+  firstname="Dione"
+  lastname="Dimitris"
+  email="Dione.Dimitris@examplecompany.com"
+  />      <Items><Item><SKU>P80325</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>10</Quantity><Price>13.29</Price></Item><Item><SKU>P24490</SKU><Description>Level - 24 inch</Description><Quantity>6</Quantity><Price>20.29</Price></Item><Item><SKU>P38787</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>4</Quantity><Price>20.49</Price></Item><Item><SKU>P21685</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>43.8</Price></Item>
+      </Items>
+    </Order>

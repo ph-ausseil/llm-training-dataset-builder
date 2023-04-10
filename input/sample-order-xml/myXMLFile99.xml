@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-02-26" >
+      <Customer id="CUST69445"
+  firstname="Beverley"
+  lastname="Malina"
+  email="Beverley.Malina@example.com"
+  />        <Seller id="EMP42879"
+  firstname="Gisela"
+  lastname="Zaslow"
+  email="Gisela.Zaslow@examplecompany.com"
+  />      <Items><Item><SKU>P81851</SKU><Description>Hand Saw - 12 inch</Description><Quantity>4</Quantity><Price>39.59</Price></Item><Item><SKU>P80960</SKU><Description>Hammer - 16 oz</Description><Quantity>8</Quantity><Price>29.96</Price></Item><Item><SKU>P51149</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>10</Quantity><Price>48.47</Price></Item><Item><SKU>P72978</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>60.26</Price></Item>
+      </Items>
+    </Order>

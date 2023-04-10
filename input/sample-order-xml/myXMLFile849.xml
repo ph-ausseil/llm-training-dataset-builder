@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-24" >
+      <Customer id="CUST75205"
+  firstname="Ginnie"
+  lastname="Paine"
+  email="Ginnie.Paine@example.com"
+  />        <Seller id="EMP59095"
+  firstname="Fidelia"
+  lastname="Rogerio"
+  email="Fidelia.Rogerio@examplecompany.com"
+  />      <Items><Item><SKU>P26061</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>2</Quantity><Price>22.03</Price></Item><Item><SKU>P23607</SKU><Description>Tarp - 12x16 ft</Description><Quantity>5</Quantity><Price>72.07</Price></Item><Item><SKU>P32437</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>1</Quantity><Price>56.2</Price></Item><Item><SKU>P79563</SKU><Description>Tape Measure - 25 ft</Description><Quantity>8</Quantity><Price>82.82</Price></Item>
+      </Items>
+    </Order>

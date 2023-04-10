@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-09-10" >
+      <Customer id="CUST71907"
+  firstname="Brynna"
+  lastname="Podvin"
+  email="Brynna.Podvin@example.com"
+  />        <Seller id="EMP74512"
+  firstname="Minda"
+  lastname="Howlyn"
+  email="Minda.Howlyn@examplecompany.com"
+  />      <Items><Item><SKU>P98804</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>1</Quantity><Price>30.15</Price></Item><Item><SKU>P39106</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>6</Quantity><Price>62.52</Price></Item><Item><SKU>P28941</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>6</Quantity><Price>69.5</Price></Item><Item><SKU>P72816</SKU><Description>Miter Saw - 10 inch</Description><Quantity>6</Quantity><Price>76.07</Price></Item>
+      </Items>
+    </Order>

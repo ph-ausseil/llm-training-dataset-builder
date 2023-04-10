@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-29" >
+      <Customer id="CUST49801"
+  firstname="Nickie"
+  lastname="Havens"
+  email="Nickie.Havens@example.com"
+  />        <Seller id="EMP83293"
+  firstname="Bernardine"
+  lastname="Ledah"
+  email="Bernardine.Ledah@examplecompany.com"
+  />      <Items><Item><SKU>P41771</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>3</Quantity><Price>34.57</Price></Item><Item><SKU>P76469</SKU><Description>Jigsaw - Cordless</Description><Quantity>8</Quantity><Price>63.92</Price></Item><Item><SKU>P93362</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>4</Quantity><Price>70.95</Price></Item><Item><SKU>P33319</SKU><Description>LED Light Bulb - 60W</Description><Quantity>9</Quantity><Price>68.4</Price></Item>
+      </Items>
+    </Order>

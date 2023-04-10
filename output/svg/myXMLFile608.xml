@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-12-09">
+  
+      
+  <Customer id="CUST90261" firstname="Nataline" lastname="Richers" email="Nataline.Richers@example.com"/>
+          
+  <Seller id="EMP61980" firstname="Chrystel" lastname="Oneida" email="Chrystel.Oneida@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P90277</SKU>
+      <Description>Bolt Cutter - 24 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>52.95400000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>3</Quantity>
+      <Price>70.57600000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>98.97800000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>79.002</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1873.43</TotalPrice>
+</Order>

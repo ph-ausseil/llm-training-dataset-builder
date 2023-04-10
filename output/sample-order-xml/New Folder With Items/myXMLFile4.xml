@@ -1,0 +1,8 @@
+<Order id="ODR7053109" date="2021-11-05">
+      
+      <Customer id="CUST87911" firstname="Rosene" lastname="Curren" email="Rosene.Curren@example.com" />
+        <Seller id="EMP69421" firstname="Lorie" lastname="Eiser" email="Lorie.Eiser@company.com" />
+      <Items>
+        <Item><SKU>P48711</SKU><Description>Socket Set - 40 pieces</Description><Quantity>3</Quantity><Price>42.11</Price></Item><Item><SKU>P61310</SKU><Description>Socket Set - 40 pieces</Description><Quantity>1</Quantity><Price>64.11</Price></Item><Item><SKU>P14146</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>3</Quantity><Price>36.83</Price></Item>
+      </Items>
+    <TotalPrice>126.33</TotalPrice><TotalPrice>190.44</TotalPrice><TotalPrice>300.93</TotalPrice></Order>

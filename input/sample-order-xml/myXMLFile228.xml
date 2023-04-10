@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-07" >
+      <Customer id="CUST51443"
+  firstname="Karolina"
+  lastname="Erlandson"
+  email="Karolina.Erlandson@example.com"
+  />        <Seller id="EMP50710"
+  firstname="Anestassia"
+  lastname="Revkah"
+  email="Anestassia.Revkah@examplecompany.com"
+  />      <Items><Item><SKU>P75175</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>9</Quantity><Price>81.97</Price></Item><Item><SKU>P12544</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>4</Quantity><Price>80.16</Price></Item><Item><SKU>P57582</SKU><Description>Power Drill - 18V</Description><Quantity>9</Quantity><Price>10.5</Price></Item><Item><SKU>P86859</SKU><Description>Garden Hose - 50ft</Description><Quantity>6</Quantity><Price>34.65</Price></Item>
+      </Items>
+    </Order>

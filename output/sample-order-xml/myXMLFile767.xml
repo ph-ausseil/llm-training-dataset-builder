@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-09-10">
+  
+      
+  <Customer id="CUST13625" firstname="Lynnea" lastname="Kylander" email="Lynnea.Kylander@example.com"/>
+          
+  <Seller id="EMP92393" firstname="Grier" lastname="Giff" email="Grier.Giff@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>28.68</Price>
+    </Item>
+    <Item>
+      <SKU>P79695</SKU>
+      <Description>Tile Cutter - Manual</Description>
+      <Quantity>8</Quantity>
+      <Price>36.53</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>58.3</Price>
+    </Item>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>5</Quantity>
+      <Price>9.4</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>541.88</TotalPrice>
+</Order>

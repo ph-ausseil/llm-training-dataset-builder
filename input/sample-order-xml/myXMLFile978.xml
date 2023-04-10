@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-07-17" >
+      <Customer id="CUST34935"
+  firstname="Angelique"
+  lastname="Gusella"
+  email="Angelique.Gusella@example.com"
+  />        <Seller id="EMP92536"
+  firstname="Deane"
+  lastname="Emerson"
+  email="Deane.Emerson@examplecompany.com"
+  />      <Items><Item><SKU>P20410</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>5</Quantity><Price>14.35</Price></Item><Item><SKU>P12682</SKU><Description>Nail Gun - Electric</Description><Quantity>7</Quantity><Price>48.44</Price></Item><Item><SKU>P44389</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>3</Quantity><Price>71.84</Price></Item><Item><SKU>P17868</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>4</Quantity><Price>39.45</Price></Item>
+      </Items>
+    </Order>

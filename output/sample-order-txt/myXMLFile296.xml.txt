@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1407.19.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Leia Olin.
+Question : What is the cost of item 'P49316'?
+Answer : The  cost of item 'P49316' was $150.33.
+Question : What is the name of item 'P49316'?
+Answer : The  name of item 'P49316' was 'Heavy-Duty Extension Cord - 100ft'.
+Question : What is the SKU of item 'Heavy-Duty Extension Cord - 100ft'?
+Answer : The  SKU of item 'Heavy-Duty Extension Cord - 100ft' was 'P49316'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-02-14'.
+Question : What is the email address of the customer with ID 'CUST84908'?
+Answer : The  email address of the customer with ID 'CUST84908' was 'Dawn.Gwenore@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929' was $150.32999999999998.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $56.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1266.47.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1407.19.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Leia Olin.
+Question : What is the cost of item 'P87047'?
+Answer : The  cost of item 'P87047' was $425.8.
+Question : What is the name of item 'P87047'?
+Answer : The  name of item 'P87047' was 'Wrench Set - 10 pieces'.
+Question : What is the SKU of item 'Wrench Set - 10 pieces'?
+Answer : The  SKU of item 'Wrench Set - 10 pieces' was 'P87047'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-02-14'.
+Question : What is the email address of the customer with ID 'CUST84908'?
+Answer : The  email address of the customer with ID 'CUST84908' was 'Dawn.Gwenore@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929' was $425.79999999999995.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $56.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1266.47.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1407.19.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Leia Olin.
+Question : What is the cost of item 'P19253'?
+Answer : The  cost of item 'P19253' was $771.7.
+Question : What is the name of item 'P19253'?
+Answer : The  name of item 'P19253' was 'Outdoor Lantern - Solar Powered'.
+Question : What is the SKU of item 'Outdoor Lantern - Solar Powered'?
+Answer : The  SKU of item 'Outdoor Lantern - Solar Powered' was 'P19253'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-02-14'.
+Question : What is the email address of the customer with ID 'CUST84908'?
+Answer : The  email address of the customer with ID 'CUST84908' was 'Dawn.Gwenore@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929' was $771.7.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $56.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1266.47.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1407.19.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Leia Olin.
+Question : What is the cost of item 'P77259'?
+Answer : The  cost of item 'P77259' was $59.36.
+Question : What is the name of item 'P77259'?
+Answer : The  name of item 'P77259' was 'Wire Stripper - 8 inch'.
+Question : What is the SKU of item 'Wire Stripper - 8 inch'?
+Answer : The  SKU of item 'Wire Stripper - 8 inch' was 'P77259'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-02-14'.
+Question : What is the email address of the customer with ID 'CUST84908'?
+Answer : The  email address of the customer with ID 'CUST84908' was 'Dawn.Gwenore@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Wire Stripper - 8 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wire Stripper - 8 inch' items ordered in the sales order with ID 'ODR50574929' was $59.36.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $56.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1266.47.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.

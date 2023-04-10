@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $3241.1.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Marleah Lilybelle.
+Question : What is the cost of item 'P10753'?
+Answer : The  cost of item 'P10753' was $318.86.
+Question : What is the name of item 'P10753'?
+Answer : The  name of item 'P10753' was 'Work Gloves - Leather'.
+Question : What is the SKU of item 'Work Gloves - Leather'?
+Answer : The  SKU of item 'Work Gloves - Leather' was 'P10753'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-01-10'.
+Question : What is the email address of the customer with ID 'CUST99953'?
+Answer : The  email address of the customer with ID 'CUST99953' was 'Allis.Merriott@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 47.
+Question : What is the total price of all 'Work Gloves - Leather' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Work Gloves - Leather' items ordered in the sales order with ID 'ODR50574929' was $318.86400000000003.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $68.96.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $2916.99.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $109.18799999999999.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $3241.1.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Marleah Lilybelle.
+Question : What is the cost of item 'P53084'?
+Answer : The  cost of item 'P53084' was $494.87.
+Question : What is the name of item 'P53084'?
+Answer : The  name of item 'P53084' was 'Cordless Circular Saw - 6.5 inch'.
+Question : What is the SKU of item 'Cordless Circular Saw - 6.5 inch'?
+Answer : The  SKU of item 'Cordless Circular Saw - 6.5 inch' was 'P53084'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-01-10'.
+Question : What is the email address of the customer with ID 'CUST99953'?
+Answer : The  email address of the customer with ID 'CUST99953' was 'Allis.Merriott@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 47.
+Question : What is the total price of all 'Cordless Circular Saw - 6.5 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Cordless Circular Saw - 6.5 inch' items ordered in the sales order with ID 'ODR50574929' was $494.868.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $68.96.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $2916.99.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $109.18799999999999.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $3241.1.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Marleah Lilybelle.
+Question : What is the cost of item 'P12338'?
+Answer : The  cost of item 'P12338' was $1201.07.
+Question : What is the name of item 'P12338'?
+Answer : The  name of item 'P12338' was 'Hammer - 16 oz'.
+Question : What is the SKU of item 'Hammer - 16 oz'?
+Answer : The  SKU of item 'Hammer - 16 oz' was 'P12338'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-01-10'.
+Question : What is the email address of the customer with ID 'CUST99953'?
+Answer : The  email address of the customer with ID 'CUST99953' was 'Allis.Merriott@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 47.
+Question : What is the total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929' was $1201.0679999999998.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $68.96.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $2916.99.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $109.18799999999999.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $3241.1.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Marleah Lilybelle.
+Question : What is the cost of item 'P87047'?
+Answer : The  cost of item 'P87047' was $1226.3.
+Question : What is the name of item 'P87047'?
+Answer : The  name of item 'P87047' was 'Wrench Set - 10 pieces'.
+Question : What is the SKU of item 'Wrench Set - 10 pieces'?
+Answer : The  SKU of item 'Wrench Set - 10 pieces' was 'P87047'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-01-10'.
+Question : What is the email address of the customer with ID 'CUST99953'?
+Answer : The  email address of the customer with ID 'CUST99953' was 'Allis.Merriott@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 47.
+Question : What is the total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929' was $1226.3039999999999.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $68.96.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $2916.99.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $109.18799999999999.

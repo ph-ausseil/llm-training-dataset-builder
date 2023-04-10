@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-09-17" >
+      <Customer id="CUST56108"
+  firstname="Audrie"
+  lastname="Krystle"
+  email="Audrie.Krystle@example.com"
+  />        <Seller id="EMP23915"
+  firstname="Wilma"
+  lastname="Secrest"
+  email="Wilma.Secrest@examplecompany.com"
+  />      <Items><Item><SKU>P43036</SKU><Description>Miter Saw - 10 inch</Description><Quantity>10</Quantity><Price>24.12</Price></Item><Item><SKU>P16632</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>10</Quantity><Price>52.15</Price></Item><Item><SKU>P66439</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>8</Quantity><Price>24.27</Price></Item><Item><SKU>P31797</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>8</Quantity><Price>51.45</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-26" >
+      <Customer id="CUST40876"
+  firstname="Nanete"
+  lastname="Jalbert"
+  email="Nanete.Jalbert@example.com"
+  />        <Seller id="EMP91329"
+  firstname="Sherrie"
+  lastname="Curren"
+  email="Sherrie.Curren@examplecompany.com"
+  />      <Items><Item><SKU>P52037</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>2</Quantity><Price>62.81</Price></Item><Item><SKU>P67002</SKU><Description>LED Light Bulb - 60W</Description><Quantity>5</Quantity><Price>39.72</Price></Item><Item><SKU>P94777</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>2</Quantity><Price>20.91</Price></Item><Item><SKU>P68575</SKU><Description>Level - 24 inch</Description><Quantity>8</Quantity><Price>47.79</Price></Item>
+      </Items>
+    </Order>

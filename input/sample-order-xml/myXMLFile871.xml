@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-24" >
+      <Customer id="CUST56754"
+  firstname="Rani"
+  lastname="Alva"
+  email="Rani.Alva@example.com"
+  />        <Seller id="EMP47681"
+  firstname="Neila"
+  lastname="Jarib"
+  email="Neila.Jarib@examplecompany.com"
+  />      <Items><Item><SKU>P70745</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>8</Quantity><Price>52.55</Price></Item><Item><SKU>P94981</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>7</Quantity><Price>14.18</Price></Item><Item><SKU>P56715</SKU><Description>Nail Gun - Electric</Description><Quantity>5</Quantity><Price>74.47</Price></Item><Item><SKU>P91576</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>2</Quantity><Price>61.71</Price></Item>
+      </Items>
+    </Order>

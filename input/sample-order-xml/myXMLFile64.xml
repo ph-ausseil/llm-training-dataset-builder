@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-01" >
+      <Customer id="CUST12974"
+  firstname="Edyth"
+  lastname="Atcliffe"
+  email="Edyth.Atcliffe@example.com"
+  />        <Seller id="EMP56144"
+  firstname="Annabela"
+  lastname="Atonsah"
+  email="Annabela.Atonsah@examplecompany.com"
+  />      <Items><Item><SKU>P76406</SKU><Description>Utility Knife - Retractable</Description><Quantity>5</Quantity><Price>16.32</Price></Item><Item><SKU>P19403</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>6</Quantity><Price>86.52</Price></Item><Item><SKU>P42078</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>10</Quantity><Price>7.68</Price></Item><Item><SKU>P59218</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>3</Quantity><Price>24.47</Price></Item>
+      </Items>
+    </Order>

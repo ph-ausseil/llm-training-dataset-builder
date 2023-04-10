@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-02-16" >
+      <Customer id="CUST94714"
+  firstname="Tilly"
+  lastname="Sheedy"
+  email="Tilly.Sheedy@example.com"
+  />        <Seller id="EMP99572"
+  firstname="Tarra"
+  lastname="Abbot"
+  email="Tarra.Abbot@examplecompany.com"
+  />      <Items><Item><SKU>P33074</SKU><Description>Work Gloves - Leather</Description><Quantity>9</Quantity><Price>53.15</Price></Item><Item><SKU>P64520</SKU><Description>Utility Knife - Retractable</Description><Quantity>10</Quantity><Price>72.02</Price></Item><Item><SKU>P93472</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>7</Quantity><Price>5.04</Price></Item><Item><SKU>P13926</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>4</Quantity><Price>39.23</Price></Item>
+      </Items>
+    </Order>

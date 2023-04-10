@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1224.98.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Karena Arley.
+Question : What is the cost of item 'P17627'?
+Answer : The  cost of item 'P17627' was $223.56.
+Question : What is the name of item 'P17627'?
+Answer : The  name of item 'P17627' was 'Caulking Gun - Heavy Duty'.
+Question : What is the SKU of item 'Caulking Gun - Heavy Duty'?
+Answer : The  SKU of item 'Caulking Gun - Heavy Duty' was 'P17627'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-03-28'.
+Question : What is the email address of the customer with ID 'CUST56257'?
+Answer : The  email address of the customer with ID 'CUST56257' was 'Teriann.Hewitt@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 33.
+Question : What is the total price of all 'Caulking Gun - Heavy Duty' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Caulking Gun - Heavy Duty' items ordered in the sales order with ID 'ODR50574929' was $223.55999999999997.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.12.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1102.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $102.192.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1224.98.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Karena Arley.
+Question : What is the cost of item 'P87047'?
+Answer : The  cost of item 'P87047' was $510.96.
+Question : What is the name of item 'P87047'?
+Answer : The  name of item 'P87047' was 'Wrench Set - 10 pieces'.
+Question : What is the SKU of item 'Wrench Set - 10 pieces'?
+Answer : The  SKU of item 'Wrench Set - 10 pieces' was 'P87047'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-03-28'.
+Question : What is the email address of the customer with ID 'CUST56257'?
+Answer : The  email address of the customer with ID 'CUST56257' was 'Teriann.Hewitt@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 33.
+Question : What is the total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929' was $510.96.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.12.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1102.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $102.192.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1224.98.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Karena Arley.
+Question : What is the cost of item 'P90361'?
+Answer : The  cost of item 'P90361' was $427.58.
+Question : What is the name of item 'P90361'?
+Answer : The  name of item 'P90361' was 'Power Drill - 18V'.
+Question : What is the SKU of item 'Power Drill - 18V'?
+Answer : The  SKU of item 'Power Drill - 18V' was 'P90361'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-03-28'.
+Question : What is the email address of the customer with ID 'CUST56257'?
+Answer : The  email address of the customer with ID 'CUST56257' was 'Teriann.Hewitt@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 33.
+Question : What is the total price of all 'Power Drill - 18V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Power Drill - 18V' items ordered in the sales order with ID 'ODR50574929' was $427.584.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.12.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1102.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $102.192.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1224.98.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Karena Arley.
+Question : What is the cost of item 'P17878'?
+Answer : The  cost of item 'P17878' was $62.88.
+Question : What is the name of item 'P17878'?
+Answer : The  name of item 'P17878' was 'Jigsaw - Cordless'.
+Question : What is the SKU of item 'Jigsaw - Cordless'?
+Answer : The  SKU of item 'Jigsaw - Cordless' was 'P17878'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-03-28'.
+Question : What is the email address of the customer with ID 'CUST56257'?
+Answer : The  email address of the customer with ID 'CUST56257' was 'Teriann.Hewitt@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 33.
+Question : What is the total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929' was $62.88.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.12.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1102.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $102.192.

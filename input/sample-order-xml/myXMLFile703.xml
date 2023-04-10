@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-02-07" >
+      <Customer id="CUST77459"
+  firstname="Lonnie"
+  lastname="Bord"
+  email="Lonnie.Bord@example.com"
+  />        <Seller id="EMP79979"
+  firstname="Dacia"
+  lastname="Gregrory"
+  email="Dacia.Gregrory@examplecompany.com"
+  />      <Items><Item><SKU>P54423</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>5</Quantity><Price>68.71</Price></Item><Item><SKU>P63149</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>4</Quantity><Price>70.12</Price></Item><Item><SKU>P88475</SKU><Description>Nail Gun - Electric</Description><Quantity>4</Quantity><Price>62.55</Price></Item><Item><SKU>P53752</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>10</Quantity><Price>18.33</Price></Item>
+      </Items>
+    </Order>

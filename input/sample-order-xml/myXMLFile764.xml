@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-16" >
+      <Customer id="CUST54962"
+  firstname="Gavrielle"
+  lastname="Dosia"
+  email="Gavrielle.Dosia@example.com"
+  />        <Seller id="EMP91080"
+  firstname="Valli"
+  lastname="Wesle"
+  email="Valli.Wesle@examplecompany.com"
+  />      <Items><Item><SKU>P21741</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>10</Quantity><Price>40.1</Price></Item><Item><SKU>P60753</SKU><Description>Tool Box - 19 inch</Description><Quantity>10</Quantity><Price>79.39</Price></Item><Item><SKU>P82113</SKU><Description>Utility Knife - Retractable</Description><Quantity>5</Quantity><Price>76.14</Price></Item><Item><SKU>P50023</SKU><Description>Stud Finder - Digital</Description><Quantity>7</Quantity><Price>67.53</Price></Item>
+      </Items>
+    </Order>

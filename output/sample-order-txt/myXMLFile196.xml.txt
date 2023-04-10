@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1589.7.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Louella Meter.
+Question : What is the cost of item 'P44943'?
+Answer : The  cost of item 'P44943' was $164.2.
+Question : What is the name of item 'P44943'?
+Answer : The  name of item 'P44943' was 'Tool Box - 19 inch'.
+Question : What is the SKU of item 'Tool Box - 19 inch'?
+Answer : The  SKU of item 'Tool Box - 19 inch' was 'P44943'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-21'.
+Question : What is the email address of the customer with ID 'CUST89514'?
+Answer : The  email address of the customer with ID 'CUST89514' was 'Laure.Karylin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Tool Box - 19 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tool Box - 19 inch' items ordered in the sales order with ID 'ODR50574929' was $164.2.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $58.88.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1430.73.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1589.7.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Louella Meter.
+Question : What is the cost of item 'P12338'?
+Answer : The  cost of item 'P12338' was $909.9.
+Question : What is the name of item 'P12338'?
+Answer : The  name of item 'P12338' was 'Hammer - 16 oz'.
+Question : What is the SKU of item 'Hammer - 16 oz'?
+Answer : The  SKU of item 'Hammer - 16 oz' was 'P12338'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-21'.
+Question : What is the email address of the customer with ID 'CUST89514'?
+Answer : The  email address of the customer with ID 'CUST89514' was 'Laure.Karylin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929' was $909.9.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $58.88.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1430.73.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1589.7.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Louella Meter.
+Question : What is the cost of item 'P85960'?
+Answer : The  cost of item 'P85960' was $250.86.
+Question : What is the name of item 'P85960'?
+Answer : The  name of item 'P85960' was 'LED Light Bulb - 60W'.
+Question : What is the SKU of item 'LED Light Bulb - 60W'?
+Answer : The  SKU of item 'LED Light Bulb - 60W' was 'P85960'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-21'.
+Question : What is the email address of the customer with ID 'CUST89514'?
+Answer : The  email address of the customer with ID 'CUST89514' was 'Laure.Karylin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929' was $250.86.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $58.88.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1430.73.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1589.7.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Louella Meter.
+Question : What is the cost of item 'P85138'?
+Answer : The  cost of item 'P85138' was $264.74.
+Question : What is the name of item 'P85138'?
+Answer : The  name of item 'P85138' was 'Tarp - 12x16 ft'.
+Question : What is the SKU of item 'Tarp - 12x16 ft'?
+Answer : The  SKU of item 'Tarp - 12x16 ft' was 'P85138'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-21'.
+Question : What is the email address of the customer with ID 'CUST89514'?
+Answer : The  email address of the customer with ID 'CUST89514' was 'Laure.Karylin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Tarp - 12x16 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tarp - 12x16 ft' items ordered in the sales order with ID 'ODR50574929' was $264.74.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $58.88.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1430.73.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $90.99.

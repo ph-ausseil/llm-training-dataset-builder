@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1724.8.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Ilse Colp.
+Question : What is the cost of item 'P72757'?
+Answer : The  cost of item 'P72757' was $756.67.
+Question : What is the name of item 'P72757'?
+Answer : The  name of item 'P72757' was 'Tape Measure - 25 ft'.
+Question : What is the SKU of item 'Tape Measure - 25 ft'?
+Answer : The  SKU of item 'Tape Measure - 25 ft' was 'P72757'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-04-07'.
+Question : What is the email address of the customer with ID 'CUST21802'?
+Answer : The  email address of the customer with ID 'CUST21802' was 'Tatiania.Chinua@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Tape Measure - 25 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tape Measure - 25 ft' items ordered in the sales order with ID 'ODR50574929' was $756.672.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.88.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1552.32.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1724.8.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Ilse Colp.
+Question : What is the cost of item 'P64945'?
+Answer : The  cost of item 'P64945' was $82.32.
+Question : What is the name of item 'P64945'?
+Answer : The  name of item 'P64945' was 'Utility Knife - Retractable'.
+Question : What is the SKU of item 'Utility Knife - Retractable'?
+Answer : The  SKU of item 'Utility Knife - Retractable' was 'P64945'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-04-07'.
+Question : What is the email address of the customer with ID 'CUST21802'?
+Answer : The  email address of the customer with ID 'CUST21802' was 'Tatiania.Chinua@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Utility Knife - Retractable' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Utility Knife - Retractable' items ordered in the sales order with ID 'ODR50574929' was $82.32000000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.88.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1552.32.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1724.8.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Ilse Colp.
+Question : What is the cost of item 'P43386'?
+Answer : The  cost of item 'P43386' was $318.61.
+Question : What is the name of item 'P43386'?
+Answer : The  name of item 'P43386' was 'Pipe Wrench - 14 inch'.
+Question : What is the SKU of item 'Pipe Wrench - 14 inch'?
+Answer : The  SKU of item 'Pipe Wrench - 14 inch' was 'P43386'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-04-07'.
+Question : What is the email address of the customer with ID 'CUST21802'?
+Answer : The  email address of the customer with ID 'CUST21802' was 'Tatiania.Chinua@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Pipe Wrench - 14 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Pipe Wrench - 14 inch' items ordered in the sales order with ID 'ODR50574929' was $318.612.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.88.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1552.32.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1724.8.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Ilse Colp.
+Question : What is the cost of item 'P19253'?
+Answer : The  cost of item 'P19253' was $567.2.
+Question : What is the name of item 'P19253'?
+Answer : The  name of item 'P19253' was 'Outdoor Lantern - Solar Powered'.
+Question : What is the SKU of item 'Outdoor Lantern - Solar Powered'?
+Answer : The  SKU of item 'Outdoor Lantern - Solar Powered' was 'P19253'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-04-07'.
+Question : What is the email address of the customer with ID 'CUST21802'?
+Answer : The  email address of the customer with ID 'CUST21802' was 'Tatiania.Chinua@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 27.
+Question : What is the total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929' was $567.1995000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.88.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1552.32.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-13" >
+      <Customer id="CUST95631"
+  firstname="Gavrielle"
+  lastname="Philoo"
+  email="Gavrielle.Philoo@example.com"
+  />        <Seller id="EMP10748"
+  firstname="Lila"
+  lastname="Minetta"
+  email="Lila.Minetta@examplecompany.com"
+  />      <Items><Item><SKU>P96594</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>59</Price></Item><Item><SKU>P20901</SKU><Description>Tool Box - 19 inch</Description><Quantity>8</Quantity><Price>90.47</Price></Item><Item><SKU>P32796</SKU><Description>Nail Gun - Electric</Description><Quantity>1</Quantity><Price>54.99</Price></Item><Item><SKU>P34842</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>9</Quantity><Price>77.33</Price></Item>
+      </Items>
+    </Order>

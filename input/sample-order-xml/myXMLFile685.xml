@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-09" >
+      <Customer id="CUST42847"
+  firstname="Frances"
+  lastname="August"
+  email="Frances.August@example.com"
+  />        <Seller id="EMP99502"
+  firstname="Kirbee"
+  lastname="Trinetta"
+  email="Kirbee.Trinetta@examplecompany.com"
+  />      <Items><Item><SKU>P26876</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>6</Quantity><Price>44.6</Price></Item><Item><SKU>P15154</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>6</Quantity><Price>71.33</Price></Item><Item><SKU>P41917</SKU><Description>Power Drill - 18V</Description><Quantity>6</Quantity><Price>77.1</Price></Item><Item><SKU>P16395</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>7</Quantity><Price>81.58</Price></Item>
+      </Items>
+    </Order>

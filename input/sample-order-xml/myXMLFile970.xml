@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-09-08" >
+      <Customer id="CUST52349"
+  firstname="Nariko"
+  lastname="Girardo"
+  email="Nariko.Girardo@example.com"
+  />        <Seller id="EMP85964"
+  firstname="Bibby"
+  lastname="Prober"
+  email="Bibby.Prober@examplecompany.com"
+  />      <Items><Item><SKU>P16832</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>1</Quantity><Price>18.1</Price></Item><Item><SKU>P62064</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>7</Quantity><Price>31.52</Price></Item><Item><SKU>P96528</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>4</Quantity><Price>13.26</Price></Item><Item><SKU>P82994</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>9</Quantity><Price>25.49</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-07-26">
+  
+      
+  <Customer id="CUST52493" firstname="Marnia" lastname="Alarise" email="Marnia.Alarise@example.com"/>
+          
+  <Seller id="EMP22238" firstname="Althea" lastname="Pyle" email="Althea.Pyle@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>6</Quantity>
+      <Price>42.713</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>79.002</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>3</Quantity>
+      <Price>93.676</Price>
+    </Item>
+  </Items>
+  
+    
+  <TotalPrice>1327.33</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-25" >
+      <Customer id="CUST55998"
+  firstname="Cassondra"
+  lastname="Brandice"
+  email="Cassondra.Brandice@example.com"
+  />        <Seller id="EMP71143"
+  firstname="Hallie"
+  lastname="Loleta"
+  email="Hallie.Loleta@examplecompany.com"
+  />      <Items><Item><SKU>P90956</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>9</Quantity><Price>82.72</Price></Item><Item><SKU>P76206</SKU><Description>Socket Set - 40 pieces</Description><Quantity>7</Quantity><Price>32.24</Price></Item><Item><SKU>P97765</SKU><Description>Tape Measure - 25 ft</Description><Quantity>10</Quantity><Price>79.02</Price></Item><Item><SKU>P56258</SKU><Description>Hammer - 16 oz</Description><Quantity>7</Quantity><Price>68.93</Price></Item>
+      </Items>
+    </Order>

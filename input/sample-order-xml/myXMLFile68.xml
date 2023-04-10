@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-03-06" >
+      <Customer id="CUST85183"
+  firstname="Ebonee"
+  lastname="Longfellow"
+  email="Ebonee.Longfellow@example.com"
+  />        <Seller id="EMP79450"
+  firstname="Diena"
+  lastname="Demitria"
+  email="Diena.Demitria@examplecompany.com"
+  />      <Items><Item><SKU>P31869</SKU><Description>Utility Knife - Retractable</Description><Quantity>2</Quantity><Price>66.29</Price></Item><Item><SKU>P93555</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>9</Quantity><Price>70.64</Price></Item><Item><SKU>P82144</SKU><Description>Hacksaw - 12 inch</Description><Quantity>8</Quantity><Price>60.19</Price></Item><Item><SKU>P78060</SKU><Description>Safety Goggles - Clear</Description><Quantity>6</Quantity><Price>68.99</Price></Item>
+      </Items>
+    </Order>

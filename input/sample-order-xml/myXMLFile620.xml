@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-17" >
+      <Customer id="CUST69185"
+  firstname="Gale"
+  lastname="Bearnard"
+  email="Gale.Bearnard@example.com"
+  />        <Seller id="EMP64128"
+  firstname="Cecile"
+  lastname="Frodi"
+  email="Cecile.Frodi@examplecompany.com"
+  />      <Items><Item><SKU>P49316</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>4</Quantity><Price>50.11</Price></Item><Item><SKU>P26550</SKU><Description>Garden Hose - 50ft</Description><Quantity>4</Quantity><Price>42.01</Price></Item><Item><SKU>P47249</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>50.4</Price></Item><Item><SKU>P46200</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>9</Quantity><Price>26.84</Price></Item>
+      </Items>
+    </Order>

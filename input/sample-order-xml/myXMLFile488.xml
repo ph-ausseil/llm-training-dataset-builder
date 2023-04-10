@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-12" >
+      <Customer id="CUST99952"
+  firstname="Hannis"
+  lastname="Kevon"
+  email="Hannis.Kevon@example.com"
+  />        <Seller id="EMP64612"
+  firstname="Claudina"
+  lastname="McAdams"
+  email="Claudina.McAdams@examplecompany.com"
+  />      <Items><Item><SKU>P25174</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>7</Quantity><Price>55.09</Price></Item><Item><SKU>P57601</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>10</Quantity><Price>89.98</Price></Item><Item><SKU>P37329</SKU><Description>Workbench - Portable</Description><Quantity>2</Quantity><Price>61.13</Price></Item><Item><SKU>P65512</SKU><Description>Hand Saw - 12 inch</Description><Quantity>2</Quantity><Price>19.95</Price></Item>
+      </Items>
+    </Order>

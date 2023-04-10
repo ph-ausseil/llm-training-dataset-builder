@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-22" >
+      <Customer id="CUST21383"
+  firstname="Rani"
+  lastname="Zeeba"
+  email="Rani.Zeeba@example.com"
+  />        <Seller id="EMP56346"
+  firstname="Sybille"
+  lastname="Nicoline"
+  email="Sybille.Nicoline@examplecompany.com"
+  />      <Items><Item><SKU>P91649</SKU><Description>Tile Cutter - Manual</Description><Quantity>5</Quantity><Price>88.33</Price></Item><Item><SKU>P44261</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>5</Quantity><Price>36.22</Price></Item><Item><SKU>P58024</SKU><Description>Tile Cutter - Manual</Description><Quantity>1</Quantity><Price>7.93</Price></Item><Item><SKU>P67298</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>1</Quantity><Price>16.1</Price></Item>
+      </Items>
+    </Order>

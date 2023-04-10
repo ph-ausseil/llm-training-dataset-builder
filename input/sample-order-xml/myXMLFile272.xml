@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-16" >
+      <Customer id="CUST33239"
+  firstname="Wendi"
+  lastname="Rad"
+  email="Wendi.Rad@example.com"
+  />        <Seller id="EMP46784"
+  firstname="Mureil"
+  lastname="Rese"
+  email="Mureil.Rese@examplecompany.com"
+  />      <Items><Item><SKU>P50805</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>6</Quantity><Price>37.31</Price></Item><Item><SKU>P14781</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>10</Quantity><Price>6.91</Price></Item><Item><SKU>P13438</SKU><Description>Utility Knife - Retractable</Description><Quantity>5</Quantity><Price>62.81</Price></Item><Item><SKU>P78106</SKU><Description>Stud Finder - Digital</Description><Quantity>4</Quantity><Price>59.48</Price></Item>
+      </Items>
+    </Order>

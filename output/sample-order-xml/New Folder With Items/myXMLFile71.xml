@@ -1,0 +1,8 @@
+<Order id="ODR30767698" date="2022-10-22">
+      
+      <Customer id="CUST33113" firstname="Kore" lastname="Buffum" email="Kore.Buffum@example.com" />
+        <Seller id="EMP41765" firstname="Ericka" lastname="Crudden" email="Ericka.Crudden@company.com" />
+      <Items>
+        <Item><SKU>P55854</SKU><Description>Hacksaw - 12 inch</Description><Quantity>5</Quantity><Price>81.9</Price></Item><Item><SKU>P30610</SKU><Description>Garden Hose - 50ft</Description><Quantity>4</Quantity><Price>5.94</Price></Item><Item><SKU>P53378</SKU><Description>Workbench - Portable</Description><Quantity>4</Quantity><Price>38.48</Price></Item>
+      </Items>
+    <TotalPrice>409.5</TotalPrice><TotalPrice>433.26</TotalPrice><TotalPrice>587.18</TotalPrice></Order>

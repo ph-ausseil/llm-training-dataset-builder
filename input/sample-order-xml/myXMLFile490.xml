@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-05" >
+      <Customer id="CUST10772"
+  firstname="Ingrid"
+  lastname="Sidonius"
+  email="Ingrid.Sidonius@example.com"
+  />        <Seller id="EMP67162"
+  firstname="Nonnah"
+  lastname="Brady"
+  email="Nonnah.Brady@examplecompany.com"
+  />      <Items><Item><SKU>P11936</SKU><Description>Socket Set - 40 pieces</Description><Quantity>5</Quantity><Price>31.92</Price></Item><Item><SKU>P68996</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>6</Quantity><Price>77.17</Price></Item><Item><SKU>P27385</SKU><Description>Power Drill - 18V</Description><Quantity>7</Quantity><Price>78.78</Price></Item><Item><SKU>P61400</SKU><Description>Stud Finder - Digital</Description><Quantity>6</Quantity><Price>77.58</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-27" >
+      <Customer id="CUST44540"
+  firstname="Britte"
+  lastname="Vale"
+  email="Britte.Vale@example.com"
+  />        <Seller id="EMP45044"
+  firstname="Arlina"
+  lastname="Carolin"
+  email="Arlina.Carolin@examplecompany.com"
+  />      <Items><Item><SKU>P68204</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>1</Quantity><Price>35.86</Price></Item><Item><SKU>P58782</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>1</Quantity><Price>76.34</Price></Item><Item><SKU>P50591</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>3</Quantity><Price>70.84</Price></Item><Item><SKU>P93772</SKU><Description>Hand Saw - 12 inch</Description><Quantity>6</Quantity><Price>59.39</Price></Item>
+      </Items>
+    </Order>

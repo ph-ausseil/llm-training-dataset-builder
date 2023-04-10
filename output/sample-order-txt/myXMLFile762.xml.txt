@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1011.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Belva Narton.
+Question : What is the cost of item 'P85960'?
+Answer : The  cost of item 'P85960' was $376.29.
+Question : What is the name of item 'P85960'?
+Answer : The  name of item 'P85960' was 'LED Light Bulb - 60W'.
+Question : What is the SKU of item 'LED Light Bulb - 60W'?
+Answer : The  SKU of item 'LED Light Bulb - 60W' was 'P85960'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-07'.
+Question : What is the email address of the customer with ID 'CUST57826'?
+Answer : The  email address of the customer with ID 'CUST57826' was 'Xylina.Ezar@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929' was $376.29.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $50.58.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $910.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1011.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Belva Narton.
+Question : What is the cost of item 'P88497'?
+Answer : The  cost of item 'P88497' was $502.74.
+Question : What is the name of item 'P88497'?
+Answer : The  name of item 'P88497' was 'Adjustable Wrench - 12 inch'.
+Question : What is the SKU of item 'Adjustable Wrench - 12 inch'?
+Answer : The  SKU of item 'Adjustable Wrench - 12 inch' was 'P88497'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-07'.
+Question : What is the email address of the customer with ID 'CUST57826'?
+Answer : The  email address of the customer with ID 'CUST57826' was 'Xylina.Ezar@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929' was $502.73999999999995.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $50.58.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $910.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1011.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Belva Narton.
+Question : What is the cost of item 'P49316'?
+Answer : The  cost of item 'P49316' was $50.11.
+Question : What is the name of item 'P49316'?
+Answer : The  name of item 'P49316' was 'Heavy-Duty Extension Cord - 100ft'.
+Question : What is the SKU of item 'Heavy-Duty Extension Cord - 100ft'?
+Answer : The  SKU of item 'Heavy-Duty Extension Cord - 100ft' was 'P49316'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-07'.
+Question : What is the email address of the customer with ID 'CUST57826'?
+Answer : The  email address of the customer with ID 'CUST57826' was 'Xylina.Ezar@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929' was $50.11.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $50.58.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $910.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1011.64.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Belva Narton.
+Question : What is the cost of item 'P24286'?
+Answer : The  cost of item 'P24286' was $82.5.
+Question : What is the name of item 'P24286'?
+Answer : The  name of item 'P24286' was 'Paint Brush Set - 5 pieces'.
+Question : What is the SKU of item 'Paint Brush Set - 5 pieces'?
+Answer : The  SKU of item 'Paint Brush Set - 5 pieces' was 'P24286'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-08-07'.
+Question : What is the email address of the customer with ID 'CUST57826'?
+Answer : The  email address of the customer with ID 'CUST57826' was 'Xylina.Ezar@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Paint Brush Set - 5 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Paint Brush Set - 5 pieces' items ordered in the sales order with ID 'ODR50574929' was $82.5.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $50.58.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $910.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.

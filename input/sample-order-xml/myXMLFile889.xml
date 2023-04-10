@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-13" >
+      <Customer id="CUST20774"
+  firstname="Ingrid"
+  lastname="Drus"
+  email="Ingrid.Drus@example.com"
+  />        <Seller id="EMP74193"
+  firstname="Dione"
+  lastname="Girardo"
+  email="Dione.Girardo@examplecompany.com"
+  />      <Items><Item><SKU>P33641</SKU><Description>Utility Knife - Retractable</Description><Quantity>3</Quantity><Price>39.58</Price></Item><Item><SKU>P92975</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>8</Quantity><Price>52.01</Price></Item><Item><SKU>P12153</SKU><Description>Tarp - 12x16 ft</Description><Quantity>1</Quantity><Price>73.38</Price></Item><Item><SKU>P93669</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>8</Quantity><Price>86.93</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,9 @@
+Pierre-Henri AUSSEIL
+LinkedIn: linkedin.com/in/ausseil/
+GitHub: github.com/ph-ausseil/
+
+About the author : 
+I work in Data Integration (Middleware, DataHub, API...) & Service Management. I am not a developer. I wanted to make a proof of concept on the uses of LLM in a company stack so the LLM would know about the business environment and improve a company's decision-making.
+
+Disclaimer for my employer :
+This has been developed over one weekend on my personal time.

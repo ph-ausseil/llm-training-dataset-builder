@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-07-19">
+  
+      
+  <Customer id="CUST91907" firstname="Candy" lastname="Jess" email="Candy.Jess@example.com"/>
+          
+  <Seller id="EMP20662" firstname="Cathie" lastname="Daveta" email="Cathie.Daveta@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>31.548000000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>9</Quantity>
+      <Price>7.238</Price>
+    </Item>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>45.155</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>64.13</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>962.73</TotalPrice>
+</Order>

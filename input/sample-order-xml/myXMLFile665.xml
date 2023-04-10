@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-01-09" >
+      <Customer id="CUST67768"
+  firstname="Shannah"
+  lastname="Callista"
+  email="Shannah.Callista@example.com"
+  />        <Seller id="EMP10556"
+  firstname="Rori"
+  lastname="Boehike"
+  email="Rori.Boehike@examplecompany.com"
+  />      <Items><Item><SKU>P73993</SKU><Description>Stud Finder - Digital</Description><Quantity>7</Quantity><Price>23.79</Price></Item><Item><SKU>P99217</SKU><Description>Hammer - 16 oz</Description><Quantity>7</Quantity><Price>45.89</Price></Item><Item><SKU>P49767</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>3</Quantity><Price>28.95</Price></Item><Item><SKU>P23747</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>1</Quantity><Price>26.71</Price></Item>
+      </Items>
+    </Order>

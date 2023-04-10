@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-05-11">
+  
+      
+  <Customer id="CUST94760" firstname="Vere" lastname="Shaddock" email="Vere.Shaddock@example.com"/>
+          
+  <Seller id="EMP35824" firstname="Beatriz" lastname="Tannie" email="Beatriz.Tannie@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>9</Quantity>
+      <Price>89.418</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>6</Quantity>
+      <Price>11.8335</Price>
+    </Item>
+    <Item>
+      <SKU>P65232</SKU>
+      <Description>Level - 24 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>70.27650000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>1</Quantity>
+      <Price>94.08</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1672.61</TotalPrice>
+</Order>

@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $2092.91.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kary Syd.
+Question : What is the cost of item 'P72757'?
+Answer : The  cost of item 'P72757' was $900.8.
+Question : What is the name of item 'P72757'?
+Answer : The  name of item 'P72757' was 'Tape Measure - 25 ft'.
+Question : What is the SKU of item 'Tape Measure - 25 ft'?
+Answer : The  SKU of item 'Tape Measure - 25 ft' was 'P72757'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-23'.
+Question : What is the email address of the customer with ID 'CUST49971'?
+Answer : The  email address of the customer with ID 'CUST49971' was 'Brena.Halsey@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Tape Measure - 25 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tape Measure - 25 ft' items ordered in the sales order with ID 'ODR50574929' was $900.8.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $80.5.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1883.62.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $90.08.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $2092.91.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kary Syd.
+Question : What is the cost of item 'P56185'?
+Answer : The  cost of item 'P56185' was $719.84.
+Question : What is the name of item 'P56185'?
+Answer : The  name of item 'P56185' was 'Hacksaw - 12 inch'.
+Question : What is the SKU of item 'Hacksaw - 12 inch'?
+Answer : The  SKU of item 'Hacksaw - 12 inch' was 'P56185'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-23'.
+Question : What is the email address of the customer with ID 'CUST49971'?
+Answer : The  email address of the customer with ID 'CUST49971' was 'Brena.Halsey@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Hacksaw - 12 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hacksaw - 12 inch' items ordered in the sales order with ID 'ODR50574929' was $719.84.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $80.5.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1883.62.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $90.08.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $2092.91.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kary Syd.
+Question : What is the cost of item 'P28369'?
+Answer : The  cost of item 'P28369' was $410.95.
+Question : What is the name of item 'P28369'?
+Answer : The  name of item 'P28369' was 'Sandpaper - Assorted Grits'.
+Question : What is the SKU of item 'Sandpaper - Assorted Grits'?
+Answer : The  SKU of item 'Sandpaper - Assorted Grits' was 'P28369'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-23'.
+Question : What is the email address of the customer with ID 'CUST49971'?
+Answer : The  email address of the customer with ID 'CUST49971' was 'Brena.Halsey@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Sandpaper - Assorted Grits' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Sandpaper - Assorted Grits' items ordered in the sales order with ID 'ODR50574929' was $410.95.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $80.5.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1883.62.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $90.08.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $2092.91.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kary Syd.
+Question : What is the cost of item 'P10753'?
+Answer : The  cost of item 'P10753' was $61.32.
+Question : What is the name of item 'P10753'?
+Answer : The  name of item 'P10753' was 'Work Gloves - Leather'.
+Question : What is the SKU of item 'Work Gloves - Leather'?
+Answer : The  SKU of item 'Work Gloves - Leather' was 'P10753'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-23'.
+Question : What is the email address of the customer with ID 'CUST49971'?
+Answer : The  email address of the customer with ID 'CUST49971' was 'Brena.Halsey@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Work Gloves - Leather' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Work Gloves - Leather' items ordered in the sales order with ID 'ODR50574929' was $61.32000000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $80.5.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1883.62.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $90.08.

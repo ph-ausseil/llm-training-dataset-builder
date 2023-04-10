@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-08-12">
+  
+      
+  <Customer id="CUST35563" firstname="Wanda" lastname="Lilas" email="Wanda.Lilas@example.com"/>
+          
+  <Seller id="EMP46350" firstname="Michaelina" lastname="Dosia" email="Michaelina.Dosia@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>2</Quantity>
+      <Price>6.58</Price>
+    </Item>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>3</Quantity>
+      <Price>38.83</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>37.49</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>279.61</TotalPrice>
+</Order>

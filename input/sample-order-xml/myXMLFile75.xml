@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-17" >
+      <Customer id="CUST43662"
+  firstname="Mariele"
+  lastname="Beebe"
+  email="Mariele.Beebe@example.com"
+  />        <Seller id="EMP34518"
+  firstname="Sharai"
+  lastname="Catie"
+  email="Sharai.Catie@examplecompany.com"
+  />      <Items><Item><SKU>P78306</SKU><Description>Power Drill - 18V</Description><Quantity>2</Quantity><Price>47.86</Price></Item><Item><SKU>P86009</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>2</Quantity><Price>27.53</Price></Item><Item><SKU>P20485</SKU><Description>Power Drill - 18V</Description><Quantity>1</Quantity><Price>31.56</Price></Item><Item><SKU>P79169</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>31.64</Price></Item>
+      </Items>
+    </Order>

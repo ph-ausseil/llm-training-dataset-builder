@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-05-28" >
+      <Customer id="CUST73339"
+  firstname="Meg"
+  lastname="Rese"
+  email="Meg.Rese@example.com"
+  />        <Seller id="EMP50349"
+  firstname="Consuela"
+  lastname="Alejoa"
+  email="Consuela.Alejoa@examplecompany.com"
+  />      <Items><Item><SKU>P89952</SKU><Description>Tape Measure - 25 ft</Description><Quantity>9</Quantity><Price>58.64</Price></Item><Item><SKU>P90580</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>3</Quantity><Price>57.64</Price></Item><Item><SKU>P82893</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>9</Quantity><Price>82.96</Price></Item><Item><SKU>P31569</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>1</Quantity><Price>24.51</Price></Item>
+      </Items>
+    </Order>

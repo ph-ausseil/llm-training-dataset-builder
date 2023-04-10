@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-07" >
+      <Customer id="CUST86559"
+  firstname="Mariann"
+  lastname="Brackely"
+  email="Mariann.Brackely@example.com"
+  />        <Seller id="EMP13561"
+  firstname="Tomasina"
+  lastname="Craggie"
+  email="Tomasina.Craggie@examplecompany.com"
+  />      <Items><Item><SKU>P42389</SKU><Description>Hacksaw - 12 inch</Description><Quantity>1</Quantity><Price>42.16</Price></Item><Item><SKU>P40588</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>6</Quantity><Price>51.27</Price></Item><Item><SKU>P85480</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>2</Quantity><Price>21.5</Price></Item><Item><SKU>P59244</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>4</Quantity><Price>88.68</Price></Item>
+      </Items>
+    </Order>

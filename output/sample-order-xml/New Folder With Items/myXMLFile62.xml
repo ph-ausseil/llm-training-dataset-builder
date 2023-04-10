@@ -1,0 +1,8 @@
+<Order id="ODR86067069" date="2021-06-18">
+      
+      <Customer id="CUST94443" firstname="Bobbi" lastname="Bashemeth" email="Bobbi.Bashemeth@example.com" />
+        <Seller id="EMP3959" firstname="Melanie" lastname="Mallon" email="Melanie.Mallon@company.com" />
+      <Items>
+        <Item><SKU>P2231</SKU><Description>Safety Goggles - Clear</Description><Quantity>5</Quantity><Price>7.37</Price></Item><Item><SKU>P33801</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>2</Quantity><Price>30.61</Price></Item><Item><SKU>P68913</SKU><Description>Utility Knife - Retractable</Description><Quantity>4</Quantity><Price>3.04</Price></Item>
+      </Items>
+    <TotalPrice>36.85</TotalPrice><TotalPrice>98.07</TotalPrice><TotalPrice>110.22999999999999</TotalPrice></Order>

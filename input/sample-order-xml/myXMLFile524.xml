@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-19" >
+      <Customer id="CUST31948"
+  firstname="Kelly"
+  lastname="Chesna"
+  email="Kelly.Chesna@example.com"
+  />        <Seller id="EMP20874"
+  firstname="Gertrud"
+  lastname="Kravits"
+  email="Gertrud.Kravits@examplecompany.com"
+  />      <Items><Item><SKU>P84880</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>57.51</Price></Item><Item><SKU>P62194</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>12.04</Price></Item><Item><SKU>P91959</SKU><Description>Tarp - 12x16 ft</Description><Quantity>1</Quantity><Price>79.31</Price></Item><Item><SKU>P21327</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>2</Quantity><Price>38.92</Price></Item>
+      </Items>
+    </Order>

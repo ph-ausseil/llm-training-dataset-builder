@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-22" >
+      <Customer id="CUST66736"
+  firstname="Margette"
+  lastname="Helve"
+  email="Margette.Helve@example.com"
+  />        <Seller id="EMP48406"
+  firstname="Yetty"
+  lastname="Tristram"
+  email="Yetty.Tristram@examplecompany.com"
+  />      <Items><Item><SKU>P34091</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>9</Quantity><Price>68.11</Price></Item><Item><SKU>P92354</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>6</Quantity><Price>68.88</Price></Item><Item><SKU>P22437</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>2</Quantity><Price>37.84</Price></Item><Item><SKU>P28797</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>5</Quantity><Price>67.83</Price></Item>
+      </Items>
+    </Order>

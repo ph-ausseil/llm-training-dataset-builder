@@ -1,0 +1,8 @@
+<Order id="ODR88485096" date="2022-10-30">
+      
+      <Customer id="CUST69026" firstname="Janeczka" lastname="Rurik" email="Janeczka.Rurik@example.com" />
+        <Seller id="EMP70644" firstname="Jessamyn" lastname="Brunell" email="Jessamyn.Brunell@company.com" />
+      <Items>
+        <Item><SKU>P37415</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>4</Quantity><Price>21.35</Price></Item><Item><SKU>P24703</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>1</Quantity><Price>27.13</Price></Item><Item><SKU>P1002</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>4</Quantity><Price>14.94</Price></Item>
+      </Items>
+    <TotalPrice>85.4</TotalPrice><TotalPrice>112.53</TotalPrice><TotalPrice>172.29</TotalPrice></Order>

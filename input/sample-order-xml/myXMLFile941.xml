@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-03-07" >
+      <Customer id="CUST33699"
+  firstname="Minda"
+  lastname="Kare"
+  email="Minda.Kare@example.com"
+  />        <Seller id="EMP81014"
+  firstname="Cyb"
+  lastname="Liebermann"
+  email="Cyb.Liebermann@examplecompany.com"
+  />      <Items><Item><SKU>P34571</SKU><Description>Tarp - 12x16 ft</Description><Quantity>4</Quantity><Price>64.7</Price></Item><Item><SKU>P37945</SKU><Description>Hammer - 16 oz</Description><Quantity>7</Quantity><Price>66.57</Price></Item><Item><SKU>P84852</SKU><Description>Workbench - Portable</Description><Quantity>2</Quantity><Price>9.74</Price></Item><Item><SKU>P92628</SKU><Description>Utility Knife - Retractable</Description><Quantity>8</Quantity><Price>55.25</Price></Item>
+      </Items>
+    </Order>

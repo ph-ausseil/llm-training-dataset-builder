@@ -1,0 +1,8 @@
+<Order id="ODR97241397" date="2022-01-09">
+      
+      <Customer id="CUST98365" firstname="Isa" lastname="Oriana" email="Isa.Oriana@example.com" />
+        <Seller id="EMP63615" firstname="Dolli" lastname="Cloris" email="Dolli.Cloris@company.com" />
+      <Items>
+        <Item><SKU>P64706</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>1</Quantity><Price>23.03</Price></Item><Item><SKU>P6028</SKU><Description>Safety Goggles - Clear</Description><Quantity>3</Quantity><Price>9.22</Price></Item><Item><SKU>P82916</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>5</Quantity><Price>39.07</Price></Item>
+      </Items>
+    <TotalPrice>23.03</TotalPrice><TotalPrice>50.690000000000005</TotalPrice><TotalPrice>246.04</TotalPrice></Order>

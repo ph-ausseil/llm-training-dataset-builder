@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-03-28" >
+      <Customer id="CUST37200"
+  firstname="Sashenka"
+  lastname="Allare"
+  email="Sashenka.Allare@example.com"
+  />        <Seller id="EMP80800"
+  firstname="Janey"
+  lastname="Curren"
+  email="Janey.Curren@examplecompany.com"
+  />      <Items><Item><SKU>P89491</SKU><Description>Jigsaw - Cordless</Description><Quantity>7</Quantity><Price>32.51</Price></Item><Item><SKU>P21947</SKU><Description>Work Gloves - Leather</Description><Quantity>10</Quantity><Price>25.17</Price></Item><Item><SKU>P96894</SKU><Description>Socket Set - 40 pieces</Description><Quantity>2</Quantity><Price>62.96</Price></Item><Item><SKU>P90756</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>6</Quantity><Price>44.54</Price></Item>
+      </Items>
+    </Order>

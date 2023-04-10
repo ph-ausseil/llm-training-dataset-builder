@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-03-11" >
+      <Customer id="CUST80603"
+  firstname="Rosanne"
+  lastname="Callista"
+  email="Rosanne.Callista@example.com"
+  />        <Seller id="EMP79638"
+  firstname="Mariele"
+  lastname="Klotz"
+  email="Mariele.Klotz@examplecompany.com"
+  />      <Items><Item><SKU>P22976</SKU><Description>Workbench - Portable</Description><Quantity>8</Quantity><Price>70.9</Price></Item><Item><SKU>P71820</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>3</Quantity><Price>76.7</Price></Item><Item><SKU>P88220</SKU><Description>Miter Saw - 10 inch</Description><Quantity>5</Quantity><Price>20.05</Price></Item><Item><SKU>P41041</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>9</Quantity><Price>59.85</Price></Item>
+      </Items>
+    </Order>

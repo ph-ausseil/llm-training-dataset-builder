@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-15" >
+      <Customer id="CUST43020"
+  firstname="Gerianna"
+  lastname="Capello"
+  email="Gerianna.Capello@example.com"
+  />        <Seller id="EMP86933"
+  firstname="Ashlee"
+  lastname="Maribeth"
+  email="Ashlee.Maribeth@examplecompany.com"
+  />      <Items><Item><SKU>P78005</SKU><Description>LED Light Bulb - 60W</Description><Quantity>6</Quantity><Price>77.14</Price></Item><Item><SKU>P45491</SKU><Description>Hand Saw - 12 inch</Description><Quantity>4</Quantity><Price>10.03</Price></Item><Item><SKU>P50472</SKU><Description>Work Gloves - Leather</Description><Quantity>10</Quantity><Price>30.42</Price></Item><Item><SKU>P29121</SKU><Description>Hand Saw - 12 inch</Description><Quantity>7</Quantity><Price>69.5</Price></Item>
+      </Items>
+    </Order>

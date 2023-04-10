@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-08" >
+      <Customer id="CUST38761"
+  firstname="Gloria"
+  lastname="Drisko"
+  email="Gloria.Drisko@example.com"
+  />        <Seller id="EMP61742"
+  firstname="Ilse"
+  lastname="Sallyann"
+  email="Ilse.Sallyann@examplecompany.com"
+  />      <Items><Item><SKU>P53020</SKU><Description>Garden Hose - 50ft</Description><Quantity>3</Quantity><Price>72.44</Price></Item><Item><SKU>P61734</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>9</Quantity><Price>39.23</Price></Item><Item><SKU>P61689</SKU><Description>Stud Finder - Digital</Description><Quantity>7</Quantity><Price>51.76</Price></Item><Item><SKU>P92149</SKU><Description>Work Gloves - Leather</Description><Quantity>2</Quantity><Price>67.63</Price></Item>
+      </Items>
+    </Order>

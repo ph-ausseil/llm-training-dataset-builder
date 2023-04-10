@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-12" >
+      <Customer id="CUST18772"
+  firstname="Nicoli"
+  lastname="Gunn"
+  email="Nicoli.Gunn@example.com"
+  />        <Seller id="EMP25253"
+  firstname="Ingrid"
+  lastname="Wildermuth"
+  email="Ingrid.Wildermuth@examplecompany.com"
+  />      <Items><Item><SKU>P82664</SKU><Description>Tarp - 12x16 ft</Description><Quantity>1</Quantity><Price>79.22</Price></Item><Item><SKU>P78621</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>7</Quantity><Price>11.75</Price></Item><Item><SKU>P96032</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>4</Quantity><Price>49.62</Price></Item><Item><SKU>P40044</SKU><Description>Safety Goggles - Clear</Description><Quantity>10</Quantity><Price>30.96</Price></Item>
+      </Items>
+    </Order>

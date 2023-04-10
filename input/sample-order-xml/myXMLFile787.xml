@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-09" >
+      <Customer id="CUST22859"
+  firstname="Linet"
+  lastname="Carey"
+  email="Linet.Carey@example.com"
+  />        <Seller id="EMP45085"
+  firstname="Elyssa"
+  lastname="Dash"
+  email="Elyssa.Dash@examplecompany.com"
+  />      <Items><Item><SKU>P31942</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>3</Quantity><Price>76.66</Price></Item><Item><SKU>P97678</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>10</Quantity><Price>43.59</Price></Item><Item><SKU>P31904</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>7</Quantity><Price>80.84</Price></Item><Item><SKU>P97249</SKU><Description>Tape Measure - 25 ft</Description><Quantity>9</Quantity><Price>14.06</Price></Item>
+      </Items>
+    </Order>

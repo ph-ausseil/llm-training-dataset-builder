@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-12-20">
+  
+      
+  <Customer id="CUST95824" firstname="Sidoney" lastname="Tound" email="Sidoney.Tound@example.com"/>
+          
+  <Seller id="EMP16315" firstname="Lanna" lastname="Janith" email="Lanna.Janith@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>1</Quantity>
+      <Price>41.05</Price>
+    </Item>
+    <Item>
+      <SKU>P28369</SKU>
+      <Description>Sandpaper - Assorted Grits</Description>
+      <Quantity>2</Quantity>
+      <Price>82.19</Price>
+    </Item>
+    <Item>
+      <SKU>P43386</SKU>
+      <Description>Pipe Wrench - 14 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>75.86</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>8</Quantity>
+      <Price>89.6</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1225.67</TotalPrice>
+</Order>

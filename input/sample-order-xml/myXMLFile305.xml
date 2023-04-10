@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-06-04" >
+      <Customer id="CUST11022"
+  firstname="Orelia"
+  lastname="Havens"
+  email="Orelia.Havens@example.com"
+  />        <Seller id="EMP49813"
+  firstname="Roxane"
+  lastname="Kylander"
+  email="Roxane.Kylander@examplecompany.com"
+  />      <Items><Item><SKU>P16475</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>5</Quantity><Price>28.78</Price></Item><Item><SKU>P96965</SKU><Description>Hacksaw - 12 inch</Description><Quantity>6</Quantity><Price>85.54</Price></Item><Item><SKU>P18924</SKU><Description>LED Light Bulb - 60W</Description><Quantity>4</Quantity><Price>8.53</Price></Item><Item><SKU>P89617</SKU><Description>Socket Set - 40 pieces</Description><Quantity>9</Quantity><Price>85.08</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-05-03" >
+      <Customer id="CUST14244"
+  firstname="Kimmy"
+  lastname="Eugenia"
+  email="Kimmy.Eugenia@example.com"
+  />        <Seller id="EMP36332"
+  firstname="Correy"
+  lastname="Tatianas"
+  email="Correy.Tatianas@examplecompany.com"
+  />      <Items><Item><SKU>P49865</SKU><Description>Socket Set - 40 pieces</Description><Quantity>9</Quantity><Price>35.45</Price></Item><Item><SKU>P43404</SKU><Description>Workbench - Portable</Description><Quantity>4</Quantity><Price>86.52</Price></Item><Item><SKU>P70963</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>5</Quantity><Price>17.74</Price></Item><Item><SKU>P20586</SKU><Description>Level - 24 inch</Description><Quantity>3</Quantity><Price>38.54</Price></Item>
+      </Items>
+    </Order>

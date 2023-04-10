@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-12" >
+      <Customer id="CUST24683"
+  firstname="Randa"
+  lastname="Joachim"
+  email="Randa.Joachim@example.com"
+  />        <Seller id="EMP29781"
+  firstname="Mariele"
+  lastname="Garek"
+  email="Mariele.Garek@examplecompany.com"
+  />      <Items><Item><SKU>P54219</SKU><Description>Utility Knife - Retractable</Description><Quantity>10</Quantity><Price>51.72</Price></Item><Item><SKU>P21788</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>6</Quantity><Price>8.67</Price></Item><Item><SKU>P97350</SKU><Description>Stud Finder - Digital</Description><Quantity>3</Quantity><Price>75.81</Price></Item><Item><SKU>P40090</SKU><Description>Tool Box - 19 inch</Description><Quantity>7</Quantity><Price>8.76</Price></Item>
+      </Items>
+    </Order>

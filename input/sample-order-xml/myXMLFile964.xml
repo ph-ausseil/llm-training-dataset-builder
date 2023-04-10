@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-07" >
+      <Customer id="CUST29273"
+  firstname="Myrtice"
+  lastname="Teddman"
+  email="Myrtice.Teddman@example.com"
+  />        <Seller id="EMP40927"
+  firstname="Berget"
+  lastname="Marlie"
+  email="Berget.Marlie@examplecompany.com"
+  />      <Items><Item><SKU>P94287</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>10</Quantity><Price>21.49</Price></Item><Item><SKU>P76742</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>2</Quantity><Price>77.46</Price></Item><Item><SKU>P42503</SKU><Description>Nail Gun - Electric</Description><Quantity>7</Quantity><Price>63.96</Price></Item><Item><SKU>P52675</SKU><Description>Tool Box - 19 inch</Description><Quantity>2</Quantity><Price>81.75</Price></Item>
+      </Items>
+    </Order>

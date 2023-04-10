@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-17" >
+      <Customer id="CUST46684"
+  firstname="Leia"
+  lastname="Destinee"
+  email="Leia.Destinee@example.com"
+  />        <Seller id="EMP70406"
+  firstname="Tamqrah"
+  lastname="Schalles"
+  email="Tamqrah.Schalles@examplecompany.com"
+  />      <Items><Item><SKU>P25116</SKU><Description>Jigsaw - Cordless</Description><Quantity>10</Quantity><Price>25.69</Price></Item><Item><SKU>P34033</SKU><Description>Garden Hose - 50ft</Description><Quantity>1</Quantity><Price>47.97</Price></Item><Item><SKU>P19682</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>7</Quantity><Price>43.68</Price></Item><Item><SKU>P53380</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>1</Quantity><Price>28.75</Price></Item>
+      </Items>
+    </Order>

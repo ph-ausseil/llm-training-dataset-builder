@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-19" >
+      <Customer id="CUST68653"
+  firstname="Deedee"
+  lastname="Gregrory"
+  email="Deedee.Gregrory@example.com"
+  />        <Seller id="EMP77979"
+  firstname="Dominga"
+  lastname="Kalinda"
+  email="Dominga.Kalinda@examplecompany.com"
+  />      <Items><Item><SKU>P52973</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>83.98</Price></Item><Item><SKU>P57193</SKU><Description>Safety Goggles - Clear</Description><Quantity>10</Quantity><Price>59.92</Price></Item><Item><SKU>P23076</SKU><Description>Tape Measure - 25 ft</Description><Quantity>7</Quantity><Price>85</Price></Item><Item><SKU>P27991</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>3</Quantity><Price>5.9</Price></Item>
+      </Items>
+    </Order>

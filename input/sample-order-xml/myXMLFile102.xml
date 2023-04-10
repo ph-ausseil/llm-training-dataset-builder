@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-26" >
+      <Customer id="CUST29715"
+  firstname="Demetris"
+  lastname="Konyn"
+  email="Demetris.Konyn@example.com"
+  />        <Seller id="EMP76762"
+  firstname="Wanda"
+  lastname="Barney"
+  email="Wanda.Barney@examplecompany.com"
+  />      <Items><Item><SKU>P94320</SKU><Description>Tape Measure - 25 ft</Description><Quantity>8</Quantity><Price>10.04</Price></Item><Item><SKU>P11034</SKU><Description>LED Light Bulb - 60W</Description><Quantity>8</Quantity><Price>89.04</Price></Item><Item><SKU>P42970</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>1</Quantity><Price>71.86</Price></Item><Item><SKU>P99096</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>9</Quantity><Price>23.44</Price></Item>
+      </Items>
+    </Order>

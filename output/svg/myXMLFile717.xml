@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-07-11">
+  
+      
+  <Customer id="CUST45650" firstname="Claresta" lastname="Irmine" email="Claresta.Irmine@example.com"/>
+          
+  <Seller id="EMP65665" firstname="Heddie" lastname="Beniamino" email="Heddie.Beniamino@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P28369</SKU>
+      <Description>Sandpaper - Assorted Grits</Description>
+      <Quantity>5</Quantity>
+      <Price>82.19</Price>
+    </Item>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>10</Quantity>
+      <Price>70.38</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>7</Quantity>
+      <Price>28.68</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1315.51</TotalPrice>
+</Order>

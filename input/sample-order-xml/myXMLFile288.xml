@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-18" >
+      <Customer id="CUST67857"
+  firstname="Sheelagh"
+  lastname="Egbert"
+  email="Sheelagh.Egbert@example.com"
+  />        <Seller id="EMP38337"
+  firstname="Hayley"
+  lastname="Alisia"
+  email="Hayley.Alisia@examplecompany.com"
+  />      <Items><Item><SKU>P80544</SKU><Description>Miter Saw - 10 inch</Description><Quantity>2</Quantity><Price>41.55</Price></Item><Item><SKU>P19403</SKU><Description>Hacksaw - 12 inch</Description><Quantity>8</Quantity><Price>67.38</Price></Item><Item><SKU>P74159</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>1</Quantity><Price>77.8</Price></Item><Item><SKU>P94900</SKU><Description>Nail Gun - Electric</Description><Quantity>6</Quantity><Price>23.45</Price></Item>
+      </Items>
+    </Order>

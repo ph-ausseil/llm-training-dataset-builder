@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-06-27" >
+      <Customer id="CUST44354"
+  firstname="Carolina"
+  lastname="Read"
+  email="Carolina.Read@example.com"
+  />        <Seller id="EMP48343"
+  firstname="Sam"
+  lastname="Thilda"
+  email="Sam.Thilda@examplecompany.com"
+  />      <Items><Item><SKU>P96554</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>1</Quantity><Price>34.14</Price></Item><Item><SKU>P61929</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>6</Quantity><Price>78.11</Price></Item><Item><SKU>P49559</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>6</Quantity><Price>64.28</Price></Item><Item><SKU>P16680</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>2</Quantity><Price>90.31</Price></Item>
+      </Items>
+    </Order>

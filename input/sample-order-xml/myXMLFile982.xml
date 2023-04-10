@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-23" >
+      <Customer id="CUST43725"
+  firstname="Ethel"
+  lastname="Whittaker"
+  email="Ethel.Whittaker@example.com"
+  />        <Seller id="EMP83757"
+  firstname="Ileana"
+  lastname="Laurianne"
+  email="Ileana.Laurianne@examplecompany.com"
+  />      <Items><Item><SKU>P43931</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>3</Quantity><Price>63.2</Price></Item><Item><SKU>P27702</SKU><Description>Tape Measure - 25 ft</Description><Quantity>9</Quantity><Price>88.51</Price></Item><Item><SKU>P94239</SKU><Description>Work Gloves - Leather</Description><Quantity>2</Quantity><Price>7.34</Price></Item><Item><SKU>P55203</SKU><Description>Nail Gun - Electric</Description><Quantity>4</Quantity><Price>36.61</Price></Item>
+      </Items>
+    </Order>

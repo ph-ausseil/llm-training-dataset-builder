@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-26" >
+      <Customer id="CUST66129"
+  firstname="Lolita"
+  lastname="Lay"
+  email="Lolita.Lay@example.com"
+  />        <Seller id="EMP95529"
+  firstname="Neila"
+  lastname="Linskey"
+  email="Neila.Linskey@examplecompany.com"
+  />      <Items><Item><SKU>P47338</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>3</Quantity><Price>14.07</Price></Item><Item><SKU>P86145</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>9</Quantity><Price>43.08</Price></Item><Item><SKU>P46537</SKU><Description>Power Drill - 18V</Description><Quantity>10</Quantity><Price>32.32</Price></Item><Item><SKU>P44969</SKU><Description>Tool Box - 19 inch</Description><Quantity>4</Quantity><Price>20.83</Price></Item>
+      </Items>
+    </Order>

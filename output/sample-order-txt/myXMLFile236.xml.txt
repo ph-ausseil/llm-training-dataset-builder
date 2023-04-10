@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $659.85.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Bee Suanne.
+Question : What is the cost of item 'P85960'?
+Answer : The  cost of item 'P85960' was $43.9.
+Question : What is the name of item 'P85960'?
+Answer : The  name of item 'P85960' was 'LED Light Bulb - 60W'.
+Question : What is the SKU of item 'LED Light Bulb - 60W'?
+Answer : The  SKU of item 'LED Light Bulb - 60W' was 'P85960'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-07-24'.
+Question : What is the email address of the customer with ID 'CUST82452'?
+Answer : The  email address of the customer with ID 'CUST82452' was 'Valli.Chabot@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 21.
+Question : What is the total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929' was $43.9005.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $31.42.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $593.87.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $659.85.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Bee Suanne.
+Question : What is the cost of item 'P60272'?
+Answer : The  cost of item 'P60272' was $98.7.
+Question : What is the name of item 'P60272'?
+Answer : The  name of item 'P60272' was 'Socket Set - 40 pieces'.
+Question : What is the SKU of item 'Socket Set - 40 pieces'?
+Answer : The  SKU of item 'Socket Set - 40 pieces' was 'P60272'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-07-24'.
+Question : What is the email address of the customer with ID 'CUST82452'?
+Answer : The  email address of the customer with ID 'CUST82452' was 'Valli.Chabot@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 21.
+Question : What is the total price of all 'Socket Set - 40 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Socket Set - 40 pieces' items ordered in the sales order with ID 'ODR50574929' was $98.70000000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $31.42.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $593.87.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $659.85.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Bee Suanne.
+Question : What is the cost of item 'P51598'?
+Answer : The  cost of item 'P51598' was $326.17.
+Question : What is the name of item 'P51598'?
+Answer : The  name of item 'P51598' was 'Sledge Hammer - 10 lb'.
+Question : What is the SKU of item 'Sledge Hammer - 10 lb'?
+Answer : The  SKU of item 'Sledge Hammer - 10 lb' was 'P51598'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-07-24'.
+Question : What is the email address of the customer with ID 'CUST82452'?
+Answer : The  email address of the customer with ID 'CUST82452' was 'Valli.Chabot@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 21.
+Question : What is the total price of all 'Sledge Hammer - 10 lb' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Sledge Hammer - 10 lb' items ordered in the sales order with ID 'ODR50574929' was $326.172.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $31.42.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $593.87.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $659.85.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Bee Suanne.
+Question : What is the cost of item 'P12338'?
+Answer : The  cost of item 'P12338' was $191.08.
+Question : What is the name of item 'P12338'?
+Answer : The  name of item 'P12338' was 'Hammer - 16 oz'.
+Question : What is the SKU of item 'Hammer - 16 oz'?
+Answer : The  SKU of item 'Hammer - 16 oz' was 'P12338'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-07-24'.
+Question : What is the email address of the customer with ID 'CUST82452'?
+Answer : The  email address of the customer with ID 'CUST82452' was 'Valli.Chabot@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 21.
+Question : What is the total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929' was $191.079.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $31.42.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $593.87.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-30" >
+      <Customer id="CUST31844"
+  firstname="Tybie"
+  lastname="Gregrory"
+  email="Tybie.Gregrory@example.com"
+  />        <Seller id="EMP89387"
+  firstname="Sonni"
+  lastname="Lenny"
+  email="Sonni.Lenny@examplecompany.com"
+  />      <Items><Item><SKU>P59642</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>2</Quantity><Price>56.35</Price></Item><Item><SKU>P11574</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>7</Quantity><Price>31.07</Price></Item><Item><SKU>P48939</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>9</Quantity><Price>33.45</Price></Item><Item><SKU>P89756</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>9</Quantity><Price>8.71</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-09" >
+      <Customer id="CUST23156"
+  firstname="Christal"
+  lastname="Loeb"
+  email="Christal.Loeb@example.com"
+  />        <Seller id="EMP31485"
+  firstname="Candi"
+  lastname="Holbrook"
+  email="Candi.Holbrook@examplecompany.com"
+  />      <Items><Item><SKU>P24081</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>4</Quantity><Price>26.58</Price></Item><Item><SKU>P16071</SKU><Description>Work Gloves - Leather</Description><Quantity>1</Quantity><Price>45.53</Price></Item><Item><SKU>P84582</SKU><Description>Safety Goggles - Clear</Description><Quantity>10</Quantity><Price>72.56</Price></Item><Item><SKU>P49566</SKU><Description>LED Light Bulb - 60W</Description><Quantity>3</Quantity><Price>62.86</Price></Item>
+      </Items>
+    </Order>

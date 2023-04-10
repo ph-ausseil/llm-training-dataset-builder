@@ -1,0 +1,8 @@
+<Order id="ODR56129250" date="2022-08-17">
+      
+      <Customer id="CUST56801" firstname="Nerta" lastname="Jillane" email="Nerta.Jillane@example.com" />
+        <Seller id="EMP98430" firstname="Josephine" lastname="Mandler" email="Josephine.Mandler@company.com" />
+      <Items>
+        <Item><SKU>P90587</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>1</Quantity><Price>48.99</Price></Item><Item><SKU>P51656</SKU><Description>Tool Box - 19 inch</Description><Quantity>3</Quantity><Price>73.74</Price></Item><Item><SKU>P67545</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>3</Quantity><Price>56.3</Price></Item>
+      </Items>
+    <TotalPrice>48.99</TotalPrice><TotalPrice>270.21</TotalPrice><TotalPrice>439.10999999999996</TotalPrice></Order>

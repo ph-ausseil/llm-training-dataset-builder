@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-20" >
+      <Customer id="CUST81577"
+  firstname="Lauryn"
+  lastname="Amand"
+  email="Lauryn.Amand@example.com"
+  />        <Seller id="EMP70941"
+  firstname="Beverley"
+  lastname="Wittie"
+  email="Beverley.Wittie@examplecompany.com"
+  />      <Items><Item><SKU>P52382</SKU><Description>Level - 24 inch</Description><Quantity>8</Quantity><Price>10.68</Price></Item><Item><SKU>P73687</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>4</Quantity><Price>9.96</Price></Item><Item><SKU>P12244</SKU><Description>Safety Goggles - Clear</Description><Quantity>2</Quantity><Price>12.81</Price></Item><Item><SKU>P73119</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>8</Quantity><Price>75.17</Price></Item>
+      </Items>
+    </Order>

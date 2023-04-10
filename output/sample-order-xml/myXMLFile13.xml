@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2023-02-14">
+  
+      
+  <Customer id="CUST71215" firstname="Theodora" lastname="Tound" email="Theodora.Tound@example.com"/>
+          
+  <Seller id="EMP39280" firstname="Lauryn" lastname="Ummersen" email="Lauryn.Ummersen@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P24286</SKU>
+      <Description>Paint Brush Set - 5 pieces</Description>
+      <Quantity>13</Quantity>
+      <Price>33.0</Price>
+    </Item>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>49.26</Price>
+    </Item>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>104.304</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>11</Quantity>
+      <Price>74.71199999999999</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>2160.65</TotalPrice>
+</Order>

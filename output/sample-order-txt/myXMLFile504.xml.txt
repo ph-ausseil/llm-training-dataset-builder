@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $802.97.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Roberta Hull.
+Question : What is the cost of item 'P53084'?
+Answer : The  cost of item 'P53084' was $275.55.
+Question : What is the name of item 'P53084'?
+Answer : The  name of item 'P53084' was 'Cordless Circular Saw - 6.5 inch'.
+Question : What is the SKU of item 'Cordless Circular Saw - 6.5 inch'?
+Answer : The  SKU of item 'Cordless Circular Saw - 6.5 inch' was 'P53084'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-01'.
+Question : What is the email address of the customer with ID 'CUST80929'?
+Answer : The  email address of the customer with ID 'CUST80929' was 'Candi.Breed@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Cordless Circular Saw - 6.5 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Cordless Circular Saw - 6.5 inch' items ordered in the sales order with ID 'ODR50574929' was $275.55150000000003.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $44.61.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $722.67.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Garden Hose - 50ft' with a price of $73.899.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $802.97.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Roberta Hull.
+Question : What is the cost of item 'P14222'?
+Answer : The  cost of item 'P14222' was $60.11.
+Question : What is the name of item 'P14222'?
+Answer : The  name of item 'P14222' was 'Nail Gun - Electric'.
+Question : What is the SKU of item 'Nail Gun - Electric'?
+Answer : The  SKU of item 'Nail Gun - Electric' was 'P14222'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-01'.
+Question : What is the email address of the customer with ID 'CUST80929'?
+Answer : The  email address of the customer with ID 'CUST80929' was 'Candi.Breed@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929' was $60.112500000000004.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $44.61.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $722.67.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Garden Hose - 50ft' with a price of $73.899.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $802.97.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Roberta Hull.
+Question : What is the cost of item 'P33159'?
+Answer : The  cost of item 'P33159' was $369.5.
+Question : What is the name of item 'P33159'?
+Answer : The  name of item 'P33159' was 'Garden Hose - 50ft'.
+Question : What is the SKU of item 'Garden Hose - 50ft'?
+Answer : The  SKU of item 'Garden Hose - 50ft' was 'P33159'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-01'.
+Question : What is the email address of the customer with ID 'CUST80929'?
+Answer : The  email address of the customer with ID 'CUST80929' was 'Candi.Breed@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Garden Hose - 50ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Garden Hose - 50ft' items ordered in the sales order with ID 'ODR50574929' was $369.495.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $44.61.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $722.67.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Garden Hose - 50ft' with a price of $73.899.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $802.97.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Roberta Hull.
+Question : What is the cost of item 'P17627'?
+Answer : The  cost of item 'P17627' was $97.81.
+Question : What is the name of item 'P17627'?
+Answer : The  name of item 'P17627' was 'Caulking Gun - Heavy Duty'.
+Question : What is the SKU of item 'Caulking Gun - Heavy Duty'?
+Answer : The  SKU of item 'Caulking Gun - Heavy Duty' was 'P17627'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-01'.
+Question : What is the email address of the customer with ID 'CUST80929'?
+Answer : The  email address of the customer with ID 'CUST80929' was 'Candi.Breed@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Caulking Gun - Heavy Duty' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Caulking Gun - Heavy Duty' items ordered in the sales order with ID 'ODR50574929' was $97.80749999999999.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $44.61.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $722.67.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Garden Hose - 50ft' with a price of $73.899.

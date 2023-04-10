@@ -1,0 +1,8 @@
+<Order id="ODR33817909" date="2022-11-24">
+      
+      <Customer id="CUST46050" firstname="Vanessa" lastname="Thar" email="Vanessa.Thar@example.com" />
+        <Seller id="EMP77326" firstname="Elka" lastname="Hermes" email="Elka.Hermes@company.com" />
+      <Items>
+        <Item><SKU>P27642</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>4</Quantity><Price>19.71</Price></Item><Item><SKU>P70553</SKU><Description>Hand Saw - 12 inch</Description><Quantity>4</Quantity><Price>6.21</Price></Item><Item><SKU>P92945</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>1</Quantity><Price>62.84</Price></Item>
+      </Items>
+    <TotalPrice>78.84</TotalPrice><TotalPrice>103.68</TotalPrice><TotalPrice>166.52</TotalPrice></Order>

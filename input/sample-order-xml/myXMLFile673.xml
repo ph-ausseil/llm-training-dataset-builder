@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-06-14" >
+      <Customer id="CUST28208"
+  firstname="Christal"
+  lastname="Alarise"
+  email="Christal.Alarise@example.com"
+  />        <Seller id="EMP69958"
+  firstname="Cassandra"
+  lastname="Shama"
+  email="Cassandra.Shama@examplecompany.com"
+  />      <Items><Item><SKU>P62605</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>10</Quantity><Price>88.09</Price></Item><Item><SKU>P71969</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>1</Quantity><Price>64.45</Price></Item><Item><SKU>P35215</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>2</Quantity><Price>21.43</Price></Item><Item><SKU>P66102</SKU><Description>Utility Knife - Retractable</Description><Quantity>4</Quantity><Price>74.47</Price></Item>
+      </Items>
+    </Order>

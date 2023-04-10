@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-05-21">
+  
+      
+  <Customer id="CUST52953" firstname="Addia" lastname="Frendel" email="Addia.Frendel@example.com"/>
+          
+  <Seller id="EMP41291" firstname="Zia" lastname="Azeria" email="Zia.Azeria@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>9</Quantity>
+      <Price>11.27</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>71.82</Price>
+    </Item>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>9</Quantity>
+      <Price>70.38</Price>
+    </Item>
+    <Item>
+      <SKU>P90277</SKU>
+      <Description>Bolt Cutter - 24 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>48.14</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1071.05</TotalPrice>
+</Order>

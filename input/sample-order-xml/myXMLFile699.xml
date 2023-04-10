@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-25" >
+      <Customer id="CUST41768"
+  firstname="Agnese"
+  lastname="Anastatius"
+  email="Agnese.Anastatius@example.com"
+  />        <Seller id="EMP33436"
+  firstname="Rosaline"
+  lastname="Connelly"
+  email="Rosaline.Connelly@examplecompany.com"
+  />      <Items><Item><SKU>P76830</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>2</Quantity><Price>11.37</Price></Item><Item><SKU>P31990</SKU><Description>Miter Saw - 10 inch</Description><Quantity>2</Quantity><Price>19.55</Price></Item><Item><SKU>P20277</SKU><Description>LED Light Bulb - 60W</Description><Quantity>3</Quantity><Price>57.62</Price></Item><Item><SKU>P39393</SKU><Description>Garden Hose - 50ft</Description><Quantity>6</Quantity><Price>33.95</Price></Item>
+      </Items>
+    </Order>

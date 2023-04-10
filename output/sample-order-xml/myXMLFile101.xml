@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-12-29">
+  
+      
+  <Customer id="CUST69120" firstname="Rori" lastname="Velick" email="Rori.Velick@example.com"/>
+          
+  <Seller id="EMP94067" firstname="Aeriela" lastname="Prouty" email="Aeriela.Prouty@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>10</Quantity>
+      <Price>40.7715</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>39.36450000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>43.1025</Price>
+    </Item>
+    <Item>
+      <SKU>P41806</SKU>
+      <Description>Electric Screwdriver - 3.6V</Description>
+      <Quantity>5</Quantity>
+      <Price>46.872</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>932.58</TotalPrice>
+</Order>

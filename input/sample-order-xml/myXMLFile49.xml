@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-09" >
+      <Customer id="CUST10192"
+  firstname="Pearline"
+  lastname="Old"
+  email="Pearline.Old@example.com"
+  />        <Seller id="EMP68014"
+  firstname="Melina"
+  lastname="Norvol"
+  email="Melina.Norvol@examplecompany.com"
+  />      <Items><Item><SKU>P42426</SKU><Description>Safety Goggles - Clear</Description><Quantity>8</Quantity><Price>32.49</Price></Item><Item><SKU>P70140</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>2</Quantity><Price>49.34</Price></Item><Item><SKU>P88111</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>5</Quantity><Price>26.04</Price></Item><Item><SKU>P15742</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>4</Quantity><Price>44.18</Price></Item>
+      </Items>
+    </Order>

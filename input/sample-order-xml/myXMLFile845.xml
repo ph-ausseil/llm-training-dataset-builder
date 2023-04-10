@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-11-11" >
+      <Customer id="CUST58932"
+  firstname="Layla"
+  lastname="Emerson"
+  email="Layla.Emerson@example.com"
+  />        <Seller id="EMP67888"
+  firstname="Kathi"
+  lastname="Erb"
+  email="Kathi.Erb@examplecompany.com"
+  />      <Items><Item><SKU>P53252</SKU><Description>Stud Finder - Digital</Description><Quantity>7</Quantity><Price>86.19</Price></Item><Item><SKU>P94662</SKU><Description>Power Drill - 18V</Description><Quantity>5</Quantity><Price>78.94</Price></Item><Item><SKU>P46108</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>10</Quantity><Price>75</Price></Item><Item><SKU>P88217</SKU><Description>Tarp - 12x16 ft</Description><Quantity>8</Quantity><Price>39.22</Price></Item>
+      </Items>
+    </Order>

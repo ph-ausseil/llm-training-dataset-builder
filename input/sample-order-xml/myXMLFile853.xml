@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-10" >
+      <Customer id="CUST44787"
+  firstname="Elfreda"
+  lastname="Margret"
+  email="Elfreda.Margret@example.com"
+  />        <Seller id="EMP21335"
+  firstname="Steffane"
+  lastname="Amethist"
+  email="Steffane.Amethist@examplecompany.com"
+  />      <Items><Item><SKU>P83267</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>2</Quantity><Price>50.93</Price></Item><Item><SKU>P96552</SKU><Description>Miter Saw - 10 inch</Description><Quantity>1</Quantity><Price>72.08</Price></Item><Item><SKU>P61688</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>9</Quantity><Price>34.76</Price></Item><Item><SKU>P86001</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>7</Quantity><Price>23.44</Price></Item>
+      </Items>
+    </Order>

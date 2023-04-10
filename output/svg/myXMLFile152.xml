@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-11-13">
+  
+      
+  <Customer id="CUST61659" firstname="Atlanta" lastname="Killigrew" email="Atlanta.Killigrew@example.com"/>
+          
+  <Seller id="EMP43286" firstname="Mary" lastname="Mich" email="Mary.Mich@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P65232</SKU>
+      <Description>Level - 24 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>70.27650000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>4</Quantity>
+      <Price>73.899</Price>
+    </Item>
+    <Item>
+      <SKU>P72757</SKU>
+      <Description>Tape Measure - 25 ft</Description>
+      <Quantity>1</Quantity>
+      <Price>94.584</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>4</Quantity>
+      <Price>6.909000000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1050.3</TotalPrice>
+</Order>

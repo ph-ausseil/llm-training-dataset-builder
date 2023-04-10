@@ -1,0 +1,8 @@
+<Order id="ODR76351458" date="2021-07-28">
+      
+      <Customer id="CUST98383" firstname="Mara" lastname="Lesley" email="Mara.Lesley@example.com" />
+        <Seller id="EMP55269" firstname="Zaria" lastname="Ciapas" email="Zaria.Ciapas@company.com" />
+      <Items>
+        <Item><SKU>P38258</SKU><Description>Stud Finder - Digital</Description><Quantity>3</Quantity><Price>3.4</Price></Item><Item><SKU>P88566</SKU><Description>Socket Set - 40 pieces</Description><Quantity>5</Quantity><Price>59.7</Price></Item><Item><SKU>P48918</SKU><Description>Hand Saw - 12 inch</Description><Quantity>4</Quantity><Price>58.46</Price></Item>
+      </Items>
+    <TotalPrice>10.2</TotalPrice><TotalPrice>308.7</TotalPrice><TotalPrice>542.54</TotalPrice></Order>

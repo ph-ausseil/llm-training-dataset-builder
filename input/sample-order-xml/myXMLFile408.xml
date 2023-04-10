@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-02-04" >
+      <Customer id="CUST19165"
+  firstname="Marnia"
+  lastname="Mallon"
+  email="Marnia.Mallon@example.com"
+  />        <Seller id="EMP79630"
+  firstname="Susan"
+  lastname="Smitt"
+  email="Susan.Smitt@examplecompany.com"
+  />      <Items><Item><SKU>P26224</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>2</Quantity><Price>67.81</Price></Item><Item><SKU>P20194</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>10</Quantity><Price>9.65</Price></Item><Item><SKU>P81446</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>10</Quantity><Price>70.5</Price></Item><Item><SKU>P33767</SKU><Description>Garden Hose - 50ft</Description><Quantity>8</Quantity><Price>18</Price></Item>
+      </Items>
+    </Order>

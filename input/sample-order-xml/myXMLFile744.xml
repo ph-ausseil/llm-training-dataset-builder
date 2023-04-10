@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-25" >
+      <Customer id="CUST60101"
+  firstname="Andeee"
+  lastname="Ammann"
+  email="Andeee.Ammann@example.com"
+  />        <Seller id="EMP52966"
+  firstname="Aeriela"
+  lastname="Nea"
+  email="Aeriela.Nea@examplecompany.com"
+  />      <Items><Item><SKU>P72397</SKU><Description>Tool Box - 19 inch</Description><Quantity>3</Quantity><Price>10.73</Price></Item><Item><SKU>P31723</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>7</Quantity><Price>74.47</Price></Item><Item><SKU>P13017</SKU><Description>Power Drill - 18V</Description><Quantity>1</Quantity><Price>33.09</Price></Item><Item><SKU>P30330</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>8</Quantity><Price>33.54</Price></Item>
+      </Items>
+    </Order>

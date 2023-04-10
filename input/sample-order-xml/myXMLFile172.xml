@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-11" >
+      <Customer id="CUST41088"
+  firstname="Lita"
+  lastname="Yorick"
+  email="Lita.Yorick@example.com"
+  />        <Seller id="EMP40333"
+  firstname="Fredericka"
+  lastname="Brunell"
+  email="Fredericka.Brunell@examplecompany.com"
+  />      <Items><Item><SKU>P29270</SKU><Description>Tape Measure - 25 ft</Description><Quantity>7</Quantity><Price>77.66</Price></Item><Item><SKU>P96966</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>57.84</Price></Item><Item><SKU>P42314</SKU><Description>LED Light Bulb - 60W</Description><Quantity>9</Quantity><Price>14.31</Price></Item><Item><SKU>P79374</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>4</Quantity><Price>30.11</Price></Item>
+      </Items>
+    </Order>

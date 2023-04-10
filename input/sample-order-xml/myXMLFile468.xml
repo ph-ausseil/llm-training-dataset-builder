@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-02-16" >
+      <Customer id="CUST63656"
+  firstname="Lindie"
+  lastname="Tristram"
+  email="Lindie.Tristram@example.com"
+  />        <Seller id="EMP20623"
+  firstname="Tomasina"
+  lastname="Tengdin"
+  email="Tomasina.Tengdin@examplecompany.com"
+  />      <Items><Item><SKU>P14840</SKU><Description>Jigsaw - Cordless</Description><Quantity>9</Quantity><Price>70.69</Price></Item><Item><SKU>P35771</SKU><Description>Tool Box - 19 inch</Description><Quantity>3</Quantity><Price>73.83</Price></Item><Item><SKU>P35811</SKU><Description>Miter Saw - 10 inch</Description><Quantity>10</Quantity><Price>46.35</Price></Item><Item><SKU>P37643</SKU><Description>Tarp - 12x16 ft</Description><Quantity>2</Quantity><Price>40.25</Price></Item>
+      </Items>
+    </Order>

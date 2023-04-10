@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $363.26.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Dulce Vary.
+Question : What is the cost of item 'P17878'?
+Answer : The  cost of item 'P17878' was $51.88.
+Question : What is the name of item 'P17878'?
+Answer : The  name of item 'P17878' was 'Jigsaw - Cordless'.
+Question : What is the SKU of item 'Jigsaw - Cordless'?
+Answer : The  SKU of item 'Jigsaw - Cordless' was 'P17878'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-08'.
+Question : What is the email address of the customer with ID 'CUST73188'?
+Answer : The  email address of the customer with ID 'CUST73188' was 'Briney.Reinke@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 24.
+Question : What is the total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929' was $51.87600000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $15.14.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $326.93.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Bolt Cutter - 24 inch' with a price of $52.95400000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $363.26.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Dulce Vary.
+Question : What is the cost of item 'P73288'?
+Answer : The  cost of item 'P73288' was $159.26.
+Question : What is the name of item 'P73288'?
+Answer : The  name of item 'P73288' was 'Stud Finder - Digital'.
+Question : What is the SKU of item 'Stud Finder - Digital'?
+Answer : The  SKU of item 'Stud Finder - Digital' was 'P73288'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-08'.
+Question : What is the email address of the customer with ID 'CUST73188'?
+Answer : The  email address of the customer with ID 'CUST73188' was 'Briney.Reinke@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 24.
+Question : What is the total price of all 'Stud Finder - Digital' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Stud Finder - Digital' items ordered in the sales order with ID 'ODR50574929' was $159.258.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $15.14.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $326.93.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Bolt Cutter - 24 inch' with a price of $52.95400000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $363.26.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Dulce Vary.
+Question : What is the cost of item 'P90277'?
+Answer : The  cost of item 'P90277' was $52.95.
+Question : What is the name of item 'P90277'?
+Answer : The  name of item 'P90277' was 'Bolt Cutter - 24 inch'.
+Question : What is the SKU of item 'Bolt Cutter - 24 inch'?
+Answer : The  SKU of item 'Bolt Cutter - 24 inch' was 'P90277'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-08'.
+Question : What is the email address of the customer with ID 'CUST73188'?
+Answer : The  email address of the customer with ID 'CUST73188' was 'Briney.Reinke@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 24.
+Question : What is the total price of all 'Bolt Cutter - 24 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Bolt Cutter - 24 inch' items ordered in the sales order with ID 'ODR50574929' was $52.95400000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $15.14.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $326.93.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Bolt Cutter - 24 inch' with a price of $52.95400000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $363.26.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Dulce Vary.
+Question : What is the cost of item 'P14831'?
+Answer : The  cost of item 'P14831' was $99.18.
+Question : What is the name of item 'P14831'?
+Answer : The  name of item 'P14831' was 'Workbench - Portable'.
+Question : What is the SKU of item 'Workbench - Portable'?
+Answer : The  SKU of item 'Workbench - Portable' was 'P14831'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-08'.
+Question : What is the email address of the customer with ID 'CUST73188'?
+Answer : The  email address of the customer with ID 'CUST73188' was 'Briney.Reinke@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 24.
+Question : What is the total price of all 'Workbench - Portable' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Workbench - Portable' items ordered in the sales order with ID 'ODR50574929' was $99.176.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $15.14.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $326.93.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Bolt Cutter - 24 inch' with a price of $52.95400000000001.

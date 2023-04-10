@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-12" >
+      <Customer id="CUST21107"
+  firstname="Heida"
+  lastname="Hanleigh"
+  email="Heida.Hanleigh@example.com"
+  />        <Seller id="EMP87581"
+  firstname="Siana"
+  lastname="Hailee"
+  email="Siana.Hailee@examplecompany.com"
+  />      <Items><Item><SKU>P84267</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>7</Quantity><Price>30.3</Price></Item><Item><SKU>P17260</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>9</Quantity><Price>5.32</Price></Item><Item><SKU>P41245</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>9</Quantity><Price>43.75</Price></Item><Item><SKU>P58540</SKU><Description>Stud Finder - Digital</Description><Quantity>9</Quantity><Price>39.54</Price></Item>
+      </Items>
+    </Order>

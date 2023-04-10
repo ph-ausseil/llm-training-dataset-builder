@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-07-05">
+  
+      
+  <Customer id="CUST25917" firstname="Ashlee" lastname="Diann" email="Ashlee.Diann@example.com"/>
+          
+  <Seller id="EMP25725" firstname="Roxane" lastname="Geffner" email="Roxane.Geffner@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>37.49</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>4</Quantity>
+      <Price>90.99</Price>
+    </Item>
+    <Item>
+      <SKU>P73288</SKU>
+      <Description>Stud Finder - Digital</Description>
+      <Quantity>2</Quantity>
+      <Price>24.13</Price>
+    </Item>
+    <Item>
+      <SKU>P24286</SKU>
+      <Description>Paint Brush Set - 5 pieces</Description>
+      <Quantity>9</Quantity>
+      <Price>27.5</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>884.66</TotalPrice>
+</Order>

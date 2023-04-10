@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-02-26" >
+      <Customer id="CUST42648"
+  firstname="Gianina"
+  lastname="Sabella"
+  email="Gianina.Sabella@example.com"
+  />        <Seller id="EMP25313"
+  firstname="Dyann"
+  lastname="Toni"
+  email="Dyann.Toni@examplecompany.com"
+  />      <Items><Item><SKU>P13974</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>6</Quantity><Price>50.79</Price></Item><Item><SKU>P76298</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>75.82</Price></Item><Item><SKU>P41325</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>2</Quantity><Price>25.01</Price></Item><Item><SKU>P26543</SKU><Description>Socket Set - 40 pieces</Description><Quantity>8</Quantity><Price>46.47</Price></Item>
+      </Items>
+    </Order>

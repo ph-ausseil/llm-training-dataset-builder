@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-01-31">
+  
+      
+  <Customer id="CUST34911" firstname="Clary" lastname="Vacuva" email="Clary.Vacuva@example.com"/>
+          
+  <Seller id="EMP56120" firstname="Perry" lastname="Barney" email="Perry.Barney@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>4</Quantity>
+      <Price>37.82</Price>
+    </Item>
+    <Item>
+      <SKU>P77259</SKU>
+      <Description>Wire Stripper - 8 inch</Description>
+      <Quantity>7</Quantity>
+      <Price>8.48</Price>
+    </Item>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>10</Quantity>
+      <Price>70.38</Price>
+    </Item>
+    <Item>
+      <SKU>P41806</SKU>
+      <Description>Electric Screwdriver - 3.6V</Description>
+      <Quantity>2</Quantity>
+      <Price>44.64</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1003.72</TotalPrice>
+</Order>

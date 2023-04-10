@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-21" >
+      <Customer id="CUST37537"
+  firstname="Gerrie"
+  lastname="Georgy"
+  email="Gerrie.Georgy@example.com"
+  />        <Seller id="EMP91154"
+  firstname="Vinita"
+  lastname="Rubie"
+  email="Vinita.Rubie@examplecompany.com"
+  />      <Items><Item><SKU>P20436</SKU><Description>Socket Set - 40 pieces</Description><Quantity>9</Quantity><Price>41</Price></Item><Item><SKU>P29154</SKU><Description>Safety Goggles - Clear</Description><Quantity>2</Quantity><Price>63.96</Price></Item><Item><SKU>P50200</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>2</Quantity><Price>46.76</Price></Item><Item><SKU>P68069</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>1</Quantity><Price>33.72</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-01-23">
+  
+      
+  <Customer id="CUST89530" firstname="Starla" lastname="Corilla" email="Starla.Corilla@example.com"/>
+          
+  <Seller id="EMP58646" firstname="Robinia" lastname="Means" email="Robinia.Means@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P41806</SKU>
+      <Description>Electric Screwdriver - 3.6V</Description>
+      <Quantity>9</Quantity>
+      <Price>49.104000000000006</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>7</Quantity>
+      <Price>93.676</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>64.13</Price>
+    </Item>
+    <Item>
+      <SKU>P64945</SKU>
+      <Description>Utility Knife - Retractable</Description>
+      <Quantity>7</Quantity>
+      <Price>10.780000000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1493.78</TotalPrice>
+</Order>

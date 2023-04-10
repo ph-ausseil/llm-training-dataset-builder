@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-12-06">
+  
+      
+  <Customer id="CUST42306" firstname="Christian" lastname="Dowski" email="Christian.Dowski@example.com"/>
+          
+  <Seller id="EMP86875" firstname="Mignon" lastname="Blake" email="Mignon.Blake@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P73288</SKU>
+      <Description>Stud Finder - Digital</Description>
+      <Quantity>5</Quantity>
+      <Price>24.13</Price>
+    </Item>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>8</Quantity>
+      <Price>57.25</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>58.3</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>3</Quantity>
+      <Price>90.99</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1084.82</TotalPrice>
+</Order>

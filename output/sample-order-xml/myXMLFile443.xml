@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-10-21">
+  
+      
+  <Customer id="CUST55759" firstname="Deirdre" lastname="Obed" email="Deirdre.Obed@example.com"/>
+          
+  <Seller id="EMP20604" firstname="June" lastname="McGrody" email="June.McGrody@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P47249</SKU>
+      <Description>Wooden Ladder - 8 ft</Description>
+      <Quantity>6</Quantity>
+      <Price>52.92</Price>
+    </Item>
+    <Item>
+      <SKU>P90277</SKU>
+      <Description>Bolt Cutter - 24 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>50.547000000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>5</Quantity>
+      <Price>95.5395</Price>
+    </Item>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>5</Quantity>
+      <Price>73.899</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1569.09</TotalPrice>
+</Order>

@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1113.87.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Tarra Abbot.
+Question : What is the cost of item 'P10753'?
+Answer : The  cost of item 'P10753' was $202.36.
+Question : What is the name of item 'P10753'?
+Answer : The  name of item 'P10753' was 'Work Gloves - Leather'.
+Question : What is the SKU of item 'Work Gloves - Leather'?
+Answer : The  SKU of item 'Work Gloves - Leather' was 'P10753'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-02-16'.
+Question : What is the email address of the customer with ID 'CUST94714'?
+Answer : The  email address of the customer with ID 'CUST94714' was 'Tilly.Sheedy@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 30.
+Question : What is the total price of all 'Work Gloves - Leather' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Work Gloves - Leather' items ordered in the sales order with ID 'ODR50574929' was $202.35600000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.13.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1002.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Sandpaper - Assorted Grits' with a price of $90.409.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1113.87.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Tarra Abbot.
+Question : What is the cost of item 'P64945'?
+Answer : The  cost of item 'P64945' was $107.8.
+Question : What is the name of item 'P64945'?
+Answer : The  name of item 'P64945' was 'Utility Knife - Retractable'.
+Question : What is the SKU of item 'Utility Knife - Retractable'?
+Answer : The  SKU of item 'Utility Knife - Retractable' was 'P64945'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-02-16'.
+Question : What is the email address of the customer with ID 'CUST94714'?
+Answer : The  email address of the customer with ID 'CUST94714' was 'Tilly.Sheedy@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 30.
+Question : What is the total price of all 'Utility Knife - Retractable' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Utility Knife - Retractable' items ordered in the sales order with ID 'ODR50574929' was $107.80000000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.13.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1002.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Sandpaper - Assorted Grits' with a price of $90.409.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1113.87.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Tarra Abbot.
+Question : What is the cost of item 'P28369'?
+Answer : The  cost of item 'P28369' was $632.86.
+Question : What is the name of item 'P28369'?
+Answer : The  name of item 'P28369' was 'Sandpaper - Assorted Grits'.
+Question : What is the SKU of item 'Sandpaper - Assorted Grits'?
+Answer : The  SKU of item 'Sandpaper - Assorted Grits' was 'P28369'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-02-16'.
+Question : What is the email address of the customer with ID 'CUST94714'?
+Answer : The  email address of the customer with ID 'CUST94714' was 'Tilly.Sheedy@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 30.
+Question : What is the total price of all 'Sandpaper - Assorted Grits' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Sandpaper - Assorted Grits' items ordered in the sales order with ID 'ODR50574929' was $632.863.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.13.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1002.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Sandpaper - Assorted Grits' with a price of $90.409.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1113.87.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Tarra Abbot.
+Question : What is the cost of item 'P51598'?
+Answer : The  cost of item 'P51598' was $170.85.
+Question : What is the name of item 'P51598'?
+Answer : The  name of item 'P51598' was 'Sledge Hammer - 10 lb'.
+Question : What is the SKU of item 'Sledge Hammer - 10 lb'?
+Answer : The  SKU of item 'Sledge Hammer - 10 lb' was 'P51598'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-02-16'.
+Question : What is the email address of the customer with ID 'CUST94714'?
+Answer : The  email address of the customer with ID 'CUST94714' was 'Tilly.Sheedy@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 30.
+Question : What is the total price of all 'Sledge Hammer - 10 lb' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Sledge Hammer - 10 lb' items ordered in the sales order with ID 'ODR50574929' was $170.852.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.13.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1002.48.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Sandpaper - Assorted Grits' with a price of $90.409.

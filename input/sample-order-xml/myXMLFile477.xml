@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-01-23" >
+      <Customer id="CUST12380"
+  firstname="Angela"
+  lastname="Mott"
+  email="Angela.Mott@example.com"
+  />        <Seller id="EMP54680"
+  firstname="Zia"
+  lastname="Skurnik"
+  email="Zia.Skurnik@examplecompany.com"
+  />      <Items><Item><SKU>P70351</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>2</Quantity><Price>89.47</Price></Item><Item><SKU>P96634</SKU><Description>Tape Measure - 25 ft</Description><Quantity>1</Quantity><Price>29.64</Price></Item><Item><SKU>P16361</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>2</Quantity><Price>25.12</Price></Item><Item><SKU>P51934</SKU><Description>LED Light Bulb - 60W</Description><Quantity>6</Quantity><Price>41.64</Price></Item>
+      </Items>
+    </Order>

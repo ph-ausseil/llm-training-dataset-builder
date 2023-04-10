@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1389.21.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Dominga Afton.
+Question : What is the cost of item 'P14222'?
+Answer : The  cost of item 'P14222' was $572.5.
+Question : What is the name of item 'P14222'?
+Answer : The  name of item 'P14222' was 'Nail Gun - Electric'.
+Question : What is the SKU of item 'Nail Gun - Electric'?
+Answer : The  SKU of item 'Nail Gun - Electric' was 'P14222'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-10-19'.
+Question : What is the email address of the customer with ID 'CUST19464'?
+Answer : The  email address of the customer with ID 'CUST19464' was 'Selia.Sikorski@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 37.
+Question : What is the total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929' was $572.5.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.55.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1250.29.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Nail Gun - Electric' with a price of $57.25.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1389.21.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Dominga Afton.
+Question : What is the cost of item 'P49316'?
+Answer : The  cost of item 'P49316' was $450.99.
+Question : What is the name of item 'P49316'?
+Answer : The  name of item 'P49316' was 'Heavy-Duty Extension Cord - 100ft'.
+Question : What is the SKU of item 'Heavy-Duty Extension Cord - 100ft'?
+Answer : The  SKU of item 'Heavy-Duty Extension Cord - 100ft' was 'P49316'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-10-19'.
+Question : What is the email address of the customer with ID 'CUST19464'?
+Answer : The  email address of the customer with ID 'CUST19464' was 'Selia.Sikorski@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 37.
+Question : What is the total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929' was $450.99.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.55.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1250.29.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Nail Gun - Electric' with a price of $57.25.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1389.21.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Dominga Afton.
+Question : What is the cost of item 'P53084'?
+Answer : The  cost of item 'P53084' was $299.92.
+Question : What is the name of item 'P53084'?
+Answer : The  name of item 'P53084' was 'Cordless Circular Saw - 6.5 inch'.
+Question : What is the SKU of item 'Cordless Circular Saw - 6.5 inch'?
+Answer : The  SKU of item 'Cordless Circular Saw - 6.5 inch' was 'P53084'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-10-19'.
+Question : What is the email address of the customer with ID 'CUST19464'?
+Answer : The  email address of the customer with ID 'CUST19464' was 'Selia.Sikorski@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 37.
+Question : What is the total price of all 'Cordless Circular Saw - 6.5 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Cordless Circular Saw - 6.5 inch' items ordered in the sales order with ID 'ODR50574929' was $299.92.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.55.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1250.29.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Nail Gun - Electric' with a price of $57.25.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1389.21.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Dominga Afton.
+Question : What is the cost of item 'P13379'?
+Answer : The  cost of item 'P13379' was $65.8.
+Question : What is the name of item 'P13379'?
+Answer : The  name of item 'P13379' was 'Measuring Tape - 16 ft'.
+Question : What is the SKU of item 'Measuring Tape - 16 ft'?
+Answer : The  SKU of item 'Measuring Tape - 16 ft' was 'P13379'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-10-19'.
+Question : What is the email address of the customer with ID 'CUST19464'?
+Answer : The  email address of the customer with ID 'CUST19464' was 'Selia.Sikorski@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 37.
+Question : What is the total price of all 'Measuring Tape - 16 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Measuring Tape - 16 ft' items ordered in the sales order with ID 'ODR50574929' was $65.8.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $37.55.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1250.29.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Nail Gun - Electric' with a price of $57.25.

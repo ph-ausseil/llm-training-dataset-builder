@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-18" >
+      <Customer id="CUST56777"
+  firstname="Janis"
+  lastname="Luhe"
+  email="Janis.Luhe@example.com"
+  />        <Seller id="EMP25119"
+  firstname="Lelah"
+  lastname="Chaing"
+  email="Lelah.Chaing@examplecompany.com"
+  />      <Items><Item><SKU>P24181</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>1</Quantity><Price>38.86</Price></Item><Item><SKU>P15143</SKU><Description>Nail Gun - Electric</Description><Quantity>6</Quantity><Price>78.49</Price></Item><Item><SKU>P51584</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>5</Quantity><Price>11.87</Price></Item><Item><SKU>P57431</SKU><Description>Tape Measure - 25 ft</Description><Quantity>2</Quantity><Price>35.46</Price></Item>
+      </Items>
+    </Order>

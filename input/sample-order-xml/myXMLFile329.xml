@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-06-13" >
+      <Customer id="CUST46139"
+  firstname="Suzette"
+  lastname="Llovera"
+  email="Suzette.Llovera@example.com"
+  />        <Seller id="EMP67828"
+  firstname="Cristine"
+  lastname="Roarke"
+  email="Cristine.Roarke@examplecompany.com"
+  />      <Items><Item><SKU>P75028</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>9</Quantity><Price>58.44</Price></Item><Item><SKU>P61700</SKU><Description>Socket Set - 40 pieces</Description><Quantity>1</Quantity><Price>25.09</Price></Item><Item><SKU>P30468</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>9</Quantity><Price>60.83</Price></Item><Item><SKU>P86953</SKU><Description>LED Light Bulb - 60W</Description><Quantity>1</Quantity><Price>72.66</Price></Item>
+      </Items>
+    </Order>

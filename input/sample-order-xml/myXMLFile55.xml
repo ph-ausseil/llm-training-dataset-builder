@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-18" >
+      <Customer id="CUST79767"
+  firstname="Demetris"
+  lastname="Autrey"
+  email="Demetris.Autrey@example.com"
+  />        <Seller id="EMP41087"
+  firstname="Brandise"
+  lastname="Mozelle"
+  email="Brandise.Mozelle@examplecompany.com"
+  />      <Items><Item><SKU>P78132</SKU><Description>Tape Measure - 25 ft</Description><Quantity>10</Quantity><Price>60.32</Price></Item><Item><SKU>P81048</SKU><Description>Safety Goggles - Clear</Description><Quantity>9</Quantity><Price>53.99</Price></Item><Item><SKU>P94016</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>4</Quantity><Price>90.07</Price></Item><Item><SKU>P20725</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>9</Quantity><Price>66.33</Price></Item>
+      </Items>
+    </Order>

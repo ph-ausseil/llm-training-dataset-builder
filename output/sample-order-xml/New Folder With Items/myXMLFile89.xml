@@ -1,0 +1,8 @@
+<Order id="ODR39654176" date="2022-04-15">
+      
+      <Customer id="CUST13354" firstname="Emelina" lastname="Darbie" email="Emelina.Darbie@example.com" />
+        <Seller id="EMP91788" firstname="Arabel" lastname="Rona" email="Arabel.Rona@company.com" />
+      <Items>
+        <Item><SKU>P45427</SKU><Description>Level - 24 inch</Description><Quantity>2</Quantity><Price>56.81</Price></Item><Item><SKU>P40590</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>5</Quantity><Price>1.07</Price></Item><Item><SKU>P11723</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>1</Quantity><Price>72.3</Price></Item>
+      </Items>
+    <TotalPrice>113.62</TotalPrice><TotalPrice>118.97</TotalPrice><TotalPrice>191.26999999999998</TotalPrice></Order>

@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1828.37.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Bibby Egbert.
+Question : What is the cost of item 'P19253'?
+Answer : The  cost of item 'P19253' was $648.23.
+Question : What is the name of item 'P19253'?
+Answer : The  name of item 'P19253' was 'Outdoor Lantern - Solar Powered'.
+Question : What is the SKU of item 'Outdoor Lantern - Solar Powered'?
+Answer : The  SKU of item 'Outdoor Lantern - Solar Powered' was 'P19253'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-19'.
+Question : What is the email address of the customer with ID 'CUST49116'?
+Answer : The  email address of the customer with ID 'CUST49116' was 'Genevra.Smitt@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929' was $648.2280000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $73.13.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1645.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $81.02850000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1828.37.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Bibby Egbert.
+Question : What is the cost of item 'P65232'?
+Answer : The  cost of item 'P65232' was $702.77.
+Question : What is the name of item 'P65232'?
+Answer : The  name of item 'P65232' was 'Level - 24 inch'.
+Question : What is the SKU of item 'Level - 24 inch'?
+Answer : The  SKU of item 'Level - 24 inch' was 'P65232'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-19'.
+Question : What is the email address of the customer with ID 'CUST49116'?
+Answer : The  email address of the customer with ID 'CUST49116' was 'Genevra.Smitt@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929' was $702.7650000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $73.13.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1645.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $81.02850000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1828.37.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Bibby Egbert.
+Question : What is the cost of item 'P47249'?
+Answer : The  cost of item 'P47249' was $158.76.
+Question : What is the name of item 'P47249'?
+Answer : The  name of item 'P47249' was 'Wooden Ladder - 8 ft'.
+Question : What is the SKU of item 'Wooden Ladder - 8 ft'?
+Answer : The  SKU of item 'Wooden Ladder - 8 ft' was 'P47249'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-19'.
+Question : What is the email address of the customer with ID 'CUST49116'?
+Answer : The  email address of the customer with ID 'CUST49116' was 'Genevra.Smitt@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Wooden Ladder - 8 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wooden Ladder - 8 ft' items ordered in the sales order with ID 'ODR50574929' was $158.76.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $73.13.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1645.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $81.02850000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1828.37.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Bibby Egbert.
+Question : What is the cost of item 'P43386'?
+Answer : The  cost of item 'P43386' was $318.61.
+Question : What is the name of item 'P43386'?
+Answer : The  name of item 'P43386' was 'Pipe Wrench - 14 inch'.
+Question : What is the SKU of item 'Pipe Wrench - 14 inch'?
+Answer : The  SKU of item 'Pipe Wrench - 14 inch' was 'P43386'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-19'.
+Question : What is the email address of the customer with ID 'CUST49116'?
+Answer : The  email address of the customer with ID 'CUST49116' was 'Genevra.Smitt@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Pipe Wrench - 14 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Pipe Wrench - 14 inch' items ordered in the sales order with ID 'ODR50574929' was $318.612.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $73.13.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1645.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $81.02850000000001.

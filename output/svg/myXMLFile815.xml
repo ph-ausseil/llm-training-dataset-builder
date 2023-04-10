@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-05-28">
+  
+      
+  <Customer id="CUST14418" firstname="Ellette" lastname="Vittoria" email="Ellette.Vittoria@example.com"/>
+          
+  <Seller id="EMP25760" firstname="Inga" lastname="Toni" email="Inga.Toni@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P72757</SKU>
+      <Description>Tape Measure - 25 ft</Description>
+      <Quantity>9</Quantity>
+      <Price>99.08800000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>41.239000000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>3</Quantity>
+      <Price>62.97500000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>10.340000000000002</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1204.55</TotalPrice>
+</Order>

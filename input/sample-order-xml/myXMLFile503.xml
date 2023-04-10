@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-19" >
+      <Customer id="CUST79812"
+  firstname="Wynne"
+  lastname="Ashok"
+  email="Wynne.Ashok@example.com"
+  />        <Seller id="EMP90415"
+  firstname="Dale"
+  lastname="Jacinda"
+  email="Dale.Jacinda@examplecompany.com"
+  />      <Items><Item><SKU>P35658</SKU><Description>Workbench - Portable</Description><Quantity>6</Quantity><Price>76.82</Price></Item><Item><SKU>P84862</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>7</Quantity><Price>44.02</Price></Item><Item><SKU>P41338</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>10</Quantity><Price>5.5</Price></Item><Item><SKU>P25915</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>2</Quantity><Price>67.21</Price></Item>
+      </Items>
+    </Order>

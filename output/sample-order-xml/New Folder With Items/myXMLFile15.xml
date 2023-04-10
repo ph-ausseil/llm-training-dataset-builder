@@ -1,0 +1,8 @@
+<Order id="ODR28282682" date="2021-08-03">
+      
+      <Customer id="CUST43410" firstname="Concettina" lastname="Chrystel" email="Concettina.Chrystel@example.com" />
+        <Seller id="EMP20286" firstname="Jobi" lastname="Ciro" email="Jobi.Ciro@company.com" />
+      <Items>
+        <Item><SKU>P19154</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>2</Quantity><Price>1.3</Price></Item><Item><SKU>P66495</SKU><Description>Utility Knife - Retractable</Description><Quantity>4</Quantity><Price>32.91</Price></Item><Item><SKU>P90458</SKU><Description>Tool Box - 19 inch</Description><Quantity>4</Quantity><Price>41.31</Price></Item>
+      </Items>
+    <TotalPrice>2.6</TotalPrice><TotalPrice>134.23999999999998</TotalPrice><TotalPrice>299.48</TotalPrice></Order>

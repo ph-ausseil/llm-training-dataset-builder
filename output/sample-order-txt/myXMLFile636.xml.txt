@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1274.1.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kalina Quent.
+Question : What is the cost of item 'P32122'?
+Answer : The  cost of item 'P32122' was $192.48.
+Question : What is the name of item 'P32122'?
+Answer : The  name of item 'P32122' was 'Pliers Set - 3 pieces'.
+Question : What is the SKU of item 'Pliers Set - 3 pieces'?
+Answer : The  SKU of item 'Pliers Set - 3 pieces' was 'P32122'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-06-02'.
+Question : What is the email address of the customer with ID 'CUST40245'?
+Answer : The  email address of the customer with ID 'CUST40245' was 'Fidelia.Aida@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Pliers Set - 3 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Pliers Set - 3 pieces' items ordered in the sales order with ID 'ODR50574929' was $192.48.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.7.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1146.69.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Screwdriver Set - 6 pieces' with a price of $86.92.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1274.1.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kalina Quent.
+Question : What is the cost of item 'P88497'?
+Answer : The  cost of item 'P88497' was $574.56.
+Question : What is the name of item 'P88497'?
+Answer : The  name of item 'P88497' was 'Adjustable Wrench - 12 inch'.
+Question : What is the SKU of item 'Adjustable Wrench - 12 inch'?
+Answer : The  SKU of item 'Adjustable Wrench - 12 inch' was 'P88497'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-06-02'.
+Question : What is the email address of the customer with ID 'CUST40245'?
+Answer : The  email address of the customer with ID 'CUST40245' was 'Fidelia.Aida@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929' was $574.56.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.7.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1146.69.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Screwdriver Set - 6 pieces' with a price of $86.92.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1274.1.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kalina Quent.
+Question : What is the cost of item 'P44943'?
+Answer : The  cost of item 'P44943' was $246.3.
+Question : What is the name of item 'P44943'?
+Answer : The  name of item 'P44943' was 'Tool Box - 19 inch'.
+Question : What is the SKU of item 'Tool Box - 19 inch'?
+Answer : The  SKU of item 'Tool Box - 19 inch' was 'P44943'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-06-02'.
+Question : What is the email address of the customer with ID 'CUST40245'?
+Answer : The  email address of the customer with ID 'CUST40245' was 'Fidelia.Aida@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Tool Box - 19 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tool Box - 19 inch' items ordered in the sales order with ID 'ODR50574929' was $246.29999999999998.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.7.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1146.69.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Screwdriver Set - 6 pieces' with a price of $86.92.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1274.1.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kalina Quent.
+Question : What is the cost of item 'P66553'?
+Answer : The  cost of item 'P66553' was $260.76.
+Question : What is the name of item 'P66553'?
+Answer : The  name of item 'P66553' was 'Screwdriver Set - 6 pieces'.
+Question : What is the SKU of item 'Screwdriver Set - 6 pieces'?
+Answer : The  SKU of item 'Screwdriver Set - 6 pieces' was 'P66553'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-06-02'.
+Question : What is the email address of the customer with ID 'CUST40245'?
+Answer : The  email address of the customer with ID 'CUST40245' was 'Fidelia.Aida@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Screwdriver Set - 6 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Screwdriver Set - 6 pieces' items ordered in the sales order with ID 'ODR50574929' was $260.76.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.7.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1146.69.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Screwdriver Set - 6 pieces' with a price of $86.92.

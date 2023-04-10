@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-27" >
+      <Customer id="CUST12314"
+  firstname="Aimil"
+  lastname="Jerold"
+  email="Aimil.Jerold@example.com"
+  />        <Seller id="EMP58134"
+  firstname="Sadie"
+  lastname="Eugenia"
+  email="Sadie.Eugenia@examplecompany.com"
+  />      <Items><Item><SKU>P48264</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>1</Quantity><Price>85.92</Price></Item><Item><SKU>P24027</SKU><Description>Hand Saw - 12 inch</Description><Quantity>3</Quantity><Price>21.62</Price></Item><Item><SKU>P38985</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>9</Quantity><Price>46.89</Price></Item><Item><SKU>P25159</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>79.54</Price></Item>
+      </Items>
+    </Order>

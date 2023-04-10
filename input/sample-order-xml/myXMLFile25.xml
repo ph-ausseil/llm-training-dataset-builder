@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-03-10" >
+      <Customer id="CUST25169"
+  firstname="Mahalia"
+  lastname="Sisile"
+  email="Mahalia.Sisile@example.com"
+  />        <Seller id="EMP44176"
+  firstname="Jacquetta"
+  lastname="Lorenz"
+  email="Jacquetta.Lorenz@examplecompany.com"
+  />      <Items><Item><SKU>P99977</SKU><Description>Hand Saw - 12 inch</Description><Quantity>10</Quantity><Price>81.21</Price></Item><Item><SKU>P34946</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>5</Quantity><Price>30.59</Price></Item><Item><SKU>P97698</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>3</Quantity><Price>21.25</Price></Item><Item><SKU>P99292</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>4</Quantity><Price>89.39</Price></Item>
+      </Items>
+    </Order>

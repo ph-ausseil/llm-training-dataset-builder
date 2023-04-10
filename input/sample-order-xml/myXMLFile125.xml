@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-03-16" >
+      <Customer id="CUST32165"
+  firstname="Molli"
+  lastname="Philipp"
+  email="Molli.Philipp@example.com"
+  />        <Seller id="EMP23050"
+  firstname="Corina"
+  lastname="Judye"
+  email="Corina.Judye@examplecompany.com"
+  />      <Items><Item><SKU>P12862</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>7</Quantity><Price>26.96</Price></Item><Item><SKU>P35974</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>2</Quantity><Price>60.71</Price></Item><Item><SKU>P17233</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>7</Quantity><Price>90.01</Price></Item><Item><SKU>P83846</SKU><Description>Tarp - 12x16 ft</Description><Quantity>2</Quantity><Price>43.02</Price></Item>
+      </Items>
+    </Order>

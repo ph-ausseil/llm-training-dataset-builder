@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-01-25">
+  
+      
+  <Customer id="CUST38924" firstname="Vanessa" lastname="Kamaria" email="Vanessa.Kamaria@example.com"/>
+          
+  <Seller id="EMP34421" firstname="Vere" lastname="Cleavland" email="Vere.Cleavland@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P90361</SKU>
+      <Description>Power Drill - 18V</Description>
+      <Quantity>1</Quantity>
+      <Price>44.54</Price>
+    </Item>
+    <Item>
+      <SKU>P28369</SKU>
+      <Description>Sandpaper - Assorted Grits</Description>
+      <Quantity>8</Quantity>
+      <Price>82.19</Price>
+    </Item>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>1</Quantity>
+      <Price>57.25</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>71.82</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1190.23</TotalPrice>
+</Order>

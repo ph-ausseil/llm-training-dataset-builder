@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1312.24.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Yetty Joachim.
+Question : What is the cost of item 'P60272'?
+Answer : The  cost of item 'P60272' was $47.0.
+Question : What is the name of item 'P60272'?
+Answer : The  name of item 'P60272' was 'Socket Set - 40 pieces'.
+Question : What is the SKU of item 'Socket Set - 40 pieces'?
+Answer : The  SKU of item 'Socket Set - 40 pieces' was 'P60272'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-11-18'.
+Question : What is the email address of the customer with ID 'CUST98240'?
+Answer : The  email address of the customer with ID 'CUST98240' was 'Chastity.Annice@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Socket Set - 40 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Socket Set - 40 pieces' items ordered in the sales order with ID 'ODR50574929' was $47.0.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.49.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1181.02.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $77.17.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1312.24.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Yetty Joachim.
+Question : What is the cost of item 'P37543'?
+Answer : The  cost of item 'P37543' was $373.56.
+Question : What is the name of item 'P37543'?
+Answer : The  name of item 'P37543' was 'Safety Goggles - Clear'.
+Question : What is the SKU of item 'Safety Goggles - Clear'?
+Answer : The  SKU of item 'Safety Goggles - Clear' was 'P37543'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-11-18'.
+Question : What is the email address of the customer with ID 'CUST98240'?
+Answer : The  email address of the customer with ID 'CUST98240' was 'Chastity.Annice@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Safety Goggles - Clear' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Safety Goggles - Clear' items ordered in the sales order with ID 'ODR50574929' was $373.56.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.49.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1181.02.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $77.17.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1312.24.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Yetty Joachim.
+Question : What is the cost of item 'P19253'?
+Answer : The  cost of item 'P19253' was $308.68.
+Question : What is the name of item 'P19253'?
+Answer : The  name of item 'P19253' was 'Outdoor Lantern - Solar Powered'.
+Question : What is the SKU of item 'Outdoor Lantern - Solar Powered'?
+Answer : The  SKU of item 'Outdoor Lantern - Solar Powered' was 'P19253'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-11-18'.
+Question : What is the email address of the customer with ID 'CUST98240'?
+Answer : The  email address of the customer with ID 'CUST98240' was 'Chastity.Annice@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929' was $308.68.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.49.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1181.02.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $77.17.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1312.24.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Yetty Joachim.
+Question : What is the cost of item 'P91537'?
+Answer : The  cost of item 'P91537' was $583.0.
+Question : What is the name of item 'P91537'?
+Answer : The  name of item 'P91537' was 'Miter Saw - 10 inch'.
+Question : What is the SKU of item 'Miter Saw - 10 inch'?
+Answer : The  SKU of item 'Miter Saw - 10 inch' was 'P91537'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-11-18'.
+Question : What is the email address of the customer with ID 'CUST98240'?
+Answer : The  email address of the customer with ID 'CUST98240' was 'Chastity.Annice@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929' was $583.0.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $52.49.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1181.02.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $77.17.

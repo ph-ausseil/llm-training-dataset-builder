@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-21" >
+      <Customer id="CUST26040"
+  firstname="Nessie"
+  lastname="Valerio"
+  email="Nessie.Valerio@example.com"
+  />        <Seller id="EMP49056"
+  firstname="Calla"
+  lastname="Taima"
+  email="Calla.Taima@examplecompany.com"
+  />      <Items><Item><SKU>P86089</SKU><Description>Socket Set - 40 pieces</Description><Quantity>1</Quantity><Price>88.44</Price></Item><Item><SKU>P97046</SKU><Description>Jigsaw - Cordless</Description><Quantity>7</Quantity><Price>19.46</Price></Item><Item><SKU>P61031</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>1</Quantity><Price>36.94</Price></Item><Item><SKU>P84610</SKU><Description>Miter Saw - 10 inch</Description><Quantity>6</Quantity><Price>75.96</Price></Item>
+      </Items>
+    </Order>

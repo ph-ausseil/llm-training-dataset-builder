@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-17" >
+      <Customer id="CUST62162"
+  firstname="Frieda"
+  lastname="Rustice"
+  email="Frieda.Rustice@example.com"
+  />        <Seller id="EMP10376"
+  firstname="Lauryn"
+  lastname="Viddah"
+  email="Lauryn.Viddah@examplecompany.com"
+  />      <Items><Item><SKU>P66303</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>3</Quantity><Price>21.58</Price></Item><Item><SKU>P77340</SKU><Description>Utility Knife - Retractable</Description><Quantity>5</Quantity><Price>86.59</Price></Item><Item><SKU>P83537</SKU><Description>Hacksaw - 12 inch</Description><Quantity>9</Quantity><Price>12.07</Price></Item><Item><SKU>P70547</SKU><Description>Hacksaw - 12 inch</Description><Quantity>2</Quantity><Price>28.42</Price></Item>
+      </Items>
+    </Order>

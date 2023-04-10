@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-12-11">
+  
+      
+  <Customer id="CUST45416" firstname="Tabbatha" lastname="Suk" email="Tabbatha.Suk@example.com"/>
+          
+  <Seller id="EMP35335" firstname="Melodie" lastname="Ursulette" email="Melodie.Ursulette@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>43.1025</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>30.114</Price>
+    </Item>
+    <Item>
+      <SKU>P47249</SKU>
+      <Description>Wooden Ladder - 8 ft</Description>
+      <Quantity>9</Quantity>
+      <Price>52.92</Price>
+    </Item>
+    <Item>
+      <SKU>P24286</SKU>
+      <Description>Paint Brush Set - 5 pieces</Description>
+      <Quantity>9</Quantity>
+      <Price>28.875</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1222.69</TotalPrice>
+</Order>

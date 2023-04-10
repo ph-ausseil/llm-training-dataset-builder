@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-01" >
+      <Customer id="CUST73974"
+  firstname="Katharina"
+  lastname="Goth"
+  email="Katharina.Goth@example.com"
+  />        <Seller id="EMP91375"
+  firstname="Gerrie"
+  lastname="Corilla"
+  email="Gerrie.Corilla@examplecompany.com"
+  />      <Items><Item><SKU>P52672</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>10</Quantity><Price>36.67</Price></Item><Item><SKU>P50888</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>7</Quantity><Price>63.3</Price></Item><Item><SKU>P53508</SKU><Description>Socket Set - 40 pieces</Description><Quantity>7</Quantity><Price>15.11</Price></Item><Item><SKU>P17256</SKU><Description>Hammer - 16 oz</Description><Quantity>9</Quantity><Price>8.84</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-01-21">
+  
+      
+  <Customer id="CUST98955" firstname="Meriel" lastname="Catie" email="Meriel.Catie@example.com"/>
+          
+  <Seller id="EMP16640" firstname="Doralynne" lastname="Juliet" email="Doralynne.Juliet@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>5</Quantity>
+      <Price>65.373</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>4</Quantity>
+      <Price>95.5395</Price>
+    </Item>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>43.1025</Price>
+    </Item>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>42.168</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1006.07</TotalPrice>
+</Order>

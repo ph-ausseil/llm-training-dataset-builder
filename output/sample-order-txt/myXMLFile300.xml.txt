@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1445.12.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kirbee Imelida.
+Question : What is the cost of item 'P12338'?
+Answer : The  cost of item 'P12338' was $800.71.
+Question : What is the name of item 'P12338'?
+Answer : The  name of item 'P12338' was 'Hammer - 16 oz'.
+Question : What is the SKU of item 'Hammer - 16 oz'?
+Answer : The  SKU of item 'Hammer - 16 oz' was 'P12338'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-09'.
+Question : What is the email address of the customer with ID 'CUST90409'?
+Answer : The  email address of the customer with ID 'CUST90409' was 'Wendi.Pernick@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929' was $800.712.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $90.32.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1300.61.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $100.089.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1445.12.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kirbee Imelida.
+Question : What is the cost of item 'P51598'?
+Answer : The  cost of item 'P51598' was $42.71.
+Question : What is the name of item 'P51598'?
+Answer : The  name of item 'P51598' was 'Sledge Hammer - 10 lb'.
+Question : What is the SKU of item 'Sledge Hammer - 10 lb'?
+Answer : The  SKU of item 'Sledge Hammer - 10 lb' was 'P51598'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-09'.
+Question : What is the email address of the customer with ID 'CUST90409'?
+Answer : The  email address of the customer with ID 'CUST90409' was 'Wendi.Pernick@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Sledge Hammer - 10 lb' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Sledge Hammer - 10 lb' items ordered in the sales order with ID 'ODR50574929' was $42.713.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $90.32.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1300.61.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $100.089.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1445.12.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kirbee Imelida.
+Question : What is the cost of item 'P60272'?
+Answer : The  cost of item 'P60272' was $10.34.
+Question : What is the name of item 'P60272'?
+Answer : The  name of item 'P60272' was 'Socket Set - 40 pieces'.
+Question : What is the SKU of item 'Socket Set - 40 pieces'?
+Answer : The  SKU of item 'Socket Set - 40 pieces' was 'P60272'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-09'.
+Question : What is the email address of the customer with ID 'CUST90409'?
+Answer : The  email address of the customer with ID 'CUST90409' was 'Wendi.Pernick@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Socket Set - 40 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Socket Set - 40 pieces' items ordered in the sales order with ID 'ODR50574929' was $10.340000000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $90.32.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1300.61.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $100.089.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1445.12.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kirbee Imelida.
+Question : What is the cost of item 'P57547'?
+Answer : The  cost of item 'P57547' was $591.36.
+Question : What is the name of item 'P57547'?
+Answer : The  name of item 'P57547' was 'Cordless Leaf Blower - 20V'.
+Question : What is the SKU of item 'Cordless Leaf Blower - 20V'?
+Answer : The  SKU of item 'Cordless Leaf Blower - 20V' was 'P57547'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-03-09'.
+Question : What is the email address of the customer with ID 'CUST90409'?
+Answer : The  email address of the customer with ID 'CUST90409' was 'Wendi.Pernick@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Cordless Leaf Blower - 20V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Cordless Leaf Blower - 20V' items ordered in the sales order with ID 'ODR50574929' was $591.36.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $90.32.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1300.61.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $100.089.

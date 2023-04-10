@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-11" >
+      <Customer id="CUST39226"
+  firstname="Babita"
+  lastname="Danby"
+  email="Babita.Danby@example.com"
+  />        <Seller id="EMP37637"
+  firstname="Nita"
+  lastname="Ephrem"
+  email="Nita.Ephrem@examplecompany.com"
+  />      <Items><Item><SKU>P68353</SKU><Description>Hand Saw - 12 inch</Description><Quantity>9</Quantity><Price>22.08</Price></Item><Item><SKU>P64259</SKU><Description>Power Drill - 18V</Description><Quantity>4</Quantity><Price>40.13</Price></Item><Item><SKU>P36393</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>6</Quantity><Price>28.8</Price></Item><Item><SKU>P27773</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>5</Quantity><Price>74.8</Price></Item>
+      </Items>
+    </Order>

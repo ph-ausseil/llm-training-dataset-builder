@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-11-04">
+  
+      
+  <Customer id="CUST75104" firstname="Corene" lastname="Soneson" email="Corene.Soneson@example.com"/>
+          
+  <Seller id="EMP50599" firstname="Blinni" lastname="Cynar" email="Blinni.Cynar@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>10.340000000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>45.155</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>1</Quantity>
+      <Price>68.486</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>5</Quantity>
+      <Price>93.676</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>908.45</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-03-07" >
+      <Customer id="CUST45032"
+  firstname="Ingrid"
+  lastname="Lilas"
+  email="Ingrid.Lilas@example.com"
+  />        <Seller id="EMP83984"
+  firstname="Albertina"
+  lastname="Bollay"
+  email="Albertina.Bollay@examplecompany.com"
+  />      <Items><Item><SKU>P91874</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>7</Quantity><Price>71.15</Price></Item><Item><SKU>P14215</SKU><Description>Work Gloves - Leather</Description><Quantity>7</Quantity><Price>34.88</Price></Item><Item><SKU>P17877</SKU><Description>Nail Gun - Electric</Description><Quantity>6</Quantity><Price>44.88</Price></Item><Item><SKU>P96917</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>8</Quantity><Price>54.52</Price></Item>
+      </Items>
+    </Order>

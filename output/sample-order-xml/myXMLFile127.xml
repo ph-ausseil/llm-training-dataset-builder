@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-01-06">
+  
+      
+  <Customer id="CUST45490" firstname="Agathe" lastname="Hieronymus" email="Agathe.Hieronymus@example.com"/>
+          
+  <Seller id="EMP55644" firstname="Clary" lastname="Morgun" email="Clary.Morgun@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>6</Quantity>
+      <Price>9.4</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>3</Quantity>
+      <Price>6.58</Price>
+    </Item>
+    <Item>
+      <SKU>P90277</SKU>
+      <Description>Bolt Cutter - 24 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>48.14</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>9</Quantity>
+      <Price>11.27</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>562.69</TotalPrice>
+</Order>

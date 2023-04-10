@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-01-14" >
+      <Customer id="CUST37884"
+  firstname="Imojean"
+  lastname="Payson"
+  email="Imojean.Payson@example.com"
+  />        <Seller id="EMP67233"
+  firstname="Magdalena"
+  lastname="Anton"
+  email="Magdalena.Anton@examplecompany.com"
+  />      <Items><Item><SKU>P28520</SKU><Description>Jigsaw - Cordless</Description><Quantity>2</Quantity><Price>73.65</Price></Item><Item><SKU>P80163</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>10</Quantity><Price>70.69</Price></Item><Item><SKU>P65269</SKU><Description>Hand Saw - 12 inch</Description><Quantity>8</Quantity><Price>72.99</Price></Item><Item><SKU>P27495</SKU><Description>Socket Set - 40 pieces</Description><Quantity>4</Quantity><Price>79.37</Price></Item>
+      </Items>
+    </Order>

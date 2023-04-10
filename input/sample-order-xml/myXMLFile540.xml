@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-06" >
+      <Customer id="CUST21555"
+  firstname="Jenda"
+  lastname="Euridice"
+  email="Jenda.Euridice@example.com"
+  />        <Seller id="EMP57486"
+  firstname="Norine"
+  lastname="Glenden"
+  email="Norine.Glenden@examplecompany.com"
+  />      <Items><Item><SKU>P14340</SKU><Description>Utility Knife - Retractable</Description><Quantity>4</Quantity><Price>58.21</Price></Item><Item><SKU>P80546</SKU><Description>Utility Knife - Retractable</Description><Quantity>3</Quantity><Price>13.26</Price></Item><Item><SKU>P43105</SKU><Description>Tape Measure - 25 ft</Description><Quantity>7</Quantity><Price>10.96</Price></Item><Item><SKU>P18616</SKU><Description>Nail Gun - Electric</Description><Quantity>5</Quantity><Price>86.14</Price></Item>
+      </Items>
+    </Order>

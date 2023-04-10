@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2023-03-07">
+  
+      
+  <Customer id="CUST45404" firstname="Noelle" lastname="Cleo" email="Noelle.Cleo@example.com"/>
+          
+  <Seller id="EMP70559" firstname="Elfreda" lastname="Shaddock" email="Elfreda.Shaddock@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P47249</SKU>
+      <Description>Wooden Ladder - 8 ft</Description>
+      <Quantity>5</Quantity>
+      <Price>60.48</Price>
+    </Item>
+    <Item>
+      <SKU>P73288</SKU>
+      <Description>Stud Finder - Digital</Description>
+      <Quantity>10</Quantity>
+      <Price>28.955999999999996</Price>
+    </Item>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>7</Quantity>
+      <Price>6.288</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>8</Quantity>
+      <Price>7.896</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>699.14</TotalPrice>
+</Order>

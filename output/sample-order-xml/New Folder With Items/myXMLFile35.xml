@@ -1,0 +1,8 @@
+<Order id="ODR56724187" date="2022-08-25">
+      
+      <Customer id="CUST85073" firstname="Micheline" lastname="Lilybelle" email="Micheline.Lilybelle@example.com" />
+        <Seller id="EMP46276" firstname="Evita" lastname="Markman" email="Evita.Markman@company.com" />
+      <Items>
+        <Item><SKU>P68768</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>5</Quantity><Price>18.38</Price></Item><Item><SKU>P694</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>5</Quantity><Price>45.43</Price></Item><Item><SKU>P19288</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>3</Quantity><Price>21.92</Price></Item>
+      </Items>
+    <TotalPrice>91.89999999999999</TotalPrice><TotalPrice>319.05</TotalPrice><TotalPrice>384.81</TotalPrice></Order>

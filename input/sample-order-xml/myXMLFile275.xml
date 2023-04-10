@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-03" >
+      <Customer id="CUST42536"
+  firstname="Vevay"
+  lastname="Gemini"
+  email="Vevay.Gemini@example.com"
+  />        <Seller id="EMP62772"
+  firstname="Deloria"
+  lastname="Riordan"
+  email="Deloria.Riordan@examplecompany.com"
+  />      <Items><Item><SKU>P68995</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>6</Quantity><Price>19.38</Price></Item><Item><SKU>P81886</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>3</Quantity><Price>33.85</Price></Item><Item><SKU>P67021</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>10</Quantity><Price>50.97</Price></Item><Item><SKU>P19188</SKU><Description>Tarp - 12x16 ft</Description><Quantity>1</Quantity><Price>35.86</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-25" >
+      <Customer id="CUST72546"
+  firstname="Chloris"
+  lastname="Jobi"
+  email="Chloris.Jobi@example.com"
+  />        <Seller id="EMP42741"
+  firstname="Beth"
+  lastname="Donell"
+  email="Beth.Donell@examplecompany.com"
+  />      <Items><Item><SKU>P10624</SKU><Description>Utility Knife - Retractable</Description><Quantity>7</Quantity><Price>21.06</Price></Item><Item><SKU>P58815</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>9</Quantity><Price>19.98</Price></Item><Item><SKU>P92863</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>5</Quantity><Price>27.9</Price></Item><Item><SKU>P52235</SKU><Description>Stud Finder - Digital</Description><Quantity>9</Quantity><Price>57.08</Price></Item>
+      </Items>
+    </Order>

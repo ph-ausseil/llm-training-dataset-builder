@@ -1,0 +1,8 @@
+<Order id="ODR16771937" date="2021-01-14">
+      
+      <Customer id="CUST83172" firstname="Jordan" lastname="Kylander" email="Jordan.Kylander@example.com" />
+        <Seller id="EMP32914" firstname="Jacenta" lastname="Diann" email="Jacenta.Diann@company.com" />
+      <Items>
+        <Item><SKU>P96475</SKU><Description>Safety Goggles - Clear</Description><Quantity>3</Quantity><Price>41.75</Price></Item><Item><SKU>P24963</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>6.42</Price></Item><Item><SKU>P40897</SKU><Description>Stud Finder - Digital</Description><Quantity>1</Quantity><Price>26.92</Price></Item>
+      </Items>
+    <TotalPrice>125.25</TotalPrice><TotalPrice>138.09</TotalPrice><TotalPrice>165.01</TotalPrice></Order>

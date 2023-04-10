@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-26" >
+      <Customer id="CUST78572"
+  firstname="Frank"
+  lastname="Bakerman"
+  email="Frank.Bakerman@example.com"
+  />        <Seller id="EMP45909"
+  firstname="Dolli"
+  lastname="Ricki"
+  email="Dolli.Ricki@examplecompany.com"
+  />      <Items><Item><SKU>P46969</SKU><Description>Tool Box - 19 inch</Description><Quantity>3</Quantity><Price>18.37</Price></Item><Item><SKU>P13100</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>2</Quantity><Price>39.4</Price></Item><Item><SKU>P56667</SKU><Description>Hand Saw - 12 inch</Description><Quantity>2</Quantity><Price>82.8</Price></Item><Item><SKU>P86411</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>3</Quantity><Price>9.29</Price></Item>
+      </Items>
+    </Order>

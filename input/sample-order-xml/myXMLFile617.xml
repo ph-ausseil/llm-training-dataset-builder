@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-02-07" >
+      <Customer id="CUST24381"
+  firstname="Constance"
+  lastname="Ciapas"
+  email="Constance.Ciapas@example.com"
+  />        <Seller id="EMP52392"
+  firstname="Mignon"
+  lastname="Cookie"
+  email="Mignon.Cookie@examplecompany.com"
+  />      <Items><Item><SKU>P62964</SKU><Description>Safety Goggles - Clear</Description><Quantity>9</Quantity><Price>83</Price></Item><Item><SKU>P18607</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>1</Quantity><Price>36.08</Price></Item><Item><SKU>P63014</SKU><Description>Hacksaw - 12 inch</Description><Quantity>8</Quantity><Price>76.47</Price></Item><Item><SKU>P39608</SKU><Description>Tape Measure - 25 ft</Description><Quantity>8</Quantity><Price>14.82</Price></Item>
+      </Items>
+    </Order>

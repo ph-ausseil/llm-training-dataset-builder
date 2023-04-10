@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $843.41.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Jobi Suzetta.
+Question : What is the cost of item 'P42816'?
+Answer : The  cost of item 'P42816' was $88.35.
+Question : What is the name of item 'P42816'?
+Answer : The  name of item 'P42816' was 'Paint Roller Kit - 9 inch'.
+Question : What is the SKU of item 'Paint Roller Kit - 9 inch'?
+Answer : The  SKU of item 'Paint Roller Kit - 9 inch' was 'P42816'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-11-07'.
+Question : What is the email address of the customer with ID 'CUST42533'?
+Answer : The  email address of the customer with ID 'CUST42533' was 'Mignon.Oscar@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 14.
+Question : What is the total price of all 'Paint Roller Kit - 9 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Paint Roller Kit - 9 inch' items ordered in the sales order with ID 'ODR50574929' was $88.352.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $60.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $759.07.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $84.88700000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $843.41.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Jobi Suzetta.
+Question : What is the cost of item 'P60272'?
+Answer : The  cost of item 'P60272' was $20.68.
+Question : What is the name of item 'P60272'?
+Answer : The  name of item 'P60272' was 'Socket Set - 40 pieces'.
+Question : What is the SKU of item 'Socket Set - 40 pieces'?
+Answer : The  SKU of item 'Socket Set - 40 pieces' was 'P60272'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-11-07'.
+Question : What is the email address of the customer with ID 'CUST42533'?
+Answer : The  email address of the customer with ID 'CUST42533' was 'Mignon.Oscar@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 14.
+Question : What is the total price of all 'Socket Set - 40 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Socket Set - 40 pieces' items ordered in the sales order with ID 'ODR50574929' was $20.680000000000003.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $60.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $759.07.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $84.88700000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $843.41.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Jobi Suzetta.
+Question : What is the cost of item 'P19253'?
+Answer : The  cost of item 'P19253' was $169.77.
+Question : What is the name of item 'P19253'?
+Answer : The  name of item 'P19253' was 'Outdoor Lantern - Solar Powered'.
+Question : What is the SKU of item 'Outdoor Lantern - Solar Powered'?
+Answer : The  SKU of item 'Outdoor Lantern - Solar Powered' was 'P19253'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-11-07'.
+Question : What is the email address of the customer with ID 'CUST42533'?
+Answer : The  email address of the customer with ID 'CUST42533' was 'Mignon.Oscar@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 14.
+Question : What is the total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Outdoor Lantern - Solar Powered' items ordered in the sales order with ID 'ODR50574929' was $169.77400000000003.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $60.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $759.07.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $84.88700000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $843.41.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Jobi Suzetta.
+Question : What is the cost of item 'P32122'?
+Answer : The  cost of item 'P32122' was $564.61.
+Question : What is the name of item 'P32122'?
+Answer : The  name of item 'P32122' was 'Pliers Set - 3 pieces'.
+Question : What is the SKU of item 'Pliers Set - 3 pieces'?
+Answer : The  SKU of item 'Pliers Set - 3 pieces' was 'P32122'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-11-07'.
+Question : What is the email address of the customer with ID 'CUST42533'?
+Answer : The  email address of the customer with ID 'CUST42533' was 'Mignon.Oscar@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 14.
+Question : What is the total price of all 'Pliers Set - 3 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Pliers Set - 3 pieces' items ordered in the sales order with ID 'ODR50574929' was $564.6080000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $60.24.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $759.07.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Outdoor Lantern - Solar Powered' with a price of $84.88700000000001.

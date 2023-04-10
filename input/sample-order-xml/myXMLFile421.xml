@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-03-16" >
+      <Customer id="CUST95089"
+  firstname="Andree"
+  lastname="Uird"
+  email="Andree.Uird@example.com"
+  />        <Seller id="EMP82049"
+  firstname="Elvira"
+  lastname="Maples"
+  email="Elvira.Maples@examplecompany.com"
+  />      <Items><Item><SKU>P39117</SKU><Description>Level - 24 inch</Description><Quantity>8</Quantity><Price>88.3</Price></Item><Item><SKU>P67490</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>2</Quantity><Price>7.59</Price></Item><Item><SKU>P86794</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>10</Quantity><Price>84.3</Price></Item><Item><SKU>P37004</SKU><Description>Tape Measure - 25 ft</Description><Quantity>10</Quantity><Price>83.08</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-07-04" >
+      <Customer id="CUST18156"
+  firstname="Marguerite"
+  lastname="Crudden"
+  email="Marguerite.Crudden@example.com"
+  />        <Seller id="EMP95856"
+  firstname="Cyndie"
+  lastname="Erb"
+  email="Cyndie.Erb@examplecompany.com"
+  />      <Items><Item><SKU>P87311</SKU><Description>Safety Goggles - Clear</Description><Quantity>4</Quantity><Price>12.95</Price></Item><Item><SKU>P56664</SKU><Description>Stud Finder - Digital</Description><Quantity>8</Quantity><Price>25.17</Price></Item><Item><SKU>P48740</SKU><Description>Hacksaw - 12 inch</Description><Quantity>3</Quantity><Price>62.71</Price></Item><Item><SKU>P69965</SKU><Description>Power Drill - 18V</Description><Quantity>6</Quantity><Price>48.42</Price></Item>
+      </Items>
+    </Order>

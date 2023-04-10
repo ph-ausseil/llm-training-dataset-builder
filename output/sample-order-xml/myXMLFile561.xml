@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-06-24">
+  
+      
+  <Customer id="CUST40457" firstname="Drucie" lastname="Pandolfi" email="Drucie.Pandolfi@example.com"/>
+          
+  <Seller id="EMP23996" firstname="Danny" lastname="Mandler" email="Danny.Mandler@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P41806</SKU>
+      <Description>Electric Screwdriver - 3.6V</Description>
+      <Quantity>7</Quantity>
+      <Price>46.872</Price>
+    </Item>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>8</Quantity>
+      <Price>40.7715</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>9</Quantity>
+      <Price>94.08</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>30.114</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1741.91</TotalPrice>
+</Order>

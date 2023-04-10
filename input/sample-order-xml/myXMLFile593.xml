@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-03-27" >
+      <Customer id="CUST79154"
+  firstname="Dione"
+  lastname="Mendez"
+  email="Dione.Mendez@example.com"
+  />        <Seller id="EMP18313"
+  firstname="Rosabelle"
+  lastname="Garbe"
+  email="Rosabelle.Garbe@examplecompany.com"
+  />      <Items><Item><SKU>P56191</SKU><Description>Socket Set - 40 pieces</Description><Quantity>9</Quantity><Price>27.67</Price></Item><Item><SKU>P95984</SKU><Description>Tarp - 12x16 ft</Description><Quantity>9</Quantity><Price>79.06</Price></Item><Item><SKU>P68364</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>2</Quantity><Price>30.63</Price></Item><Item><SKU>P40438</SKU><Description>Hand Saw - 12 inch</Description><Quantity>1</Quantity><Price>15.44</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $716.7.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Karly Lauraine.
+Question : What is the cost of item 'P85138'?
+Answer : The  cost of item 'P85138' was $397.11.
+Question : What is the name of item 'P85138'?
+Answer : The  name of item 'P85138' was 'Tarp - 12x16 ft'.
+Question : What is the SKU of item 'Tarp - 12x16 ft'?
+Answer : The  SKU of item 'Tarp - 12x16 ft' was 'P85138'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-28'.
+Question : What is the email address of the customer with ID 'CUST79979'?
+Answer : The  email address of the customer with ID 'CUST79979' was 'Rhea.Marisa@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 22.
+Question : What is the total price of all 'Tarp - 12x16 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tarp - 12x16 ft' items ordered in the sales order with ID 'ODR50574929' was $397.11.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $32.58.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $645.03.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tarp - 12x16 ft' with a price of $39.711.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $716.7.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Karly Lauraine.
+Question : What is the cost of item 'P24286'?
+Answer : The  cost of item 'P24286' was $288.75.
+Question : What is the name of item 'P24286'?
+Answer : The  name of item 'P24286' was 'Paint Brush Set - 5 pieces'.
+Question : What is the SKU of item 'Paint Brush Set - 5 pieces'?
+Answer : The  SKU of item 'Paint Brush Set - 5 pieces' was 'P24286'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-28'.
+Question : What is the email address of the customer with ID 'CUST79979'?
+Answer : The  email address of the customer with ID 'CUST79979' was 'Rhea.Marisa@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 22.
+Question : What is the total price of all 'Paint Brush Set - 5 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Paint Brush Set - 5 pieces' items ordered in the sales order with ID 'ODR50574929' was $288.75.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $32.58.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $645.03.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tarp - 12x16 ft' with a price of $39.711.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $716.7.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Karly Lauraine.
+Question : What is the cost of item 'P17878'?
+Answer : The  cost of item 'P17878' was $5.5.
+Question : What is the name of item 'P17878'?
+Answer : The  name of item 'P17878' was 'Jigsaw - Cordless'.
+Question : What is the SKU of item 'Jigsaw - Cordless'?
+Answer : The  SKU of item 'Jigsaw - Cordless' was 'P17878'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-28'.
+Question : What is the email address of the customer with ID 'CUST79979'?
+Answer : The  email address of the customer with ID 'CUST79979' was 'Rhea.Marisa@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 22.
+Question : What is the total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929' was $5.502000000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $32.58.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $645.03.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tarp - 12x16 ft' with a price of $39.711.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $716.7.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Karly Lauraine.
+Question : What is the cost of item 'P73288'?
+Answer : The  cost of item 'P73288' was $25.34.
+Question : What is the name of item 'P73288'?
+Answer : The  name of item 'P73288' was 'Stud Finder - Digital'.
+Question : What is the SKU of item 'Stud Finder - Digital'?
+Answer : The  SKU of item 'Stud Finder - Digital' was 'P73288'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-02-28'.
+Question : What is the email address of the customer with ID 'CUST79979'?
+Answer : The  email address of the customer with ID 'CUST79979' was 'Rhea.Marisa@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 22.
+Question : What is the total price of all 'Stud Finder - Digital' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Stud Finder - Digital' items ordered in the sales order with ID 'ODR50574929' was $25.3365.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $32.58.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $645.03.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tarp - 12x16 ft' with a price of $39.711.

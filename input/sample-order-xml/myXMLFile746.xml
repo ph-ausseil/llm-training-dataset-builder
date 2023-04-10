@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-23" >
+      <Customer id="CUST90149"
+  firstname="Charissa"
+  lastname="Clywd"
+  email="Charissa.Clywd@example.com"
+  />        <Seller id="EMP57996"
+  firstname="Alleen"
+  lastname="Genna"
+  email="Alleen.Genna@examplecompany.com"
+  />      <Items><Item><SKU>P50913</SKU><Description>Jigsaw - Cordless</Description><Quantity>6</Quantity><Price>41</Price></Item><Item><SKU>P38459</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>3</Quantity><Price>83.56</Price></Item><Item><SKU>P81481</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>9</Quantity><Price>61.25</Price></Item><Item><SKU>P72644</SKU><Description>Garden Hose - 50ft</Description><Quantity>5</Quantity><Price>13.3</Price></Item>
+      </Items>
+    </Order>

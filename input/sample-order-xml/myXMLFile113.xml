@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-03" >
+      <Customer id="CUST43902"
+  firstname="Kalina"
+  lastname="Leler"
+  email="Kalina.Leler@example.com"
+  />        <Seller id="EMP28649"
+  firstname="Emma"
+  lastname="Lail"
+  email="Emma.Lail@examplecompany.com"
+  />      <Items><Item><SKU>P85748</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>7</Quantity><Price>42.25</Price></Item><Item><SKU>P27972</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>6</Quantity><Price>75.47</Price></Item><Item><SKU>P48155</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>1</Quantity><Price>5.58</Price></Item><Item><SKU>P43973</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>10</Quantity><Price>34.43</Price></Item>
+      </Items>
+    </Order>

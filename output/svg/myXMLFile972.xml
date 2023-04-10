@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-08-26">
+  
+      
+  <Customer id="CUST77889" firstname="Renae" lastname="Nerita" email="Renae.Nerita@example.com"/>
+          
+  <Seller id="EMP19921" firstname="Rivalee" lastname="Pauly" email="Rivalee.Pauly@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>3</Quantity>
+      <Price>70.38</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>1</Quantity>
+      <Price>90.99</Price>
+    </Item>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>6</Quantity>
+      <Price>86.92</Price>
+    </Item>
+    <Item>
+      <SKU>P79695</SKU>
+      <Description>Tile Cutter - Manual</Description>
+      <Quantity>10</Quantity>
+      <Price>36.53</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1188.95</TotalPrice>
+</Order>

@@ -1,0 +1,8 @@
+<Order id="ODR81150984" date="2021-06-15">
+      
+      <Customer id="CUST81881" firstname="Tera" lastname="Goddard" email="Tera.Goddard@example.com" />
+        <Seller id="EMP59600" firstname="Petronia" lastname="Sothena" email="Petronia.Sothena@company.com" />
+      <Items>
+        <Item><SKU>P79907</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>5</Quantity><Price>87.49</Price></Item><Item><SKU>P58093</SKU><Description>Tile Cutter - Manual</Description><Quantity>4</Quantity><Price>74.28</Price></Item><Item><SKU>P84035</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>34.66</Price></Item>
+      </Items>
+    <TotalPrice>437.45</TotalPrice><TotalPrice>734.5699999999999</TotalPrice><TotalPrice>873.2099999999999</TotalPrice></Order>

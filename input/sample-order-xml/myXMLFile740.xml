@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-04" >
+      <Customer id="CUST53590"
+  firstname="Collen"
+  lastname="Rolf"
+  email="Collen.Rolf@example.com"
+  />        <Seller id="EMP21091"
+  firstname="Patricia"
+  lastname="Sophronia"
+  email="Patricia.Sophronia@examplecompany.com"
+  />      <Items><Item><SKU>P52437</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>2</Quantity><Price>34.99</Price></Item><Item><SKU>P57261</SKU><Description>Miter Saw - 10 inch</Description><Quantity>6</Quantity><Price>85.7</Price></Item><Item><SKU>P27134</SKU><Description>Tape Measure - 25 ft</Description><Quantity>8</Quantity><Price>76.9</Price></Item><Item><SKU>P17846</SKU><Description>Workbench - Portable</Description><Quantity>1</Quantity><Price>39.55</Price></Item>
+      </Items>
+    </Order>

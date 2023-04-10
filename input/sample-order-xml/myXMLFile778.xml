@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-10" >
+      <Customer id="CUST22159"
+  firstname="Yolane"
+  lastname="Imelida"
+  email="Yolane.Imelida@example.com"
+  />        <Seller id="EMP72563"
+  firstname="Elise"
+  lastname="Elephus"
+  email="Elise.Elephus@examplecompany.com"
+  />      <Items><Item><SKU>P38559</SKU><Description>Utility Knife - Retractable</Description><Quantity>9</Quantity><Price>65.84</Price></Item><Item><SKU>P89573</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>36.14</Price></Item><Item><SKU>P77610</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>9</Quantity><Price>8.81</Price></Item><Item><SKU>P27137</SKU><Description>Nail Gun - Electric</Description><Quantity>9</Quantity><Price>42.01</Price></Item>
+      </Items>
+    </Order>

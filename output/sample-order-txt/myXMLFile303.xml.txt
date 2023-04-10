@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1164.43.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Luci Klotz.
+Question : What is the cost of item 'P41806'?
+Answer : The  cost of item 'P41806' was $374.98.
+Question : What is the name of item 'P41806'?
+Answer : The  name of item 'P41806' was 'Electric Screwdriver - 3.6V'.
+Question : What is the SKU of item 'Electric Screwdriver - 3.6V'?
+Answer : The  SKU of item 'Electric Screwdriver - 3.6V' was 'P41806'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-04-23'.
+Question : What is the email address of the customer with ID 'CUST49035'?
+Answer : The  email address of the customer with ID 'CUST49035' was 'Elka.Ursulette@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Electric Screwdriver - 3.6V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Electric Screwdriver - 3.6V' items ordered in the sales order with ID 'ODR50574929' was $374.976.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $61.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1047.99.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1164.43.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Luci Klotz.
+Question : What is the cost of item 'P13379'?
+Answer : The  cost of item 'P13379' was $6.91.
+Question : What is the name of item 'P13379'?
+Answer : The  name of item 'P13379' was 'Measuring Tape - 16 ft'.
+Question : What is the SKU of item 'Measuring Tape - 16 ft'?
+Answer : The  SKU of item 'Measuring Tape - 16 ft' was 'P13379'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-04-23'.
+Question : What is the email address of the customer with ID 'CUST49035'?
+Answer : The  email address of the customer with ID 'CUST49035' was 'Elka.Ursulette@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Measuring Tape - 16 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Measuring Tape - 16 ft' items ordered in the sales order with ID 'ODR50574929' was $6.909000000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $61.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1047.99.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1164.43.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Luci Klotz.
+Question : What is the cost of item 'P32122'?
+Answer : The  cost of item 'P32122' was $404.21.
+Question : What is the name of item 'P32122'?
+Answer : The  name of item 'P32122' was 'Pliers Set - 3 pieces'.
+Question : What is the SKU of item 'Pliers Set - 3 pieces'?
+Answer : The  SKU of item 'Pliers Set - 3 pieces' was 'P32122'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-04-23'.
+Question : What is the email address of the customer with ID 'CUST49035'?
+Answer : The  email address of the customer with ID 'CUST49035' was 'Elka.Ursulette@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Pliers Set - 3 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Pliers Set - 3 pieces' items ordered in the sales order with ID 'ODR50574929' was $404.20799999999997.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $61.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1047.99.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1164.43.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Luci Klotz.
+Question : What is the cost of item 'P72757'?
+Answer : The  cost of item 'P72757' was $378.34.
+Question : What is the name of item 'P72757'?
+Answer : The  name of item 'P72757' was 'Tape Measure - 25 ft'.
+Question : What is the SKU of item 'Tape Measure - 25 ft'?
+Answer : The  SKU of item 'Tape Measure - 25 ft' was 'P72757'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-04-23'.
+Question : What is the email address of the customer with ID 'CUST49035'?
+Answer : The  email address of the customer with ID 'CUST49035' was 'Elka.Ursulette@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Tape Measure - 25 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tape Measure - 25 ft' items ordered in the sales order with ID 'ODR50574929' was $378.336.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $61.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1047.99.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.

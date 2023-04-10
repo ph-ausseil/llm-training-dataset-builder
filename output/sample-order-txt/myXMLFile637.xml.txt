@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1738.09.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kellen Rossner.
+Question : What is the cost of item 'P35922'?
+Answer : The  cost of item 'P35922' was $606.31.
+Question : What is the name of item 'P35922'?
+Answer : The  name of item 'P35922' was 'Chisel Set - 4 pieces'.
+Question : What is the SKU of item 'Chisel Set - 4 pieces'?
+Answer : The  SKU of item 'Chisel Set - 4 pieces' was 'P35922'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-01'.
+Question : What is the email address of the customer with ID 'CUST38583'?
+Answer : The  email address of the customer with ID 'CUST38583' was 'Ericka.Ranjiv@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Chisel Set - 4 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Chisel Set - 4 pieces' items ordered in the sales order with ID 'ODR50574929' was $606.3120000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $66.85.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1564.28.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Pipe Wrench - 14 inch' with a price of $79.653.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1738.09.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kellen Rossner.
+Question : What is the cost of item 'P37543'?
+Answer : The  cost of item 'P37543' was $392.24.
+Question : What is the name of item 'P37543'?
+Answer : The  name of item 'P37543' was 'Safety Goggles - Clear'.
+Question : What is the SKU of item 'Safety Goggles - Clear'?
+Answer : The  SKU of item 'Safety Goggles - Clear' was 'P37543'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-01'.
+Question : What is the email address of the customer with ID 'CUST38583'?
+Answer : The  email address of the customer with ID 'CUST38583' was 'Ericka.Ranjiv@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Safety Goggles - Clear' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Safety Goggles - Clear' items ordered in the sales order with ID 'ODR50574929' was $392.23800000000006.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $66.85.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1564.28.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Pipe Wrench - 14 inch' with a price of $79.653.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1738.09.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kellen Rossner.
+Question : What is the cost of item 'P43386'?
+Answer : The  cost of item 'P43386' was $318.61.
+Question : What is the name of item 'P43386'?
+Answer : The  name of item 'P43386' was 'Pipe Wrench - 14 inch'.
+Question : What is the SKU of item 'Pipe Wrench - 14 inch'?
+Answer : The  SKU of item 'Pipe Wrench - 14 inch' was 'P43386'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-01'.
+Question : What is the email address of the customer with ID 'CUST38583'?
+Answer : The  email address of the customer with ID 'CUST38583' was 'Ericka.Ranjiv@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Pipe Wrench - 14 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Pipe Wrench - 14 inch' items ordered in the sales order with ID 'ODR50574929' was $318.612.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $66.85.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1564.28.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Pipe Wrench - 14 inch' with a price of $79.653.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1738.09.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Kellen Rossner.
+Question : What is the cost of item 'P49316'?
+Answer : The  cost of item 'P49316' was $420.92.
+Question : What is the name of item 'P49316'?
+Answer : The  name of item 'P49316' was 'Heavy-Duty Extension Cord - 100ft'.
+Question : What is the SKU of item 'Heavy-Duty Extension Cord - 100ft'?
+Answer : The  SKU of item 'Heavy-Duty Extension Cord - 100ft' was 'P49316'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-01'.
+Question : What is the email address of the customer with ID 'CUST38583'?
+Answer : The  email address of the customer with ID 'CUST38583' was 'Ericka.Ranjiv@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 26.
+Question : What is the total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Heavy-Duty Extension Cord - 100ft' items ordered in the sales order with ID 'ODR50574929' was $420.92400000000004.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $66.85.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1564.28.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Pipe Wrench - 14 inch' with a price of $79.653.

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-05-27" >
+      <Customer id="CUST25691"
+  firstname="Hollie"
+  lastname="Carlson"
+  email="Hollie.Carlson@example.com"
+  />        <Seller id="EMP84396"
+  firstname="Rosanne"
+  lastname="Henebry"
+  email="Rosanne.Henebry@examplecompany.com"
+  />      <Items><Item><SKU>P59388</SKU><Description>Garden Hose - 50ft</Description><Quantity>9</Quantity><Price>21.88</Price></Item><Item><SKU>P68973</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>2</Quantity><Price>29.28</Price></Item><Item><SKU>P49018</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>38.88</Price></Item><Item><SKU>P61769</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>9</Quantity><Price>40.31</Price></Item>
+      </Items>
+    </Order>

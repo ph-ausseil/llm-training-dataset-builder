@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-02-24" >
+      <Customer id="CUST32534"
+  firstname="Kelly"
+  lastname="Yorick"
+  email="Kelly.Yorick@example.com"
+  />        <Seller id="EMP75527"
+  firstname="Hollie"
+  lastname="Markman"
+  email="Hollie.Markman@examplecompany.com"
+  />      <Items><Item><SKU>P46812</SKU><Description>Tarp - 12x16 ft</Description><Quantity>1</Quantity><Price>83.37</Price></Item><Item><SKU>P20605</SKU><Description>Hammer - 16 oz</Description><Quantity>10</Quantity><Price>69.14</Price></Item><Item><SKU>P37488</SKU><Description>Stud Finder - Digital</Description><Quantity>8</Quantity><Price>28.29</Price></Item><Item><SKU>P97543</SKU><Description>Nail Gun - Electric</Description><Quantity>1</Quantity><Price>86.79</Price></Item>
+      </Items>
+    </Order>

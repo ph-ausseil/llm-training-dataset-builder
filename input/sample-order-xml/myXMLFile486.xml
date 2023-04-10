@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-15" >
+      <Customer id="CUST31060"
+  firstname="Cassandra"
+  lastname="Santoro"
+  email="Cassandra.Santoro@example.com"
+  />        <Seller id="EMP78494"
+  firstname="Jackie"
+  lastname="Demitria"
+  email="Jackie.Demitria@examplecompany.com"
+  />      <Items><Item><SKU>P98468</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>10</Quantity><Price>62.17</Price></Item><Item><SKU>P21484</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>10</Quantity><Price>71.72</Price></Item><Item><SKU>P25351</SKU><Description>Jigsaw - Cordless</Description><Quantity>3</Quantity><Price>7.63</Price></Item><Item><SKU>P50226</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>4</Quantity><Price>69.7</Price></Item>
+      </Items>
+    </Order>

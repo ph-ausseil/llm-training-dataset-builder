@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1025.9.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Madeleine Garlinda.
+Question : What is the cost of item 'P87047'?
+Answer : The  cost of item 'P87047' was $596.12.
+Question : What is the name of item 'P87047'?
+Answer : The  name of item 'P87047' was 'Wrench Set - 10 pieces'.
+Question : What is the SKU of item 'Wrench Set - 10 pieces'?
+Answer : The  SKU of item 'Wrench Set - 10 pieces' was 'P87047'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-04-07'.
+Question : What is the email address of the customer with ID 'CUST89313'?
+Answer : The  email address of the customer with ID 'CUST89313' was 'Rori.Lorain@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929' was $596.12.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $53.99.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $923.31.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1025.9.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Madeleine Garlinda.
+Question : What is the cost of item 'P79695'?
+Answer : The  cost of item 'P79695' was $292.24.
+Question : What is the name of item 'P79695'?
+Answer : The  name of item 'P79695' was 'Tile Cutter - Manual'.
+Question : What is the SKU of item 'Tile Cutter - Manual'?
+Answer : The  SKU of item 'Tile Cutter - Manual' was 'P79695'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-04-07'.
+Question : What is the email address of the customer with ID 'CUST89313'?
+Answer : The  email address of the customer with ID 'CUST89313' was 'Rori.Lorain@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929' was $292.24.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $53.99.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $923.31.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1025.9.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Madeleine Garlinda.
+Question : What is the cost of item 'P41806'?
+Answer : The  cost of item 'P41806' was $89.28.
+Question : What is the name of item 'P41806'?
+Answer : The  name of item 'P41806' was 'Electric Screwdriver - 3.6V'.
+Question : What is the SKU of item 'Electric Screwdriver - 3.6V'?
+Answer : The  SKU of item 'Electric Screwdriver - 3.6V' was 'P41806'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-04-07'.
+Question : What is the email address of the customer with ID 'CUST89313'?
+Answer : The  email address of the customer with ID 'CUST89313' was 'Rori.Lorain@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Electric Screwdriver - 3.6V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Electric Screwdriver - 3.6V' items ordered in the sales order with ID 'ODR50574929' was $89.28.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $53.99.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $923.31.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1025.9.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Madeleine Garlinda.
+Question : What is the cost of item 'P73288'?
+Answer : The  cost of item 'P73288' was $48.26.
+Question : What is the name of item 'P73288'?
+Answer : The  name of item 'P73288' was 'Stud Finder - Digital'.
+Question : What is the SKU of item 'Stud Finder - Digital'?
+Answer : The  SKU of item 'Stud Finder - Digital' was 'P73288'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-04-07'.
+Question : What is the email address of the customer with ID 'CUST89313'?
+Answer : The  email address of the customer with ID 'CUST89313' was 'Rori.Lorain@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 19.
+Question : What is the total price of all 'Stud Finder - Digital' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Stud Finder - Digital' items ordered in the sales order with ID 'ODR50574929' was $48.26.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $53.99.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $923.31.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Wrench Set - 10 pieces' with a price of $85.16.

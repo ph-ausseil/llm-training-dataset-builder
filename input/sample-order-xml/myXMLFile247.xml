@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-07" >
+      <Customer id="CUST64058"
+  firstname="Hope"
+  lastname="Therine"
+  email="Hope.Therine@example.com"
+  />        <Seller id="EMP59846"
+  firstname="Renie"
+  lastname="Carey"
+  email="Renie.Carey@examplecompany.com"
+  />      <Items><Item><SKU>P47653</SKU><Description>Tarp - 12x16 ft</Description><Quantity>6</Quantity><Price>51.5</Price></Item><Item><SKU>P48375</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>28.71</Price></Item><Item><SKU>P36609</SKU><Description>Tile Cutter - Manual</Description><Quantity>5</Quantity><Price>15.66</Price></Item><Item><SKU>P93672</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>5</Quantity><Price>78.98</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $478.74.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Valli Tayib.
+Question : What is the cost of item 'P14222'?
+Answer : The  cost of item 'P14222' was $62.98.
+Question : What is the name of item 'P14222'?
+Answer : The  name of item 'P14222' was 'Nail Gun - Electric'.
+Question : What is the SKU of item 'Nail Gun - Electric'?
+Answer : The  SKU of item 'Nail Gun - Electric' was 'P14222'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-06-25'.
+Question : What is the email address of the customer with ID 'CUST20992'?
+Answer : The  email address of the customer with ID 'CUST20992' was 'Eve.Jotham@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 15.
+Question : What is the total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929' was $62.97500000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $31.92.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $430.87.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Chisel Set - 4 pieces' with a price of $79.39800000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $478.74.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Valli Tayib.
+Question : What is the cost of item 'P13379'?
+Answer : The  cost of item 'P13379' was $36.19.
+Question : What is the name of item 'P13379'?
+Answer : The  name of item 'P13379' was 'Measuring Tape - 16 ft'.
+Question : What is the SKU of item 'Measuring Tape - 16 ft'?
+Answer : The  SKU of item 'Measuring Tape - 16 ft' was 'P13379'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-06-25'.
+Question : What is the email address of the customer with ID 'CUST20992'?
+Answer : The  email address of the customer with ID 'CUST20992' was 'Eve.Jotham@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 15.
+Question : What is the total price of all 'Measuring Tape - 16 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Measuring Tape - 16 ft' items ordered in the sales order with ID 'ODR50574929' was $36.190000000000005.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $31.92.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $430.87.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Chisel Set - 4 pieces' with a price of $79.39800000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $478.74.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Valli Tayib.
+Question : What is the cost of item 'P35922'?
+Answer : The  cost of item 'P35922' was $317.59.
+Question : What is the name of item 'P35922'?
+Answer : The  name of item 'P35922' was 'Chisel Set - 4 pieces'.
+Question : What is the SKU of item 'Chisel Set - 4 pieces'?
+Answer : The  SKU of item 'Chisel Set - 4 pieces' was 'P35922'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-06-25'.
+Question : What is the email address of the customer with ID 'CUST20992'?
+Answer : The  email address of the customer with ID 'CUST20992' was 'Eve.Jotham@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 15.
+Question : What is the total price of all 'Chisel Set - 4 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Chisel Set - 4 pieces' items ordered in the sales order with ID 'ODR50574929' was $317.59200000000004.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $31.92.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $430.87.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Chisel Set - 4 pieces' with a price of $79.39800000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $478.74.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Valli Tayib.
+Question : What is the cost of item 'P14831'?
+Answer : The  cost of item 'P14831' was $61.98.
+Question : What is the name of item 'P14831'?
+Answer : The  name of item 'P14831' was 'Workbench - Portable'.
+Question : What is the SKU of item 'Workbench - Portable'?
+Answer : The  SKU of item 'Workbench - Portable' was 'P14831'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-06-25'.
+Question : What is the email address of the customer with ID 'CUST20992'?
+Answer : The  email address of the customer with ID 'CUST20992' was 'Eve.Jotham@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 15.
+Question : What is the total price of all 'Workbench - Portable' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Workbench - Portable' items ordered in the sales order with ID 'ODR50574929' was $61.985.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $31.92.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $430.87.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Chisel Set - 4 pieces' with a price of $79.39800000000001.

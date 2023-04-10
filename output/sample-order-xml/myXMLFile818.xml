@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2023-01-22">
+  
+      
+  <Customer id="CUST76670" firstname="Madalyn" lastname="Elephus" email="Madalyn.Elephus@example.com"/>
+          
+  <Seller id="EMP72836" firstname="Gui" lastname="Isacco" email="Gui.Isacco@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>107.976</Price>
+    </Item>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>8</Quantity>
+      <Price>6.288</Price>
+    </Item>
+    <Item>
+      <SKU>P90361</SKU>
+      <Description>Power Drill - 18V</Description>
+      <Quantity>12</Quantity>
+      <Price>53.448</Price>
+    </Item>
+    <Item>
+      <SKU>P64945</SKU>
+      <Description>Utility Knife - Retractable</Description>
+      <Quantity>6</Quantity>
+      <Price>11.76</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1302.12</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-01" >
+      <Customer id="CUST38583"
+  firstname="Ericka"
+  lastname="Ranjiv"
+  email="Ericka.Ranjiv@example.com"
+  />        <Seller id="EMP26114"
+  firstname="Kellen"
+  lastname="Rossner"
+  email="Kellen.Rossner@examplecompany.com"
+  />      <Items><Item><SKU>P48632</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>8</Quantity><Price>9.52</Price></Item><Item><SKU>P26345</SKU><Description>Safety Goggles - Clear</Description><Quantity>6</Quantity><Price>16.59</Price></Item><Item><SKU>P49684</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>4</Quantity><Price>41.79</Price></Item><Item><SKU>P96757</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>8</Quantity><Price>80.78</Price></Item>
+      </Items>
+    </Order>

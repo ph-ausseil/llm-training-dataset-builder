@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-08" >
+      <Customer id="CUST21739"
+  firstname="Cathyleen"
+  lastname="Leffen"
+  email="Cathyleen.Leffen@example.com"
+  />        <Seller id="EMP81199"
+  firstname="Lucy"
+  lastname="Liebermann"
+  email="Lucy.Liebermann@examplecompany.com"
+  />      <Items><Item><SKU>P78228</SKU><Description>Socket Set - 40 pieces</Description><Quantity>6</Quantity><Price>42.59</Price></Item><Item><SKU>P37404</SKU><Description>Garden Hose - 50ft</Description><Quantity>1</Quantity><Price>86.56</Price></Item><Item><SKU>P90593</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>6</Quantity><Price>41.17</Price></Item><Item><SKU>P69125</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>3</Quantity><Price>59.78</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-09-21" >
+      <Customer id="CUST53354"
+  firstname="Meriel"
+  lastname="Atonsah"
+  email="Meriel.Atonsah@example.com"
+  />        <Seller id="EMP44202"
+  firstname="Briney"
+  lastname="Sacken"
+  email="Briney.Sacken@examplecompany.com"
+  />      <Items><Item><SKU>P10901</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>3</Quantity><Price>53.68</Price></Item><Item><SKU>P84203</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>6</Quantity><Price>21.65</Price></Item><Item><SKU>P35269</SKU><Description>Level - 24 inch</Description><Quantity>10</Quantity><Price>41.45</Price></Item><Item><SKU>P50695</SKU><Description>Hand Saw - 12 inch</Description><Quantity>1</Quantity><Price>45.91</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-11-10" >
+      <Customer id="CUST89326"
+  firstname="Josephine"
+  lastname="Earlie"
+  email="Josephine.Earlie@example.com"
+  />        <Seller id="EMP36758"
+  firstname="Jessamyn"
+  lastname="Franza"
+  email="Jessamyn.Franza@examplecompany.com"
+  />      <Items><Item><SKU>P43471</SKU><Description>Hacksaw - 12 inch</Description><Quantity>9</Quantity><Price>37.37</Price></Item><Item><SKU>P10444</SKU><Description>Jigsaw - Cordless</Description><Quantity>9</Quantity><Price>73.52</Price></Item><Item><SKU>P64088</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>2</Quantity><Price>13.79</Price></Item><Item><SKU>P99013</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>10</Quantity><Price>42.05</Price></Item>
+      </Items>
+    </Order>

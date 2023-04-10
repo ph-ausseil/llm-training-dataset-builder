@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-05-19">
+  
+      
+  <Customer id="CUST33593" firstname="Jsandye" lastname="Ardra" email="Jsandye.Ardra@example.com"/>
+          
+  <Seller id="EMP48750" firstname="Tersina" lastname="Ciapas" email="Tersina.Ciapas@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P41806</SKU>
+      <Description>Electric Screwdriver - 3.6V</Description>
+      <Quantity>6</Quantity>
+      <Price>49.104000000000006</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>9</Quantity>
+      <Price>98.56</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>64.13</Price>
+    </Item>
+    <Item>
+      <SKU>P90277</SKU>
+      <Description>Bolt Cutter - 24 inch</Description>
+      <Quantity>7</Quantity>
+      <Price>52.95400000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1937.12</TotalPrice>
+</Order>

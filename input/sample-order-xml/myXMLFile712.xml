@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-02-03" >
+      <Customer id="CUST95447"
+  firstname="Konstance"
+  lastname="Dorcy"
+  email="Konstance.Dorcy@example.com"
+  />        <Seller id="EMP86251"
+  firstname="Christy"
+  lastname="Wesle"
+  email="Christy.Wesle@examplecompany.com"
+  />      <Items><Item><SKU>P63989</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>5</Quantity><Price>67.22</Price></Item><Item><SKU>P25180</SKU><Description>Hand Saw - 12 inch</Description><Quantity>7</Quantity><Price>66.85</Price></Item><Item><SKU>P75513</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>6</Quantity><Price>20.42</Price></Item><Item><SKU>P45098</SKU><Description>Utility Knife - Retractable</Description><Quantity>10</Quantity><Price>22.72</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-25" >
+      <Customer id="CUST74897"
+  firstname="Margalo"
+  lastname="Monaco"
+  email="Margalo.Monaco@example.com"
+  />        <Seller id="EMP49616"
+  firstname="Kelly"
+  lastname="Ummersen"
+  email="Kelly.Ummersen@examplecompany.com"
+  />      <Items><Item><SKU>P54489</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>8</Quantity><Price>58.87</Price></Item><Item><SKU>P34576</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>2</Quantity><Price>77.72</Price></Item><Item><SKU>P22036</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>10</Quantity><Price>31.45</Price></Item><Item><SKU>P43997</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>7</Quantity><Price>12.01</Price></Item>
+      </Items>
+    </Order>

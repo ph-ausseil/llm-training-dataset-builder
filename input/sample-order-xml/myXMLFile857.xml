@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-15" >
+      <Customer id="CUST86206"
+  firstname="Consuela"
+  lastname="Cavan"
+  email="Consuela.Cavan@example.com"
+  />        <Seller id="EMP91660"
+  firstname="Jolyn"
+  lastname="Burch"
+  email="Jolyn.Burch@examplecompany.com"
+  />      <Items><Item><SKU>P19897</SKU><Description>Stud Finder - Digital</Description><Quantity>10</Quantity><Price>72.96</Price></Item><Item><SKU>P27029</SKU><Description>Power Drill - 18V</Description><Quantity>5</Quantity><Price>17.06</Price></Item><Item><SKU>P86907</SKU><Description>LED Light Bulb - 60W</Description><Quantity>6</Quantity><Price>11.87</Price></Item><Item><SKU>P13752</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>2</Quantity><Price>61.52</Price></Item>
+      </Items>
+    </Order>

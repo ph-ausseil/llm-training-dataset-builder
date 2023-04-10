@@ -1,0 +1,8 @@
+<Order id="ODR17812377" date="2021-12-07">
+      
+      <Customer id="CUST68072" firstname="Dianemarie" lastname="Maribeth" email="Dianemarie.Maribeth@example.com" />
+        <Seller id="EMP91656" firstname="Jordan" lastname="Casimir" email="Jordan.Casimir@company.com" />
+      <Items>
+        <Item><SKU>P5888</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>1</Quantity><Price>22.61</Price></Item><Item><SKU>P84902</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>4</Quantity><Price>56.07</Price></Item><Item><SKU>P12435</SKU><Description>Tarp - 12x16 ft</Description><Quantity>4</Quantity><Price>45.35</Price></Item>
+      </Items>
+    <TotalPrice>22.61</TotalPrice><TotalPrice>246.89</TotalPrice><TotalPrice>428.28999999999996</TotalPrice></Order>

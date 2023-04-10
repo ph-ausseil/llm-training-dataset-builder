@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-01" >
+      <Customer id="CUST86102"
+  firstname="Consuela"
+  lastname="Laverne"
+  email="Consuela.Laverne@example.com"
+  />        <Seller id="EMP95585"
+  firstname="Lisette"
+  lastname="Lareena"
+  email="Lisette.Lareena@examplecompany.com"
+  />      <Items><Item><SKU>P90451</SKU><Description>Hammer - 16 oz</Description><Quantity>1</Quantity><Price>76.29</Price></Item><Item><SKU>P99440</SKU><Description>Tape Measure - 25 ft</Description><Quantity>1</Quantity><Price>84.71</Price></Item><Item><SKU>P58279</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>10</Quantity><Price>27.22</Price></Item><Item><SKU>P16275</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>61.51</Price></Item>
+      </Items>
+    </Order>

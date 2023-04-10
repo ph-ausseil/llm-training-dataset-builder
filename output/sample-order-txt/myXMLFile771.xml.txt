@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $758.37.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Anthia Curren.
+Question : What is the cost of item 'P42816'?
+Answer : The  cost of item 'P42816' was $281.12.
+Question : What is the name of item 'P42816'?
+Answer : The  name of item 'P42816' was 'Paint Roller Kit - 9 inch'.
+Question : What is the SKU of item 'Paint Roller Kit - 9 inch'?
+Answer : The  SKU of item 'Paint Roller Kit - 9 inch' was 'P42816'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-09-10'.
+Question : What is the email address of the customer with ID 'CUST71681'?
+Answer : The  email address of the customer with ID 'CUST71681' was 'Vivia.Dorothy@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Paint Roller Kit - 9 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Paint Roller Kit - 9 inch' items ordered in the sales order with ID 'ODR50574929' was $281.12.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $47.4.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $682.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $758.37.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Anthia Curren.
+Question : What is the cost of item 'P88497'?
+Answer : The  cost of item 'P88497' was $359.1.
+Question : What is the name of item 'P88497'?
+Answer : The  name of item 'P88497' was 'Adjustable Wrench - 12 inch'.
+Question : What is the SKU of item 'Adjustable Wrench - 12 inch'?
+Answer : The  SKU of item 'Adjustable Wrench - 12 inch' was 'P88497'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-09-10'.
+Question : What is the email address of the customer with ID 'CUST71681'?
+Answer : The  email address of the customer with ID 'CUST71681' was 'Vivia.Dorothy@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929' was $359.09999999999997.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $47.4.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $682.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $758.37.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Anthia Curren.
+Question : What is the cost of item 'P37543'?
+Answer : The  cost of item 'P37543' was $62.26.
+Question : What is the name of item 'P37543'?
+Answer : The  name of item 'P37543' was 'Safety Goggles - Clear'.
+Question : What is the SKU of item 'Safety Goggles - Clear'?
+Answer : The  SKU of item 'Safety Goggles - Clear' was 'P37543'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-09-10'.
+Question : What is the email address of the customer with ID 'CUST71681'?
+Answer : The  email address of the customer with ID 'CUST71681' was 'Vivia.Dorothy@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Safety Goggles - Clear' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Safety Goggles - Clear' items ordered in the sales order with ID 'ODR50574929' was $62.26.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $47.4.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $682.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $758.37.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Anthia Curren.
+Question : What is the cost of item 'P17627'?
+Answer : The  cost of item 'P17627' was $55.89.
+Question : What is the name of item 'P17627'?
+Answer : The  name of item 'P17627' was 'Caulking Gun - Heavy Duty'.
+Question : What is the SKU of item 'Caulking Gun - Heavy Duty'?
+Answer : The  SKU of item 'Caulking Gun - Heavy Duty' was 'P17627'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-09-10'.
+Question : What is the email address of the customer with ID 'CUST71681'?
+Answer : The  email address of the customer with ID 'CUST71681' was 'Vivia.Dorothy@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 16.
+Question : What is the total price of all 'Caulking Gun - Heavy Duty' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Caulking Gun - Heavy Duty' items ordered in the sales order with ID 'ODR50574929' was $55.89.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $47.4.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $682.53.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.

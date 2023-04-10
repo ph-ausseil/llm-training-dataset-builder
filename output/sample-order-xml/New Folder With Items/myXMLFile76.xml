@@ -1,0 +1,8 @@
+<Order id="ODR53655430" date="2021-11-04">
+      
+      <Customer id="CUST78186" firstname="Evita" lastname="Anderea" email="Evita.Anderea@example.com" />
+        <Seller id="EMP25363" firstname="Berta" lastname="Kaja" email="Berta.Kaja@company.com" />
+      <Items>
+        <Item><SKU>P29963</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>1</Quantity><Price>14.62</Price></Item><Item><SKU>P70568</SKU><Description>Socket Set - 40 pieces</Description><Quantity>1</Quantity><Price>44.89</Price></Item><Item><SKU>P25185</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>1</Quantity><Price>43.62</Price></Item>
+      </Items>
+    <TotalPrice>14.62</TotalPrice><TotalPrice>59.51</TotalPrice><TotalPrice>103.13</TotalPrice></Order>

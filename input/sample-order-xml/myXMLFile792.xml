@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-05-28" >
+      <Customer id="CUST94764"
+  firstname="Chastity"
+  lastname="Wesle"
+  email="Chastity.Wesle@example.com"
+  />        <Seller id="EMP84507"
+  firstname="Andeee"
+  lastname="Lindemann"
+  email="Andeee.Lindemann@examplecompany.com"
+  />      <Items><Item><SKU>P91394</SKU><Description>Stud Finder - Digital</Description><Quantity>2</Quantity><Price>76.74</Price></Item><Item><SKU>P71353</SKU><Description>Level - 24 inch</Description><Quantity>8</Quantity><Price>9.66</Price></Item><Item><SKU>P83908</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>3</Quantity><Price>29.66</Price></Item><Item><SKU>P40097</SKU><Description>Tape Measure - 25 ft</Description><Quantity>4</Quantity><Price>77.05</Price></Item>
+      </Items>
+    </Order>

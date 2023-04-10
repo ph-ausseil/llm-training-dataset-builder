@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-05-19">
+  
+      
+  <Customer id="CUST47907" firstname="Christian" lastname="Lauraine" email="Christian.Lauraine@example.com"/>
+          
+  <Seller id="EMP38915" firstname="Perry" lastname="Even" email="Perry.Even@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>9.870000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>7</Quantity>
+      <Price>60.112500000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>10</Quantity>
+      <Price>5.502000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P79695</SKU>
+      <Description>Tile Cutter - Manual</Description>
+      <Quantity>8</Quantity>
+      <Price>38.356500000000004</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>822.14</TotalPrice>
+</Order>

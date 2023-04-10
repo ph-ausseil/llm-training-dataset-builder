@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-06-10">
+  
+      
+  <Customer id="CUST54806" firstname="Dorice" lastname="Sherfield" email="Dorice.Sherfield@example.com"/>
+          
+  <Seller id="EMP83455" firstname="Jordan" lastname="Rad" email="Jordan.Rad@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>5</Quantity>
+      <Price>75.78900000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P65232</SKU>
+      <Description>Level - 24 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>70.27650000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>94.47900000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P19253</SKU>
+      <Description>Outdoor Lantern - Solar Powered</Description>
+      <Quantity>4</Quantity>
+      <Price>81.02850000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1810.27</TotalPrice>
+</Order>

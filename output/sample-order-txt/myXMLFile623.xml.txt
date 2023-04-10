@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1261.86.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Glynnis Durante.
+Question : What is the cost of item 'P88497'?
+Answer : The  cost of item 'P88497' was $574.56.
+Question : What is the name of item 'P88497'?
+Answer : The  name of item 'P88497' was 'Adjustable Wrench - 12 inch'.
+Question : What is the SKU of item 'Adjustable Wrench - 12 inch'?
+Answer : The  SKU of item 'Adjustable Wrench - 12 inch' was 'P88497'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-22'.
+Question : What is the email address of the customer with ID 'CUST95783'?
+Answer : The  email address of the customer with ID 'CUST95783' was 'Marita.Gemini@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 23.
+Question : What is the total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Adjustable Wrench - 12 inch' items ordered in the sales order with ID 'ODR50574929' was $574.56.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.86.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1135.67.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1261.86.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Glynnis Durante.
+Question : What is the cost of item 'P65232'?
+Answer : The  cost of item 'P65232' was $133.86.
+Question : What is the name of item 'P65232'?
+Answer : The  name of item 'P65232' was 'Level - 24 inch'.
+Question : What is the SKU of item 'Level - 24 inch'?
+Answer : The  SKU of item 'Level - 24 inch' was 'P65232'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-22'.
+Question : What is the email address of the customer with ID 'CUST95783'?
+Answer : The  email address of the customer with ID 'CUST95783' was 'Marita.Gemini@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 23.
+Question : What is the total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929' was $133.86.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.86.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1135.67.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1261.86.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Glynnis Durante.
+Question : What is the cost of item 'P42816'?
+Answer : The  cost of item 'P42816' was $240.96.
+Question : What is the name of item 'P42816'?
+Answer : The  name of item 'P42816' was 'Paint Roller Kit - 9 inch'.
+Question : What is the SKU of item 'Paint Roller Kit - 9 inch'?
+Answer : The  SKU of item 'Paint Roller Kit - 9 inch' was 'P42816'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-22'.
+Question : What is the email address of the customer with ID 'CUST95783'?
+Answer : The  email address of the customer with ID 'CUST95783' was 'Marita.Gemini@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 23.
+Question : What is the total price of all 'Paint Roller Kit - 9 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Paint Roller Kit - 9 inch' items ordered in the sales order with ID 'ODR50574929' was $240.95999999999998.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.86.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1135.67.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1261.86.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Glynnis Durante.
+Question : What is the cost of item 'P41806'?
+Answer : The  cost of item 'P41806' was $312.48.
+Question : What is the name of item 'P41806'?
+Answer : The  name of item 'P41806' was 'Electric Screwdriver - 3.6V'.
+Question : What is the SKU of item 'Electric Screwdriver - 3.6V'?
+Answer : The  SKU of item 'Electric Screwdriver - 3.6V' was 'P41806'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-22'.
+Question : What is the email address of the customer with ID 'CUST95783'?
+Answer : The  email address of the customer with ID 'CUST95783' was 'Marita.Gemini@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 23.
+Question : What is the total price of all 'Electric Screwdriver - 3.6V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Electric Screwdriver - 3.6V' items ordered in the sales order with ID 'ODR50574929' was $312.48.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.86.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1135.67.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Adjustable Wrench - 12 inch' with a price of $71.82.

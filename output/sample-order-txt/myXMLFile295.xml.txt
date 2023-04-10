@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1031.0.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Fayre Mandler.
+Question : What is the cost of item 'P35922'?
+Answer : The  cost of item 'P35922' was $227.37.
+Question : What is the name of item 'P35922'?
+Answer : The  name of item 'P35922' was 'Chisel Set - 4 pieces'.
+Question : What is the SKU of item 'Chisel Set - 4 pieces'?
+Answer : The  SKU of item 'Chisel Set - 4 pieces' was 'P35922'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-10-07'.
+Question : What is the email address of the customer with ID 'CUST75537'?
+Answer : The  email address of the customer with ID 'CUST75537' was 'Dotty.Claudine@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Chisel Set - 4 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Chisel Set - 4 pieces' items ordered in the sales order with ID 'ODR50574929' was $227.36700000000005.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.28.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $927.9.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1031.0.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Fayre Mandler.
+Question : What is the cost of item 'P72757'?
+Answer : The  cost of item 'P72757' was $283.75.
+Question : What is the name of item 'P72757'?
+Answer : The  name of item 'P72757' was 'Tape Measure - 25 ft'.
+Question : What is the SKU of item 'Tape Measure - 25 ft'?
+Answer : The  SKU of item 'Tape Measure - 25 ft' was 'P72757'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-10-07'.
+Question : What is the email address of the customer with ID 'CUST75537'?
+Answer : The  email address of the customer with ID 'CUST75537' was 'Dotty.Claudine@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Tape Measure - 25 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tape Measure - 25 ft' items ordered in the sales order with ID 'ODR50574929' was $283.752.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.28.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $927.9.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1031.0.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Fayre Mandler.
+Question : What is the cost of item 'P42816'?
+Answer : The  cost of item 'P42816' was $168.67.
+Question : What is the name of item 'P42816'?
+Answer : The  name of item 'P42816' was 'Paint Roller Kit - 9 inch'.
+Question : What is the SKU of item 'Paint Roller Kit - 9 inch'?
+Answer : The  SKU of item 'Paint Roller Kit - 9 inch' was 'P42816'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-10-07'.
+Question : What is the email address of the customer with ID 'CUST75537'?
+Answer : The  email address of the customer with ID 'CUST75537' was 'Dotty.Claudine@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'Paint Roller Kit - 9 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Paint Roller Kit - 9 inch' items ordered in the sales order with ID 'ODR50574929' was $168.672.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.28.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $927.9.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1031.0.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Fayre Mandler.
+Question : What is the cost of item 'P85960'?
+Answer : The  cost of item 'P85960' was $351.2.
+Question : What is the name of item 'P85960'?
+Answer : The  name of item 'P85960' was 'LED Light Bulb - 60W'.
+Question : What is the SKU of item 'LED Light Bulb - 60W'?
+Answer : The  SKU of item 'LED Light Bulb - 60W' was 'P85960'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-10-07'.
+Question : What is the email address of the customer with ID 'CUST75537'?
+Answer : The  email address of the customer with ID 'CUST75537' was 'Dotty.Claudine@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 18.
+Question : What is the total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'LED Light Bulb - 60W' items ordered in the sales order with ID 'ODR50574929' was $351.204.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $57.28.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $927.9.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tape Measure - 25 ft' with a price of $94.584.

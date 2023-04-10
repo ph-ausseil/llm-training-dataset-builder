@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-09-22">
+  
+      
+  <Customer id="CUST21383" firstname="Rani" lastname="Zeeba" email="Rani.Zeeba@example.com"/>
+          
+  <Seller id="EMP56346" firstname="Sybille" lastname="Nicoline" email="Sybille.Nicoline@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P79695</SKU>
+      <Description>Tile Cutter - Manual</Description>
+      <Quantity>5</Quantity>
+      <Price>38.356500000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>75.411</Price>
+    </Item>
+    <Item>
+      <SKU>P24286</SKU>
+      <Description>Paint Brush Set - 5 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>28.875</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>597.71</TotalPrice>
+</Order>

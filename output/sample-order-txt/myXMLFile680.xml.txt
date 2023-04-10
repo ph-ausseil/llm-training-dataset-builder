@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1719.82.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Rosabelle Bandeen.
+Question : What is the cost of item 'P33159'?
+Answer : The  cost of item 'P33159' was $281.52.
+Question : What is the name of item 'P33159'?
+Answer : The  name of item 'P33159' was 'Garden Hose - 50ft'.
+Question : What is the SKU of item 'Garden Hose - 50ft'?
+Answer : The  SKU of item 'Garden Hose - 50ft' was 'P33159'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-05'.
+Question : What is the email address of the customer with ID 'CUST82631'?
+Answer : The  email address of the customer with ID 'CUST82631' was 'Amalie.Carolin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 29.
+Question : What is the total price of all 'Garden Hose - 50ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Garden Hose - 50ft' items ordered in the sales order with ID 'ODR50574929' was $281.52.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $59.3.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1547.84.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hacksaw - 12 inch' with a price of $89.98.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1719.82.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Rosabelle Bandeen.
+Question : What is the cost of item 'P14831'?
+Answer : The  cost of item 'P14831' was $112.7.
+Question : What is the name of item 'P14831'?
+Answer : The  name of item 'P14831' was 'Workbench - Portable'.
+Question : What is the SKU of item 'Workbench - Portable'?
+Answer : The  SKU of item 'Workbench - Portable' was 'P14831'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-05'.
+Question : What is the email address of the customer with ID 'CUST82631'?
+Answer : The  email address of the customer with ID 'CUST82631' was 'Amalie.Carolin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 29.
+Question : What is the total price of all 'Workbench - Portable' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Workbench - Portable' items ordered in the sales order with ID 'ODR50574929' was $112.69999999999999.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $59.3.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1547.84.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hacksaw - 12 inch' with a price of $89.98.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1719.82.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Rosabelle Bandeen.
+Question : What is the cost of item 'P56185'?
+Answer : The  cost of item 'P56185' was $899.8.
+Question : What is the name of item 'P56185'?
+Answer : The  name of item 'P56185' was 'Hacksaw - 12 inch'.
+Question : What is the SKU of item 'Hacksaw - 12 inch'?
+Answer : The  SKU of item 'Hacksaw - 12 inch' was 'P56185'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-05'.
+Question : What is the email address of the customer with ID 'CUST82631'?
+Answer : The  email address of the customer with ID 'CUST82631' was 'Amalie.Carolin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 29.
+Question : What is the total price of all 'Hacksaw - 12 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hacksaw - 12 inch' items ordered in the sales order with ID 'ODR50574929' was $899.8000000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $59.3.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1547.84.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hacksaw - 12 inch' with a price of $89.98.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1719.82.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Rosabelle Bandeen.
+Question : What is the cost of item 'P87047'?
+Answer : The  cost of item 'P87047' was $425.8.
+Question : What is the name of item 'P87047'?
+Answer : The  name of item 'P87047' was 'Wrench Set - 10 pieces'.
+Question : What is the SKU of item 'Wrench Set - 10 pieces'?
+Answer : The  SKU of item 'Wrench Set - 10 pieces' was 'P87047'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2020-12-05'.
+Question : What is the email address of the customer with ID 'CUST82631'?
+Answer : The  email address of the customer with ID 'CUST82631' was 'Amalie.Carolin@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 29.
+Question : What is the total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wrench Set - 10 pieces' items ordered in the sales order with ID 'ODR50574929' was $425.79999999999995.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $59.3.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1547.84.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hacksaw - 12 inch' with a price of $89.98.

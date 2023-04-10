@@ -1,0 +1,8 @@
+<Order id="ODR15610890" date="2021-02-07">
+      
+      <Customer id="CUST50881" firstname="Penelopa" lastname="Carmena" email="Penelopa.Carmena@example.com" />
+        <Seller id="EMP42170" firstname="Bertine" lastname="Hieronymus" email="Bertine.Hieronymus@company.com" />
+      <Items>
+        <Item><SKU>P60198</SKU><Description>Power Drill - 18V</Description><Quantity>2</Quantity><Price>57.4</Price></Item><Item><SKU>P87545</SKU><Description>Level - 24 inch</Description><Quantity>2</Quantity><Price>16.35</Price></Item><Item><SKU>P43289</SKU><Description>Work Gloves - Leather</Description><Quantity>3</Quantity><Price>58.47</Price></Item>
+      </Items>
+    <TotalPrice>114.8</TotalPrice><TotalPrice>147.5</TotalPrice><TotalPrice>322.90999999999997</TotalPrice></Order>

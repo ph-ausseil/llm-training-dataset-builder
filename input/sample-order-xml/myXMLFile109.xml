@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-09" >
+      <Customer id="CUST30878"
+  firstname="Fanchon"
+  lastname="Kazimir"
+  email="Fanchon.Kazimir@example.com"
+  />        <Seller id="EMP81765"
+  firstname="Valera"
+  lastname="Gert"
+  email="Valera.Gert@examplecompany.com"
+  />      <Items><Item><SKU>P19019</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>1</Quantity><Price>70.92</Price></Item><Item><SKU>P39780</SKU><Description>Utility Knife - Retractable</Description><Quantity>3</Quantity><Price>76.95</Price></Item><Item><SKU>P16005</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>4</Quantity><Price>21.39</Price></Item><Item><SKU>P49914</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>3</Quantity><Price>71.75</Price></Item>
+      </Items>
+    </Order>

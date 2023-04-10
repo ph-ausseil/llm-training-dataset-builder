@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-12-18">
+  
+      
+  <Customer id="CUST79946" firstname="Kaia" lastname="Iphlgenia" email="Kaia.Iphlgenia@example.com"/>
+          
+  <Seller id="EMP12303" firstname="Nicoli" lastname="Miru" email="Nicoli.Miru@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P43386</SKU>
+      <Description>Pipe Wrench - 14 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>79.653</Price>
+    </Item>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>94.47900000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>42.168</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1585.92</TotalPrice>
+</Order>

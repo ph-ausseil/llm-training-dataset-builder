@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1960.54.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Nataline Nicoline.
+Question : What is the cost of item 'P51598'?
+Answer : The  cost of item 'P51598' was $122.31.
+Question : What is the name of item 'P51598'?
+Answer : The  name of item 'P51598' was 'Sledge Hammer - 10 lb'.
+Question : What is the SKU of item 'Sledge Hammer - 10 lb'?
+Answer : The  SKU of item 'Sledge Hammer - 10 lb' was 'P51598'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-03-21'.
+Question : What is the email address of the customer with ID 'CUST12870'?
+Answer : The  email address of the customer with ID 'CUST12870' was 'Ivett.Karna@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Sledge Hammer - 10 lb' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Sledge Hammer - 10 lb' items ordered in the sales order with ID 'ODR50574929' was $122.31450000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $78.42.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1764.49.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1960.54.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Nataline Nicoline.
+Question : What is the cost of item 'P43386'?
+Answer : The  cost of item 'P43386' was $716.88.
+Question : What is the name of item 'P43386'?
+Answer : The  name of item 'P43386' was 'Pipe Wrench - 14 inch'.
+Question : What is the SKU of item 'Pipe Wrench - 14 inch'?
+Answer : The  SKU of item 'Pipe Wrench - 14 inch' was 'P43386'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-03-21'.
+Question : What is the email address of the customer with ID 'CUST12870'?
+Answer : The  email address of the customer with ID 'CUST12870' was 'Ivett.Karna@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Pipe Wrench - 14 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Pipe Wrench - 14 inch' items ordered in the sales order with ID 'ODR50574929' was $716.8770000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $78.42.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1764.49.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1960.54.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Nataline Nicoline.
+Question : What is the cost of item 'P12338'?
+Answer : The  cost of item 'P12338' was $859.86.
+Question : What is the name of item 'P12338'?
+Answer : The  name of item 'P12338' was 'Hammer - 16 oz'.
+Question : What is the SKU of item 'Hammer - 16 oz'?
+Answer : The  SKU of item 'Hammer - 16 oz' was 'P12338'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-03-21'.
+Question : What is the email address of the customer with ID 'CUST12870'?
+Answer : The  email address of the customer with ID 'CUST12870' was 'Ivett.Karna@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hammer - 16 oz' items ordered in the sales order with ID 'ODR50574929' was $859.8555.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $78.42.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1764.49.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1960.54.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Nataline Nicoline.
+Question : What is the cost of item 'P37543'?
+Answer : The  cost of item 'P37543' was $261.49.
+Question : What is the name of item 'P37543'?
+Answer : The  name of item 'P37543' was 'Safety Goggles - Clear'.
+Question : What is the SKU of item 'Safety Goggles - Clear'?
+Answer : The  SKU of item 'Safety Goggles - Clear' was 'P37543'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-03-21'.
+Question : What is the email address of the customer with ID 'CUST12870'?
+Answer : The  email address of the customer with ID 'CUST12870' was 'Ivett.Karna@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 25.
+Question : What is the total price of all 'Safety Goggles - Clear' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Safety Goggles - Clear' items ordered in the sales order with ID 'ODR50574929' was $261.492.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $78.42.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1764.49.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Hammer - 16 oz' with a price of $95.5395.

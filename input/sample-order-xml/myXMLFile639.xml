@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-23" >
+      <Customer id="CUST76260"
+  firstname="Fred"
+  lastname="Virgin"
+  email="Fred.Virgin@example.com"
+  />        <Seller id="EMP58818"
+  firstname="Annabela"
+  lastname="Olnee"
+  email="Annabela.Olnee@examplecompany.com"
+  />      <Items><Item><SKU>P39490</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>10</Quantity><Price>51.54</Price></Item><Item><SKU>P54754</SKU><Description>Level - 24 inch</Description><Quantity>8</Quantity><Price>59.95</Price></Item><Item><SKU>P27667</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>1</Quantity><Price>54.51</Price></Item><Item><SKU>P42537</SKU><Description>Work Gloves - Leather</Description><Quantity>10</Quantity><Price>16.94</Price></Item>
+      </Items>
+    </Order>

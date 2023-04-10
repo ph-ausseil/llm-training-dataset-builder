@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-25" >
+      <Customer id="CUST40333"
+  firstname="Britni"
+  lastname="Wenda"
+  email="Britni.Wenda@example.com"
+  />        <Seller id="EMP66741"
+  firstname="Winifred"
+  lastname="Chaing"
+  email="Winifred.Chaing@examplecompany.com"
+  />      <Items><Item><SKU>P14075</SKU><Description>Tool Box - 19 inch</Description><Quantity>9</Quantity><Price>24.58</Price></Item><Item><SKU>P40157</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>8</Quantity><Price>6.76</Price></Item><Item><SKU>P26066</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>5</Quantity><Price>5.38</Price></Item><Item><SKU>P32954</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>4</Quantity><Price>73.17</Price></Item>
+      </Items>
+    </Order>

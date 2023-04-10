@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-23" >
+      <Customer id="CUST26560"
+  firstname="Lulita"
+  lastname="Khorma"
+  email="Lulita.Khorma@example.com"
+  />        <Seller id="EMP98858"
+  firstname="Allyce"
+  lastname="Agle"
+  email="Allyce.Agle@examplecompany.com"
+  />      <Items><Item><SKU>P51279</SKU><Description>Stud Finder - Digital</Description><Quantity>4</Quantity><Price>39.07</Price></Item><Item><SKU>P60048</SKU><Description>Safety Goggles - Clear</Description><Quantity>7</Quantity><Price>49.86</Price></Item><Item><SKU>P67524</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>8</Quantity><Price>31.56</Price></Item><Item><SKU>P33609</SKU><Description>Power Drill - 18V</Description><Quantity>9</Quantity><Price>11.48</Price></Item>
+      </Items>
+    </Order>

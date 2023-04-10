@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-09-04" >
+      <Customer id="CUST26235"
+  firstname="Edyth"
+  lastname="Chapland"
+  email="Edyth.Chapland@example.com"
+  />        <Seller id="EMP97609"
+  firstname="Estell"
+  lastname="Clie"
+  email="Estell.Clie@examplecompany.com"
+  />      <Items><Item><SKU>P54068</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>12.84</Price></Item><Item><SKU>P69733</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>7</Quantity><Price>76.68</Price></Item><Item><SKU>P91976</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>6</Quantity><Price>66.25</Price></Item><Item><SKU>P98377</SKU><Description>LED Light Bulb - 60W</Description><Quantity>3</Quantity><Price>54.89</Price></Item>
+      </Items>
+    </Order>

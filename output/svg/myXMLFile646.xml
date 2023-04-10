@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-11-08">
+  
+      
+  <Customer id="CUST82071" firstname="Jean" lastname="Strephon" email="Jean.Strephon@example.com"/>
+          
+  <Seller id="EMP27398" firstname="Ashlee" lastname="Manolo" email="Ashlee.Manolo@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>2</Quantity>
+      <Price>75.78900000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>9</Quantity>
+      <Price>65.373</Price>
+    </Item>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>5</Quantity>
+      <Price>60.112500000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>94.47900000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1985.29</TotalPrice>
+</Order>

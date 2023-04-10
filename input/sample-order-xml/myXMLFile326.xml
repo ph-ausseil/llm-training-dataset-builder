@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-18" >
+      <Customer id="CUST75659"
+  firstname="Kirbee"
+  lastname="Garek"
+  email="Kirbee.Garek@example.com"
+  />        <Seller id="EMP56913"
+  firstname="Neila"
+  lastname="Gale"
+  email="Neila.Gale@examplecompany.com"
+  />      <Items><Item><SKU>P33348</SKU><Description>Hand Saw - 12 inch</Description><Quantity>2</Quantity><Price>81.5</Price></Item><Item><SKU>P51925</SKU><Description>Workbench - Portable</Description><Quantity>6</Quantity><Price>53.73</Price></Item><Item><SKU>P51330</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>4</Quantity><Price>20.61</Price></Item><Item><SKU>P19469</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>1</Quantity><Price>7.12</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-30" >
+      <Customer id="CUST81834"
+  firstname="Marcelline"
+  lastname="Persse"
+  email="Marcelline.Persse@example.com"
+  />        <Seller id="EMP80388"
+  firstname="Joeann"
+  lastname="Ashely"
+  email="Joeann.Ashely@examplecompany.com"
+  />      <Items><Item><SKU>P83975</SKU><Description>Workbench - Portable</Description><Quantity>2</Quantity><Price>39.12</Price></Item><Item><SKU>P96142</SKU><Description>Stud Finder - Digital</Description><Quantity>8</Quantity><Price>49.24</Price></Item><Item><SKU>P29925</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>1</Quantity><Price>81.75</Price></Item><Item><SKU>P18190</SKU><Description>Work Gloves - Leather</Description><Quantity>4</Quantity><Price>6.92</Price></Item>
+      </Items>
+    </Order>

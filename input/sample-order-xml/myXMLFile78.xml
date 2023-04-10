@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-20" >
+      <Customer id="CUST84342"
+  firstname="Tani"
+  lastname="Soneson"
+  email="Tani.Soneson@example.com"
+  />        <Seller id="EMP78841"
+  firstname="Marsiella"
+  lastname="Kevon"
+  email="Marsiella.Kevon@examplecompany.com"
+  />      <Items><Item><SKU>P60779</SKU><Description>Tool Box - 19 inch</Description><Quantity>3</Quantity><Price>53.89</Price></Item><Item><SKU>P65156</SKU><Description>Hammer - 16 oz</Description><Quantity>10</Quantity><Price>16.43</Price></Item><Item><SKU>P91842</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>3</Quantity><Price>38.56</Price></Item><Item><SKU>P65228</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>10</Quantity><Price>15.67</Price></Item>
+      </Items>
+    </Order>

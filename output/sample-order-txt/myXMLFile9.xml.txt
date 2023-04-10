@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $544.28.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Talya Decato.
+Question : What is the cost of item 'P91537'?
+Answer : The  cost of item 'P91537' was $122.43.
+Question : What is the name of item 'P91537'?
+Answer : The  name of item 'P91537' was 'Miter Saw - 10 inch'.
+Question : What is the SKU of item 'Miter Saw - 10 inch'?
+Answer : The  SKU of item 'Miter Saw - 10 inch' was 'P91537'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-08-12'.
+Question : What is the email address of the customer with ID 'CUST36244'?
+Answer : The  email address of the customer with ID 'CUST36244' was 'Jackie.Tjon@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 12.
+Question : What is the total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Miter Saw - 10 inch' items ordered in the sales order with ID 'ODR50574929' was $122.42999999999999.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $45.36.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $489.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $94.08.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $544.28.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Talya Decato.
+Question : What is the cost of item 'P47249'?
+Answer : The  cost of item 'P47249' was $211.68.
+Question : What is the name of item 'P47249'?
+Answer : The  name of item 'P47249' was 'Wooden Ladder - 8 ft'.
+Question : What is the SKU of item 'Wooden Ladder - 8 ft'?
+Answer : The  SKU of item 'Wooden Ladder - 8 ft' was 'P47249'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-08-12'.
+Question : What is the email address of the customer with ID 'CUST36244'?
+Answer : The  email address of the customer with ID 'CUST36244' was 'Jackie.Tjon@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 12.
+Question : What is the total price of all 'Wooden Ladder - 8 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wooden Ladder - 8 ft' items ordered in the sales order with ID 'ODR50574929' was $211.68.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $45.36.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $489.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $94.08.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $544.28.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Talya Decato.
+Question : What is the cost of item 'P17878'?
+Answer : The  cost of item 'P17878' was $22.01.
+Question : What is the name of item 'P17878'?
+Answer : The  name of item 'P17878' was 'Jigsaw - Cordless'.
+Question : What is the SKU of item 'Jigsaw - Cordless'?
+Answer : The  SKU of item 'Jigsaw - Cordless' was 'P17878'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-08-12'.
+Question : What is the email address of the customer with ID 'CUST36244'?
+Answer : The  email address of the customer with ID 'CUST36244' was 'Jackie.Tjon@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 12.
+Question : What is the total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Jigsaw - Cordless' items ordered in the sales order with ID 'ODR50574929' was $22.008000000000003.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $45.36.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $489.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $94.08.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $544.28.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Talya Decato.
+Question : What is the cost of item 'P57547'?
+Answer : The  cost of item 'P57547' was $188.16.
+Question : What is the name of item 'P57547'?
+Answer : The  name of item 'P57547' was 'Cordless Leaf Blower - 20V'.
+Question : What is the SKU of item 'Cordless Leaf Blower - 20V'?
+Answer : The  SKU of item 'Cordless Leaf Blower - 20V' was 'P57547'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-08-12'.
+Question : What is the email address of the customer with ID 'CUST36244'?
+Answer : The  email address of the customer with ID 'CUST36244' was 'Jackie.Tjon@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 12.
+Question : What is the total price of all 'Cordless Leaf Blower - 20V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Cordless Leaf Blower - 20V' items ordered in the sales order with ID 'ODR50574929' was $188.16.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $45.36.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $489.85.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $94.08.

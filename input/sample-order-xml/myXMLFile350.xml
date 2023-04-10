@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-01-15" >
+      <Customer id="CUST31048"
+  firstname="Miquela"
+  lastname="Katrine"
+  email="Miquela.Katrine@example.com"
+  />        <Seller id="EMP61303"
+  firstname="Helsa"
+  lastname="Lunsford"
+  email="Helsa.Lunsford@examplecompany.com"
+  />      <Items><Item><SKU>P90877</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>10</Quantity><Price>14.71</Price></Item><Item><SKU>P45164</SKU><Description>Hacksaw - 12 inch</Description><Quantity>3</Quantity><Price>57.46</Price></Item><Item><SKU>P70588</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>1</Quantity><Price>88.91</Price></Item><Item><SKU>P57547</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>6</Quantity><Price>89.6</Price></Item>
+      </Items>
+    </Order>

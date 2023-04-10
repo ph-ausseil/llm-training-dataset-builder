@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-01-07" >
+      <Customer id="CUST88266"
+  firstname="Micheline"
+  lastname="Felecia"
+  email="Micheline.Felecia@example.com"
+  />        <Seller id="EMP65984"
+  firstname="Paule"
+  lastname="Barbey"
+  email="Paule.Barbey@examplecompany.com"
+  />      <Items><Item><SKU>P12134</SKU><Description>Garden Hose - 50ft</Description><Quantity>6</Quantity><Price>83.29</Price></Item><Item><SKU>P55514</SKU><Description>Safety Goggles - Clear</Description><Quantity>8</Quantity><Price>7.4</Price></Item><Item><SKU>P56603</SKU><Description>Socket Set - 40 pieces</Description><Quantity>10</Quantity><Price>42.2</Price></Item><Item><SKU>P96101</SKU><Description>Safety Goggles - Clear</Description><Quantity>4</Quantity><Price>16.97</Price></Item>
+      </Items>
+    </Order>

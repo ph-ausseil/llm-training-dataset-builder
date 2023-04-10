@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-17" >
+      <Customer id="CUST32657"
+  firstname="Bee"
+  lastname="Lauraine"
+  email="Bee.Lauraine@example.com"
+  />        <Seller id="EMP12149"
+  firstname="Neila"
+  lastname="Prouty"
+  email="Neila.Prouty@examplecompany.com"
+  />      <Items><Item><SKU>P34624</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>7</Quantity><Price>42.79</Price></Item><Item><SKU>P44934</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>9</Quantity><Price>50.08</Price></Item><Item><SKU>P22899</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>6</Quantity><Price>11.99</Price></Item><Item><SKU>P99766</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>6</Quantity><Price>35.67</Price></Item>
+      </Items>
+    </Order>

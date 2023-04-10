@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-27" >
+      <Customer id="CUST17584"
+  firstname="Aili"
+  lastname="Gabrielli"
+  email="Aili.Gabrielli@example.com"
+  />        <Seller id="EMP85508"
+  firstname="Julieta"
+  lastname="Tayib"
+  email="Julieta.Tayib@examplecompany.com"
+  />      <Items><Item><SKU>P97098</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>1</Quantity><Price>35.59</Price></Item><Item><SKU>P45044</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>3</Quantity><Price>80.14</Price></Item><Item><SKU>P43385</SKU><Description>Level - 24 inch</Description><Quantity>2</Quantity><Price>66.74</Price></Item><Item><SKU>P83534</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>61.89</Price></Item>
+      </Items>
+    </Order>

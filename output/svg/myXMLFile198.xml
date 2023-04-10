@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2023-03-09">
+  
+      
+  <Customer id="CUST24409" firstname="Magdalena" lastname="Zrike" email="Magdalena.Zrike@example.com"/>
+          
+  <Seller id="EMP82674" firstname="Adriana" lastname="Zeeba" email="Adriana.Zeeba@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>9</Quantity>
+      <Price>45.384</Price>
+    </Item>
+    <Item>
+      <SKU>P17627</SKU>
+      <Description>Caulking Gun - Heavy Duty</Description>
+      <Quantity>8</Quantity>
+      <Price>22.355999999999998</Price>
+    </Item>
+    <Item>
+      <SKU>P47249</SKU>
+      <Description>Wooden Ladder - 8 ft</Description>
+      <Quantity>11</Quantity>
+      <Price>60.48</Price>
+    </Item>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>12</Quantity>
+      <Price>68.7</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>2076.98</TotalPrice>
+</Order>

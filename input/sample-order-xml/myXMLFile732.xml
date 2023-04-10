@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-02-27" >
+      <Customer id="CUST62024"
+  firstname="Valeda"
+  lastname="Esmaria"
+  email="Valeda.Esmaria@example.com"
+  />        <Seller id="EMP72281"
+  firstname="Kristina"
+  lastname="Dunkin"
+  email="Kristina.Dunkin@examplecompany.com"
+  />      <Items><Item><SKU>P92116</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>3</Quantity><Price>55.93</Price></Item><Item><SKU>P38910</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>2</Quantity><Price>66.97</Price></Item><Item><SKU>P21927</SKU><Description>Hammer - 16 oz</Description><Quantity>10</Quantity><Price>10.25</Price></Item><Item><SKU>P72714</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>4</Quantity><Price>47.83</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-02-01" >
+      <Customer id="CUST80929"
+  firstname="Candi"
+  lastname="Breed"
+  email="Candi.Breed@example.com"
+  />        <Seller id="EMP28958"
+  firstname="Roberta"
+  lastname="Hull"
+  email="Roberta.Hull@examplecompany.com"
+  />      <Items><Item><SKU>P11401</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>7</Quantity><Price>33.63</Price></Item><Item><SKU>P15067</SKU><Description>Nail Gun - Electric</Description><Quantity>1</Quantity><Price>30.34</Price></Item><Item><SKU>P92629</SKU><Description>Garden Hose - 50ft</Description><Quantity>5</Quantity><Price>29.32</Price></Item><Item><SKU>P61223</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>5</Quantity><Price>20.89</Price></Item>
+      </Items>
+    </Order>

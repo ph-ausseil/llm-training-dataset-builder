@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-15" >
+      <Customer id="CUST68988"
+  firstname="Giustina"
+  lastname="Edvard"
+  email="Giustina.Edvard@example.com"
+  />        <Seller id="EMP57441"
+  firstname="Deloria"
+  lastname="Annabella"
+  email="Deloria.Annabella@examplecompany.com"
+  />      <Items><Item><SKU>P22307</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>2</Quantity><Price>77.65</Price></Item><Item><SKU>P21277</SKU><Description>Hammer - 16 oz</Description><Quantity>3</Quantity><Price>20.22</Price></Item><Item><SKU>P16203</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>5</Quantity><Price>80.63</Price></Item><Item><SKU>P39678</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>7</Quantity><Price>45.16</Price></Item>
+      </Items>
+    </Order>

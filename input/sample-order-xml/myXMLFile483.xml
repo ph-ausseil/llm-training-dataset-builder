@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-05-13" >
+      <Customer id="CUST65838"
+  firstname="Kate"
+  lastname="Tayib"
+  email="Kate.Tayib@example.com"
+  />        <Seller id="EMP57789"
+  firstname="Winny"
+  lastname="Dyche"
+  email="Winny.Dyche@examplecompany.com"
+  />      <Items><Item><SKU>P18970</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>1</Quantity><Price>52.74</Price></Item><Item><SKU>P94458</SKU><Description>Socket Set - 40 pieces</Description><Quantity>10</Quantity><Price>63.3</Price></Item><Item><SKU>P16783</SKU><Description>Safety Goggles - Clear</Description><Quantity>7</Quantity><Price>43.93</Price></Item><Item><SKU>P93021</SKU><Description>Nail Gun - Electric</Description><Quantity>9</Quantity><Price>66.86</Price></Item>
+      </Items>
+    </Order>

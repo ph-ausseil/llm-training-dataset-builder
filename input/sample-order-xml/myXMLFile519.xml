@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-05-24" >
+      <Customer id="CUST46367"
+  firstname="Linzy"
+  lastname="Marden"
+  email="Linzy.Marden@example.com"
+  />        <Seller id="EMP55833"
+  firstname="Amelia"
+  lastname="Bettine"
+  email="Amelia.Bettine@examplecompany.com"
+  />      <Items><Item><SKU>P82933</SKU><Description>Tape Measure - 25 ft</Description><Quantity>5</Quantity><Price>13.47</Price></Item><Item><SKU>P49317</SKU><Description>Power Drill - 18V</Description><Quantity>8</Quantity><Price>58.63</Price></Item><Item><SKU>P23238</SKU><Description>Utility Knife - Retractable</Description><Quantity>8</Quantity><Price>35.73</Price></Item><Item><SKU>P35333</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>1</Quantity><Price>34.82</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-01-20" >
+      <Customer id="CUST58834"
+  firstname="Beverley"
+  lastname="Sacken"
+  email="Beverley.Sacken@example.com"
+  />        <Seller id="EMP90803"
+  firstname="Lesly"
+  lastname="Vary"
+  email="Lesly.Vary@examplecompany.com"
+  />      <Items><Item><SKU>P37776</SKU><Description>Safety Goggles - Clear</Description><Quantity>9</Quantity><Price>85.14</Price></Item><Item><SKU>P16024</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>10</Quantity><Price>33.61</Price></Item><Item><SKU>P11739</SKU><Description>Hacksaw - 12 inch</Description><Quantity>7</Quantity><Price>32.5</Price></Item><Item><SKU>P82010</SKU><Description>LED Light Bulb - 60W</Description><Quantity>3</Quantity><Price>8.3</Price></Item>
+      </Items>
+    </Order>

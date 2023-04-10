@@ -1,0 +1,8 @@
+<Order id="ODR25150517" date="2022-02-09">
+      
+      <Customer id="CUST10095" firstname="Alyda" lastname="Paine" email="Alyda.Paine@example.com" />
+        <Seller id="EMP75295" firstname="Ileana" lastname="Turne" email="Ileana.Turne@company.com" />
+      <Items>
+        <Item><SKU>P12710</SKU><Description>Workbench - Portable</Description><Quantity>2</Quantity><Price>51.92</Price></Item><Item><SKU>P58449</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>1</Quantity><Price>62.57</Price></Item><Item><SKU>P67976</SKU><Description>Stud Finder - Digital</Description><Quantity>2</Quantity><Price>71.04</Price></Item>
+      </Items>
+    <TotalPrice>103.84</TotalPrice><TotalPrice>166.41</TotalPrice><TotalPrice>308.49</TotalPrice></Order>

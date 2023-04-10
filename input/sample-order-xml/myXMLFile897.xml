@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-13" >
+      <Customer id="CUST44896"
+  firstname="Ricky"
+  lastname="Madelene"
+  email="Ricky.Madelene@example.com"
+  />        <Seller id="EMP70987"
+  firstname="Jacenta"
+  lastname="Ashok"
+  email="Jacenta.Ashok@examplecompany.com"
+  />      <Items><Item><SKU>P60709</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>9</Quantity><Price>63.31</Price></Item><Item><SKU>P37163</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>28.09</Price></Item><Item><SKU>P11168</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>7</Quantity><Price>15.01</Price></Item><Item><SKU>P95090</SKU><Description>Garden Hose - 50ft</Description><Quantity>2</Quantity><Price>28.07</Price></Item>
+      </Items>
+    </Order>

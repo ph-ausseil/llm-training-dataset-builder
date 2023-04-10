@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-23" >
+      <Customer id="CUST54850"
+  firstname="Oona"
+  lastname="Arley"
+  email="Oona.Arley@example.com"
+  />        <Seller id="EMP42616"
+  firstname="Tabbatha"
+  lastname="Winnick"
+  email="Tabbatha.Winnick@examplecompany.com"
+  />      <Items><Item><SKU>P93230</SKU><Description>Tool Box - 19 inch</Description><Quantity>1</Quantity><Price>89.7</Price></Item><Item><SKU>P43642</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>8</Quantity><Price>66.16</Price></Item><Item><SKU>P21021</SKU><Description>Power Drill - 18V</Description><Quantity>6</Quantity><Price>6.59</Price></Item><Item><SKU>P25627</SKU><Description>Work Gloves - Leather</Description><Quantity>7</Quantity><Price>52.7</Price></Item>
+      </Items>
+    </Order>

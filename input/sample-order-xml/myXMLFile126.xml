@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-31" >
+      <Customer id="CUST58370"
+  firstname="Lynea"
+  lastname="Eldrid"
+  email="Lynea.Eldrid@example.com"
+  />        <Seller id="EMP90214"
+  firstname="Ardys"
+  lastname="Herrera"
+  email="Ardys.Herrera@examplecompany.com"
+  />      <Items><Item><SKU>P67668</SKU><Description>Hammer - 16 oz</Description><Quantity>5</Quantity><Price>76.67</Price></Item><Item><SKU>P75422</SKU><Description>Level - 24 inch</Description><Quantity>9</Quantity><Price>21.71</Price></Item><Item><SKU>P15193</SKU><Description>Power Drill - 18V</Description><Quantity>8</Quantity><Price>47.94</Price></Item><Item><SKU>P60024</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>6</Quantity><Price>47.74</Price></Item>
+      </Items>
+    </Order>

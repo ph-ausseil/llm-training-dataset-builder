@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-04" >
+      <Customer id="CUST63825"
+  firstname="Alameda"
+  lastname="Wittie"
+  email="Alameda.Wittie@example.com"
+  />        <Seller id="EMP52707"
+  firstname="Sidoney"
+  lastname="Loeb"
+  email="Sidoney.Loeb@examplecompany.com"
+  />      <Items><Item><SKU>P36660</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>8</Quantity><Price>8.21</Price></Item><Item><SKU>P82030</SKU><Description>Jigsaw - Cordless</Description><Quantity>2</Quantity><Price>83.24</Price></Item><Item><SKU>P68378</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>6</Quantity><Price>74.18</Price></Item><Item><SKU>P78708</SKU><Description>Tape Measure - 25 ft</Description><Quantity>5</Quantity><Price>63.32</Price></Item>
+      </Items>
+    </Order>

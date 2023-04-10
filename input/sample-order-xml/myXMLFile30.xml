@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-27" >
+      <Customer id="CUST98095"
+  firstname="Bernardine"
+  lastname="Georas"
+  email="Bernardine.Georas@example.com"
+  />        <Seller id="EMP63433"
+  firstname="Concettina"
+  lastname="Standing"
+  email="Concettina.Standing@examplecompany.com"
+  />      <Items><Item><SKU>P53063</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>4</Quantity><Price>47.6</Price></Item><Item><SKU>P84835</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>4</Quantity><Price>23.54</Price></Item><Item><SKU>P97825</SKU><Description>Safety Goggles - Clear</Description><Quantity>7</Quantity><Price>74.69</Price></Item><Item><SKU>P53889</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>3</Quantity><Price>19.13</Price></Item>
+      </Items>
+    </Order>

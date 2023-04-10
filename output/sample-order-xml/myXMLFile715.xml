@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-11-23">
+  
+      
+  <Customer id="CUST55944" firstname="Joy" lastname="Cath" email="Joy.Cath@example.com"/>
+          
+  <Seller id="EMP22322" firstname="Di" lastname="Bach" email="Di.Bach@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>5</Quantity>
+      <Price>12.397</Price>
+    </Item>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>6</Quantity>
+      <Price>10.340000000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>10</Quantity>
+      <Price>98.56</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>3</Quantity>
+      <Price>7.238</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1131.34</TotalPrice>
+</Order>

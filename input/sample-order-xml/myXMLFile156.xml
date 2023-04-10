@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-08" >
+      <Customer id="CUST53064"
+  firstname="Dacia"
+  lastname="Kaja"
+  email="Dacia.Kaja@example.com"
+  />        <Seller id="EMP29065"
+  firstname="Georgina"
+  lastname="Gladstone"
+  email="Georgina.Gladstone@examplecompany.com"
+  />      <Items><Item><SKU>P55716</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>4</Quantity><Price>31.91</Price></Item><Item><SKU>P85447</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>2</Quantity><Price>48.89</Price></Item><Item><SKU>P63361</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>2</Quantity><Price>72.83</Price></Item><Item><SKU>P51405</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>10</Quantity><Price>90.42</Price></Item>
+      </Items>
+    </Order>

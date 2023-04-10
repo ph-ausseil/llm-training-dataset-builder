@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-22" >
+      <Customer id="CUST93081"
+  firstname="Jenilee"
+  lastname="Lattie"
+  email="Jenilee.Lattie@example.com"
+  />        <Seller id="EMP15028"
+  firstname="Roberta"
+  lastname="Peti"
+  email="Roberta.Peti@examplecompany.com"
+  />      <Items><Item><SKU>P42674</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>21.94</Price></Item><Item><SKU>P67416</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>2</Quantity><Price>72.92</Price></Item><Item><SKU>P15312</SKU><Description>Level - 24 inch</Description><Quantity>3</Quantity><Price>53.6</Price></Item><Item><SKU>P13835</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>1</Quantity><Price>5.54</Price></Item>
+      </Items>
+    </Order>

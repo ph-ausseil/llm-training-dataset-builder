@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-03" >
+      <Customer id="CUST79036"
+  firstname="Grier"
+  lastname="Felizio"
+  email="Grier.Felizio@example.com"
+  />        <Seller id="EMP48273"
+  firstname="Katuscha"
+  lastname="Fennessy"
+  email="Katuscha.Fennessy@examplecompany.com"
+  />      <Items><Item><SKU>P34813</SKU><Description>Power Drill - 18V</Description><Quantity>2</Quantity><Price>33.07</Price></Item><Item><SKU>P70649</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>10</Quantity><Price>68.26</Price></Item><Item><SKU>P34828</SKU><Description>Stud Finder - Digital</Description><Quantity>6</Quantity><Price>9.89</Price></Item><Item><SKU>P39752</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>4</Quantity><Price>87.97</Price></Item>
+      </Items>
+    </Order>

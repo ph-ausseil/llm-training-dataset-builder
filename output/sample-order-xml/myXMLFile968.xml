@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-06-09">
+  
+      
+  <Customer id="CUST62320" firstname="Candi" lastname="Lilybelle" email="Candi.Lilybelle@example.com"/>
+          
+  <Seller id="EMP34851" firstname="Aubrie" lastname="Judye" email="Aubrie.Judye@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>98.97800000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>5</Quantity>
+      <Price>95.61200000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>5</Quantity>
+      <Price>98.56</Price>
+    </Item>
+    <Item>
+      <SKU>P19253</SKU>
+      <Description>Outdoor Lantern - Solar Powered</Description>
+      <Quantity>5</Quantity>
+      <Price>84.88700000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1890.18</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-02-11" >
+      <Customer id="CUST78715"
+  firstname="Wileen"
+  lastname="Fredi"
+  email="Wileen.Fredi@example.com"
+  />        <Seller id="EMP22045"
+  firstname="Laurene"
+  lastname="Koziara"
+  email="Laurene.Koziara@examplecompany.com"
+  />      <Items><Item><SKU>P12406</SKU><Description>Work Gloves - Leather</Description><Quantity>3</Quantity><Price>29.88</Price></Item><Item><SKU>P58024</SKU><Description>Tape Measure - 25 ft</Description><Quantity>8</Quantity><Price>37.16</Price></Item><Item><SKU>P87964</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>3</Quantity><Price>9.06</Price></Item><Item><SKU>P51841</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>35.23</Price></Item>
+      </Items>
+    </Order>

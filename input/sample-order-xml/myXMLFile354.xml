@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-06" >
+      <Customer id="CUST74281"
+  firstname="Rosabelle"
+  lastname="Ledah"
+  email="Rosabelle.Ledah@example.com"
+  />        <Seller id="EMP97583"
+  firstname="Bobbi"
+  lastname="Diann"
+  email="Bobbi.Diann@examplecompany.com"
+  />      <Items><Item><SKU>P65777</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>3</Quantity><Price>80.56</Price></Item><Item><SKU>P88136</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>5</Quantity><Price>26.6</Price></Item><Item><SKU>P61923</SKU><Description>Garden Hose - 50ft</Description><Quantity>4</Quantity><Price>52.02</Price></Item><Item><SKU>P46801</SKU><Description>Utility Knife - Retractable</Description><Quantity>3</Quantity><Price>56.1</Price></Item>
+      </Items>
+    </Order>

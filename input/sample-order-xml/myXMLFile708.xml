@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-01" >
+      <Customer id="CUST78875"
+  firstname="Rubie"
+  lastname="Romelda"
+  email="Rubie.Romelda@example.com"
+  />        <Seller id="EMP35918"
+  firstname="Aimil"
+  lastname="Rossner"
+  email="Aimil.Rossner@examplecompany.com"
+  />      <Items><Item><SKU>P55908</SKU><Description>Socket Set - 40 pieces</Description><Quantity>4</Quantity><Price>34.26</Price></Item><Item><SKU>P17133</SKU><Description>Hand Saw - 12 inch</Description><Quantity>10</Quantity><Price>5.3</Price></Item><Item><SKU>P22378</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>7</Quantity><Price>63.69</Price></Item><Item><SKU>P80587</SKU><Description>Work Gloves - Leather</Description><Quantity>4</Quantity><Price>51.46</Price></Item>
+      </Items>
+    </Order>

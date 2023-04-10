@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-02-22" >
+      <Customer id="CUST27822"
+  firstname="Corene"
+  lastname="Larochelle"
+  email="Corene.Larochelle@example.com"
+  />        <Seller id="EMP44590"
+  firstname="Sharai"
+  lastname="Dichy"
+  email="Sharai.Dichy@examplecompany.com"
+  />      <Items><Item><SKU>P34236</SKU><Description>Safety Goggles - Clear</Description><Quantity>5</Quantity><Price>5.89</Price></Item><Item><SKU>P85857</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>8</Quantity><Price>22.36</Price></Item><Item><SKU>P39344</SKU><Description>Work Gloves - Leather</Description><Quantity>1</Quantity><Price>12.94</Price></Item><Item><SKU>P16384</SKU><Description>Tarp - 12x16 ft</Description><Quantity>4</Quantity><Price>70.31</Price></Item>
+      </Items>
+    </Order>

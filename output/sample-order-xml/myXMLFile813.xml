@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-08-03">
+  
+      
+  <Customer id="CUST53548" firstname="Marline" lastname="Westphal" email="Marline.Westphal@example.com"/>
+          
+  <Seller id="EMP15720" firstname="Annecorinne" lastname="Idelia" email="Annecorinne.Idelia@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P64945</SKU>
+      <Description>Utility Knife - Retractable</Description>
+      <Quantity>1</Quantity>
+      <Price>10.780000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>64.13</Price>
+    </Item>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>5</Quantity>
+      <Price>95.61200000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>10</Quantity>
+      <Price>79.39800000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1411.08</TotalPrice>
+</Order>

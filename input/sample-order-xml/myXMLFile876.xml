@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-12-13" >
+      <Customer id="CUST54796"
+  firstname="Jacquetta"
+  lastname="Martguerita"
+  email="Jacquetta.Martguerita@example.com"
+  />        <Seller id="EMP82070"
+  firstname="Randa"
+  lastname="Ochs"
+  email="Randa.Ochs@examplecompany.com"
+  />      <Items><Item><SKU>P67306</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>35.3</Price></Item><Item><SKU>P24293</SKU><Description>Hammer - 16 oz</Description><Quantity>10</Quantity><Price>35.54</Price></Item><Item><SKU>P41887</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>3</Quantity><Price>11.96</Price></Item><Item><SKU>P14721</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>8</Quantity><Price>71.52</Price></Item>
+      </Items>
+    </Order>

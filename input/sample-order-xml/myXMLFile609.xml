@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-08" >
+      <Customer id="CUST12714"
+  firstname="Lorenza"
+  lastname="Seumas"
+  email="Lorenza.Seumas@example.com"
+  />        <Seller id="EMP42255"
+  firstname="Lacie"
+  lastname="Thunell"
+  email="Lacie.Thunell@examplecompany.com"
+  />      <Items><Item><SKU>P99537</SKU><Description>Socket Set - 40 pieces</Description><Quantity>8</Quantity><Price>76.97</Price></Item><Item><SKU>P94983</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>78.92</Price></Item><Item><SKU>P10674</SKU><Description>Stud Finder - Digital</Description><Quantity>3</Quantity><Price>56.76</Price></Item><Item><SKU>P40783</SKU><Description>Garden Hose - 50ft</Description><Quantity>6</Quantity><Price>88.41</Price></Item>
+      </Items>
+    </Order>

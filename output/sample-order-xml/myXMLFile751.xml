@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-10-16">
+  
+      
+  <Customer id="CUST80396" firstname="Florie" lastname="Donoghue" email="Florie.Donoghue@example.com"/>
+          
+  <Seller id="EMP64242" firstname="Kittie" lastname="Morrill" email="Kittie.Morrill@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>41.239000000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>2</Quantity>
+      <Price>93.676</Price>
+    </Item>
+    <Item>
+      <SKU>P49316</SKU>
+      <Description>Heavy-Duty Extension Cord - 100ft</Description>
+      <Quantity>5</Quantity>
+      <Price>55.121</Price>
+    </Item>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>44.176</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1152.15</TotalPrice>
+</Order>

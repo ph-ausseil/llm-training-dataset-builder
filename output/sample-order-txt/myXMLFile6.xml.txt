@@ -1,0 +1,76 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $487.46.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Lauryn Katrine.
+Question : What is the cost of item 'P24286'?
+Answer : The  cost of item 'P24286' was $115.5.
+Question : What is the name of item 'P24286'?
+Answer : The  name of item 'P24286' was 'Paint Brush Set - 5 pieces'.
+Question : What is the SKU of item 'Paint Brush Set - 5 pieces'?
+Answer : The  SKU of item 'Paint Brush Set - 5 pieces' was 'P24286'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-11'.
+Question : What is the email address of the customer with ID 'CUST27688'?
+Answer : The  email address of the customer with ID 'CUST27688' was 'Lilith.Ricarda@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 11.
+Question : What is the total price of all 'Paint Brush Set - 5 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Paint Brush Set - 5 pieces' items ordered in the sales order with ID 'ODR50574929' was $115.5.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $44.31.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $438.71.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Level - 24 inch' with a price of $70.27650000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $487.46.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Lauryn Katrine.
+Question : What is the cost of item 'P64945'?
+Answer : The  cost of item 'P64945' was $20.58.
+Question : What is the name of item 'P64945'?
+Answer : The  name of item 'P64945' was 'Utility Knife - Retractable'.
+Question : What is the SKU of item 'Utility Knife - Retractable'?
+Answer : The  SKU of item 'Utility Knife - Retractable' was 'P64945'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-11'.
+Question : What is the email address of the customer with ID 'CUST27688'?
+Answer : The  email address of the customer with ID 'CUST27688' was 'Lilith.Ricarda@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 11.
+Question : What is the total price of all 'Utility Knife - Retractable' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Utility Knife - Retractable' items ordered in the sales order with ID 'ODR50574929' was $20.580000000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $44.31.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $438.71.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Level - 24 inch' with a price of $70.27650000000001.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $487.46.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Lauryn Katrine.
+Question : What is the cost of item 'P65232'?
+Answer : The  cost of item 'P65232' was $351.38.
+Question : What is the name of item 'P65232'?
+Answer : The  name of item 'P65232' was 'Level - 24 inch'.
+Question : What is the SKU of item 'Level - 24 inch'?
+Answer : The  SKU of item 'Level - 24 inch' was 'P65232'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-06-11'.
+Question : What is the email address of the customer with ID 'CUST27688'?
+Answer : The  email address of the customer with ID 'CUST27688' was 'Lilith.Ricarda@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 11.
+Question : What is the total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Level - 24 inch' items ordered in the sales order with ID 'ODR50574929' was $351.38250000000005.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $44.31.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $438.71.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Level - 24 inch' with a price of $70.27650000000001.

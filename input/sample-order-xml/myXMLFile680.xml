@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-05" >
+      <Customer id="CUST82631"
+  firstname="Amalie"
+  lastname="Carolin"
+  email="Amalie.Carolin@example.com"
+  />        <Seller id="EMP67561"
+  firstname="Rosabelle"
+  lastname="Bandeen"
+  email="Rosabelle.Bandeen@examplecompany.com"
+  />      <Items><Item><SKU>P63392</SKU><Description>Garden Hose - 50ft</Description><Quantity>4</Quantity><Price>82.98</Price></Item><Item><SKU>P62200</SKU><Description>Workbench - Portable</Description><Quantity>10</Quantity><Price>73.32</Price></Item><Item><SKU>P63737</SKU><Description>Hacksaw - 12 inch</Description><Quantity>10</Quantity><Price>53.27</Price></Item><Item><SKU>P35706</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>5</Quantity><Price>26.87</Price></Item>
+      </Items>
+    </Order>

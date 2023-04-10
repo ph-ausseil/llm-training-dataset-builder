@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-29" >
+      <Customer id="CUST68914"
+  firstname="Joane"
+  lastname="Erminia"
+  email="Joane.Erminia@example.com"
+  />        <Seller id="EMP28599"
+  firstname="Mildrid"
+  lastname="Codding"
+  email="Mildrid.Codding@examplecompany.com"
+  />      <Items><Item><SKU>P50232</SKU><Description>Workbench - Portable</Description><Quantity>5</Quantity><Price>41.23</Price></Item><Item><SKU>P12548</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>8</Quantity><Price>54.16</Price></Item><Item><SKU>P87659</SKU><Description>Tape Measure - 25 ft</Description><Quantity>2</Quantity><Price>54.35</Price></Item><Item><SKU>P49254</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>1</Quantity><Price>5.93</Price></Item>
+      </Items>
+    </Order>

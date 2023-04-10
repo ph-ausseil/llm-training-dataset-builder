@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-09-09" >
+      <Customer id="CUST96998"
+  firstname="Codie"
+  lastname="Lanita"
+  email="Codie.Lanita@example.com"
+  />        <Seller id="EMP72157"
+  firstname="Malina"
+  lastname="Fink"
+  email="Malina.Fink@examplecompany.com"
+  />      <Items><Item><SKU>P74937</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>4</Quantity><Price>71.03</Price></Item><Item><SKU>P45007</SKU><Description>Miter Saw - 10 inch</Description><Quantity>5</Quantity><Price>65.8</Price></Item><Item><SKU>P34164</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>10</Quantity><Price>73.95</Price></Item><Item><SKU>P10842</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>3</Quantity><Price>10.95</Price></Item>
+      </Items>
+    </Order>

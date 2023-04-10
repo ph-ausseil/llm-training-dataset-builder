@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1277.96.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mallory Zetta.
+Question : What is the cost of item 'P13379'?
+Answer : The  cost of item 'P13379' was $21.71.
+Question : What is the name of item 'P13379'?
+Answer : The  name of item 'P13379' was 'Measuring Tape - 16 ft'.
+Question : What is the SKU of item 'Measuring Tape - 16 ft'?
+Answer : The  SKU of item 'Measuring Tape - 16 ft' was 'P13379'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-07-21'.
+Question : What is the email address of the customer with ID 'CUST11356'?
+Answer : The  email address of the customer with ID 'CUST11356' was 'Ethel.Toor@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Measuring Tape - 16 ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Measuring Tape - 16 ft' items ordered in the sales order with ID 'ODR50574929' was $21.714000000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.9.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1150.16.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $98.56.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1277.96.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mallory Zetta.
+Question : What is the cost of item 'P33159'?
+Answer : The  cost of item 'P33159' was $232.25.
+Question : What is the name of item 'P33159'?
+Answer : The  name of item 'P33159' was 'Garden Hose - 50ft'.
+Question : What is the SKU of item 'Garden Hose - 50ft'?
+Answer : The  SKU of item 'Garden Hose - 50ft' was 'P33159'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-07-21'.
+Question : What is the email address of the customer with ID 'CUST11356'?
+Answer : The  email address of the customer with ID 'CUST11356' was 'Ethel.Toor@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Garden Hose - 50ft' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Garden Hose - 50ft' items ordered in the sales order with ID 'ODR50574929' was $232.25400000000002.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.9.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1150.16.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $98.56.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1277.96.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mallory Zetta.
+Question : What is the cost of item 'P57547'?
+Answer : The  cost of item 'P57547' was $394.24.
+Question : What is the name of item 'P57547'?
+Answer : The  name of item 'P57547' was 'Cordless Leaf Blower - 20V'.
+Question : What is the SKU of item 'Cordless Leaf Blower - 20V'?
+Answer : The  SKU of item 'Cordless Leaf Blower - 20V' was 'P57547'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-07-21'.
+Question : What is the email address of the customer with ID 'CUST11356'?
+Answer : The  email address of the customer with ID 'CUST11356' was 'Ethel.Toor@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Cordless Leaf Blower - 20V' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Cordless Leaf Blower - 20V' items ordered in the sales order with ID 'ODR50574929' was $394.24.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.9.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1150.16.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $98.56.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $1277.96.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Mallory Zetta.
+Question : What is the cost of item 'P14222'?
+Answer : The  cost of item 'P14222' was $629.75.
+Question : What is the name of item 'P14222'?
+Answer : The  name of item 'P14222' was 'Nail Gun - Electric'.
+Question : What is the SKU of item 'Nail Gun - Electric'?
+Answer : The  SKU of item 'Nail Gun - Electric' was 'P14222'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2022-07-21'.
+Question : What is the email address of the customer with ID 'CUST11356'?
+Answer : The  email address of the customer with ID 'CUST11356' was 'Ethel.Toor@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 20.
+Question : What is the total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929' was $629.7500000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $63.9.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $1150.16.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Cordless Leaf Blower - 20V' with a price of $98.56.

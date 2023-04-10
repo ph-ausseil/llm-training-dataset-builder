@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-11-29">
+  
+      
+  <Customer id="CUST91733" firstname="Fanchon" lastname="Rese" email="Fanchon.Rese@example.com"/>
+          
+  <Seller id="EMP44675" firstname="Gui" lastname="Cristi" email="Gui.Cristi@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>3</Quantity>
+      <Price>67.368</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>89.418</Price>
+    </Item>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>7</Quantity>
+      <Price>43.1025</Price>
+    </Item>
+    <Item>
+      <SKU>P24286</SKU>
+      <Description>Paint Brush Set - 5 pieces</Description>
+      <Quantity>5</Quantity>
+      <Price>28.875</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1005.87</TotalPrice>
+</Order>

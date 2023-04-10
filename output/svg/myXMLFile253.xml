@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2023-01-16">
+  
+      
+  <Customer id="CUST33972" firstname="Tonia" lastname="Yerkovich" email="Tonia.Yerkovich@example.com"/>
+          
+  <Seller id="EMP25145" firstname="Maye" lastname="Tamsky" email="Maye.Tamsky@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P73288</SKU>
+      <Description>Stud Finder - Digital</Description>
+      <Quantity>6</Quantity>
+      <Price>28.955999999999996</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>86.616</Price>
+    </Item>
+    <Item>
+      <SKU>P43386</SKU>
+      <Description>Pipe Wrench - 14 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>91.032</Price>
+    </Item>
+  </Items>
+  
+    
+  <TotalPrice>884.33</TotalPrice>
+</Order>

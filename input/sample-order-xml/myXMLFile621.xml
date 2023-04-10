@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-02-14" >
+      <Customer id="CUST61996"
+  firstname="Daryl"
+  lastname="Jacqui"
+  email="Daryl.Jacqui@example.com"
+  />        <Seller id="EMP58299"
+  firstname="Regina"
+  lastname="Weitman"
+  email="Regina.Weitman@examplecompany.com"
+  />      <Items><Item><SKU>P86385</SKU><Description>Hand Saw - 12 inch</Description><Quantity>5</Quantity><Price>62.48</Price></Item><Item><SKU>P48319</SKU><Description>Utility Knife - Retractable</Description><Quantity>9</Quantity><Price>13.24</Price></Item><Item><SKU>P63013</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>8</Quantity><Price>84.64</Price></Item><Item><SKU>P66521</SKU><Description>Tile Cutter - Manual</Description><Quantity>6</Quantity><Price>26.08</Price></Item>
+      </Items>
+    </Order>

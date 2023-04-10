@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-08-23">
+  
+      
+  <Customer id="CUST80177" firstname="Talya" lastname="Rugen" email="Talya.Rugen@example.com"/>
+          
+  <Seller id="EMP75045" firstname="Elvira" lastname="Vharat" email="Elvira.Vharat@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>1</Quantity>
+      <Price>41.602000000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>1</Quantity>
+      <Price>45.155</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>4</Quantity>
+      <Price>100.089</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>79.002</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>961.12</TotalPrice>
+</Order>

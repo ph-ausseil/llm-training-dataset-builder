@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-17" >
+      <Customer id="CUST26258"
+  firstname="Jerry"
+  lastname="Gusella"
+  email="Jerry.Gusella@example.com"
+  />        <Seller id="EMP29079"
+  firstname="Barbi"
+  lastname="Lewes"
+  email="Barbi.Lewes@examplecompany.com"
+  />      <Items><Item><SKU>P29712</SKU><Description>Work Gloves - Leather</Description><Quantity>5</Quantity><Price>50.94</Price></Item><Item><SKU>P14228</SKU><Description>Nail Gun - Electric</Description><Quantity>10</Quantity><Price>44.87</Price></Item><Item><SKU>P93865</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>7</Quantity><Price>62.66</Price></Item><Item><SKU>P28953</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>10</Quantity><Price>52.69</Price></Item>
+      </Items>
+    </Order>

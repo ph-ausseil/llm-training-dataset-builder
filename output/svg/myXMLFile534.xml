@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-07-17">
+  
+      
+  <Customer id="CUST12228" firstname="Edith" lastname="Burnside" email="Edith.Burnside@example.com"/>
+          
+  <Seller id="EMP30791" firstname="Viviene" lastname="Woodberry" email="Viviene.Woodberry@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>4</Quantity>
+      <Price>5.24</Price>
+    </Item>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>10</Quantity>
+      <Price>70.38</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>58.3</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>899.66</TotalPrice>
+</Order>

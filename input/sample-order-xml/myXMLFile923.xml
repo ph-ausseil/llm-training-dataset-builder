@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-22" >
+      <Customer id="CUST56225"
+  firstname="Ivett"
+  lastname="Gilbertson"
+  email="Ivett.Gilbertson@example.com"
+  />        <Seller id="EMP40917"
+  firstname="Jany"
+  lastname="Gilmour"
+  email="Jany.Gilmour@examplecompany.com"
+  />      <Items><Item><SKU>P17555</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>43.27</Price></Item><Item><SKU>P35601</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>6</Quantity><Price>81.32</Price></Item><Item><SKU>P94948</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>8</Quantity><Price>7</Price></Item><Item><SKU>P97341</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>2</Quantity><Price>19.65</Price></Item>
+      </Items>
+    </Order>

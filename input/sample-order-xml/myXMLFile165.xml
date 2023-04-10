@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-15" >
+      <Customer id="CUST58458"
+  firstname="Magdalena"
+  lastname="Erlandson"
+  email="Magdalena.Erlandson@example.com"
+  />        <Seller id="EMP95823"
+  firstname="Veda"
+  lastname="Havens"
+  email="Veda.Havens@examplecompany.com"
+  />      <Items><Item><SKU>P40633</SKU><Description>Power Drill - 18V</Description><Quantity>9</Quantity><Price>37.04</Price></Item><Item><SKU>P55807</SKU><Description>Tape Measure - 25 ft</Description><Quantity>8</Quantity><Price>21.39</Price></Item><Item><SKU>P45978</SKU><Description>Work Gloves - Leather</Description><Quantity>9</Quantity><Price>89.47</Price></Item><Item><SKU>P41557</SKU><Description>Safety Goggles - Clear</Description><Quantity>3</Quantity><Price>41.25</Price></Item>
+      </Items>
+    </Order>

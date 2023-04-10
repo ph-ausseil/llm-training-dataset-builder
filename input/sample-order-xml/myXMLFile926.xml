@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-05" >
+      <Customer id="CUST63163"
+  firstname="Berget"
+  lastname="Carvey"
+  email="Berget.Carvey@example.com"
+  />        <Seller id="EMP37802"
+  firstname="Aimil"
+  lastname="Cloris"
+  email="Aimil.Cloris@examplecompany.com"
+  />      <Items><Item><SKU>P83841</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>9</Quantity><Price>35.58</Price></Item><Item><SKU>P69746</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>7</Quantity><Price>64.46</Price></Item><Item><SKU>P73789</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>6</Quantity><Price>75.84</Price></Item><Item><SKU>P93107</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>35.97</Price></Item>
+      </Items>
+    </Order>

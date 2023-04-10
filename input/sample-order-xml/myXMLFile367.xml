@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-30" >
+      <Customer id="CUST26600"
+  firstname="Gratia"
+  lastname="Alfons"
+  email="Gratia.Alfons@example.com"
+  />        <Seller id="EMP80313"
+  firstname="Paule"
+  lastname="Noelyn"
+  email="Paule.Noelyn@examplecompany.com"
+  />      <Items><Item><SKU>P24278</SKU><Description>Safety Goggles - Clear</Description><Quantity>4</Quantity><Price>38.14</Price></Item><Item><SKU>P31186</SKU><Description>Tape Measure - 25 ft</Description><Quantity>1</Quantity><Price>33.66</Price></Item><Item><SKU>P14310</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>1</Quantity><Price>57.49</Price></Item><Item><SKU>P12879</SKU><Description>Workbench - Portable</Description><Quantity>6</Quantity><Price>74.2</Price></Item>
+      </Items>
+    </Order>

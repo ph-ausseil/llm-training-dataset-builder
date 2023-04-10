@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-09-06">
+  
+      
+  <Customer id="CUST19457" firstname="Estell" lastname="Skurnik" email="Estell.Skurnik@example.com"/>
+          
+  <Seller id="EMP76249" firstname="Di" lastname="Magdalen" email="Di.Magdalen@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>79.002</Price>
+    </Item>
+    <Item>
+      <SKU>P79695</SKU>
+      <Description>Tile Cutter - Manual</Description>
+      <Quantity>2</Quantity>
+      <Price>40.18300000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>8</Quantity>
+      <Price>100.089</Price>
+    </Item>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>44.176</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1480.84</TotalPrice>
+</Order>

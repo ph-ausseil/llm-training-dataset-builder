@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-20" >
+      <Customer id="CUST34454"
+  firstname="Nariko"
+  lastname="Arne"
+  email="Nariko.Arne@example.com"
+  />        <Seller id="EMP59123"
+  firstname="Philis"
+  lastname="Aloise"
+  email="Philis.Aloise@examplecompany.com"
+  />      <Items><Item><SKU>P17794</SKU><Description>LED Light Bulb - 60W</Description><Quantity>7</Quantity><Price>48.97</Price></Item><Item><SKU>P50464</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>5</Quantity><Price>67.08</Price></Item><Item><SKU>P75455</SKU><Description>Miter Saw - 10 inch</Description><Quantity>7</Quantity><Price>15.66</Price></Item><Item><SKU>P21356</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>2</Quantity><Price>19.86</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-09" >
+      <Customer id="CUST76635"
+  firstname="Gilligan"
+  lastname="Hebner"
+  email="Gilligan.Hebner@example.com"
+  />        <Seller id="EMP95348"
+  firstname="Kristan"
+  lastname="Cyrie"
+  email="Kristan.Cyrie@examplecompany.com"
+  />      <Items><Item><SKU>P28888</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>2</Quantity><Price>13.85</Price></Item><Item><SKU>P54128</SKU><Description>Jigsaw - Cordless</Description><Quantity>7</Quantity><Price>41.01</Price></Item><Item><SKU>P86663</SKU><Description>Utility Knife - Retractable</Description><Quantity>5</Quantity><Price>61.35</Price></Item><Item><SKU>P42658</SKU><Description>Tarp - 12x16 ft</Description><Quantity>9</Quantity><Price>90.99</Price></Item>
+      </Items>
+    </Order>

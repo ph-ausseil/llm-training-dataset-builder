@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-14" >
+      <Customer id="CUST88248"
+  firstname="Gavrielle"
+  lastname="Jaylene"
+  email="Gavrielle.Jaylene@example.com"
+  />        <Seller id="EMP57451"
+  firstname="Marcy"
+  lastname="Diogenes"
+  email="Marcy.Diogenes@examplecompany.com"
+  />      <Items><Item><SKU>P25985</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>3</Quantity><Price>57.27</Price></Item><Item><SKU>P87138</SKU><Description>Hammer - 16 oz</Description><Quantity>2</Quantity><Price>13.26</Price></Item><Item><SKU>P53950</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>1</Quantity><Price>76.04</Price></Item><Item><SKU>P34659</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>36.27</Price></Item>
+      </Items>
+    </Order>

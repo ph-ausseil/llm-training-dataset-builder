@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-25" >
+      <Customer id="CUST48278"
+  firstname="Bobbi"
+  lastname="Garek"
+  email="Bobbi.Garek@example.com"
+  />        <Seller id="EMP22027"
+  firstname="Nikki"
+  lastname="Etom"
+  email="Nikki.Etom@examplecompany.com"
+  />      <Items><Item><SKU>P49202</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>5</Quantity><Price>52.83</Price></Item><Item><SKU>P47656</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>4</Quantity><Price>34.78</Price></Item><Item><SKU>P79386</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>6</Quantity><Price>5.83</Price></Item><Item><SKU>P20238</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>1</Quantity><Price>74.15</Price></Item>
+      </Items>
+    </Order>

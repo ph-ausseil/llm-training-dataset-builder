@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-11" >
+      <Customer id="CUST10731"
+  firstname="Binny"
+  lastname="Joeann"
+  email="Binny.Joeann@example.com"
+  />        <Seller id="EMP11221"
+  firstname="Cassondra"
+  lastname="Azeria"
+  email="Cassondra.Azeria@examplecompany.com"
+  />      <Items><Item><SKU>P19276</SKU><Description>Level - 24 inch</Description><Quantity>6</Quantity><Price>89.97</Price></Item><Item><SKU>P96613</SKU><Description>Safety Goggles - Clear</Description><Quantity>3</Quantity><Price>10.06</Price></Item><Item><SKU>P31213</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>9</Quantity><Price>18.07</Price></Item><Item><SKU>P27222</SKU><Description>Stud Finder - Digital</Description><Quantity>1</Quantity><Price>53.69</Price></Item>
+      </Items>
+    </Order>

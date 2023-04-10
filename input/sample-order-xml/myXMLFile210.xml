@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-13" >
+      <Customer id="CUST23879"
+  firstname="Maud"
+  lastname="Kinnard"
+  email="Maud.Kinnard@example.com"
+  />        <Seller id="EMP23057"
+  firstname="Amalie"
+  lastname="Winthorpe"
+  email="Amalie.Winthorpe@examplecompany.com"
+  />      <Items><Item><SKU>P86164</SKU><Description>Stud Finder - Digital</Description><Quantity>1</Quantity><Price>62.89</Price></Item><Item><SKU>P18314</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>4</Quantity><Price>56.33</Price></Item><Item><SKU>P65963</SKU><Description>Nail Gun - Electric</Description><Quantity>10</Quantity><Price>74.57</Price></Item><Item><SKU>P23599</SKU><Description>Stud Finder - Digital</Description><Quantity>9</Quantity><Price>10.33</Price></Item>
+      </Items>
+    </Order>

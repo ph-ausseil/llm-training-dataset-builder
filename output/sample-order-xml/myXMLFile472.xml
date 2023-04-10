@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-12-20">
+  
+      
+  <Customer id="CUST23053" firstname="Dorice" lastname="Dimitris" email="Dorice.Dimitris@example.com"/>
+          
+  <Seller id="EMP88605" firstname="Jessy" lastname="Merriott" email="Jessy.Merriott@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>2</Quantity>
+      <Price>93.676</Price>
+    </Item>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>9</Quantity>
+      <Price>62.97500000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P64945</SKU>
+      <Description>Utility Knife - Retractable</Description>
+      <Quantity>10</Quantity>
+      <Price>10.780000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>31.548000000000002</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>956.57</TotalPrice>
+</Order>

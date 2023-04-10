@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-09-05">
+  
+      
+  <Customer id="CUST58994" firstname="Ebonee" lastname="Stevy" email="Ebonee.Stevy@example.com"/>
+          
+  <Seller id="EMP43005" firstname="Elsie" lastname="Nea" email="Elsie.Nea@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P64945</SKU>
+      <Description>Utility Knife - Retractable</Description>
+      <Quantity>5</Quantity>
+      <Price>9.8</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>7</Quantity>
+      <Price>85.16</Price>
+    </Item>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>9</Quantity>
+      <Price>5.24</Price>
+    </Item>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>10</Quantity>
+      <Price>64.16</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1333.88</TotalPrice>
+</Order>

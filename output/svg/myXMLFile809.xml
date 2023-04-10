@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-02-19">
+  
+      
+  <Customer id="CUST33338" firstname="Rani" lastname="Phyllis" email="Rani.Phyllis@example.com"/>
+          
+  <Seller id="EMP99599" firstname="Bibby" lastname="Bakerman" email="Bibby.Bakerman@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P47249</SKU>
+      <Description>Wooden Ladder - 8 ft</Description>
+      <Quantity>2</Quantity>
+      <Price>50.4</Price>
+    </Item>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>64.16</Price>
+    </Item>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>40.16</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>5</Quantity>
+      <Price>6.58</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>711.62</TotalPrice>
+</Order>

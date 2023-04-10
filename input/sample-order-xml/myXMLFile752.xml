@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-17" >
+      <Customer id="CUST98847"
+  firstname="Sam"
+  lastname="Delacourt"
+  email="Sam.Delacourt@example.com"
+  />        <Seller id="EMP82371"
+  firstname="Sherrie"
+  lastname="Brotherson"
+  email="Sherrie.Brotherson@examplecompany.com"
+  />      <Items><Item><SKU>P50957</SKU><Description>Tarp - 12x16 ft</Description><Quantity>6</Quantity><Price>28.94</Price></Item><Item><SKU>P86699</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>5</Quantity><Price>50.17</Price></Item><Item><SKU>P30817</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>6</Quantity><Price>10.86</Price></Item><Item><SKU>P95587</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>3</Quantity><Price>45.94</Price></Item>
+      </Items>
+    </Order>

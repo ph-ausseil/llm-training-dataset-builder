@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-03-09" >
+      <Customer id="CUST23645"
+  firstname="Kimmy"
+  lastname="Lia"
+  email="Kimmy.Lia@example.com"
+  />        <Seller id="EMP62898"
+  firstname="Kittie"
+  lastname="Love"
+  email="Kittie.Love@examplecompany.com"
+  />      <Items><Item><SKU>P47659</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>4</Quantity><Price>81.24</Price></Item><Item><SKU>P54863</SKU><Description>Nail Gun - Electric</Description><Quantity>9</Quantity><Price>16.83</Price></Item><Item><SKU>P85054</SKU><Description>Stud Finder - Digital</Description><Quantity>2</Quantity><Price>67.02</Price></Item><Item><SKU>P64551</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>1</Quantity><Price>53.86</Price></Item>
+      </Items>
+    </Order>

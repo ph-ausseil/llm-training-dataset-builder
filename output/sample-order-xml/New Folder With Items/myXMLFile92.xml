@@ -1,0 +1,8 @@
+<Order id="ODR95931968" date="2022-04-24">
+      
+      <Customer id="CUST33835" firstname="Nonnah" lastname="Evvie" email="Nonnah.Evvie@example.com" />
+        <Seller id="EMP13629" firstname="Justinn" lastname="Idelia" email="Justinn.Idelia@company.com" />
+      <Items>
+        <Item><SKU>P16816</SKU><Description>Socket Set - 40 pieces</Description><Quantity>2</Quantity><Price>60.87</Price></Item><Item><SKU>P67266</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>5</Quantity><Price>44.25</Price></Item><Item><SKU>P50230</SKU><Description>Hacksaw - 12 inch</Description><Quantity>3</Quantity><Price>74.21</Price></Item>
+      </Items>
+    <TotalPrice>121.74</TotalPrice><TotalPrice>342.99</TotalPrice><TotalPrice>565.62</TotalPrice></Order>

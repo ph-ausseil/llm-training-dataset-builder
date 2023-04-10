@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-04" >
+      <Customer id="CUST21317"
+  firstname="Viki"
+  lastname="Lanita"
+  email="Viki.Lanita@example.com"
+  />        <Seller id="EMP82493"
+  firstname="Dyann"
+  lastname="Nunci"
+  email="Dyann.Nunci@examplecompany.com"
+  />      <Items><Item><SKU>P27812</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>10</Quantity><Price>88.49</Price></Item><Item><SKU>P98860</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>7</Quantity><Price>17.68</Price></Item><Item><SKU>P41056</SKU><Description>Stud Finder - Digital</Description><Quantity>4</Quantity><Price>62.61</Price></Item><Item><SKU>P89525</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>8</Quantity><Price>90.47</Price></Item>
+      </Items>
+    </Order>

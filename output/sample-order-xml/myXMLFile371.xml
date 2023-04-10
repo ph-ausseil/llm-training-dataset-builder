@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-02-09">
+  
+      
+  <Customer id="CUST55031" firstname="Elfreda" lastname="Joni" email="Elfreda.Joni@example.com"/>
+          
+  <Seller id="EMP18924" firstname="Elka" lastname="Wilkinson" email="Elka.Wilkinson@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>2</Quantity>
+      <Price>95.61200000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>1</Quantity>
+      <Price>41.602000000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>31.548000000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P24286</SKU>
+      <Description>Paint Brush Set - 5 pieces</Description>
+      <Quantity>10</Quantity>
+      <Price>30.250000000000004</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>693.07</TotalPrice>
+</Order>

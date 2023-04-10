@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-03-16" >
+      <Customer id="CUST52920"
+  firstname="Katleen"
+  lastname="Westphal"
+  email="Katleen.Westphal@example.com"
+  />        <Seller id="EMP51147"
+  firstname="Almeta"
+  lastname="Irmine"
+  email="Almeta.Irmine@examplecompany.com"
+  />      <Items><Item><SKU>P88793</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>8</Quantity><Price>16.67</Price></Item><Item><SKU>P41015</SKU><Description>Garden Hose - 50ft</Description><Quantity>7</Quantity><Price>88.67</Price></Item><Item><SKU>P60117</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>3</Quantity><Price>27.33</Price></Item><Item><SKU>P36070</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>6</Quantity><Price>84.85</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $922.91.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Regina Weitman.
+Question : What is the cost of item 'P17941'?
+Answer : The  cost of item 'P17941' was $275.33.
+Question : What is the name of item 'P17941'?
+Answer : The  name of item 'P17941' was 'Hand Saw - 12 inch'.
+Question : What is the SKU of item 'Hand Saw - 12 inch'?
+Answer : The  SKU of item 'Hand Saw - 12 inch' was 'P17941'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-02-14'.
+Question : What is the email address of the customer with ID 'CUST61996'?
+Answer : The  email address of the customer with ID 'CUST61996' was 'Daryl.Jacqui@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 40.
+Question : What is the total price of all 'Hand Saw - 12 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Hand Saw - 12 inch' items ordered in the sales order with ID 'ODR50574929' was $275.328.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $23.07.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $830.62.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tile Cutter - Manual' with a price of $43.836.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $922.91.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Regina Weitman.
+Question : What is the cost of item 'P64945'?
+Answer : The  cost of item 'P64945' was $141.12.
+Question : What is the name of item 'P64945'?
+Answer : The  name of item 'P64945' was 'Utility Knife - Retractable'.
+Question : What is the SKU of item 'Utility Knife - Retractable'?
+Answer : The  SKU of item 'Utility Knife - Retractable' was 'P64945'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-02-14'.
+Question : What is the email address of the customer with ID 'CUST61996'?
+Answer : The  email address of the customer with ID 'CUST61996' was 'Daryl.Jacqui@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 40.
+Question : What is the total price of all 'Utility Knife - Retractable' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Utility Knife - Retractable' items ordered in the sales order with ID 'ODR50574929' was $141.12.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $23.07.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $830.62.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tile Cutter - Manual' with a price of $43.836.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $922.91.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Regina Weitman.
+Question : What is the cost of item 'P77259'?
+Answer : The  cost of item 'P77259' was $111.94.
+Question : What is the name of item 'P77259'?
+Answer : The  name of item 'P77259' was 'Wire Stripper - 8 inch'.
+Question : What is the SKU of item 'Wire Stripper - 8 inch'?
+Answer : The  SKU of item 'Wire Stripper - 8 inch' was 'P77259'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-02-14'.
+Question : What is the email address of the customer with ID 'CUST61996'?
+Answer : The  email address of the customer with ID 'CUST61996' was 'Daryl.Jacqui@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 40.
+Question : What is the total price of all 'Wire Stripper - 8 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Wire Stripper - 8 inch' items ordered in the sales order with ID 'ODR50574929' was $111.936.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $23.07.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $830.62.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tile Cutter - Manual' with a price of $43.836.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $922.91.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Regina Weitman.
+Question : What is the cost of item 'P79695'?
+Answer : The  cost of item 'P79695' was $394.52.
+Question : What is the name of item 'P79695'?
+Answer : The  name of item 'P79695' was 'Tile Cutter - Manual'.
+Question : What is the SKU of item 'Tile Cutter - Manual'?
+Answer : The  SKU of item 'Tile Cutter - Manual' was 'P79695'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2023-02-14'.
+Question : What is the email address of the customer with ID 'CUST61996'?
+Answer : The  email address of the customer with ID 'CUST61996' was 'Daryl.Jacqui@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 40.
+Question : What is the total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929' was $394.524.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $23.07.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $830.62.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Tile Cutter - Manual' with a price of $43.836.

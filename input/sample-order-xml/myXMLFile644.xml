@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-25" >
+      <Customer id="CUST96106"
+  firstname="Silvana"
+  lastname="Cynar"
+  email="Silvana.Cynar@example.com"
+  />        <Seller id="EMP51332"
+  firstname="Delilah"
+  lastname="Alcott"
+  email="Delilah.Alcott@examplecompany.com"
+  />      <Items><Item><SKU>P58657</SKU><Description>Hammer - 16 oz</Description><Quantity>9</Quantity><Price>79.85</Price></Item><Item><SKU>P88222</SKU><Description>Tool Box - 19 inch</Description><Quantity>6</Quantity><Price>41.66</Price></Item><Item><SKU>P27551</SKU><Description>Jigsaw - Cordless</Description><Quantity>9</Quantity><Price>61.66</Price></Item><Item><SKU>P85840</SKU><Description>Stud Finder - Digital</Description><Quantity>7</Quantity><Price>12.88</Price></Item>
+      </Items>
+    </Order>

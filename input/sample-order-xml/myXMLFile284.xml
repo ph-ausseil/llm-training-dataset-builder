@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-12-26" >
+      <Customer id="CUST82721"
+  firstname="Correy"
+  lastname="Anyah"
+  email="Correy.Anyah@example.com"
+  />        <Seller id="EMP89635"
+  firstname="Desirae"
+  lastname="Edee"
+  email="Desirae.Edee@examplecompany.com"
+  />      <Items><Item><SKU>P13823</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>10</Quantity><Price>21.73</Price></Item><Item><SKU>P86080</SKU><Description>Hand Saw - 12 inch</Description><Quantity>2</Quantity><Price>34.36</Price></Item><Item><SKU>P71889</SKU><Description>Work Gloves - Leather</Description><Quantity>2</Quantity><Price>32.16</Price></Item><Item><SKU>P29448</SKU><Description>Socket Set - 40 pieces</Description><Quantity>8</Quantity><Price>21.4</Price></Item>
+      </Items>
+    </Order>

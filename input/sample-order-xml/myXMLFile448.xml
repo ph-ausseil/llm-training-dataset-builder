@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-31" >
+      <Customer id="CUST65801"
+  firstname="Feliza"
+  lastname="Redmond"
+  email="Feliza.Redmond@example.com"
+  />        <Seller id="EMP58379"
+  firstname="Katleen"
+  lastname="Wesle"
+  email="Katleen.Wesle@examplecompany.com"
+  />      <Items><Item><SKU>P46194</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>4</Quantity><Price>41.7</Price></Item><Item><SKU>P85445</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>7</Quantity><Price>54.63</Price></Item><Item><SKU>P17167</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>6</Quantity><Price>46.95</Price></Item><Item><SKU>P69347</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>10</Quantity><Price>62.47</Price></Item>
+      </Items>
+    </Order>

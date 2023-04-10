@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-13" >
+      <Customer id="CUST91005"
+  firstname="Emylee"
+  lastname="Adore"
+  email="Emylee.Adore@example.com"
+  />        <Seller id="EMP13833"
+  firstname="Annice"
+  lastname="Libna"
+  email="Annice.Libna@examplecompany.com"
+  />      <Items><Item><SKU>P25408</SKU><Description>Tape Measure - 25 ft</Description><Quantity>4</Quantity><Price>64.39</Price></Item><Item><SKU>P89129</SKU><Description>Utility Knife - Retractable</Description><Quantity>10</Quantity><Price>49.72</Price></Item><Item><SKU>P28339</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>4</Quantity><Price>21.27</Price></Item><Item><SKU>P97688</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>9</Quantity><Price>16.9</Price></Item>
+      </Items>
+    </Order>

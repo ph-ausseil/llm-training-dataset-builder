@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-25" >
+      <Customer id="CUST19112"
+  firstname="Merry"
+  lastname="Means"
+  email="Merry.Means@example.com"
+  />        <Seller id="EMP48482"
+  firstname="Candi"
+  lastname="Mich"
+  email="Candi.Mich@examplecompany.com"
+  />      <Items><Item><SKU>P36731</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>28.76</Price></Item><Item><SKU>P33225</SKU><Description>LED Light Bulb - 60W</Description><Quantity>5</Quantity><Price>38.94</Price></Item><Item><SKU>P59378</SKU><Description>Miter Saw - 10 inch</Description><Quantity>1</Quantity><Price>42.87</Price></Item><Item><SKU>P55530</SKU><Description>Hand Saw - 12 inch</Description><Quantity>1</Quantity><Price>17.86</Price></Item>
+      </Items>
+    </Order>

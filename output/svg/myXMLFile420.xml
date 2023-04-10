@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-06-22">
+  
+      
+  <Customer id="CUST69246" firstname="Amelia" lastname="Nester" email="Amelia.Nester@example.com"/>
+          
+  <Seller id="EMP64337" firstname="Marika" lastname="Breed" email="Marika.Breed@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P43386</SKU>
+      <Description>Pipe Wrench - 14 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>83.44600000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P85960</SKU>
+      <Description>LED Light Bulb - 60W</Description>
+      <Quantity>7</Quantity>
+      <Price>45.99100000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P72757</SKU>
+      <Description>Tape Measure - 25 ft</Description>
+      <Quantity>2</Quantity>
+      <Price>99.08800000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>64.13</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>815.27</TotalPrice>
+</Order>

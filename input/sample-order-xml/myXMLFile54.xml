@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-05-13" >
+      <Customer id="CUST34782"
+  firstname="Lita"
+  lastname="Iphlgenia"
+  email="Lita.Iphlgenia@example.com"
+  />        <Seller id="EMP76378"
+  firstname="Jenilee"
+  lastname="Trey"
+  email="Jenilee.Trey@examplecompany.com"
+  />      <Items><Item><SKU>P82191</SKU><Description>Workbench - Portable</Description><Quantity>6</Quantity><Price>18.87</Price></Item><Item><SKU>P77394</SKU><Description>Jigsaw - Cordless</Description><Quantity>5</Quantity><Price>13.83</Price></Item><Item><SKU>P46392</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>3</Quantity><Price>19.52</Price></Item><Item><SKU>P79397</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>7</Quantity><Price>60.81</Price></Item>
+      </Items>
+    </Order>

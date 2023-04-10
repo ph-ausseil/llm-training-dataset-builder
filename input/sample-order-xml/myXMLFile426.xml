@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-27" >
+      <Customer id="CUST77894"
+  firstname="Harrietta"
+  lastname="Schwejda"
+  email="Harrietta.Schwejda@example.com"
+  />        <Seller id="EMP42119"
+  firstname="Elvira"
+  lastname="Donell"
+  email="Elvira.Donell@examplecompany.com"
+  />      <Items><Item><SKU>P81865</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>10</Quantity><Price>42.49</Price></Item><Item><SKU>P51701</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>6</Quantity><Price>57.53</Price></Item><Item><SKU>P89038</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>23.4</Price></Item><Item><SKU>P59480</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>10</Quantity><Price>13.74</Price></Item>
+      </Items>
+    </Order>

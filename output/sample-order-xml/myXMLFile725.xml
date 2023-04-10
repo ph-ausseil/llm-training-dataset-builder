@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-09-25">
+  
+      
+  <Customer id="CUST78956" firstname="Anestassia" lastname="Tamsky" email="Anestassia.Tamsky@example.com"/>
+          
+  <Seller id="EMP91805" firstname="Jaime" lastname="Creamer" email="Jaime.Creamer@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P90361</SKU>
+      <Description>Power Drill - 18V</Description>
+      <Quantity>6</Quantity>
+      <Price>44.54</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>6</Quantity>
+      <Price>72.18</Price>
+    </Item>
+    <Item>
+      <SKU>P24286</SKU>
+      <Description>Paint Brush Set - 5 pieces</Description>
+      <Quantity>3</Quantity>
+      <Price>27.5</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>6</Quantity>
+      <Price>6.58</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>822.3</TotalPrice>
+</Order>

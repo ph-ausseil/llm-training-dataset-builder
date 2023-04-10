@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-19" >
+      <Customer id="CUST12475"
+  firstname="Feliza"
+  lastname="Sandye"
+  email="Feliza.Sandye@example.com"
+  />        <Seller id="EMP81845"
+  firstname="Jemie"
+  lastname="Craggie"
+  email="Jemie.Craggie@examplecompany.com"
+  />      <Items><Item><SKU>P11332</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>7</Quantity><Price>90.1</Price></Item><Item><SKU>P74567</SKU><Description>Safety Goggles - Clear</Description><Quantity>9</Quantity><Price>86.75</Price></Item><Item><SKU>P76263</SKU><Description>Power Drill - 18V</Description><Quantity>6</Quantity><Price>53.44</Price></Item><Item><SKU>P41004</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>2</Quantity><Price>48.2</Price></Item>
+      </Items>
+    </Order>

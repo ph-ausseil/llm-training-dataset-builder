@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-03-13" >
+      <Customer id="CUST65650"
+  firstname="Tabbatha"
+  lastname="Weinreb"
+  email="Tabbatha.Weinreb@example.com"
+  />        <Seller id="EMP20799"
+  firstname="Nannie"
+  lastname="Dom"
+  email="Nannie.Dom@examplecompany.com"
+  />      <Items><Item><SKU>P99572</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>7</Quantity><Price>55.25</Price></Item><Item><SKU>P66200</SKU><Description>Tape Measure - 25 ft</Description><Quantity>2</Quantity><Price>59.72</Price></Item><Item><SKU>P54731</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>6</Quantity><Price>21.27</Price></Item><Item><SKU>P96724</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>2</Quantity><Price>66.75</Price></Item>
+      </Items>
+    </Order>

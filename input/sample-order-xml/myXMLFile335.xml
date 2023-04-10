@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-23" >
+      <Customer id="CUST83432"
+  firstname="Alisha"
+  lastname="Dash"
+  email="Alisha.Dash@example.com"
+  />        <Seller id="EMP94005"
+  firstname="Almeta"
+  lastname="Mintz"
+  email="Almeta.Mintz@examplecompany.com"
+  />      <Items><Item><SKU>P66403</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>5</Quantity><Price>45.4</Price></Item><Item><SKU>P57942</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>8</Quantity><Price>58.68</Price></Item><Item><SKU>P58148</SKU><Description>Utility Knife - Retractable</Description><Quantity>7</Quantity><Price>88.81</Price></Item><Item><SKU>P33317</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>8</Quantity><Price>19.29</Price></Item>
+      </Items>
+    </Order>

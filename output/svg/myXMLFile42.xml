@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-05-15">
+  
+      
+  <Customer id="CUST87318" firstname="Gwenneth" lastname="Ellord" email="Gwenneth.Ellord@example.com"/>
+          
+  <Seller id="EMP24001" firstname="Donnie" lastname="Ashely" email="Donnie.Ashely@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P73288</SKU>
+      <Description>Stud Finder - Digital</Description>
+      <Quantity>6</Quantity>
+      <Price>25.3365</Price>
+    </Item>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>6</Quantity>
+      <Price>21.462000000000003</Price>
+    </Item>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>1</Quantity>
+      <Price>40.7715</Price>
+    </Item>
+    <Item>
+      <SKU>P24286</SKU>
+      <Description>Paint Brush Set - 5 pieces</Description>
+      <Quantity>2</Quantity>
+      <Price>28.875</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>379.31</TotalPrice>
+</Order>

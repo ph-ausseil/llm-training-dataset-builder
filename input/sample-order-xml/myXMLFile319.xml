@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-01-21" >
+      <Customer id="CUST43489"
+  firstname="Tonia"
+  lastname="Fairweather"
+  email="Tonia.Fairweather@example.com"
+  />        <Seller id="EMP67669"
+  firstname="Tina"
+  lastname="Aloise"
+  email="Tina.Aloise@examplecompany.com"
+  />      <Items><Item><SKU>P37794</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>10</Quantity><Price>58.08</Price></Item><Item><SKU>P86813</SKU><Description>Socket Set - 40 pieces</Description><Quantity>6</Quantity><Price>61.34</Price></Item><Item><SKU>P57019</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>10</Quantity><Price>44.26</Price></Item><Item><SKU>P76541</SKU><Description>Socket Set - 40 pieces</Description><Quantity>7</Quantity><Price>17.81</Price></Item>
+      </Items>
+    </Order>

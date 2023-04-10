@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-09-12" >
+      <Customer id="CUST26676"
+  firstname="Ronna"
+  lastname="Cavan"
+  email="Ronna.Cavan@example.com"
+  />        <Seller id="EMP10410"
+  firstname="Jean"
+  lastname="Brotherson"
+  email="Jean.Brotherson@examplecompany.com"
+  />      <Items><Item><SKU>P55198</SKU><Description>Jigsaw - Cordless</Description><Quantity>8</Quantity><Price>54.95</Price></Item><Item><SKU>P31901</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>6</Quantity><Price>53.22</Price></Item><Item><SKU>P36128</SKU><Description>Hammer - 16 oz</Description><Quantity>9</Quantity><Price>16.6</Price></Item><Item><SKU>P72891</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>9</Quantity><Price>79.67</Price></Item>
+      </Items>
+    </Order>

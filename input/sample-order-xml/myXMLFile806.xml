@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-05" >
+      <Customer id="CUST46955"
+  firstname="Melanie"
+  lastname="Llovera"
+  email="Melanie.Llovera@example.com"
+  />        <Seller id="EMP90886"
+  firstname="Johna"
+  lastname="Skurnik"
+  email="Johna.Skurnik@examplecompany.com"
+  />      <Items><Item><SKU>P99454</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>9</Quantity><Price>44.77</Price></Item><Item><SKU>P90800</SKU><Description>Power Drill - 18V</Description><Quantity>1</Quantity><Price>30.49</Price></Item><Item><SKU>P74014</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>4</Quantity><Price>67.09</Price></Item><Item><SKU>P77600</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>9</Quantity><Price>22.97</Price></Item>
+      </Items>
+    </Order>

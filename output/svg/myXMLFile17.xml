@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-08-07">
+  
+      
+  <Customer id="CUST94766" firstname="Gale" lastname="Deny" email="Gale.Deny@example.com"/>
+          
+  <Seller id="EMP44534" firstname="Arlina" lastname="Pettiford" email="Arlina.Pettiford@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P43386</SKU>
+      <Description>Pipe Wrench - 14 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>83.44600000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>7</Quantity>
+      <Price>5.764000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P79695</SKU>
+      <Description>Tile Cutter - Manual</Description>
+      <Quantity>9</Quantity>
+      <Price>40.18300000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>9</Quantity>
+      <Price>79.39800000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1617.25</TotalPrice>
+</Order>

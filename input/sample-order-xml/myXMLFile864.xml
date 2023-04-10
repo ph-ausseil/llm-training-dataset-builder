@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-19" >
+      <Customer id="CUST21467"
+  firstname="Eve"
+  lastname="Juliet"
+  email="Eve.Juliet@example.com"
+  />        <Seller id="EMP74584"
+  firstname="Gerrie"
+  lastname="Trinetta"
+  email="Gerrie.Trinetta@examplecompany.com"
+  />      <Items><Item><SKU>P49870</SKU><Description>Power Drill - 18V</Description><Quantity>8</Quantity><Price>17.74</Price></Item><Item><SKU>P25944</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>7</Quantity><Price>81.84</Price></Item><Item><SKU>P83078</SKU><Description>Level - 24 inch</Description><Quantity>3</Quantity><Price>9.79</Price></Item><Item><SKU>P56808</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>3</Quantity><Price>51.96</Price></Item>
+      </Items>
+    </Order>

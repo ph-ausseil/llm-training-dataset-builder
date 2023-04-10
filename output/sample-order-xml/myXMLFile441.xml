@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2023-02-27">
+  
+      
+  <Customer id="CUST38164" firstname="Renae" lastname="Sperling" email="Renae.Sperling@example.com"/>
+          
+  <Seller id="EMP17575" firstname="Noelle" lastname="Felecia" email="Noelle.Felecia@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>34.416</Price>
+    </Item>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>11</Quantity>
+      <Price>11.28</Price>
+    </Item>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>13</Quantity>
+      <Price>84.45599999999999</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>9</Quantity>
+      <Price>102.192</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>2313.82</TotalPrice>
+</Order>

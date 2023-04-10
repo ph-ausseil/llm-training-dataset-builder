@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-10-27">
+  
+      
+  <Customer id="CUST52558" firstname="Fayre" lastname="Pierette" email="Fayre.Pierette@example.com"/>
+          
+  <Seller id="EMP90845" firstname="Jinny" lastname="Junie" email="Jinny.Junie@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>9</Quantity>
+      <Price>93.676</Price>
+    </Item>
+    <Item>
+      <SKU>P19253</SKU>
+      <Description>Outdoor Lantern - Solar Powered</Description>
+      <Quantity>2</Quantity>
+      <Price>84.88700000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P77259</SKU>
+      <Description>Wire Stripper - 8 inch</Description>
+      <Quantity>1</Quantity>
+      <Price>9.328000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P90277</SKU>
+      <Description>Bolt Cutter - 24 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>52.95400000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1551.73</TotalPrice>
+</Order>

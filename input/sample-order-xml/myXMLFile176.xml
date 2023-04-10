@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-29" >
+      <Customer id="CUST92899"
+  firstname="Susette"
+  lastname="Gahl"
+  email="Susette.Gahl@example.com"
+  />        <Seller id="EMP79317"
+  firstname="Ketti"
+  lastname="Aaberg"
+  email="Ketti.Aaberg@examplecompany.com"
+  />      <Items><Item><SKU>P76707</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>63.33</Price></Item><Item><SKU>P97890</SKU><Description>Stud Finder - Digital</Description><Quantity>8</Quantity><Price>32.22</Price></Item><Item><SKU>P26505</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>4</Quantity><Price>45.54</Price></Item><Item><SKU>P24057</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>53.91</Price></Item>
+      </Items>
+    </Order>

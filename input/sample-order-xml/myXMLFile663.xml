@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-15" >
+      <Customer id="CUST14346"
+  firstname="Tomasina"
+  lastname="Vilma"
+  email="Tomasina.Vilma@example.com"
+  />        <Seller id="EMP52170"
+  firstname="Dianemarie"
+  lastname="Hazlett"
+  email="Dianemarie.Hazlett@examplecompany.com"
+  />      <Items><Item><SKU>P92616</SKU><Description>Hacksaw - 12 inch</Description><Quantity>5</Quantity><Price>55.48</Price></Item><Item><SKU>P44155</SKU><Description>Utility Knife - Retractable</Description><Quantity>5</Quantity><Price>86.62</Price></Item><Item><SKU>P16927</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>3</Quantity><Price>59.6</Price></Item><Item><SKU>P76271</SKU><Description>Hand Saw - 12 inch</Description><Quantity>1</Quantity><Price>80.33</Price></Item>
+      </Items>
+    </Order>

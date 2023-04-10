@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-08" >
+      <Customer id="CUST29660"
+  firstname="Madalyn"
+  lastname="Obed"
+  email="Madalyn.Obed@example.com"
+  />        <Seller id="EMP41302"
+  firstname="Georgina"
+  lastname="Harday"
+  email="Georgina.Harday@examplecompany.com"
+  />      <Items><Item><SKU>P97746</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>1</Quantity><Price>12.09</Price></Item><Item><SKU>P98990</SKU><Description>Stud Finder - Digital</Description><Quantity>4</Quantity><Price>7.8</Price></Item><Item><SKU>P52013</SKU><Description>Hammer - 16 oz</Description><Quantity>6</Quantity><Price>90.4</Price></Item><Item><SKU>P34801</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>1</Quantity><Price>10.54</Price></Item>
+      </Items>
+    </Order>

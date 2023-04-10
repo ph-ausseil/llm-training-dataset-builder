@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-03" >
+      <Customer id="CUST98695"
+  firstname="Bettine"
+  lastname="Naashom"
+  email="Bettine.Naashom@example.com"
+  />        <Seller id="EMP51980"
+  firstname="Chastity"
+  lastname="Ephrem"
+  email="Chastity.Ephrem@examplecompany.com"
+  />      <Items><Item><SKU>P60063</SKU><Description>Stud Finder - Digital</Description><Quantity>6</Quantity><Price>41.76</Price></Item><Item><SKU>P75734</SKU><Description>Tarp - 12x16 ft</Description><Quantity>3</Quantity><Price>24.73</Price></Item><Item><SKU>P54107</SKU><Description>Tape Measure - 25 ft</Description><Quantity>10</Quantity><Price>7.02</Price></Item><Item><SKU>P41048</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>1</Quantity><Price>34.1</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-12" >
+      <Customer id="CUST55729"
+  firstname="Carree"
+  lastname="Othilia"
+  email="Carree.Othilia@example.com"
+  />        <Seller id="EMP98197"
+  firstname="Clementine"
+  lastname="Brian"
+  email="Clementine.Brian@examplecompany.com"
+  />      <Items><Item><SKU>P20139</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>3</Quantity><Price>82.74</Price></Item><Item><SKU>P54747</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>61.02</Price></Item><Item><SKU>P20142</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>8</Quantity><Price>72.03</Price></Item><Item><SKU>P84514</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>2</Quantity><Price>5.96</Price></Item>
+      </Items>
+    </Order>

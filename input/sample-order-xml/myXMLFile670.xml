@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-03" >
+      <Customer id="CUST52945"
+  firstname="Talya"
+  lastname="Flyn"
+  email="Talya.Flyn@example.com"
+  />        <Seller id="EMP78213"
+  firstname="Jaclyn"
+  lastname="Dimitris"
+  email="Jaclyn.Dimitris@examplecompany.com"
+  />      <Items><Item><SKU>P50357</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>2</Quantity><Price>44.76</Price></Item><Item><SKU>P50513</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>4</Quantity><Price>56.1</Price></Item><Item><SKU>P83656</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>6</Quantity><Price>25.97</Price></Item><Item><SKU>P40174</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>84.98</Price></Item>
+      </Items>
+    </Order>

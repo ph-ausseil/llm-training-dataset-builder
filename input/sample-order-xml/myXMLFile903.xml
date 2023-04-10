@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-19" >
+      <Customer id="CUST70347"
+  firstname="Lilith"
+  lastname="Cloris"
+  email="Lilith.Cloris@example.com"
+  />        <Seller id="EMP32667"
+  firstname="Ann-Marie"
+  lastname="Nance"
+  email="Ann-Marie.Nance@examplecompany.com"
+  />      <Items><Item><SKU>P23039</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>9</Quantity><Price>45.75</Price></Item><Item><SKU>P84567</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>10</Quantity><Price>90.63</Price></Item><Item><SKU>P83479</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>6</Quantity><Price>79.83</Price></Item><Item><SKU>P39824</SKU><Description>Hacksaw - 12 inch</Description><Quantity>2</Quantity><Price>23.46</Price></Item>
+      </Items>
+    </Order>

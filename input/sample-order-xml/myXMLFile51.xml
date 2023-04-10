@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-28" >
+      <Customer id="CUST79716"
+  firstname="Adriana"
+  lastname="Newell"
+  email="Adriana.Newell@example.com"
+  />        <Seller id="EMP67905"
+  firstname="Lorenza"
+  lastname="Johnsson"
+  email="Lorenza.Johnsson@examplecompany.com"
+  />      <Items><Item><SKU>P70148</SKU><Description>Tile Cutter - Manual</Description><Quantity>7</Quantity><Price>7.96</Price></Item><Item><SKU>P10947</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>6</Quantity><Price>46.11</Price></Item><Item><SKU>P87626</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>1</Quantity><Price>20.87</Price></Item><Item><SKU>P75286</SKU><Description>Hacksaw - 12 inch</Description><Quantity>2</Quantity><Price>33.02</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-05" >
+      <Customer id="CUST18142"
+  firstname="Cherrita"
+  lastname="Anastatius"
+  email="Cherrita.Anastatius@example.com"
+  />        <Seller id="EMP22192"
+  firstname="Dacia"
+  lastname="Bebe"
+  email="Dacia.Bebe@examplecompany.com"
+  />      <Items><Item><SKU>P11619</SKU><Description>Hammer - 16 oz</Description><Quantity>2</Quantity><Price>43.63</Price></Item><Item><SKU>P31818</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>4</Quantity><Price>18.71</Price></Item><Item><SKU>P26856</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>8</Quantity><Price>90.92</Price></Item><Item><SKU>P38946</SKU><Description>Hand Saw - 12 inch</Description><Quantity>6</Quantity><Price>70.05</Price></Item>
+      </Items>
+    </Order>

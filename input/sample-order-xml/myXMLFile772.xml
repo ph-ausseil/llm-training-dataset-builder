@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-20" >
+      <Customer id="CUST39936"
+  firstname="Frances"
+  lastname="Roxanna"
+  email="Frances.Roxanna@example.com"
+  />        <Seller id="EMP83222"
+  firstname="Vita"
+  lastname="Eckblad"
+  email="Vita.Eckblad@examplecompany.com"
+  />      <Items><Item><SKU>P53473</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>8</Quantity><Price>45.06</Price></Item><Item><SKU>P99397</SKU><Description>Power Drill - 18V</Description><Quantity>3</Quantity><Price>46.84</Price></Item><Item><SKU>P91049</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>7</Quantity><Price>66.58</Price></Item><Item><SKU>P52943</SKU><Description>Power Drill - 18V</Description><Quantity>8</Quantity><Price>67</Price></Item>
+      </Items>
+    </Order>

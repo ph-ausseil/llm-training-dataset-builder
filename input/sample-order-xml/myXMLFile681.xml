@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-12" >
+      <Customer id="CUST97129"
+  firstname="Betta"
+  lastname="Ethban"
+  email="Betta.Ethban@example.com"
+  />        <Seller id="EMP55634"
+  firstname="Cyb"
+  lastname="Iiette"
+  email="Cyb.Iiette@examplecompany.com"
+  />      <Items><Item><SKU>P23971</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>7</Quantity><Price>33.74</Price></Item><Item><SKU>P61223</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>3</Quantity><Price>43.21</Price></Item><Item><SKU>P64212</SKU><Description>Safety Goggles - Clear</Description><Quantity>5</Quantity><Price>12.34</Price></Item><Item><SKU>P67190</SKU><Description>Jigsaw - Cordless</Description><Quantity>3</Quantity><Price>54.67</Price></Item>
+      </Items>
+    </Order>

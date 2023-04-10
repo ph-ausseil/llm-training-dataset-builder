@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-05" >
+      <Customer id="CUST77365"
+  firstname="Gloria"
+  lastname="Euridice"
+  email="Gloria.Euridice@example.com"
+  />        <Seller id="EMP12561"
+  firstname="Kamilah"
+  lastname="Kamaria"
+  email="Kamilah.Kamaria@examplecompany.com"
+  />      <Items><Item><SKU>P94355</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>5</Quantity><Price>89.25</Price></Item><Item><SKU>P47104</SKU><Description>LED Light Bulb - 60W</Description><Quantity>3</Quantity><Price>31.13</Price></Item><Item><SKU>P73517</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>2</Quantity><Price>34.99</Price></Item><Item><SKU>P70005</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>7</Quantity><Price>74.13</Price></Item>
+      </Items>
+    </Order>

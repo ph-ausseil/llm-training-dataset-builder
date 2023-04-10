@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-05" >
+      <Customer id="CUST46045"
+  firstname="Shirlee"
+  lastname="Ariella"
+  email="Shirlee.Ariella@example.com"
+  />        <Seller id="EMP11229"
+  firstname="Blondelle"
+  lastname="Leopold"
+  email="Blondelle.Leopold@examplecompany.com"
+  />      <Items><Item><SKU>P18761</SKU><Description>Miter Saw - 10 inch</Description><Quantity>1</Quantity><Price>63.5</Price></Item><Item><SKU>P68345</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>9</Quantity><Price>68.52</Price></Item><Item><SKU>P44628</SKU><Description>Power Drill - 18V</Description><Quantity>10</Quantity><Price>62.93</Price></Item><Item><SKU>P80009</SKU><Description>Utility Knife - Retractable</Description><Quantity>8</Quantity><Price>77.89</Price></Item>
+      </Items>
+    </Order>

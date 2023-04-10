@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-06" >
+      <Customer id="CUST14930"
+  firstname="Cristine"
+  lastname="Avi"
+  email="Cristine.Avi@example.com"
+  />        <Seller id="EMP91790"
+  firstname="Nessie"
+  lastname="Duwalt"
+  email="Nessie.Duwalt@examplecompany.com"
+  />      <Items><Item><SKU>P74569</SKU><Description>Safety Goggles - Clear</Description><Quantity>5</Quantity><Price>43.2</Price></Item><Item><SKU>P12866</SKU><Description>Safety Goggles - Clear</Description><Quantity>5</Quantity><Price>69.93</Price></Item><Item><SKU>P30541</SKU><Description>Socket Set - 40 pieces</Description><Quantity>4</Quantity><Price>39.68</Price></Item><Item><SKU>P83387</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>6</Quantity><Price>42.43</Price></Item>
+      </Items>
+    </Order>

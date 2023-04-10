@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-09" >
+      <Customer id="CUST96860"
+  firstname="Sallie"
+  lastname="Anton"
+  email="Sallie.Anton@example.com"
+  />        <Seller id="EMP59637"
+  firstname="Darlleen"
+  lastname="Jalbert"
+  email="Darlleen.Jalbert@examplecompany.com"
+  />      <Items><Item><SKU>P40851</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>2</Quantity><Price>52.85</Price></Item><Item><SKU>P52605</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>4</Quantity><Price>90.93</Price></Item><Item><SKU>P15161</SKU><Description>Hacksaw - 12 inch</Description><Quantity>1</Quantity><Price>43.97</Price></Item><Item><SKU>P53598</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>5</Quantity><Price>45.05</Price></Item>
+      </Items>
+    </Order>

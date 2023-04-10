@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-07" >
+      <Customer id="CUST36771"
+  firstname="Annaliese"
+  lastname="Cristi"
+  email="Annaliese.Cristi@example.com"
+  />        <Seller id="EMP11583"
+  firstname="Damaris"
+  lastname="Lunsford"
+  email="Damaris.Lunsford@examplecompany.com"
+  />      <Items><Item><SKU>P97352</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>7</Quantity><Price>90.81</Price></Item><Item><SKU>P57995</SKU><Description>Power Drill - 18V</Description><Quantity>6</Quantity><Price>86.31</Price></Item><Item><SKU>P49077</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>1</Quantity><Price>37.08</Price></Item><Item><SKU>P76153</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>8</Quantity><Price>82.98</Price></Item>
+      </Items>
+    </Order>

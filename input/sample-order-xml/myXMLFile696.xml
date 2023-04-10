@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-19" >
+      <Customer id="CUST44811"
+  firstname="Charissa"
+  lastname="Junie"
+  email="Charissa.Junie@example.com"
+  />        <Seller id="EMP33705"
+  firstname="Jan"
+  lastname="Moina"
+  email="Jan.Moina@examplecompany.com"
+  />      <Items><Item><SKU>P49927</SKU><Description>Tile Cutter - Manual</Description><Quantity>4</Quantity><Price>40.53</Price></Item><Item><SKU>P22926</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>8</Quantity><Price>47.73</Price></Item><Item><SKU>P60950</SKU><Description>Work Gloves - Leather</Description><Quantity>8</Quantity><Price>76.56</Price></Item><Item><SKU>P62159</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>5</Quantity><Price>30.22</Price></Item>
+      </Items>
+    </Order>

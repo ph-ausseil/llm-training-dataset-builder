@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-12-31" >
+      <Customer id="CUST55660"
+  firstname="Raf"
+  lastname="Tayib"
+  email="Raf.Tayib@example.com"
+  />        <Seller id="EMP61191"
+  firstname="Amara"
+  lastname="Fulmer"
+  email="Amara.Fulmer@examplecompany.com"
+  />      <Items><Item><SKU>P69774</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>8</Quantity><Price>59.53</Price></Item><Item><SKU>P78081</SKU><Description>Tarp - 12x16 ft</Description><Quantity>10</Quantity><Price>48.48</Price></Item><Item><SKU>P18604</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>9</Quantity><Price>38.55</Price></Item><Item><SKU>P26432</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>9</Quantity><Price>15.98</Price></Item>
+      </Items>
+    </Order>

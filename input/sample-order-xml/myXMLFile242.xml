@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-12" >
+      <Customer id="CUST40750"
+  firstname="Chloris"
+  lastname="Oneida"
+  email="Chloris.Oneida@example.com"
+  />        <Seller id="EMP93476"
+  firstname="Cordi"
+  lastname="Georgy"
+  email="Cordi.Georgy@examplecompany.com"
+  />      <Items><Item><SKU>P24373</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>6</Quantity><Price>19.88</Price></Item><Item><SKU>P51158</SKU><Description>Hand Saw - 12 inch</Description><Quantity>10</Quantity><Price>42.41</Price></Item><Item><SKU>P41511</SKU><Description>Safety Goggles - Clear</Description><Quantity>3</Quantity><Price>30.97</Price></Item><Item><SKU>P43288</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>4</Quantity><Price>17.6</Price></Item>
+      </Items>
+    </Order>

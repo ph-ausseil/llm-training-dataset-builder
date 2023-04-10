@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-10" >
+      <Customer id="CUST56536"
+  firstname="Andree"
+  lastname="Aldric"
+  email="Andree.Aldric@example.com"
+  />        <Seller id="EMP55178"
+  firstname="Ezmeralda"
+  lastname="Henrie"
+  email="Ezmeralda.Henrie@examplecompany.com"
+  />      <Items><Item><SKU>P27997</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>77.97</Price></Item><Item><SKU>P50058</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>8</Quantity><Price>59.36</Price></Item><Item><SKU>P85790</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>10</Quantity><Price>69.74</Price></Item><Item><SKU>P22248</SKU><Description>Utility Knife - Retractable</Description><Quantity>3</Quantity><Price>65.84</Price></Item>
+      </Items>
+    </Order>

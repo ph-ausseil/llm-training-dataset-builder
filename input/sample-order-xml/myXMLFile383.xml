@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-27" >
+      <Customer id="CUST94159"
+  firstname="Vevay"
+  lastname="Morrill"
+  email="Vevay.Morrill@example.com"
+  />        <Seller id="EMP54828"
+  firstname="Desirae"
+  lastname="Cleavland"
+  email="Desirae.Cleavland@examplecompany.com"
+  />      <Items><Item><SKU>P94012</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>5</Quantity><Price>84.25</Price></Item><Item><SKU>P67183</SKU><Description>Safety Goggles - Clear</Description><Quantity>10</Quantity><Price>18.86</Price></Item><Item><SKU>P71202</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>15.72</Price></Item><Item><SKU>P56180</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>7</Quantity><Price>79.98</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-29" >
+      <Customer id="CUST91928"
+  firstname="Violet"
+  lastname="Jalbert"
+  email="Violet.Jalbert@example.com"
+  />        <Seller id="EMP85799"
+  firstname="Annice"
+  lastname="Chrystel"
+  email="Annice.Chrystel@examplecompany.com"
+  />      <Items><Item><SKU>P99680</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>1</Quantity><Price>83.75</Price></Item><Item><SKU>P71509</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>8</Quantity><Price>32.09</Price></Item><Item><SKU>P37332</SKU><Description>Work Gloves - Leather</Description><Quantity>8</Quantity><Price>79.3</Price></Item><Item><SKU>P28909</SKU><Description>Jigsaw - Cordless</Description><Quantity>10</Quantity><Price>54.64</Price></Item>
+      </Items>
+    </Order>

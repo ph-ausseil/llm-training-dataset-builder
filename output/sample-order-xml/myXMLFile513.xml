@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-11-18">
+  
+      
+  <Customer id="CUST69522" firstname="Alexine" lastname="Corilla" email="Alexine.Corilla@example.com"/>
+          
+  <Seller id="EMP92599" firstname="Gaylene" lastname="Eugenia" email="Gaylene.Eugenia@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>1</Quantity>
+      <Price>38.83</Price>
+    </Item>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>3</Quantity>
+      <Price>70.38</Price>
+    </Item>
+    <Item>
+      <SKU>P72757</SKU>
+      <Description>Tape Measure - 25 ft</Description>
+      <Quantity>1</Quantity>
+      <Price>90.08</Price>
+    </Item>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>7</Quantity>
+      <Price>37.82</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>604.79</TotalPrice>
+</Order>

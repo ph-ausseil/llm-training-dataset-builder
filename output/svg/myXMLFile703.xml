@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2023-02-07">
+  
+      
+  <Customer id="CUST77459" firstname="Lonnie" lastname="Bord" email="Lonnie.Bord@example.com"/>
+          
+  <Seller id="EMP79979" firstname="Dacia" lastname="Gregrory" email="Dacia.Gregrory@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>44.988</Price>
+    </Item>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>7</Quantity>
+      <Price>104.304</Price>
+    </Item>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>7</Quantity>
+      <Price>68.7</Price>
+    </Item>
+    <Item>
+      <SKU>P41806</SKU>
+      <Description>Electric Screwdriver - 3.6V</Description>
+      <Quantity>13</Quantity>
+      <Price>53.568</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>2267.32</TotalPrice>
+</Order>

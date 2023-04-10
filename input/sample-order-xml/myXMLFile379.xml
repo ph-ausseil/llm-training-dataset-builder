@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-26" >
+      <Customer id="CUST95074"
+  firstname="Fernande"
+  lastname="Lattie"
+  email="Fernande.Lattie@example.com"
+  />        <Seller id="EMP90553"
+  firstname="Bettine"
+  lastname="Sharl"
+  email="Bettine.Sharl@examplecompany.com"
+  />      <Items><Item><SKU>P84110</SKU><Description>Safety Goggles - Clear</Description><Quantity>5</Quantity><Price>8.19</Price></Item><Item><SKU>P92958</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>73.58</Price></Item><Item><SKU>P43223</SKU><Description>Hand Saw - 12 inch</Description><Quantity>10</Quantity><Price>17.3</Price></Item><Item><SKU>P41599</SKU><Description>Power Drill - 18V</Description><Quantity>7</Quantity><Price>21.81</Price></Item>
+      </Items>
+    </Order>

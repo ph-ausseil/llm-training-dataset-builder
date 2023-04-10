@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-14" >
+      <Customer id="CUST11456"
+  firstname="Dode"
+  lastname="Roumell"
+  email="Dode.Roumell@example.com"
+  />        <Seller id="EMP23468"
+  firstname="Pearline"
+  lastname="Kesley"
+  email="Pearline.Kesley@examplecompany.com"
+  />      <Items><Item><SKU>P64328</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>10</Quantity><Price>79.48</Price></Item><Item><SKU>P77860</SKU><Description>LED Light Bulb - 60W</Description><Quantity>7</Quantity><Price>65.63</Price></Item><Item><SKU>P60984</SKU><Description>Miter Saw - 10 inch</Description><Quantity>4</Quantity><Price>8.09</Price></Item><Item><SKU>P45232</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>9</Quantity><Price>70.12</Price></Item>
+      </Items>
+    </Order>

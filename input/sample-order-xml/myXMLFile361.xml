@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-18" >
+      <Customer id="CUST28469"
+  firstname="Mignon"
+  lastname="Dudley"
+  email="Mignon.Dudley@example.com"
+  />        <Seller id="EMP81865"
+  firstname="Dyann"
+  lastname="Natalia"
+  email="Dyann.Natalia@examplecompany.com"
+  />      <Items><Item><SKU>P17642</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>8</Quantity><Price>36.76</Price></Item><Item><SKU>P67343</SKU><Description>Socket Set - 40 pieces</Description><Quantity>10</Quantity><Price>16.72</Price></Item><Item><SKU>P48386</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>10</Quantity><Price>38.95</Price></Item><Item><SKU>P97722</SKU><Description>Jigsaw - Cordless</Description><Quantity>6</Quantity><Price>60.46</Price></Item>
+      </Items>
+    </Order>

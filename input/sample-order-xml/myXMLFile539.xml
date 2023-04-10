@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-02-07" >
+      <Customer id="CUST83133"
+  firstname="Norine"
+  lastname="Gibbeon"
+  email="Norine.Gibbeon@example.com"
+  />        <Seller id="EMP90178"
+  firstname="Keelia"
+  lastname="McLaughlin"
+  email="Keelia.McLaughlin@examplecompany.com"
+  />      <Items><Item><SKU>P79289</SKU><Description>Tape Measure - 25 ft</Description><Quantity>5</Quantity><Price>90.8</Price></Item><Item><SKU>P28550</SKU><Description>Tape Measure - 25 ft</Description><Quantity>10</Quantity><Price>44.05</Price></Item><Item><SKU>P36478</SKU><Description>Hammer - 16 oz</Description><Quantity>4</Quantity><Price>23.31</Price></Item><Item><SKU>P89344</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>1</Quantity><Price>57.72</Price></Item>
+      </Items>
+    </Order>

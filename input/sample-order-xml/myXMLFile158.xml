@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-06-15" >
+      <Customer id="CUST66563"
+  firstname="Tybie"
+  lastname="Destinee"
+  email="Tybie.Destinee@example.com"
+  />        <Seller id="EMP47791"
+  firstname="Malina"
+  lastname="Belldas"
+  email="Malina.Belldas@examplecompany.com"
+  />      <Items><Item><SKU>P81055</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>6</Quantity><Price>20.88</Price></Item><Item><SKU>P31840</SKU><Description>Tape Measure - 25 ft</Description><Quantity>9</Quantity><Price>6.48</Price></Item><Item><SKU>P57895</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>3</Quantity><Price>87.2</Price></Item><Item><SKU>P87619</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>9</Quantity><Price>62.31</Price></Item>
+      </Items>
+    </Order>

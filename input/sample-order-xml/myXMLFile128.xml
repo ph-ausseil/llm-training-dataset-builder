@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-02-13" >
+      <Customer id="CUST80317"
+  firstname="Cam"
+  lastname="Camden"
+  email="Cam.Camden@example.com"
+  />        <Seller id="EMP31364"
+  firstname="Bettine"
+  lastname="Lorenz"
+  email="Bettine.Lorenz@examplecompany.com"
+  />      <Items><Item><SKU>P53575</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>8</Quantity><Price>90</Price></Item><Item><SKU>P42107</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>8</Quantity><Price>71.13</Price></Item><Item><SKU>P76543</SKU><Description>Garden Hose - 50ft</Description><Quantity>3</Quantity><Price>35.21</Price></Item><Item><SKU>P32406</SKU><Description>Tape Measure - 25 ft</Description><Quantity>6</Quantity><Price>12.72</Price></Item>
+      </Items>
+    </Order>

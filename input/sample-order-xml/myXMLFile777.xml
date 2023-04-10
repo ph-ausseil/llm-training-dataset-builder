@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-12-07" >
+      <Customer id="CUST19169"
+  firstname="Maurene"
+  lastname="Michella"
+  email="Maurene.Michella@example.com"
+  />        <Seller id="EMP99156"
+  firstname="Aili"
+  lastname="Maples"
+  email="Aili.Maples@examplecompany.com"
+  />      <Items><Item><SKU>P81630</SKU><Description>Work Gloves - Leather</Description><Quantity>1</Quantity><Price>47.63</Price></Item><Item><SKU>P70313</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>6</Quantity><Price>27.25</Price></Item><Item><SKU>P30774</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>5</Quantity><Price>16.2</Price></Item><Item><SKU>P26613</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>3</Quantity><Price>26.22</Price></Item>
+      </Items>
+    </Order>

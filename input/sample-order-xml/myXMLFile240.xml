@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-16" >
+      <Customer id="CUST82023"
+  firstname="Justinn"
+  lastname="Uund"
+  email="Justinn.Uund@example.com"
+  />        <Seller id="EMP95531"
+  firstname="Emma"
+  lastname="Hilbert"
+  email="Emma.Hilbert@examplecompany.com"
+  />      <Items><Item><SKU>P41689</SKU><Description>Jigsaw - Cordless</Description><Quantity>2</Quantity><Price>48.99</Price></Item><Item><SKU>P54374</SKU><Description>Utility Knife - Retractable</Description><Quantity>6</Quantity><Price>53.77</Price></Item><Item><SKU>P15664</SKU><Description>Socket Set - 40 pieces</Description><Quantity>7</Quantity><Price>25.5</Price></Item><Item><SKU>P96854</SKU><Description>LED Light Bulb - 60W</Description><Quantity>5</Quantity><Price>87.39</Price></Item>
+      </Items>
+    </Order>

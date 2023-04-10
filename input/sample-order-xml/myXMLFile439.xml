@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-02" >
+      <Customer id="CUST31290"
+  firstname="Babita"
+  lastname="Desai"
+  email="Babita.Desai@example.com"
+  />        <Seller id="EMP44943"
+  firstname="Letizia"
+  lastname="Bendick"
+  email="Letizia.Bendick@examplecompany.com"
+  />      <Items><Item><SKU>P92510</SKU><Description>Work Gloves - Leather</Description><Quantity>6</Quantity><Price>89.02</Price></Item><Item><SKU>P90678</SKU><Description>Tool Box - 19 inch</Description><Quantity>9</Quantity><Price>26.21</Price></Item><Item><SKU>P32679</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>10</Quantity><Price>6.99</Price></Item><Item><SKU>P27240</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>4</Quantity><Price>21.22</Price></Item>
+      </Items>
+    </Order>

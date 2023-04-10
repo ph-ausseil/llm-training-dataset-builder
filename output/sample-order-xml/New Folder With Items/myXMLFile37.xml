@@ -1,0 +1,8 @@
+<Order id="ODR20679155" date="2022-10-08">
+      
+      <Customer id="CUST92439" firstname="Magdalena" lastname="Claudine" email="Magdalena.Claudine@example.com" />
+        <Seller id="EMP85718" firstname="Kassey" lastname="Wadell" email="Kassey.Wadell@company.com" />
+      <Items>
+        <Item><SKU>P99633</SKU><Description>Hacksaw - 12 inch</Description><Quantity>2</Quantity><Price>24.53</Price></Item><Item><SKU>P63794</SKU><Description>Hand Saw - 12 inch</Description><Quantity>1</Quantity><Price>13.69</Price></Item><Item><SKU>P60974</SKU><Description>Level - 24 inch</Description><Quantity>1</Quantity><Price>70.12</Price></Item>
+      </Items>
+    <TotalPrice>49.06</TotalPrice><TotalPrice>62.75</TotalPrice><TotalPrice>132.87</TotalPrice></Order>

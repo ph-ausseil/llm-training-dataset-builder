@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-29" >
+      <Customer id="CUST45494"
+  firstname="Desirae"
+  lastname="Ophelia"
+  email="Desirae.Ophelia@example.com"
+  />        <Seller id="EMP92775"
+  firstname="Frank"
+  lastname="Ivens"
+  email="Frank.Ivens@examplecompany.com"
+  />      <Items><Item><SKU>P22041</SKU><Description>Tape Measure - 25 ft</Description><Quantity>8</Quantity><Price>49.86</Price></Item><Item><SKU>P36116</SKU><Description>Stud Finder - Digital</Description><Quantity>7</Quantity><Price>43.6</Price></Item><Item><SKU>P27124</SKU><Description>Workbench - Portable</Description><Quantity>1</Quantity><Price>10.42</Price></Item><Item><SKU>P80384</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>8</Quantity><Price>68.68</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-09-10" >
+      <Customer id="CUST71681"
+  firstname="Vivia"
+  lastname="Dorothy"
+  email="Vivia.Dorothy@example.com"
+  />        <Seller id="EMP92659"
+  firstname="Anthia"
+  lastname="Curren"
+  email="Anthia.Curren@examplecompany.com"
+  />      <Items><Item><SKU>P62602</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>7</Quantity><Price>88.24</Price></Item><Item><SKU>P42307</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>5</Quantity><Price>81.04</Price></Item><Item><SKU>P68918</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>45.79</Price></Item><Item><SKU>P55816</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>3</Quantity><Price>16.74</Price></Item>
+      </Items>
+    </Order>

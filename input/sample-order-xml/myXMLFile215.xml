@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-22" >
+      <Customer id="CUST60270"
+  firstname="Sam"
+  lastname="Evvie"
+  email="Sam.Evvie@example.com"
+  />        <Seller id="EMP58777"
+  firstname="Christy"
+  lastname="Alfons"
+  email="Christy.Alfons@examplecompany.com"
+  />      <Items><Item><SKU>P36510</SKU><Description>Tile Cutter - Manual</Description><Quantity>8</Quantity><Price>48.44</Price></Item><Item><SKU>P40419</SKU><Description>Miter Saw - 10 inch</Description><Quantity>8</Quantity><Price>52.61</Price></Item><Item><SKU>P14303</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>8</Quantity><Price>45.53</Price></Item><Item><SKU>P13261</SKU><Description>Level - 24 inch</Description><Quantity>7</Quantity><Price>12.25</Price></Item>
+      </Items>
+    </Order>

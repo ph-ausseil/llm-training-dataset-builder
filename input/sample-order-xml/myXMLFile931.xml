@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-19" >
+      <Customer id="CUST56001"
+  firstname="Wynne"
+  lastname="Israeli"
+  email="Wynne.Israeli@example.com"
+  />        <Seller id="EMP88116"
+  firstname="Clo"
+  lastname="Wolfgram"
+  email="Clo.Wolfgram@examplecompany.com"
+  />      <Items><Item><SKU>P95690</SKU><Description>Nail Gun - Electric</Description><Quantity>7</Quantity><Price>85.5</Price></Item><Item><SKU>P22488</SKU><Description>Tile Cutter - Manual</Description><Quantity>4</Quantity><Price>43.62</Price></Item><Item><SKU>P36081</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>32.08</Price></Item><Item><SKU>P40692</SKU><Description>Power Drill - 18V</Description><Quantity>7</Quantity><Price>90.88</Price></Item>
+      </Items>
+    </Order>

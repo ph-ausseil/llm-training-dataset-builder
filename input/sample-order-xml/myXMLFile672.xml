@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-11" >
+      <Customer id="CUST54233"
+  firstname="Hyacinthe"
+  lastname="Diann"
+  email="Hyacinthe.Diann@example.com"
+  />        <Seller id="EMP86880"
+  firstname="Jacenta"
+  lastname="Bearnard"
+  email="Jacenta.Bearnard@examplecompany.com"
+  />      <Items><Item><SKU>P23943</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>4</Quantity><Price>80.9</Price></Item><Item><SKU>P48198</SKU><Description>LED Light Bulb - 60W</Description><Quantity>7</Quantity><Price>44.36</Price></Item><Item><SKU>P65769</SKU><Description>Utility Knife - Retractable</Description><Quantity>4</Quantity><Price>28.82</Price></Item><Item><SKU>P76800</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>9</Quantity><Price>89.07</Price></Item>
+      </Items>
+    </Order>

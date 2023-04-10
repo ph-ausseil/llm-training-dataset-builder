@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-23" >
+      <Customer id="CUST41080"
+  firstname="Corene"
+  lastname="Raama"
+  email="Corene.Raama@example.com"
+  />        <Seller id="EMP76278"
+  firstname="Sam"
+  lastname="Prober"
+  email="Sam.Prober@examplecompany.com"
+  />      <Items><Item><SKU>P95533</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>8</Quantity><Price>41.91</Price></Item><Item><SKU>P25595</SKU><Description>Miter Saw - 10 inch</Description><Quantity>5</Quantity><Price>30.92</Price></Item><Item><SKU>P74588</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>10</Quantity><Price>46.87</Price></Item><Item><SKU>P28925</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>74.48</Price></Item>
+      </Items>
+    </Order>

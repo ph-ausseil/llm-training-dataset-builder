@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-09-08">
+  
+      
+  <Customer id="CUST87439" firstname="Marita" lastname="Matthew" email="Marita.Matthew@example.com"/>
+          
+  <Seller id="EMP37331" firstname="Roxane" lastname="Israeli" email="Roxane.Israeli@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>9</Quantity>
+      <Price>40.7715</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>6</Quantity>
+      <Price>65.373</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>39.36450000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P19253</SKU>
+      <Description>Outdoor Lantern - Solar Powered</Description>
+      <Quantity>7</Quantity>
+      <Price>81.02850000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1641.3</TotalPrice>
+</Order>

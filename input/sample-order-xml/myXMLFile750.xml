@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-02-28" >
+      <Customer id="CUST95158"
+  firstname="Nariko"
+  lastname="Daegal"
+  email="Nariko.Daegal@example.com"
+  />        <Seller id="EMP15740"
+  firstname="Mamie"
+  lastname="Tayib"
+  email="Mamie.Tayib@examplecompany.com"
+  />      <Items><Item><SKU>P20387</SKU><Description>Tool Box - 19 inch</Description><Quantity>10</Quantity><Price>59.3</Price></Item><Item><SKU>P47201</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>1</Quantity><Price>62.84</Price></Item><Item><SKU>P85939</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>9</Quantity><Price>74.35</Price></Item><Item><SKU>P49681</SKU><Description>Tarp - 12x16 ft</Description><Quantity>9</Quantity><Price>22.11</Price></Item>
+      </Items>
+    </Order>

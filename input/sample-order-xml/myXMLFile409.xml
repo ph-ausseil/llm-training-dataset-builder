@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-27" >
+      <Customer id="CUST36801"
+  firstname="Frieda"
+  lastname="Faria"
+  email="Frieda.Faria@example.com"
+  />        <Seller id="EMP87081"
+  firstname="Estell"
+  lastname="O'Rourke"
+  email="Estell.O'Rourke@examplecompany.com"
+  />      <Items><Item><SKU>P10208</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>7</Quantity><Price>69.61</Price></Item><Item><SKU>P69275</SKU><Description>Workbench - Portable</Description><Quantity>8</Quantity><Price>38.94</Price></Item><Item><SKU>P52096</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>10</Quantity><Price>54.84</Price></Item><Item><SKU>P62225</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>7</Quantity><Price>82.5</Price></Item>
+      </Items>
+    </Order>

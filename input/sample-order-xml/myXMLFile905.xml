@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-05-10" >
+      <Customer id="CUST57199"
+  firstname="Robinia"
+  lastname="Chick"
+  email="Robinia.Chick@example.com"
+  />        <Seller id="EMP15263"
+  firstname="Carol-Jean"
+  lastname="Ioab"
+  email="Carol-Jean.Ioab@examplecompany.com"
+  />      <Items><Item><SKU>P65378</SKU><Description>Garden Hose - 50ft</Description><Quantity>4</Quantity><Price>60.21</Price></Item><Item><SKU>P22113</SKU><Description>Utility Knife - Retractable</Description><Quantity>7</Quantity><Price>36.97</Price></Item><Item><SKU>P86286</SKU><Description>Level - 24 inch</Description><Quantity>1</Quantity><Price>27.82</Price></Item><Item><SKU>P73975</SKU><Description>Garden Hose - 50ft</Description><Quantity>9</Quantity><Price>67.8</Price></Item>
+      </Items>
+    </Order>

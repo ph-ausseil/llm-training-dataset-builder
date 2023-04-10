@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-03-10" >
+      <Customer id="CUST90536"
+  firstname="Gabi"
+  lastname="Zenas"
+  email="Gabi.Zenas@example.com"
+  />        <Seller id="EMP29004"
+  firstname="Maridel"
+  lastname="Lilas"
+  email="Maridel.Lilas@examplecompany.com"
+  />      <Items><Item><SKU>P81473</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>10</Quantity><Price>79.53</Price></Item><Item><SKU>P40362</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>6</Quantity><Price>66.14</Price></Item><Item><SKU>P81337</SKU><Description>Garden Hose - 50ft</Description><Quantity>2</Quantity><Price>8.43</Price></Item><Item><SKU>P92857</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>82.31</Price></Item>
+      </Items>
+    </Order>

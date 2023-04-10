@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-29" >
+      <Customer id="CUST98149"
+  firstname="Vere"
+  lastname="Gibbeon"
+  email="Vere.Gibbeon@example.com"
+  />        <Seller id="EMP47627"
+  firstname="Gavrielle"
+  lastname="Armanda"
+  email="Gavrielle.Armanda@examplecompany.com"
+  />      <Items><Item><SKU>P19389</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>3</Quantity><Price>77.58</Price></Item><Item><SKU>P65259</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>5</Quantity><Price>11.99</Price></Item><Item><SKU>P30680</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>49.86</Price></Item><Item><SKU>P29376</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>2</Quantity><Price>87.12</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-09-08" >
+      <Customer id="CUST72661"
+  firstname="Christy"
+  lastname="Bendick"
+  email="Christy.Bendick@example.com"
+  />        <Seller id="EMP11927"
+  firstname="Cecile"
+  lastname="Ferino"
+  email="Cecile.Ferino@examplecompany.com"
+  />      <Items><Item><SKU>P80420</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>8</Quantity><Price>70.54</Price></Item><Item><SKU>P28449</SKU><Description>Hammer - 16 oz</Description><Quantity>1</Quantity><Price>58.06</Price></Item><Item><SKU>P13977</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>1</Quantity><Price>66.01</Price></Item><Item><SKU>P13400</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>80.66</Price></Item>
+      </Items>
+    </Order>

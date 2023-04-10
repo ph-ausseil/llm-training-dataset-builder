@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-29" >
+      <Customer id="CUST87742"
+  firstname="Celisse"
+  lastname="Serilda"
+  email="Celisse.Serilda@example.com"
+  />        <Seller id="EMP27613"
+  firstname="Brianna"
+  lastname="Baylor"
+  email="Brianna.Baylor@examplecompany.com"
+  />      <Items><Item><SKU>P13160</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>3</Quantity><Price>21.84</Price></Item><Item><SKU>P28671</SKU><Description>Miter Saw - 10 inch</Description><Quantity>4</Quantity><Price>60.21</Price></Item><Item><SKU>P25178</SKU><Description>Tarp - 12x16 ft</Description><Quantity>4</Quantity><Price>75.9</Price></Item><Item><SKU>P93163</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>5</Quantity><Price>57.11</Price></Item>
+      </Items>
+    </Order>

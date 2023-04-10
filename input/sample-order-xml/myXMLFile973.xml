@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-22" >
+      <Customer id="CUST75757"
+  firstname="Melanie"
+  lastname="Pozzy"
+  email="Melanie.Pozzy@example.com"
+  />        <Seller id="EMP14733"
+  firstname="Tabbatha"
+  lastname="Joli"
+  email="Tabbatha.Joli@examplecompany.com"
+  />      <Items><Item><SKU>P28799</SKU><Description>Hand Saw - 12 inch</Description><Quantity>7</Quantity><Price>39.38</Price></Item><Item><SKU>P10113</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>5</Quantity><Price>72.44</Price></Item><Item><SKU>P73619</SKU><Description>Tool Box - 19 inch</Description><Quantity>3</Quantity><Price>16.21</Price></Item><Item><SKU>P66778</SKU><Description>Workbench - Portable</Description><Quantity>5</Quantity><Price>73.91</Price></Item>
+      </Items>
+    </Order>

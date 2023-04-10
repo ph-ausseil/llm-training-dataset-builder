@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-06" >
+      <Customer id="CUST11802"
+  firstname="Roz"
+  lastname="Hamil"
+  email="Roz.Hamil@example.com"
+  />        <Seller id="EMP37158"
+  firstname="Reeba"
+  lastname="Waldron"
+  email="Reeba.Waldron@examplecompany.com"
+  />      <Items><Item><SKU>P93456</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>47.18</Price></Item><Item><SKU>P30831</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>10</Quantity><Price>21.84</Price></Item><Item><SKU>P42144</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>10.17</Price></Item><Item><SKU>P67555</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>27.66</Price></Item>
+      </Items>
+    </Order>

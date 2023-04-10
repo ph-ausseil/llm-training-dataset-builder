@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-19" >
+      <Customer id="CUST93244"
+  firstname="Lorenza"
+  lastname="Anestassia"
+  email="Lorenza.Anestassia@example.com"
+  />        <Seller id="EMP49836"
+  firstname="Lesly"
+  lastname="Henrie"
+  email="Lesly.Henrie@examplecompany.com"
+  />      <Items><Item><SKU>P80517</SKU><Description>Hacksaw - 12 inch</Description><Quantity>9</Quantity><Price>54.35</Price></Item><Item><SKU>P10184</SKU><Description>Level - 24 inch</Description><Quantity>9</Quantity><Price>12.33</Price></Item><Item><SKU>P18628</SKU><Description>Level - 24 inch</Description><Quantity>7</Quantity><Price>29.5</Price></Item><Item><SKU>P79217</SKU><Description>Work Gloves - Leather</Description><Quantity>6</Quantity><Price>57.45</Price></Item>
+      </Items>
+    </Order>

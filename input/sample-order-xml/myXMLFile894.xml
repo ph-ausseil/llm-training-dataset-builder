@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-21" >
+      <Customer id="CUST70856"
+  firstname="Jobi"
+  lastname="Friede"
+  email="Jobi.Friede@example.com"
+  />        <Seller id="EMP23461"
+  firstname="Celisse"
+  lastname="Peonir"
+  email="Celisse.Peonir@examplecompany.com"
+  />      <Items><Item><SKU>P18566</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>5</Quantity><Price>89.02</Price></Item><Item><SKU>P62596</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>7</Quantity><Price>49.42</Price></Item><Item><SKU>P20631</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>2</Quantity><Price>11.29</Price></Item><Item><SKU>P43537</SKU><Description>LED Light Bulb - 60W</Description><Quantity>7</Quantity><Price>67.31</Price></Item>
+      </Items>
+    </Order>

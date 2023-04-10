@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-15" >
+      <Customer id="CUST35231"
+  firstname="Mallory"
+  lastname="Freddi"
+  email="Mallory.Freddi@example.com"
+  />        <Seller id="EMP18409"
+  firstname="Ann-Marie"
+  lastname="Chauncey"
+  email="Ann-Marie.Chauncey@examplecompany.com"
+  />      <Items><Item><SKU>P65447</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>1</Quantity><Price>77.26</Price></Item><Item><SKU>P77402</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>61.55</Price></Item><Item><SKU>P68779</SKU><Description>Stud Finder - Digital</Description><Quantity>10</Quantity><Price>12.26</Price></Item><Item><SKU>P82249</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>6</Quantity><Price>22.93</Price></Item>
+      </Items>
+    </Order>

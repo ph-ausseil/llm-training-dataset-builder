@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-04-15">
+  
+      
+  <Customer id="CUST79620" firstname="Katharina" lastname="Khorma" email="Katharina.Khorma@example.com"/>
+          
+  <Seller id="EMP59404" firstname="Joceline" lastname="Kolnick" email="Joceline.Kolnick@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>75.411</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>7</Quantity>
+      <Price>89.418</Price>
+    </Item>
+    <Item>
+      <SKU>P85960</SKU>
+      <Description>LED Light Bulb - 60W</Description>
+      <Quantity>5</Quantity>
+      <Price>43.9005</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>2</Quantity>
+      <Price>11.8335</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1321.56</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-05" >
+      <Customer id="CUST46072"
+  firstname="Leanna"
+  lastname="Jary"
+  email="Leanna.Jary@example.com"
+  />        <Seller id="EMP87505"
+  firstname="Tori"
+  lastname="Peonir"
+  email="Tori.Peonir@examplecompany.com"
+  />      <Items><Item><SKU>P63273</SKU><Description>LED Light Bulb - 60W</Description><Quantity>9</Quantity><Price>41.42</Price></Item><Item><SKU>P82150</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>8</Quantity><Price>38.35</Price></Item><Item><SKU>P56056</SKU><Description>Garden Hose - 50ft</Description><Quantity>10</Quantity><Price>44.06</Price></Item><Item><SKU>P73761</SKU><Description>Garden Hose - 50ft</Description><Quantity>4</Quantity><Price>14.06</Price></Item>
+      </Items>
+    </Order>

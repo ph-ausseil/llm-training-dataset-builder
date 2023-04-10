@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-11" >
+      <Customer id="CUST30028"
+  firstname="Ardenia"
+  lastname="Colbert"
+  email="Ardenia.Colbert@example.com"
+  />        <Seller id="EMP82891"
+  firstname="Bobbi"
+  lastname="Bettine"
+  email="Bobbi.Bettine@examplecompany.com"
+  />      <Items><Item><SKU>P81817</SKU><Description>Tool Box - 19 inch</Description><Quantity>7</Quantity><Price>31.01</Price></Item><Item><SKU>P58123</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>3</Quantity><Price>22.55</Price></Item><Item><SKU>P95267</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>4</Quantity><Price>47.21</Price></Item><Item><SKU>P81583</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>8</Quantity><Price>75.52</Price></Item>
+      </Items>
+    </Order>

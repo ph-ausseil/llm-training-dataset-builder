@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-11" >
+      <Customer id="CUST62510"
+  firstname="Ann-Marie"
+  lastname="Anestassia"
+  email="Ann-Marie.Anestassia@example.com"
+  />        <Seller id="EMP25037"
+  firstname="Amara"
+  lastname="Maribeth"
+  email="Amara.Maribeth@examplecompany.com"
+  />      <Items><Item><SKU>P58903</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>4</Quantity><Price>43.94</Price></Item><Item><SKU>P15049</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>10</Quantity><Price>63.33</Price></Item><Item><SKU>P68752</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>3</Quantity><Price>78.64</Price></Item><Item><SKU>P92802</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>5</Quantity><Price>74.26</Price></Item>
+      </Items>
+    </Order>

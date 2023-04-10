@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-22" >
+      <Customer id="CUST28798"
+  firstname="Elka"
+  lastname="Randene"
+  email="Elka.Randene@example.com"
+  />        <Seller id="EMP56997"
+  firstname="Chloris"
+  lastname="Charmine"
+  email="Chloris.Charmine@examplecompany.com"
+  />      <Items><Item><SKU>P15062</SKU><Description>Tape Measure - 25 ft</Description><Quantity>6</Quantity><Price>62.23</Price></Item><Item><SKU>P53388</SKU><Description>Workbench - Portable</Description><Quantity>5</Quantity><Price>49.03</Price></Item><Item><SKU>P37624</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>9</Quantity><Price>11.5</Price></Item><Item><SKU>P45846</SKU><Description>Hammer - 16 oz</Description><Quantity>3</Quantity><Price>34.79</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,8 @@
+<Order id="ODR62283632" date="2021-03-06">
+      
+      <Customer id="CUST93537" firstname="Demetris" lastname="Greyson" email="Demetris.Greyson@example.com" />
+        <Seller id="EMP54415" firstname="Heddie" lastname="Sundin" email="Heddie.Sundin@company.com" />
+      <Items>
+        <Item><SKU>P29648</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>1</Quantity><Price>63.51</Price></Item><Item><SKU>P31114</SKU><Description>Tool Box - 19 inch</Description><Quantity>2</Quantity><Price>50.29</Price></Item><Item><SKU>P90541</SKU><Description>Garden Hose - 50ft</Description><Quantity>5</Quantity><Price>49.56</Price></Item>
+      </Items>
+    <TotalPrice>63.51</TotalPrice><TotalPrice>164.09</TotalPrice><TotalPrice>411.89</TotalPrice></Order>

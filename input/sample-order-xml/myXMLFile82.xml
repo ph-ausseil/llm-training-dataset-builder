@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-03-09" >
+      <Customer id="CUST59479"
+  firstname="Kerrin"
+  lastname="Pauly"
+  email="Kerrin.Pauly@example.com"
+  />        <Seller id="EMP54434"
+  firstname="Edith"
+  lastname="Gherardo"
+  email="Edith.Gherardo@examplecompany.com"
+  />      <Items><Item><SKU>P58298</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>2</Quantity><Price>19.51</Price></Item><Item><SKU>P44155</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>3</Quantity><Price>41.02</Price></Item><Item><SKU>P45558</SKU><Description>Garden Hose - 50ft</Description><Quantity>7</Quantity><Price>33.25</Price></Item><Item><SKU>P90152</SKU><Description>Work Gloves - Leather</Description><Quantity>6</Quantity><Price>67.02</Price></Item>
+      </Items>
+    </Order>

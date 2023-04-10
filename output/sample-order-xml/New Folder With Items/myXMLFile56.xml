@@ -1,0 +1,8 @@
+<Order id="ODR30481148" date="2022-11-29">
+      
+      <Customer id="CUST74025" firstname="Theodora" lastname="Egbert" email="Theodora.Egbert@example.com" />
+        <Seller id="EMP8275" firstname="Desirae" lastname="Warthman" email="Desirae.Warthman@company.com" />
+      <Items>
+        <Item><SKU>P85351</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>43.8</Price></Item><Item><SKU>P69550</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>1</Quantity><Price>34.09</Price></Item><Item><SKU>P83099</SKU><Description>Tarp - 12x16 ft</Description><Quantity>1</Quantity><Price>76.86</Price></Item>
+      </Items>
+    <TotalPrice>43.8</TotalPrice><TotalPrice>77.89</TotalPrice><TotalPrice>154.75</TotalPrice></Order>

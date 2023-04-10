@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-08-29">
+  
+      
+  <Customer id="CUST79886" firstname="Dianemarie" lastname="Pozzy" email="Dianemarie.Pozzy@example.com"/>
+          
+  <Seller id="EMP23826" firstname="Rochette" lastname="Verger" email="Rochette.Verger@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P17878</SKU>
+      <Description>Jigsaw - Cordless</Description>
+      <Quantity>6</Quantity>
+      <Price>5.764000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P47249</SKU>
+      <Description>Wooden Ladder - 8 ft</Description>
+      <Quantity>7</Quantity>
+      <Price>55.440000000000005</Price>
+    </Item>
+    <Item>
+      <SKU>P90361</SKU>
+      <Description>Power Drill - 18V</Description>
+      <Quantity>5</Quantity>
+      <Price>48.994</Price>
+    </Item>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>6</Quantity>
+      <Price>22.484</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>802.54</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-18" >
+      <Customer id="CUST62332"
+  firstname="Dawn"
+  lastname="Dannye"
+  email="Dawn.Dannye@example.com"
+  />        <Seller id="EMP80465"
+  firstname="Flory"
+  lastname="Olin"
+  email="Flory.Olin@examplecompany.com"
+  />      <Items><Item><SKU>P71290</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>18.29</Price></Item><Item><SKU>P43076</SKU><Description>Socket Set - 40 pieces</Description><Quantity>1</Quantity><Price>39.89</Price></Item><Item><SKU>P38762</SKU><Description>Miter Saw - 10 inch</Description><Quantity>7</Quantity><Price>74.35</Price></Item><Item><SKU>P14907</SKU><Description>Hacksaw - 12 inch</Description><Quantity>3</Quantity><Price>81.05</Price></Item>
+      </Items>
+    </Order>

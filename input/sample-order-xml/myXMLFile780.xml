@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-09" >
+      <Customer id="CUST76503"
+  firstname="Kathy"
+  lastname="Torray"
+  email="Kathy.Torray@example.com"
+  />        <Seller id="EMP38969"
+  firstname="Jemie"
+  lastname="Aaberg"
+  email="Jemie.Aaberg@examplecompany.com"
+  />      <Items><Item><SKU>P92909</SKU><Description>Power Drill - 18V</Description><Quantity>1</Quantity><Price>58.74</Price></Item><Item><SKU>P10393</SKU><Description>Tape Measure - 25 ft</Description><Quantity>8</Quantity><Price>69.74</Price></Item><Item><SKU>P86760</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>1</Quantity><Price>22.64</Price></Item><Item><SKU>P12159</SKU><Description>Hammer - 16 oz</Description><Quantity>5</Quantity><Price>57.27</Price></Item>
+      </Items>
+    </Order>

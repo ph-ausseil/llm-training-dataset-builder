@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-16" >
+      <Customer id="CUST94852"
+  firstname="Gratia"
+  lastname="Blase"
+  email="Gratia.Blase@example.com"
+  />        <Seller id="EMP18620"
+  firstname="Doralynne"
+  lastname="Hurley"
+  email="Doralynne.Hurley@examplecompany.com"
+  />      <Items><Item><SKU>P75787</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>1</Quantity><Price>75.48</Price></Item><Item><SKU>P17517</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>3</Quantity><Price>60.49</Price></Item><Item><SKU>P92259</SKU><Description>Tool Box - 19 inch</Description><Quantity>2</Quantity><Price>70.83</Price></Item><Item><SKU>P70027</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>10</Quantity><Price>90.17</Price></Item>
+      </Items>
+    </Order>

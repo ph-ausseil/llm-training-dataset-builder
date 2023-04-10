@@ -1,0 +1,8 @@
+<Order id="ODR19910585" date="2021-01-06">
+      
+      <Customer id="CUST72831" firstname="Silvana" lastname="Tengdin" email="Silvana.Tengdin@example.com" />
+        <Seller id="EMP85507" firstname="Kittie" lastname="Hebner" email="Kittie.Hebner@company.com" />
+      <Items>
+        <Item><SKU>P75650</SKU><Description>Workbench - Portable</Description><Quantity>2</Quantity><Price>63.01</Price></Item><Item><SKU>P1050</SKU><Description>Work Gloves - Leather</Description><Quantity>3</Quantity><Price>19.5</Price></Item><Item><SKU>P62835</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>1</Quantity><Price>37.23</Price></Item>
+      </Items>
+    <TotalPrice>126.02</TotalPrice><TotalPrice>184.51999999999998</TotalPrice><TotalPrice>221.74999999999997</TotalPrice></Order>

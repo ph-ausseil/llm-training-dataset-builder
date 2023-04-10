@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-23" >
+      <Customer id="CUST13083"
+  firstname="Mallory"
+  lastname="Briney"
+  email="Mallory.Briney@example.com"
+  />        <Seller id="EMP11485"
+  firstname="Natka"
+  lastname="Carlson"
+  email="Natka.Carlson@examplecompany.com"
+  />      <Items><Item><SKU>P17627</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>6</Quantity><Price>18.63</Price></Item><Item><SKU>P41444</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>4</Quantity><Price>76.75</Price></Item><Item><SKU>P34549</SKU><Description>Tape Measure - 25 ft</Description><Quantity>3</Quantity><Price>78.5</Price></Item><Item><SKU>P24286</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>1</Quantity><Price>27.5</Price></Item>
+      </Items>
+    </Order>

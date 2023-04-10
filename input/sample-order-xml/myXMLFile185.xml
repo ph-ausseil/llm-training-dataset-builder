@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-01" >
+      <Customer id="CUST73077"
+  firstname="Oralee"
+  lastname="Libna"
+  email="Oralee.Libna@example.com"
+  />        <Seller id="EMP29970"
+  firstname="Paola"
+  lastname="Hermes"
+  email="Paola.Hermes@examplecompany.com"
+  />      <Items><Item><SKU>P87010</SKU><Description>Socket Set - 40 pieces</Description><Quantity>3</Quantity><Price>40.15</Price></Item><Item><SKU>P43386</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>9</Quantity><Price>75.86</Price></Item><Item><SKU>P10753</SKU><Description>Work Gloves - Leather</Description><Quantity>9</Quantity><Price>20.44</Price></Item><Item><SKU>P88497</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>9</Quantity><Price>71.82</Price></Item>
+      </Items>
+    </Order>

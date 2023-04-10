@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-02" >
+      <Customer id="CUST25076"
+  firstname="Gusella"
+  lastname="Yerkovich"
+  email="Gusella.Yerkovich@example.com"
+  />        <Seller id="EMP80757"
+  firstname="Daune"
+  lastname="Lindemann"
+  email="Daune.Lindemann@examplecompany.com"
+  />      <Items><Item><SKU>P99066</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>6</Quantity><Price>46.85</Price></Item><Item><SKU>P72574</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>36.79</Price></Item><Item><SKU>P83356</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>9</Quantity><Price>60.04</Price></Item><Item><SKU>P94986</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>5</Quantity><Price>77.23</Price></Item>
+      </Items>
+    </Order>

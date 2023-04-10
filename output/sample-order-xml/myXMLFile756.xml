@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2023-01-07">
+  
+      
+  <Customer id="CUST95300" firstname="Shel" lastname="Hunfredo" email="Shel.Hunfredo@example.com"/>
+          
+  <Seller id="EMP93443" firstname="Stevana" lastname="Eiser" email="Stevana.Eiser@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>13</Quantity>
+      <Price>104.304</Price>
+    </Item>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>11</Quantity>
+      <Price>46.596</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>8</Quantity>
+      <Price>13.524</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>4</Quantity>
+      <Price>7.896</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>2008.28</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-09-07" >
+      <Customer id="CUST72336"
+  firstname="Petronia"
+  lastname="Faria"
+  email="Petronia.Faria@example.com"
+  />        <Seller id="EMP93185"
+  firstname="Ulrike"
+  lastname="Niles"
+  email="Ulrike.Niles@examplecompany.com"
+  />      <Items><Item><SKU>P59224</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>10</Quantity><Price>33.07</Price></Item><Item><SKU>P53419</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>6.39</Price></Item><Item><SKU>P66989</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>10</Quantity><Price>54.23</Price></Item><Item><SKU>P40510</SKU><Description>LED Light Bulb - 60W</Description><Quantity>8</Quantity><Price>66.47</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-16" >
+      <Customer id="CUST77156"
+  firstname="Louella"
+  lastname="Infield"
+  email="Louella.Infield@example.com"
+  />        <Seller id="EMP35281"
+  firstname="Caressa"
+  lastname="Anton"
+  email="Caressa.Anton@examplecompany.com"
+  />      <Items><Item><SKU>P40174</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>89.49</Price></Item><Item><SKU>P49022</SKU><Description>Garden Hose - 50ft</Description><Quantity>3</Quantity><Price>90.92</Price></Item><Item><SKU>P21473</SKU><Description>Garden Hose - 50ft</Description><Quantity>8</Quantity><Price>74</Price></Item><Item><SKU>P33654</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>7</Quantity><Price>6.81</Price></Item>
+      </Items>
+    </Order>

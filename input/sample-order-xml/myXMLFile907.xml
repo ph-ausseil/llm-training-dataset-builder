@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-11-20" >
+      <Customer id="CUST99769"
+  firstname="Celene"
+  lastname="Vanni"
+  email="Celene.Vanni@example.com"
+  />        <Seller id="EMP84085"
+  firstname="Emmey"
+  lastname="Genna"
+  email="Emmey.Genna@examplecompany.com"
+  />      <Items><Item><SKU>P49815</SKU><Description>Work Gloves - Leather</Description><Quantity>3</Quantity><Price>21.21</Price></Item><Item><SKU>P25464</SKU><Description>LED Light Bulb - 60W</Description><Quantity>9</Quantity><Price>31.83</Price></Item><Item><SKU>P31127</SKU><Description>Workbench - Portable</Description><Quantity>2</Quantity><Price>41.99</Price></Item><Item><SKU>P78512</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>6</Quantity><Price>17.69</Price></Item>
+      </Items>
+    </Order>

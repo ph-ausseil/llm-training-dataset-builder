@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-05" >
+      <Customer id="CUST74328"
+  firstname="Courtnay"
+  lastname="Bibi"
+  email="Courtnay.Bibi@example.com"
+  />        <Seller id="EMP59359"
+  firstname="Tera"
+  lastname="Bow"
+  email="Tera.Bow@examplecompany.com"
+  />      <Items><Item><SKU>P21886</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>10</Quantity><Price>73.5</Price></Item><Item><SKU>P59619</SKU><Description>Level - 24 inch</Description><Quantity>2</Quantity><Price>54.86</Price></Item><Item><SKU>P22651</SKU><Description>Miter Saw - 10 inch</Description><Quantity>9</Quantity><Price>45.97</Price></Item><Item><SKU>P93845</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>5</Quantity><Price>81.61</Price></Item>
+      </Items>
+    </Order>

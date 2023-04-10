@@ -1,0 +1,8 @@
+<Order id="ODR25311281" date="2022-04-25">
+      
+      <Customer id="CUST18213" firstname="Meghann" lastname="Seagraves" email="Meghann.Seagraves@example.com" />
+        <Seller id="EMP527" firstname="Nanete" lastname="My" email="Nanete.My@company.com" />
+      <Items>
+        <Item><SKU>P11829</SKU><Description>Tool Box - 19 inch</Description><Quantity>2</Quantity><Price>12.9</Price></Item><Item><SKU>P74016</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>1</Quantity><Price>34.91</Price></Item><Item><SKU>P43098</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>88.85</Price></Item>
+      </Items>
+    <TotalPrice>25.8</TotalPrice><TotalPrice>60.709999999999994</TotalPrice><TotalPrice>238.40999999999997</TotalPrice></Order>

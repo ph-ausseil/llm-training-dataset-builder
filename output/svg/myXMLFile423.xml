@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-05-04">
+  
+      
+  <Customer id="CUST80482" firstname="Dulce" lastname="Afton" email="Dulce.Afton@example.com"/>
+          
+  <Seller id="EMP65557" firstname="Suzette" lastname="Yoko" email="Suzette.Yoko@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P90361</SKU>
+      <Description>Power Drill - 18V</Description>
+      <Quantity>6</Quantity>
+      <Price>46.767</Price>
+    </Item>
+    <Item>
+      <SKU>P28369</SKU>
+      <Description>Sandpaper - Assorted Grits</Description>
+      <Quantity>10</Quantity>
+      <Price>86.2995</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>30.114</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>3</Quantity>
+      <Price>65.373</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1640.86</TotalPrice>
+</Order>

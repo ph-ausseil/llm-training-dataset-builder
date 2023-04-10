@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-03-03" >
+      <Customer id="CUST13762"
+  firstname="Adore"
+  lastname="Rad"
+  email="Adore.Rad@example.com"
+  />        <Seller id="EMP79641"
+  firstname="Aubrie"
+  lastname="Bevin"
+  email="Aubrie.Bevin@examplecompany.com"
+  />      <Items><Item><SKU>P46352</SKU><Description>Hammer - 16 oz</Description><Quantity>2</Quantity><Price>23.46</Price></Item><Item><SKU>P60180</SKU><Description>Tool Box - 19 inch</Description><Quantity>10</Quantity><Price>23.04</Price></Item><Item><SKU>P35771</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>2</Quantity><Price>79.27</Price></Item><Item><SKU>P79535</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>8</Quantity><Price>20.6</Price></Item>
+      </Items>
+    </Order>

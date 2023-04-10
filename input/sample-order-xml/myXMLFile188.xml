@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-03-28" >
+      <Customer id="CUST48422"
+  firstname="Veda"
+  lastname="Nickola"
+  email="Veda.Nickola@example.com"
+  />        <Seller id="EMP15438"
+  firstname="Kara-Lynn"
+  lastname="Berard"
+  email="Kara-Lynn.Berard@examplecompany.com"
+  />      <Items><Item><SKU>P94374</SKU><Description>Socket Set - 40 pieces</Description><Quantity>9</Quantity><Price>21.51</Price></Item><Item><SKU>P36057</SKU><Description>Power Drill - 18V</Description><Quantity>3</Quantity><Price>5.58</Price></Item><Item><SKU>P39118</SKU><Description>Work Gloves - Leather</Description><Quantity>10</Quantity><Price>37.55</Price></Item><Item><SKU>P79652</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>1</Quantity><Price>29.69</Price></Item>
+      </Items>
+    </Order>

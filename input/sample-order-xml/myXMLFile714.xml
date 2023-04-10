@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-31" >
+      <Customer id="CUST24186"
+  firstname="Kerrin"
+  lastname="Muriel"
+  email="Kerrin.Muriel@example.com"
+  />        <Seller id="EMP34263"
+  firstname="Goldie"
+  lastname="Kannry"
+  email="Goldie.Kannry@examplecompany.com"
+  />      <Items><Item><SKU>P93705</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>3</Quantity><Price>18.48</Price></Item><Item><SKU>P65557</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>7</Quantity><Price>6.46</Price></Item><Item><SKU>P73516</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>6</Quantity><Price>48.82</Price></Item><Item><SKU>P99184</SKU><Description>Tool Box - 19 inch</Description><Quantity>1</Quantity><Price>65.54</Price></Item>
+      </Items>
+    </Order>

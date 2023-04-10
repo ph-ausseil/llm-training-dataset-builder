@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-17" >
+      <Customer id="CUST97645"
+  firstname="Aeriela"
+  lastname="Winthorpe"
+  email="Aeriela.Winthorpe@example.com"
+  />        <Seller id="EMP97626"
+  firstname="Tomasina"
+  lastname="Adore"
+  email="Tomasina.Adore@examplecompany.com"
+  />      <Items><Item><SKU>P68842</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>6</Quantity><Price>23.33</Price></Item><Item><SKU>P69338</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>1</Quantity><Price>73.07</Price></Item><Item><SKU>P99581</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>4</Quantity><Price>85.92</Price></Item><Item><SKU>P83571</SKU><Description>Jigsaw - Cordless</Description><Quantity>5</Quantity><Price>48.08</Price></Item>
+      </Items>
+    </Order>

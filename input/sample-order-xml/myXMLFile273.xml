@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-09-23" >
+      <Customer id="CUST62419"
+  firstname="Tybie"
+  lastname="Dorine"
+  email="Tybie.Dorine@example.com"
+  />        <Seller id="EMP19018"
+  firstname="Viviene"
+  lastname="Vivle"
+  email="Viviene.Vivle@examplecompany.com"
+  />      <Items><Item><SKU>P81800</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>10</Quantity><Price>19.19</Price></Item><Item><SKU>P61694</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>9</Quantity><Price>68.24</Price></Item><Item><SKU>P62111</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>49.59</Price></Item><Item><SKU>P84806</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>9</Quantity><Price>89.23</Price></Item>
+      </Items>
+    </Order>

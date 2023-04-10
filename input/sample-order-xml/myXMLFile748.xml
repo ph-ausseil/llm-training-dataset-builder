@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-12-31" >
+      <Customer id="CUST27890"
+  firstname="Justinn"
+  lastname="Parsaye"
+  email="Justinn.Parsaye@example.com"
+  />        <Seller id="EMP16288"
+  firstname="Cindelyn"
+  lastname="Seumas"
+  email="Cindelyn.Seumas@examplecompany.com"
+  />      <Items><Item><SKU>P11795</SKU><Description>Miter Saw - 10 inch</Description><Quantity>6</Quantity><Price>90.02</Price></Item><Item><SKU>P82307</SKU><Description>LED Light Bulb - 60W</Description><Quantity>5</Quantity><Price>71.75</Price></Item><Item><SKU>P24073</SKU><Description>Stud Finder - Digital</Description><Quantity>7</Quantity><Price>10.18</Price></Item><Item><SKU>P56393</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>81.37</Price></Item>
+      </Items>
+    </Order>

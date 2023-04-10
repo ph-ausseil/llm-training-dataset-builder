@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-03-29" >
+      <Customer id="CUST30446"
+  firstname="Thalia"
+  lastname="Garek"
+  email="Thalia.Garek@example.com"
+  />        <Seller id="EMP74702"
+  firstname="Philis"
+  lastname="Harl"
+  email="Philis.Harl@examplecompany.com"
+  />      <Items><Item><SKU>P64607</SKU><Description>Miter Saw - 10 inch</Description><Quantity>8</Quantity><Price>45.69</Price></Item><Item><SKU>P99371</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>11.07</Price></Item><Item><SKU>P32737</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>6</Quantity><Price>73.72</Price></Item><Item><SKU>P44904</SKU><Description>Workbench - Portable</Description><Quantity>10</Quantity><Price>16.9</Price></Item>
+      </Items>
+    </Order>

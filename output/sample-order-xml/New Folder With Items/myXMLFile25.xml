@@ -1,0 +1,8 @@
+<Order id="ODR66500913" date="2022-07-10">
+      
+      <Customer id="CUST46996" firstname="Kaja" lastname="Sharl" email="Kaja.Sharl@example.com" />
+        <Seller id="EMP18614" firstname="Phedra" lastname="Sprage" email="Phedra.Sprage@company.com" />
+      <Items>
+        <Item><SKU>P86984</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>4</Quantity><Price>41.12</Price></Item><Item><SKU>P44960</SKU><Description>Hacksaw - 12 inch</Description><Quantity>5</Quantity><Price>88.23</Price></Item><Item><SKU>P96028</SKU><Description>Work Gloves - Leather</Description><Quantity>5</Quantity><Price>86.75</Price></Item>
+      </Items>
+    <TotalPrice>164.48</TotalPrice><TotalPrice>605.63</TotalPrice><TotalPrice>1039.38</TotalPrice></Order>

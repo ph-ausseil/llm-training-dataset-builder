@@ -1,0 +1,8 @@
+<Order id="ODR83651749" date="2021-07-22">
+      
+      <Customer id="CUST73459" firstname="Tera" lastname="Tyson" email="Tera.Tyson@example.com" />
+        <Seller id="EMP58208" firstname="Vere" lastname="Torray" email="Vere.Torray@company.com" />
+      <Items>
+        <Item><SKU>P24118</SKU><Description>Utility Knife - Retractable</Description><Quantity>3</Quantity><Price>41.17</Price></Item><Item><SKU>P83006</SKU><Description>Tape Measure - 25 ft</Description><Quantity>4</Quantity><Price>66.78</Price></Item><Item><SKU>P47709</SKU><Description>Miter Saw - 10 inch</Description><Quantity>5</Quantity><Price>20.37</Price></Item>
+      </Items>
+    <TotalPrice>123.51</TotalPrice><TotalPrice>390.63</TotalPrice><TotalPrice>492.48</TotalPrice></Order>

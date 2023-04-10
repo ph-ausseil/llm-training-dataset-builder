@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-09-30" >
+      <Customer id="CUST64866"
+  firstname="Adele"
+  lastname="Earlie"
+  email="Adele.Earlie@example.com"
+  />        <Seller id="EMP99217"
+  firstname="Susette"
+  lastname="Gillan"
+  email="Susette.Gillan@examplecompany.com"
+  />      <Items><Item><SKU>P73288</SKU><Description>Stud Finder - Digital</Description><Quantity>10</Quantity><Price>24.13</Price></Item><Item><SKU>P44943</SKU><Description>Tool Box - 19 inch</Description><Quantity>1</Quantity><Price>41.05</Price></Item><Item><SKU>P24492</SKU><Description>Level - 24 inch</Description><Quantity>1</Quantity><Price>29.18</Price></Item><Item><SKU>P51598</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>9</Quantity><Price>38.83</Price></Item>
+      </Items>
+    </Order>

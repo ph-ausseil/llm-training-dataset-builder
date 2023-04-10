@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-25" >
+      <Customer id="CUST44341"
+  firstname="Betta"
+  lastname="Norvol"
+  email="Betta.Norvol@example.com"
+  />        <Seller id="EMP28796"
+  firstname="Joane"
+  lastname="Zitvaa"
+  email="Joane.Zitvaa@examplecompany.com"
+  />      <Items><Item><SKU>P28035</SKU><Description>Utility Knife - Retractable</Description><Quantity>6</Quantity><Price>30.02</Price></Item><Item><SKU>P17574</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>8</Quantity><Price>32.4</Price></Item><Item><SKU>P20606</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>10</Quantity><Price>87.38</Price></Item><Item><SKU>P82589</SKU><Description>Tape Measure - 25 ft</Description><Quantity>5</Quantity><Price>28.13</Price></Item>
+      </Items>
+    </Order>

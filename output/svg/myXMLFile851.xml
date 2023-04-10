@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-01-15">
+  
+      
+  <Customer id="CUST55726" firstname="Keelia" lastname="Moina" email="Keelia.Moina@example.com"/>
+          
+  <Seller id="EMP66000" firstname="Nikki" lastname="Winthorpe" email="Nikki.Winthorpe@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>6</Quantity>
+      <Price>20.44</Price>
+    </Item>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>5</Quantity>
+      <Price>86.92</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>37.49</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>2</Quantity>
+      <Price>11.27</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>804.72</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-02-09" >
+      <Customer id="CUST33288"
+  firstname="Kalina"
+  lastname="McNully"
+  email="Kalina.McNully@example.com"
+  />        <Seller id="EMP10767"
+  firstname="Roz"
+  lastname="Orlene"
+  email="Roz.Orlene@examplecompany.com"
+  />      <Items><Item><SKU>P55221</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>9</Quantity><Price>60.83</Price></Item><Item><SKU>P68742</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>4</Quantity><Price>59.22</Price></Item><Item><SKU>P96596</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>9</Quantity><Price>17.42</Price></Item><Item><SKU>P93105</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>10</Quantity><Price>31.55</Price></Item>
+      </Items>
+    </Order>

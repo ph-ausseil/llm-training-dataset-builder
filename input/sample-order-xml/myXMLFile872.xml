@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-02-03" >
+      <Customer id="CUST39725"
+  firstname="Neila"
+  lastname="Nahum"
+  email="Neila.Nahum@example.com"
+  />        <Seller id="EMP57532"
+  firstname="Noelle"
+  lastname="Olin"
+  email="Noelle.Olin@examplecompany.com"
+  />      <Items><Item><SKU>P90690</SKU><Description>Garden Hose - 50ft</Description><Quantity>10</Quantity><Price>37.72</Price></Item><Item><SKU>P38762</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>6</Quantity><Price>88.89</Price></Item><Item><SKU>P61349</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>4</Quantity><Price>19.05</Price></Item><Item><SKU>P59112</SKU><Description>Hammer - 16 oz</Description><Quantity>7</Quantity><Price>56.04</Price></Item>
+      </Items>
+    </Order>

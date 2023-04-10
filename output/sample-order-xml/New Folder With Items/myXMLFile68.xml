@@ -1,0 +1,8 @@
+<Order id="ODR28200641" date="2021-03-04">
+      
+      <Customer id="CUST79642" firstname="Lucille" lastname="Bouchard" email="Lucille.Bouchard@example.com" />
+        <Seller id="EMP18209" firstname="Codie" lastname="Hubert" email="Codie.Hubert@company.com" />
+      <Items>
+        <Item><SKU>P13738</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>3</Quantity><Price>76.88</Price></Item><Item><SKU>P43193</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>5</Quantity><Price>48.12</Price></Item><Item><SKU>P31020</SKU><Description>Tarp - 12x16 ft</Description><Quantity>5</Quantity><Price>65.43</Price></Item>
+      </Items>
+    <TotalPrice>230.64</TotalPrice><TotalPrice>471.24</TotalPrice><TotalPrice>798.3900000000001</TotalPrice></Order>

@@ -1,0 +1,8 @@
+<Order id="ODR94465608" date="2021-11-14">
+      
+      <Customer id="CUST89361" firstname="Roberta" lastname="Ogren" email="Roberta.Ogren@example.com" />
+        <Seller id="EMP7682" firstname="Sam" lastname="Dichy" email="Sam.Dichy@company.com" />
+      <Items>
+        <Item><SKU>P77575</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>1</Quantity><Price>90.27</Price></Item><Item><SKU>P1353</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>71.55</Price></Item><Item><SKU>P33103</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>5</Quantity><Price>46.92</Price></Item>
+      </Items>
+    <TotalPrice>90.27</TotalPrice><TotalPrice>304.91999999999996</TotalPrice><TotalPrice>539.52</TotalPrice></Order>

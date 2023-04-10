@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-06-12" >
+      <Customer id="CUST91817"
+  firstname="Gavrielle"
+  lastname="Bettine"
+  email="Gavrielle.Bettine@example.com"
+  />        <Seller id="EMP39119"
+  firstname="Selma"
+  lastname="Barrus"
+  email="Selma.Barrus@examplecompany.com"
+  />      <Items><Item><SKU>P40910</SKU><Description>Tool Box - 19 inch</Description><Quantity>6</Quantity><Price>31.6</Price></Item><Item><SKU>P72912</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>3</Quantity><Price>14.41</Price></Item><Item><SKU>P59376</SKU><Description>Hand Saw - 12 inch</Description><Quantity>9</Quantity><Price>32.49</Price></Item><Item><SKU>P43894</SKU><Description>Tool Box - 19 inch</Description><Quantity>4</Quantity><Price>25.41</Price></Item>
+      </Items>
+    </Order>

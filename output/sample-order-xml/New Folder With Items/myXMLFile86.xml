@@ -1,0 +1,8 @@
+<Order id="ODR80040018" date="2022-08-02">
+      
+      <Customer id="CUST18499" firstname="Abbie" lastname="Leonard" email="Abbie.Leonard@example.com" />
+        <Seller id="EMP32544" firstname="Kenna" lastname="Papageno" email="Kenna.Papageno@company.com" />
+      <Items>
+        <Item><SKU>P21188</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>7.13</Price></Item><Item><SKU>P58856</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>47.56</Price></Item><Item><SKU>P70576</SKU><Description>Safety Goggles - Clear</Description><Quantity>3</Quantity><Price>20.28</Price></Item>
+      </Items>
+    <TotalPrice>28.52</TotalPrice><TotalPrice>76.08</TotalPrice><TotalPrice>136.92000000000002</TotalPrice></Order>

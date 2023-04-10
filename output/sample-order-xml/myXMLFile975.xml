@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-06-17">
+  
+      
+  <Customer id="CUST44700" firstname="Marika" lastname="Orelee" email="Marika.Orelee@example.com"/>
+          
+  <Seller id="EMP97575" firstname="Lila" lastname="Faso" email="Lila.Faso@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>10</Quantity>
+      <Price>22.484</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>9</Quantity>
+      <Price>12.397</Price>
+    </Item>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>7</Quantity>
+      <Price>98.97800000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>31.548000000000002</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1313.19</TotalPrice>
+</Order>

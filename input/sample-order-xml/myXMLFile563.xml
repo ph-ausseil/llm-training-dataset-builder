@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-24" >
+      <Customer id="CUST79015"
+  firstname="Ayn"
+  lastname="Konyn"
+  email="Ayn.Konyn@example.com"
+  />        <Seller id="EMP93799"
+  firstname="Gloria"
+  lastname="Hunfredo"
+  email="Gloria.Hunfredo@examplecompany.com"
+  />      <Items><Item><SKU>P54084</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>6</Quantity><Price>55.59</Price></Item><Item><SKU>P34446</SKU><Description>Jigsaw - Cordless</Description><Quantity>9</Quantity><Price>54.62</Price></Item><Item><SKU>P40175</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>14.13</Price></Item><Item><SKU>P14565</SKU><Description>Power Drill - 18V</Description><Quantity>6</Quantity><Price>31.37</Price></Item>
+      </Items>
+    </Order>

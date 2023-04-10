@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-11" >
+      <Customer id="CUST84672"
+  firstname="Marsiella"
+  lastname="Camden"
+  email="Marsiella.Camden@example.com"
+  />        <Seller id="EMP13145"
+  firstname="Jsandye"
+  lastname="Israeli"
+  email="Jsandye.Israeli@examplecompany.com"
+  />      <Items><Item><SKU>P89527</SKU><Description>Garden Hose - 50ft</Description><Quantity>2</Quantity><Price>22.52</Price></Item><Item><SKU>P29379</SKU><Description>Power Drill - 18V</Description><Quantity>9</Quantity><Price>61.52</Price></Item><Item><SKU>P30345</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>8</Quantity><Price>34.51</Price></Item><Item><SKU>P15276</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>9</Quantity><Price>54.17</Price></Item>
+      </Items>
+    </Order>

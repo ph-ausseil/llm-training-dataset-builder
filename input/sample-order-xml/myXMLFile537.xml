@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-22" >
+      <Customer id="CUST60205"
+  firstname="Merrie"
+  lastname="Bultman"
+  email="Merrie.Bultman@example.com"
+  />        <Seller id="EMP80825"
+  firstname="Karlee"
+  lastname="Simmonds"
+  email="Karlee.Simmonds@examplecompany.com"
+  />      <Items><Item><SKU>P61490</SKU><Description>Nail Gun - Electric</Description><Quantity>2</Quantity><Price>70.87</Price></Item><Item><SKU>P79455</SKU><Description>Tarp - 12x16 ft</Description><Quantity>4</Quantity><Price>76.26</Price></Item><Item><SKU>P13791</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>6</Quantity><Price>33.08</Price></Item><Item><SKU>P12864</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>2</Quantity><Price>24.24</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,8 @@
+<Order id="ODR39919516" date="2021-04-12">
+      
+      <Customer id="CUST31200" firstname="Jennica" lastname="Kenney" email="Jennica.Kenney@example.com" />
+        <Seller id="EMP24068" firstname="Henriette" lastname="Idelia" email="Henriette.Idelia@company.com" />
+      <Items>
+        <Item><SKU>P69699</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>44.35</Price></Item><Item><SKU>P99656</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>41.08</Price></Item><Item><SKU>P34094</SKU><Description>Utility Knife - Retractable</Description><Quantity>1</Quantity><Price>80.62</Price></Item>
+      </Items>
+    <TotalPrice>133.05</TotalPrice><TotalPrice>338.45</TotalPrice><TotalPrice>419.07</TotalPrice></Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-28" >
+      <Customer id="CUST82229"
+  firstname="Marsiella"
+  lastname="Obed"
+  email="Marsiella.Obed@example.com"
+  />        <Seller id="EMP84001"
+  firstname="Joeann"
+  lastname="Marcellus"
+  email="Joeann.Marcellus@examplecompany.com"
+  />      <Items><Item><SKU>P68742</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>4</Quantity><Price>12.02</Price></Item><Item><SKU>P81018</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>42.18</Price></Item><Item><SKU>P19514</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>8</Quantity><Price>27.36</Price></Item><Item><SKU>P87607</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>2</Quantity><Price>65.23</Price></Item>
+      </Items>
+    </Order>

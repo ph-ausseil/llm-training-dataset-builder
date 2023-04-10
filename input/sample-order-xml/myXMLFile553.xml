@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-01" >
+      <Customer id="CUST79995"
+  firstname="Wilma"
+  lastname="Merell"
+  email="Wilma.Merell@example.com"
+  />        <Seller id="EMP87782"
+  firstname="Augustine"
+  lastname="Ietta"
+  email="Augustine.Ietta@examplecompany.com"
+  />      <Items><Item><SKU>P78095</SKU><Description>Nail Gun - Electric</Description><Quantity>8</Quantity><Price>49.4</Price></Item><Item><SKU>P43414</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>4</Quantity><Price>78.17</Price></Item><Item><SKU>P13293</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>9</Quantity><Price>73.32</Price></Item><Item><SKU>P75103</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>9</Quantity><Price>13.49</Price></Item>
+      </Items>
+    </Order>

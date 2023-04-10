@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-06-23">
+  
+      
+  <Customer id="CUST96652" firstname="Sheree" lastname="Eugenia" email="Sheree.Eugenia@example.com"/>
+          
+  <Seller id="EMP32155" firstname="Magdalena" lastname="Hedve" email="Magdalena.Hedve@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P85960</SKU>
+      <Description>LED Light Bulb - 60W</Description>
+      <Quantity>1</Quantity>
+      <Price>41.81</Price>
+    </Item>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>89.98</Price>
+    </Item>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>5</Quantity>
+      <Price>37.82</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>2</Quantity>
+      <Price>85.16</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1121.07</TotalPrice>
+</Order>

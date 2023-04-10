@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-30" >
+      <Customer id="CUST34448"
+  firstname="Gerianna"
+  lastname="Etom"
+  email="Gerianna.Etom@example.com"
+  />        <Seller id="EMP54051"
+  firstname="Kassey"
+  lastname="Isidore"
+  email="Kassey.Isidore@examplecompany.com"
+  />      <Items><Item><SKU>P75606</SKU><Description>Work Gloves - Leather</Description><Quantity>3</Quantity><Price>46.01</Price></Item><Item><SKU>P93917</SKU><Description>LED Light Bulb - 60W</Description><Quantity>5</Quantity><Price>37.74</Price></Item><Item><SKU>P81766</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>4</Quantity><Price>87.39</Price></Item><Item><SKU>P96774</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>6</Quantity><Price>82.84</Price></Item>
+      </Items>
+    </Order>

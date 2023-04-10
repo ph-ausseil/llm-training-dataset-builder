@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-25" >
+      <Customer id="CUST95282"
+  firstname="Elsie"
+  lastname="Sandye"
+  email="Elsie.Sandye@example.com"
+  />        <Seller id="EMP92200"
+  firstname="Merry"
+  lastname="Braun"
+  email="Merry.Braun@examplecompany.com"
+  />      <Items><Item><SKU>P11039</SKU><Description>Safety Goggles - Clear</Description><Quantity>5</Quantity><Price>17.94</Price></Item><Item><SKU>P78685</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>8</Quantity><Price>53.25</Price></Item><Item><SKU>P91298</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>1</Quantity><Price>63.92</Price></Item><Item><SKU>P48533</SKU><Description>Nail Gun - Electric</Description><Quantity>4</Quantity><Price>60.55</Price></Item>
+      </Items>
+    </Order>

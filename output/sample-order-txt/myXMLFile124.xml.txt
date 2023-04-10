@@ -1,0 +1,101 @@
+Order number : ODR50574929
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $814.33.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Lonnie Hurley.
+Question : What is the cost of item 'P79695'?
+Answer : The  cost of item 'P79695' was $230.14.
+Question : What is the name of item 'P79695'?
+Answer : The  name of item 'P79695' was 'Tile Cutter - Manual'.
+Question : What is the SKU of item 'Tile Cutter - Manual'?
+Answer : The  SKU of item 'Tile Cutter - Manual' was 'P79695'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-07-26'.
+Question : What is the email address of the customer with ID 'CUST14840'?
+Answer : The  email address of the customer with ID 'CUST14840' was 'Talya.Ruvolo@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 15.
+Question : What is the total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Tile Cutter - Manual' items ordered in the sales order with ID 'ODR50574929' was $230.139.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $732.9.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Screwdriver Set - 6 pieces' with a price of $91.266.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $814.33.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Lonnie Hurley.
+Question : What is the cost of item 'P66553'?
+Answer : The  cost of item 'P66553' was $182.53.
+Question : What is the name of item 'P66553'?
+Answer : The  name of item 'P66553' was 'Screwdriver Set - 6 pieces'.
+Question : What is the SKU of item 'Screwdriver Set - 6 pieces'?
+Answer : The  SKU of item 'Screwdriver Set - 6 pieces' was 'P66553'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-07-26'.
+Question : What is the email address of the customer with ID 'CUST14840'?
+Answer : The  email address of the customer with ID 'CUST14840' was 'Talya.Ruvolo@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 15.
+Question : What is the total price of all 'Screwdriver Set - 6 pieces' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Screwdriver Set - 6 pieces' items ordered in the sales order with ID 'ODR50574929' was $182.532.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $732.9.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Screwdriver Set - 6 pieces' with a price of $91.266.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $814.33.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Lonnie Hurley.
+Question : What is the cost of item 'P90277'?
+Answer : The  cost of item 'P90277' was $101.09.
+Question : What is the name of item 'P90277'?
+Answer : The  name of item 'P90277' was 'Bolt Cutter - 24 inch'.
+Question : What is the SKU of item 'Bolt Cutter - 24 inch'?
+Answer : The  SKU of item 'Bolt Cutter - 24 inch' was 'P90277'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-07-26'.
+Question : What is the email address of the customer with ID 'CUST14840'?
+Answer : The  email address of the customer with ID 'CUST14840' was 'Talya.Ruvolo@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 15.
+Question : What is the total price of all 'Bolt Cutter - 24 inch' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Bolt Cutter - 24 inch' items ordered in the sales order with ID 'ODR50574929' was $101.09400000000001.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $732.9.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Screwdriver Set - 6 pieces' with a price of $91.266.
+
+Question : What was the total cost of the order with ID 'ODR50574929'?
+Answer : The  total cost of the order was $814.33.
+Question : Who was the seller for the order with ID 'ODR50574929'?
+Answer : The  seller for the order with ID 'ODR50574929' was Lonnie Hurley.
+Question : What is the cost of item 'P14222'?
+Answer : The  cost of item 'P14222' was $300.56.
+Question : What is the name of item 'P14222'?
+Answer : The  name of item 'P14222' was 'Nail Gun - Electric'.
+Question : What is the SKU of item 'Nail Gun - Electric'?
+Answer : The  SKU of item 'Nail Gun - Electric' was 'P14222'.
+Question : What was the date of the sales order with ID 'ODR50574929'?
+Answer : The  date of the sales order with ID 'ODR50574929' was '2021-07-26'.
+Question : What is the email address of the customer with ID 'CUST14840'?
+Answer : The  email address of the customer with ID 'CUST14840' was 'Talya.Ruvolo@example.com'.
+Question : What is the total quantity of items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total quantity of items ordered in the sales order with ID 'ODR50574929' was 15.
+Question : What is the total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929'?
+Answer : The  total price of all 'Nail Gun - Electric' items ordered in the sales order with ID 'ODR50574929' was $300.5625.
+Question : What is the average price per item in the sales order with ID 'ODR50574929'?
+Answer : The  average price per item in the sales order with ID 'ODR50574929' was $54.29.
+Question : What is the total cost of the sales order with ID 'ODR50574929' after applying a 10% discount?
+Answer : The  total cost of the sales order with ID 'ODR50574929' after applying a 10% discount was $732.9.
+Question : What is the highest-priced item ordered in the sales order with ID 'ODR50574929'?
+Answer : The  highest-priced item ordered in the sales order with ID 'ODR50574929' was 'Screwdriver Set - 6 pieces' with a price of $91.266.

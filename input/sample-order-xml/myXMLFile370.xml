@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-02-27" >
+      <Customer id="CUST89878"
+  firstname="Coral"
+  lastname="Richers"
+  email="Coral.Richers@example.com"
+  />        <Seller id="EMP53754"
+  firstname="Max"
+  lastname="Hirsch"
+  email="Max.Hirsch@examplecompany.com"
+  />      <Items><Item><SKU>P21894</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>1</Quantity><Price>19.66</Price></Item><Item><SKU>P86010</SKU><Description>Miter Saw - 10 inch</Description><Quantity>5</Quantity><Price>19.38</Price></Item><Item><SKU>P74223</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>1</Quantity><Price>25.61</Price></Item><Item><SKU>P86017</SKU><Description>Work Gloves - Leather</Description><Quantity>6</Quantity><Price>14.56</Price></Item>
+      </Items>
+    </Order>

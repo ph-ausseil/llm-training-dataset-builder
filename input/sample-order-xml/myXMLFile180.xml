@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-31" >
+      <Customer id="CUST55047"
+  firstname="Jsandye"
+  lastname="Liva"
+  email="Jsandye.Liva@example.com"
+  />        <Seller id="EMP13703"
+  firstname="Jean"
+  lastname="Tomasina"
+  email="Jean.Tomasina@examplecompany.com"
+  />      <Items><Item><SKU>P24180</SKU><Description>Work Gloves - Leather</Description><Quantity>5</Quantity><Price>62.12</Price></Item><Item><SKU>P62864</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>3</Quantity><Price>67.16</Price></Item><Item><SKU>P49966</SKU><Description>Stud Finder - Digital</Description><Quantity>9</Quantity><Price>19.99</Price></Item><Item><SKU>P48252</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>2</Quantity><Price>77.43</Price></Item>
+      </Items>
+    </Order>

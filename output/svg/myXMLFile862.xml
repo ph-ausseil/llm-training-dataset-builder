@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-11-06">
+  
+      
+  <Customer id="CUST23662" firstname="Tonia" lastname="Wenoa" email="Tonia.Wenoa@example.com"/>
+          
+  <Seller id="EMP45572" firstname="Reeba" lastname="Loeb" email="Reeba.Loeb@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>5</Quantity>
+      <Price>42.713</Price>
+    </Item>
+    <Item>
+      <SKU>P28369</SKU>
+      <Description>Sandpaper - Assorted Grits</Description>
+      <Quantity>7</Quantity>
+      <Price>90.409</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>31.548000000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>4</Quantity>
+      <Price>68.486</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1246.56</TotalPrice>
+</Order>

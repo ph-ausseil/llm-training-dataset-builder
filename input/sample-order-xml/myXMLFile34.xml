@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-24" >
+      <Customer id="CUST71653"
+  firstname="Delilah"
+  lastname="Mike"
+  email="Delilah.Mike@example.com"
+  />        <Seller id="EMP81581"
+  firstname="Loree"
+  lastname="Vilma"
+  email="Loree.Vilma@examplecompany.com"
+  />      <Items><Item><SKU>P92354</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>7</Quantity><Price>63.38</Price></Item><Item><SKU>P38209</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>9</Quantity><Price>83.52</Price></Item><Item><SKU>P43872</SKU><Description>Power Drill - 18V</Description><Quantity>8</Quantity><Price>9.39</Price></Item><Item><SKU>P35670</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>10</Quantity><Price>33.58</Price></Item>
+      </Items>
+    </Order>

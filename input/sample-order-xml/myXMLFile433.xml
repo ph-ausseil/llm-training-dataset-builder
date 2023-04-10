@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-01" >
+      <Customer id="CUST27335"
+  firstname="Cordi"
+  lastname="Colyer"
+  email="Cordi.Colyer@example.com"
+  />        <Seller id="EMP82705"
+  firstname="Lusa"
+  lastname="Constancy"
+  email="Lusa.Constancy@examplecompany.com"
+  />      <Items><Item><SKU>P70367</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>2</Quantity><Price>72.67</Price></Item><Item><SKU>P13436</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>36.73</Price></Item><Item><SKU>P11758</SKU><Description>Miter Saw - 10 inch</Description><Quantity>9</Quantity><Price>79.61</Price></Item><Item><SKU>P37943</SKU><Description>Tarp - 12x16 ft</Description><Quantity>8</Quantity><Price>28.35</Price></Item>
+      </Items>
+    </Order>

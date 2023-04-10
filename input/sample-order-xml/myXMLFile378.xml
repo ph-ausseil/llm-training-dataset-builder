@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-14" >
+      <Customer id="CUST85074"
+  firstname="Letizia"
+  lastname="Lamoree"
+  email="Letizia.Lamoree@example.com"
+  />        <Seller id="EMP39339"
+  firstname="Joeann"
+  lastname="Carri"
+  email="Joeann.Carri@examplecompany.com"
+  />      <Items><Item><SKU>P31547</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>10</Quantity><Price>62.61</Price></Item><Item><SKU>P90361</SKU><Description>Power Drill - 18V</Description><Quantity>8</Quantity><Price>44.54</Price></Item><Item><SKU>P79276</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>68.87</Price></Item><Item><SKU>P93741</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>7</Quantity><Price>31.97</Price></Item>
+      </Items>
+    </Order>

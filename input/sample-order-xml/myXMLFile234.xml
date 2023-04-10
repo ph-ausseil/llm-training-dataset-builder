@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-21" >
+      <Customer id="CUST46786"
+  firstname="Mildrid"
+  lastname="Sperling"
+  email="Mildrid.Sperling@example.com"
+  />        <Seller id="EMP67594"
+  firstname="Catharine"
+  lastname="Prober"
+  email="Catharine.Prober@examplecompany.com"
+  />      <Items><Item><SKU>P50168</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>36.3</Price></Item><Item><SKU>P13249</SKU><Description>Tape Measure - 25 ft</Description><Quantity>1</Quantity><Price>86.06</Price></Item><Item><SKU>P50848</SKU><Description>Power Drill - 18V</Description><Quantity>10</Quantity><Price>46.81</Price></Item><Item><SKU>P56960</SKU><Description>Power Drill - 18V</Description><Quantity>1</Quantity><Price>55.65</Price></Item>
+      </Items>
+    </Order>

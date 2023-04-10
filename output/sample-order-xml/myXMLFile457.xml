@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-07-21">
+  
+      
+  <Customer id="CUST59957" firstname="Petronia" lastname="Fadiman" email="Petronia.Fadiman@example.com"/>
+          
+  <Seller id="EMP68389" firstname="Nerta" lastname="Roxanna" email="Nerta.Roxanna@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>7</Quantity>
+      <Price>70.38</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>28.68</Price>
+    </Item>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>3</Quantity>
+      <Price>20.44</Price>
+    </Item>
+    <Item>
+      <SKU>P90361</SKU>
+      <Description>Power Drill - 18V</Description>
+      <Quantity>5</Quantity>
+      <Price>44.54</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>862.72</TotalPrice>
+</Order>

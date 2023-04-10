@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-29" >
+      <Customer id="CUST93798"
+  firstname="Diena"
+  lastname="Atonsah"
+  email="Diena.Atonsah@example.com"
+  />        <Seller id="EMP38557"
+  firstname="Jsandye"
+  lastname="Solitta"
+  email="Jsandye.Solitta@examplecompany.com"
+  />      <Items><Item><SKU>P35429</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>3</Quantity><Price>21.26</Price></Item><Item><SKU>P76240</SKU><Description>Hacksaw - 12 inch</Description><Quantity>10</Quantity><Price>37.65</Price></Item><Item><SKU>P70892</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>6</Quantity><Price>46.65</Price></Item><Item><SKU>P50860</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>4</Quantity><Price>79.04</Price></Item>
+      </Items>
+    </Order>

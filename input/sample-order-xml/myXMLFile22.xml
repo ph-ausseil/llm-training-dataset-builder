@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-17" >
+      <Customer id="CUST78687"
+  firstname="Karolina"
+  lastname="Auberbach"
+  email="Karolina.Auberbach@example.com"
+  />        <Seller id="EMP62106"
+  firstname="Aaren"
+  lastname="Sammons"
+  email="Aaren.Sammons@examplecompany.com"
+  />      <Items><Item><SKU>P11485</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>10</Quantity><Price>13.08</Price></Item><Item><SKU>P31110</SKU><Description>Safety Goggles - Clear</Description><Quantity>7</Quantity><Price>68.32</Price></Item><Item><SKU>P11054</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>5</Quantity><Price>10.69</Price></Item><Item><SKU>P37453</SKU><Description>Garden Hose - 50ft</Description><Quantity>3</Quantity><Price>15.02</Price></Item>
+      </Items>
+    </Order>

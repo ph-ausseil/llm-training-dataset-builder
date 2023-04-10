@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-15" >
+      <Customer id="CUST70188"
+  firstname="Quintina"
+  lastname="Edison"
+  email="Quintina.Edison@example.com"
+  />        <Seller id="EMP55111"
+  firstname="Jennica"
+  lastname="Meter"
+  email="Jennica.Meter@examplecompany.com"
+  />      <Items><Item><SKU>P53039</SKU><Description>LED Light Bulb - 60W</Description><Quantity>1</Quantity><Price>67.18</Price></Item><Item><SKU>P96178</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>9</Quantity><Price>86.18</Price></Item><Item><SKU>P49787</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>3</Quantity><Price>44.02</Price></Item><Item><SKU>P36875</SKU><Description>Work Gloves - Leather</Description><Quantity>9</Quantity><Price>44.31</Price></Item>
+      </Items>
+    </Order>

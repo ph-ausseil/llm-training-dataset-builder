@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-04-20">
+  
+      
+  <Customer id="CUST40979" firstname="Corly" lastname="Dudley" email="Corly.Dudley@example.com"/>
+          
+  <Seller id="EMP47535" firstname="Dagmar" lastname="Kesley" email="Dagmar.Kesley@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>5</Quantity>
+      <Price>30.114</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>2</Quantity>
+      <Price>6.909000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P19253</SKU>
+      <Description>Outdoor Lantern - Solar Powered</Description>
+      <Quantity>9</Quantity>
+      <Price>81.02850000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P43386</SKU>
+      <Description>Pipe Wrench - 14 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>79.653</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1212.26</TotalPrice>
+</Order>

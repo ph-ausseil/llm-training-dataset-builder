@@ -1,0 +1,8 @@
+<Order id="ODR87501184" date="2022-12-03">
+      
+      <Customer id="CUST14549" firstname="Josephine" lastname="Edmund" email="Josephine.Edmund@example.com" />
+        <Seller id="EMP86021" firstname="Alameda" lastname="Mata" email="Alameda.Mata@company.com" />
+      <Items>
+        <Item><SKU>P45921</SKU><Description>Hammer - 16 oz</Description><Quantity>1</Quantity><Price>2.12</Price></Item><Item><SKU>P61281</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>5</Quantity><Price>12.24</Price></Item><Item><SKU>P1639</SKU><Description>Utility Knife - Retractable</Description><Quantity>2</Quantity><Price>60.56</Price></Item>
+      </Items>
+    <TotalPrice>2.12</TotalPrice><TotalPrice>63.32</TotalPrice><TotalPrice>184.44</TotalPrice></Order>

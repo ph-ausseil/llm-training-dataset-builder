@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-02-16" >
+      <Customer id="CUST47037"
+  firstname="Marcelline"
+  lastname="Robertson"
+  email="Marcelline.Robertson@example.com"
+  />        <Seller id="EMP68765"
+  firstname="Maye"
+  lastname="Ophelia"
+  email="Maye.Ophelia@examplecompany.com"
+  />      <Items><Item><SKU>P46292</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>4</Quantity><Price>59.89</Price></Item><Item><SKU>P36506</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>1</Quantity><Price>10.07</Price></Item><Item><SKU>P72541</SKU><Description>Miter Saw - 10 inch</Description><Quantity>3</Quantity><Price>52.03</Price></Item><Item><SKU>P98233</SKU><Description>Tool Box - 19 inch</Description><Quantity>8</Quantity><Price>17.55</Price></Item>
+      </Items>
+    </Order>

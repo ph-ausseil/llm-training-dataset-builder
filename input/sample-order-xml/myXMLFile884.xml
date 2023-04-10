@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-31" >
+      <Customer id="CUST22452"
+  firstname="Starla"
+  lastname="Margret"
+  email="Starla.Margret@example.com"
+  />        <Seller id="EMP85001"
+  firstname="Aigneis"
+  lastname="Brenn"
+  email="Aigneis.Brenn@examplecompany.com"
+  />      <Items><Item><SKU>P59720</SKU><Description>Utility Knife - Retractable</Description><Quantity>9</Quantity><Price>42.17</Price></Item><Item><SKU>P86727</SKU><Description>Tape Measure - 25 ft</Description><Quantity>7</Quantity><Price>48.88</Price></Item><Item><SKU>P70802</SKU><Description>Jigsaw - Cordless</Description><Quantity>8</Quantity><Price>29.57</Price></Item><Item><SKU>P92336</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>1</Quantity><Price>17.26</Price></Item>
+      </Items>
+    </Order>

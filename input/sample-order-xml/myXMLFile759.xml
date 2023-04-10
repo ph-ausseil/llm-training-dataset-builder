@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-07" >
+      <Customer id="CUST44991"
+  firstname="Joleen"
+  lastname="McGrody"
+  email="Joleen.McGrody@example.com"
+  />        <Seller id="EMP50189"
+  firstname="Vita"
+  lastname="Anis"
+  email="Vita.Anis@examplecompany.com"
+  />      <Items><Item><SKU>P45291</SKU><Description>Hammer - 16 oz</Description><Quantity>1</Quantity><Price>21.95</Price></Item><Item><SKU>P57594</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>1</Quantity><Price>38.94</Price></Item><Item><SKU>P56888</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>9</Quantity><Price>23.57</Price></Item><Item><SKU>P39615</SKU><Description>Work Gloves - Leather</Description><Quantity>5</Quantity><Price>28.84</Price></Item>
+      </Items>
+    </Order>

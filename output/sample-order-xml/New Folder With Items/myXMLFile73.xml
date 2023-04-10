@@ -1,0 +1,8 @@
+<Order id="ODR24207910" date="2021-04-28">
+      
+      <Customer id="CUST56920" firstname="Fred" lastname="Parsaye" email="Fred.Parsaye@example.com" />
+        <Seller id="EMP79289" firstname="Madelle" lastname="Shanley" email="Madelle.Shanley@company.com" />
+      <Items>
+        <Item><SKU>P52217</SKU><Description>Socket Set - 40 pieces</Description><Quantity>5</Quantity><Price>71.86</Price></Item><Item><SKU>P49125</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>2</Quantity><Price>81.41</Price></Item><Item><SKU>P40123</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>3</Quantity><Price>51.48</Price></Item>
+      </Items>
+    <TotalPrice>359.3</TotalPrice><TotalPrice>522.12</TotalPrice><TotalPrice>676.56</TotalPrice></Order>

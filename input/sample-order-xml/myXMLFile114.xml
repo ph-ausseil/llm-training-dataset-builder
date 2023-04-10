@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-24" >
+      <Customer id="CUST73714"
+  firstname="Pamella"
+  lastname="Zenas"
+  email="Pamella.Zenas@example.com"
+  />        <Seller id="EMP43622"
+  firstname="Pamella"
+  lastname="Phi"
+  email="Pamella.Phi@examplecompany.com"
+  />      <Items><Item><SKU>P35564</SKU><Description>Hammer - 16 oz</Description><Quantity>10</Quantity><Price>46.76</Price></Item><Item><SKU>P83187</SKU><Description>Hacksaw - 12 inch</Description><Quantity>4</Quantity><Price>14.29</Price></Item><Item><SKU>P79525</SKU><Description>Work Gloves - Leather</Description><Quantity>4</Quantity><Price>55.05</Price></Item><Item><SKU>P92029</SKU><Description>Socket Set - 40 pieces</Description><Quantity>7</Quantity><Price>15.69</Price></Item>
+      </Items>
+    </Order>

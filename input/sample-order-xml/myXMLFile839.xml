@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-28" >
+      <Customer id="CUST24944"
+  firstname="Jean"
+  lastname="Constancy"
+  email="Jean.Constancy@example.com"
+  />        <Seller id="EMP80134"
+  firstname="Merci"
+  lastname="Cecile"
+  email="Merci.Cecile@examplecompany.com"
+  />      <Items><Item><SKU>P75553</SKU><Description>Hammer - 16 oz</Description><Quantity>3</Quantity><Price>17.11</Price></Item><Item><SKU>P36380</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>5</Quantity><Price>43.3</Price></Item><Item><SKU>P11163</SKU><Description>Work Gloves - Leather</Description><Quantity>9</Quantity><Price>77.24</Price></Item><Item><SKU>P69366</SKU><Description>Stud Finder - Digital</Description><Quantity>9</Quantity><Price>79.3</Price></Item>
+      </Items>
+    </Order>

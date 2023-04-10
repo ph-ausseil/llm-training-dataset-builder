@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-19" >
+      <Customer id="CUST82269"
+  firstname="Lilith"
+  lastname="Stephie"
+  email="Lilith.Stephie@example.com"
+  />        <Seller id="EMP63272"
+  firstname="Odessa"
+  lastname="Sandye"
+  email="Odessa.Sandye@examplecompany.com"
+  />      <Items><Item><SKU>P32097</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>6</Quantity><Price>48.6</Price></Item><Item><SKU>P12186</SKU><Description>Socket Set - 40 pieces</Description><Quantity>8</Quantity><Price>53.17</Price></Item><Item><SKU>P26038</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>7</Quantity><Price>65.64</Price></Item><Item><SKU>P25524</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>2</Quantity><Price>73.63</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-03-30">
+  
+      
+  <Customer id="CUST53973" firstname="Katleen" lastname="Anastatius" email="Katleen.Anastatius@example.com"/>
+          
+  <Seller id="EMP46283" firstname="Clary" lastname="Marcellus" email="Clary.Marcellus@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P85960</SKU>
+      <Description>LED Light Bulb - 60W</Description>
+      <Quantity>7</Quantity>
+      <Price>43.9005</Price>
+    </Item>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>9</Quantity>
+      <Price>39.711</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>9</Quantity>
+      <Price>6.909000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P17627</SKU>
+      <Description>Caulking Gun - Heavy Duty</Description>
+      <Quantity>2</Quantity>
+      <Price>19.5615</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>766.01</TotalPrice>
+</Order>

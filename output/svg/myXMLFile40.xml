@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-11-07">
+  
+      
+  <Customer id="CUST42533" firstname="Mignon" lastname="Oscar" email="Mignon.Oscar@example.com"/>
+          
+  <Seller id="EMP89468" firstname="Jobi" lastname="Suzetta" email="Jobi.Suzetta@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>44.176</Price>
+    </Item>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>2</Quantity>
+      <Price>10.340000000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P19253</SKU>
+      <Description>Outdoor Lantern - Solar Powered</Description>
+      <Quantity>2</Quantity>
+      <Price>84.88700000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>8</Quantity>
+      <Price>70.57600000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>843.41</TotalPrice>
+</Order>

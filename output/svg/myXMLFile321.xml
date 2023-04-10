@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-08-15">
+  
+      
+  <Customer id="CUST40211" firstname="Candi" lastname="Eiser" email="Candi.Eiser@example.com"/>
+          
+  <Seller id="EMP18867" firstname="Chastity" lastname="Ranjiv" email="Chastity.Ranjiv@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>40.16</Price>
+    </Item>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>85.16</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>58.3</Price>
+    </Item>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>8</Quantity>
+      <Price>37.82</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>840.12</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-02" >
+      <Customer id="CUST53822"
+  firstname="Thalia"
+  lastname="Margarete"
+  email="Thalia.Margarete@example.com"
+  />        <Seller id="EMP40056"
+  firstname="Adriana"
+  lastname="Oster"
+  email="Adriana.Oster@examplecompany.com"
+  />      <Items><Item><SKU>P29967</SKU><Description>Nail Gun - Electric</Description><Quantity>9</Quantity><Price>39.73</Price></Item><Item><SKU>P67916</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>5</Quantity><Price>55.37</Price></Item><Item><SKU>P70872</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>7</Quantity><Price>43.32</Price></Item><Item><SKU>P84196</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>9</Quantity><Price>25.4</Price></Item>
+      </Items>
+    </Order>

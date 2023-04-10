@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-28" >
+      <Customer id="CUST63224"
+  firstname="Pearline"
+  lastname="Joeann"
+  email="Pearline.Joeann@example.com"
+  />        <Seller id="EMP53984"
+  firstname="Loree"
+  lastname="Bonucci"
+  email="Loree.Bonucci@examplecompany.com"
+  />      <Items><Item><SKU>P84779</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>8</Quantity><Price>40.51</Price></Item><Item><SKU>P92599</SKU><Description>Hacksaw - 12 inch</Description><Quantity>8</Quantity><Price>76.81</Price></Item><Item><SKU>P35530</SKU><Description>Socket Set - 40 pieces</Description><Quantity>5</Quantity><Price>19.52</Price></Item><Item><SKU>P31128</SKU><Description>Tape Measure - 25 ft</Description><Quantity>7</Quantity><Price>68.83</Price></Item>
+      </Items>
+    </Order>

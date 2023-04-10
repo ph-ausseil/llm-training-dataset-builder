@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-27" >
+      <Customer id="CUST23404"
+  firstname="Jessy"
+  lastname="Monk"
+  email="Jessy.Monk@example.com"
+  />        <Seller id="EMP48486"
+  firstname="Renae"
+  lastname="Skell"
+  email="Renae.Skell@examplecompany.com"
+  />      <Items><Item><SKU>P11329</SKU><Description>Tape Measure - 25 ft</Description><Quantity>9</Quantity><Price>50.74</Price></Item><Item><SKU>P47106</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>2</Quantity><Price>9.04</Price></Item><Item><SKU>P48003</SKU><Description>Safety Goggles - Clear</Description><Quantity>3</Quantity><Price>45.15</Price></Item><Item><SKU>P49921</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>6</Quantity><Price>69.3</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-01" >
+      <Customer id="CUST96715"
+  firstname="Maud"
+  lastname="Charmine"
+  email="Maud.Charmine@example.com"
+  />        <Seller id="EMP85268"
+  firstname="Mallory"
+  lastname="Raseda"
+  email="Mallory.Raseda@examplecompany.com"
+  />      <Items><Item><SKU>P45147</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>5</Quantity><Price>62.21</Price></Item><Item><SKU>P32921</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>1</Quantity><Price>29.51</Price></Item><Item><SKU>P21517</SKU><Description>Level - 24 inch</Description><Quantity>2</Quantity><Price>63.07</Price></Item><Item><SKU>P36907</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>7</Quantity><Price>69.45</Price></Item>
+      </Items>
+    </Order>

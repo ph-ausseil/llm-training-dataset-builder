@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-01-11" >
+      <Customer id="CUST35324"
+  firstname="Elbertina"
+  lastname="Elisha"
+  email="Elbertina.Elisha@example.com"
+  />        <Seller id="EMP98241"
+  firstname="Isa"
+  lastname="Byrne"
+  email="Isa.Byrne@examplecompany.com"
+  />      <Items><Item><SKU>P57997</SKU><Description>Garden Hose - 50ft</Description><Quantity>8</Quantity><Price>23.3</Price></Item><Item><SKU>P78648</SKU><Description>Work Gloves - Leather</Description><Quantity>6</Quantity><Price>55.6</Price></Item><Item><SKU>P63111</SKU><Description>Tool Box - 19 inch</Description><Quantity>3</Quantity><Price>38.3</Price></Item><Item><SKU>P83865</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>1</Quantity><Price>77.74</Price></Item>
+      </Items>
+    </Order>

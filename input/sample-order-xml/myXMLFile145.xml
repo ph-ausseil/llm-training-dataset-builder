@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-06" >
+      <Customer id="CUST22584"
+  firstname="Nicoli"
+  lastname="Tamsky"
+  email="Nicoli.Tamsky@example.com"
+  />        <Seller id="EMP44779"
+  firstname="Susan"
+  lastname="Alabaster"
+  email="Susan.Alabaster@examplecompany.com"
+  />      <Items><Item><SKU>P96884</SKU><Description>Nail Gun - Electric</Description><Quantity>9</Quantity><Price>72.75</Price></Item><Item><SKU>P63152</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>8</Quantity><Price>28.18</Price></Item><Item><SKU>P63265</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>9</Quantity><Price>36.98</Price></Item><Item><SKU>P71304</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>8</Quantity><Price>72.18</Price></Item>
+      </Items>
+    </Order>

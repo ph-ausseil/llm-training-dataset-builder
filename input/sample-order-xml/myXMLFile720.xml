@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-23" >
+      <Customer id="CUST90756"
+  firstname="Netty"
+  lastname="Gerge"
+  email="Netty.Gerge@example.com"
+  />        <Seller id="EMP83444"
+  firstname="Ofilia"
+  lastname="Rodmann"
+  email="Ofilia.Rodmann@examplecompany.com"
+  />      <Items><Item><SKU>P10765</SKU><Description>Socket Set - 40 pieces</Description><Quantity>10</Quantity><Price>89.62</Price></Item><Item><SKU>P25269</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>9</Quantity><Price>66.91</Price></Item><Item><SKU>P95985</SKU><Description>Hacksaw - 12 inch</Description><Quantity>4</Quantity><Price>55.73</Price></Item><Item><SKU>P62169</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>8</Quantity><Price>51.41</Price></Item>
+      </Items>
+    </Order>

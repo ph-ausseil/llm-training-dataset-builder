@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-07" >
+      <Customer id="CUST21802"
+  firstname="Tatiania"
+  lastname="Chinua"
+  email="Tatiania.Chinua@example.com"
+  />        <Seller id="EMP38233"
+  firstname="Ilse"
+  lastname="Colp"
+  email="Ilse.Colp@examplecompany.com"
+  />      <Items><Item><SKU>P82737</SKU><Description>Tape Measure - 25 ft</Description><Quantity>8</Quantity><Price>25.27</Price></Item><Item><SKU>P61286</SKU><Description>Utility Knife - Retractable</Description><Quantity>8</Quantity><Price>58.14</Price></Item><Item><SKU>P47958</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>4</Quantity><Price>52.88</Price></Item><Item><SKU>P32384</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>7</Quantity><Price>19.62</Price></Item>
+      </Items>
+    </Order>

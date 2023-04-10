@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-31" >
+      <Customer id="CUST84441"
+  firstname="Phylis"
+  lastname="Suzetta"
+  email="Phylis.Suzetta@example.com"
+  />        <Seller id="EMP47816"
+  firstname="Babita"
+  lastname="Carey"
+  email="Babita.Carey@examplecompany.com"
+  />      <Items><Item><SKU>P19039</SKU><Description>Level - 24 inch</Description><Quantity>6</Quantity><Price>19.19</Price></Item><Item><SKU>P53889</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>1</Quantity><Price>50.87</Price></Item><Item><SKU>P52636</SKU><Description>Garden Hose - 50ft</Description><Quantity>3</Quantity><Price>87.03</Price></Item><Item><SKU>P56563</SKU><Description>Garden Hose - 50ft</Description><Quantity>8</Quantity><Price>77.24</Price></Item>
+      </Items>
+    </Order>

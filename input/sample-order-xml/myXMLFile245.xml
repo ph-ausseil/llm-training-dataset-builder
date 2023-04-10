@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-15" >
+      <Customer id="CUST13551"
+  firstname="Debee"
+  lastname="Anton"
+  email="Debee.Anton@example.com"
+  />        <Seller id="EMP62604"
+  firstname="Kristan"
+  lastname="Carri"
+  email="Kristan.Carri@examplecompany.com"
+  />      <Items><Item><SKU>P74172</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>1</Quantity><Price>17</Price></Item><Item><SKU>P11769</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>9</Quantity><Price>35.13</Price></Item><Item><SKU>P77710</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>65.86</Price></Item><Item><SKU>P56518</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>1</Quantity><Price>5.01</Price></Item>
+      </Items>
+    </Order>

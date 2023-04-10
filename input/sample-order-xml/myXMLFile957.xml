@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-30" >
+      <Customer id="CUST87675"
+  firstname="Sharai"
+  lastname="Diann"
+  email="Sharai.Diann@example.com"
+  />        <Seller id="EMP56037"
+  firstname="Karina"
+  lastname="Sheedy"
+  email="Karina.Sheedy@examplecompany.com"
+  />      <Items><Item><SKU>P50740</SKU><Description>Tarp - 12x16 ft</Description><Quantity>7</Quantity><Price>18.6</Price></Item><Item><SKU>P39333</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>3</Quantity><Price>61.63</Price></Item><Item><SKU>P48416</SKU><Description>Level - 24 inch</Description><Quantity>7</Quantity><Price>29.13</Price></Item><Item><SKU>P23705</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>4</Quantity><Price>29.51</Price></Item>
+      </Items>
+    </Order>

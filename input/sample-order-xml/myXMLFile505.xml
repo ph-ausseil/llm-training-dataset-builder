@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-27" >
+      <Customer id="CUST34552"
+  firstname="Aurelie"
+  lastname="Campball"
+  email="Aurelie.Campball@example.com"
+  />        <Seller id="EMP22501"
+  firstname="Vita"
+  lastname="Kelula"
+  email="Vita.Kelula@examplecompany.com"
+  />      <Items><Item><SKU>P50443</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>78.32</Price></Item><Item><SKU>P49655</SKU><Description>Power Drill - 18V</Description><Quantity>3</Quantity><Price>44.03</Price></Item><Item><SKU>P10632</SKU><Description>Garden Hose - 50ft</Description><Quantity>10</Quantity><Price>71.58</Price></Item><Item><SKU>P39355</SKU><Description>Stud Finder - Digital</Description><Quantity>1</Quantity><Price>42.69</Price></Item>
+      </Items>
+    </Order>

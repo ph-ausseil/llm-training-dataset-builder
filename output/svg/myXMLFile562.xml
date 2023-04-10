@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-12-14">
+  
+      
+  <Customer id="CUST45109" firstname="Clarice" lastname="Ochs" email="Clarice.Ochs@example.com"/>
+          
+  <Seller id="EMP71792" firstname="Tiffie" lastname="Ezar" email="Tiffie.Ezar@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P28369</SKU>
+      <Description>Sandpaper - Assorted Grits</Description>
+      <Quantity>5</Quantity>
+      <Price>90.409</Price>
+    </Item>
+    <Item>
+      <SKU>P77259</SKU>
+      <Description>Wire Stripper - 8 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>9.328000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>6</Quantity>
+      <Price>70.57600000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P85960</SKU>
+      <Description>LED Light Bulb - 60W</Description>
+      <Quantity>3</Quantity>
+      <Price>45.99100000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1069.44</TotalPrice>
+</Order>

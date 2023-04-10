@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-07-01" >
+      <Customer id="CUST38324"
+  firstname="Wendi"
+  lastname="Braun"
+  email="Wendi.Braun@example.com"
+  />        <Seller id="EMP88447"
+  firstname="Carolina"
+  lastname="Jacinda"
+  email="Carolina.Jacinda@examplecompany.com"
+  />      <Items><Item><SKU>P63935</SKU><Description>Nail Gun - Electric</Description><Quantity>9</Quantity><Price>50.41</Price></Item><Item><SKU>P80453</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>1</Quantity><Price>67.92</Price></Item><Item><SKU>P88505</SKU><Description>Level - 24 inch</Description><Quantity>1</Quantity><Price>22.06</Price></Item><Item><SKU>P56396</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>66.74</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-09-11" >
+      <Customer id="CUST36292"
+  firstname="Leia"
+  lastname="Gwenore"
+  email="Leia.Gwenore@example.com"
+  />        <Seller id="EMP39397"
+  firstname="Pamella"
+  lastname="Selway"
+  email="Pamella.Selway@examplecompany.com"
+  />      <Items><Item><SKU>P94153</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>7</Quantity><Price>66.63</Price></Item><Item><SKU>P17464</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>3</Quantity><Price>62.56</Price></Item><Item><SKU>P79441</SKU><Description>Hand Saw - 12 inch</Description><Quantity>2</Quantity><Price>87.32</Price></Item><Item><SKU>P37147</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>4</Quantity><Price>33.73</Price></Item>
+      </Items>
+    </Order>

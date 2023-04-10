@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-31" >
+      <Customer id="CUST64383"
+  firstname="Rosanne"
+  lastname="Teryn"
+  email="Rosanne.Teryn@example.com"
+  />        <Seller id="EMP48686"
+  firstname="Theodora"
+  lastname="Lattie"
+  email="Theodora.Lattie@examplecompany.com"
+  />      <Items><Item><SKU>P54388</SKU><Description>Tool Box - 19 inch</Description><Quantity>8</Quantity><Price>62.1</Price></Item><Item><SKU>P10248</SKU><Description>Garden Hose - 50ft</Description><Quantity>10</Quantity><Price>24.02</Price></Item><Item><SKU>P66879</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>9</Quantity><Price>83.08</Price></Item><Item><SKU>P96418</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>2</Quantity><Price>54.59</Price></Item>
+      </Items>
+    </Order>

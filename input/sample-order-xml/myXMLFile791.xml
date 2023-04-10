@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-01" >
+      <Customer id="CUST28410"
+  firstname="Devina"
+  lastname="Redmond"
+  email="Devina.Redmond@example.com"
+  />        <Seller id="EMP47648"
+  firstname="Carolina"
+  lastname="Marsden"
+  email="Carolina.Marsden@examplecompany.com"
+  />      <Items><Item><SKU>P42063</SKU><Description>Tool Box - 19 inch</Description><Quantity>8</Quantity><Price>33.43</Price></Item><Item><SKU>P38484</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>4</Quantity><Price>30.31</Price></Item><Item><SKU>P71620</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>4</Quantity><Price>77.49</Price></Item><Item><SKU>P91541</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>9</Quantity><Price>70.62</Price></Item>
+      </Items>
+    </Order>

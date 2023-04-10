@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-29" >
+      <Customer id="CUST97921"
+  firstname="Mathilda"
+  lastname="Maurine"
+  email="Mathilda.Maurine@example.com"
+  />        <Seller id="EMP82116"
+  firstname="Ida"
+  lastname="Dearborn"
+  email="Ida.Dearborn@examplecompany.com"
+  />      <Items><Item><SKU>P11562</SKU><Description>Workbench - Portable</Description><Quantity>4</Quantity><Price>11.48</Price></Item><Item><SKU>P63851</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>5</Quantity><Price>90.06</Price></Item><Item><SKU>P30997</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>8</Quantity><Price>22.06</Price></Item><Item><SKU>P33102</SKU><Description>Tape Measure - 25 ft</Description><Quantity>7</Quantity><Price>58.98</Price></Item>
+      </Items>
+    </Order>

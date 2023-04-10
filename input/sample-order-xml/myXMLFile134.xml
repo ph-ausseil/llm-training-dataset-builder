@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-09" >
+      <Customer id="CUST15177"
+  firstname="Eve"
+  lastname="Norrie"
+  email="Eve.Norrie@example.com"
+  />        <Seller id="EMP25546"
+  firstname="Di"
+  lastname="Haymes"
+  email="Di.Haymes@examplecompany.com"
+  />      <Items><Item><SKU>P25478</SKU><Description>Stud Finder - Digital</Description><Quantity>1</Quantity><Price>21.35</Price></Item><Item><SKU>P22958</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>61.94</Price></Item><Item><SKU>P33481</SKU><Description>Tape Measure - 25 ft</Description><Quantity>9</Quantity><Price>47.81</Price></Item><Item><SKU>P89931</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>43.95</Price></Item>
+      </Items>
+    </Order>

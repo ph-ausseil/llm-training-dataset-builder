@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-23" >
+      <Customer id="CUST92873"
+  firstname="Clary"
+  lastname="Riordan"
+  email="Clary.Riordan@example.com"
+  />        <Seller id="EMP69144"
+  firstname="Kylynn"
+  lastname="Azeria"
+  email="Kylynn.Azeria@examplecompany.com"
+  />      <Items><Item><SKU>P57023</SKU><Description>Hand Saw - 12 inch</Description><Quantity>4</Quantity><Price>29.09</Price></Item><Item><SKU>P78117</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>5</Quantity><Price>63.18</Price></Item><Item><SKU>P36885</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>3</Quantity><Price>9.11</Price></Item><Item><SKU>P70793</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>9</Quantity><Price>76.55</Price></Item>
+      </Items>
+    </Order>

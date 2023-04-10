@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-06-15">
+  
+      
+  <Customer id="CUST84567" firstname="Myriam" lastname="Laurianne" email="Myriam.Laurianne@example.com"/>
+          
+  <Seller id="EMP78365" firstname="Lexine" lastname="Lilas" email="Lexine.Lilas@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>44.176</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>4</Quantity>
+      <Price>100.089</Price>
+    </Item>
+    <Item>
+      <SKU>P49316</SKU>
+      <Description>Heavy-Duty Extension Cord - 100ft</Description>
+      <Quantity>9</Quantity>
+      <Price>55.121</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>1</Quantity>
+      <Price>12.397</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1173.9</TotalPrice>
+</Order>

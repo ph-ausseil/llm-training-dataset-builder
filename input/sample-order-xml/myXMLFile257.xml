@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-11" >
+      <Customer id="CUST63215"
+  firstname="Shandie"
+  lastname="Aprile"
+  email="Shandie.Aprile@example.com"
+  />        <Seller id="EMP29604"
+  firstname="Lorie"
+  lastname="Obed"
+  email="Lorie.Obed@examplecompany.com"
+  />      <Items><Item><SKU>P25767</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>3</Quantity><Price>57.38</Price></Item><Item><SKU>P63048</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>8</Quantity><Price>38.2</Price></Item><Item><SKU>P80553</SKU><Description>Nail Gun - Electric</Description><Quantity>5</Quantity><Price>34.35</Price></Item><Item><SKU>P80092</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>6</Quantity><Price>20.47</Price></Item>
+      </Items>
+    </Order>

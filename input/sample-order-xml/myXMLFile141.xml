@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-03" >
+      <Customer id="CUST34655"
+  firstname="Lisette"
+  lastname="Rosette"
+  email="Lisette.Rosette@example.com"
+  />        <Seller id="EMP42143"
+  firstname="Melisent"
+  lastname="Cristi"
+  email="Melisent.Cristi@examplecompany.com"
+  />      <Items><Item><SKU>P83197</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>5</Quantity><Price>58.71</Price></Item><Item><SKU>P84632</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>10</Quantity><Price>12.16</Price></Item><Item><SKU>P30751</SKU><Description>Safety Goggles - Clear</Description><Quantity>6</Quantity><Price>14.28</Price></Item><Item><SKU>P97552</SKU><Description>Stud Finder - Digital</Description><Quantity>4</Quantity><Price>36.64</Price></Item>
+      </Items>
+    </Order>

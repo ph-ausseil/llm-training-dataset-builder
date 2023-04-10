@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-27" >
+      <Customer id="CUST96667"
+  firstname="Mamie"
+  lastname="Campball"
+  email="Mamie.Campball@example.com"
+  />        <Seller id="EMP79741"
+  firstname="Shirlee"
+  lastname="Yate"
+  email="Shirlee.Yate@examplecompany.com"
+  />      <Items><Item><SKU>P42768</SKU><Description>Workbench - Portable</Description><Quantity>5</Quantity><Price>66.16</Price></Item><Item><SKU>P71182</SKU><Description>Workbench - Portable</Description><Quantity>8</Quantity><Price>45.36</Price></Item><Item><SKU>P54356</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>3</Quantity><Price>40.23</Price></Item><Item><SKU>P36341</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>1</Quantity><Price>42.6</Price></Item>
+      </Items>
+    </Order>

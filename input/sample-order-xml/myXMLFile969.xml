@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-25" >
+      <Customer id="CUST20992"
+  firstname="Eve"
+  lastname="Jotham"
+  email="Eve.Jotham@example.com"
+  />        <Seller id="EMP38993"
+  firstname="Valli"
+  lastname="Tayib"
+  email="Valli.Tayib@examplecompany.com"
+  />      <Items><Item><SKU>P27022</SKU><Description>Nail Gun - Electric</Description><Quantity>1</Quantity><Price>60.67</Price></Item><Item><SKU>P21321</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>5</Quantity><Price>13.25</Price></Item><Item><SKU>P97408</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>4</Quantity><Price>89.05</Price></Item><Item><SKU>P68686</SKU><Description>Workbench - Portable</Description><Quantity>5</Quantity><Price>70.86</Price></Item>
+      </Items>
+    </Order>

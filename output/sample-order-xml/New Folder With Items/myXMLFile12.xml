@@ -1,0 +1,8 @@
+<Order id="ODR76828472" date="2021-06-24">
+      
+      <Customer id="CUST62278" firstname="Cyndie" lastname="Matthew" email="Cyndie.Matthew@example.com" />
+        <Seller id="EMP68956" firstname="Georgina" lastname="Hashim" email="Georgina.Hashim@company.com" />
+      <Items>
+        <Item><SKU>P14229</SKU><Description>Garden Hose - 50ft</Description><Quantity>5</Quantity><Price>66.17</Price></Item><Item><SKU>P87143</SKU><Description>Utility Knife - Retractable</Description><Quantity>1</Quantity><Price>87.33</Price></Item><Item><SKU>P94541</SKU><Description>LED Light Bulb - 60W</Description><Quantity>3</Quantity><Price>33.77</Price></Item>
+      </Items>
+    <TotalPrice>330.85</TotalPrice><TotalPrice>418.18</TotalPrice><TotalPrice>519.49</TotalPrice></Order>

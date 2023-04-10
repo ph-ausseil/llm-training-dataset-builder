@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-05-24" >
+      <Customer id="CUST71923"
+  firstname="Alex"
+  lastname="Nerita"
+  email="Alex.Nerita@example.com"
+  />        <Seller id="EMP79870"
+  firstname="Aimil"
+  lastname="An"
+  email="Aimil.An@examplecompany.com"
+  />      <Items><Item><SKU>P98346</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>4</Quantity><Price>72.36</Price></Item><Item><SKU>P96026</SKU><Description>Hammer - 16 oz</Description><Quantity>8</Quantity><Price>36.27</Price></Item><Item><SKU>P12480</SKU><Description>Socket Set - 40 pieces</Description><Quantity>5</Quantity><Price>17.53</Price></Item><Item><SKU>P70328</SKU><Description>Hacksaw - 12 inch</Description><Quantity>5</Quantity><Price>36.86</Price></Item>
+      </Items>
+    </Order>

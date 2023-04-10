@@ -1,0 +1,8 @@
+<Order id="ODR61830063" date="2022-06-17">
+      
+      <Customer id="CUST56305" firstname="Jan" lastname="Mozelle" email="Jan.Mozelle@example.com" />
+        <Seller id="EMP1630" firstname="Korrie" lastname="Sammons" email="Korrie.Sammons@company.com" />
+      <Items>
+        <Item><SKU>P58541</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>61.25</Price></Item><Item><SKU>P9144</SKU><Description>Socket Set - 40 pieces</Description><Quantity>5</Quantity><Price>59.8</Price></Item><Item><SKU>P41412</SKU><Description>LED Light Bulb - 60W</Description><Quantity>4</Quantity><Price>21.6</Price></Item>
+      </Items>
+    <TotalPrice>245.0</TotalPrice><TotalPrice>544.0</TotalPrice><TotalPrice>630.4</TotalPrice></Order>

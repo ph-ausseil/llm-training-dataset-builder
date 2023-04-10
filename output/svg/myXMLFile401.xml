@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-07-21">
+  
+      
+  <Customer id="CUST11356" firstname="Ethel" lastname="Toor" email="Ethel.Toor@example.com"/>
+          
+  <Seller id="EMP12931" firstname="Mallory" lastname="Zetta" email="Mallory.Zetta@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>3</Quantity>
+      <Price>7.238</Price>
+    </Item>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>3</Quantity>
+      <Price>77.418</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>4</Quantity>
+      <Price>98.56</Price>
+    </Item>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>10</Quantity>
+      <Price>62.97500000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1277.96</TotalPrice>
+</Order>

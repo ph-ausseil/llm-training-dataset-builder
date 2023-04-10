@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-29" >
+      <Customer id="CUST67748"
+  firstname="Dyann"
+  lastname="Pascia"
+  email="Dyann.Pascia@example.com"
+  />        <Seller id="EMP93622"
+  firstname="Merrie"
+  lastname="Graig"
+  email="Merrie.Graig@examplecompany.com"
+  />      <Items><Item><SKU>P45956</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>6</Quantity><Price>36.83</Price></Item><Item><SKU>P39131</SKU><Description>Power Drill - 18V</Description><Quantity>9</Quantity><Price>84.54</Price></Item><Item><SKU>P38597</SKU><Description>Tarp - 12x16 ft</Description><Quantity>9</Quantity><Price>50.97</Price></Item><Item><SKU>P21194</SKU><Description>Tape Measure - 25 ft</Description><Quantity>10</Quantity><Price>53.26</Price></Item>
+      </Items>
+    </Order>

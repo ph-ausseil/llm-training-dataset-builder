@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-21" >
+      <Customer id="CUST24695"
+  firstname="Stacey"
+  lastname="Libna"
+  email="Stacey.Libna@example.com"
+  />        <Seller id="EMP36983"
+  firstname="Marylou"
+  lastname="Kenwood"
+  email="Marylou.Kenwood@examplecompany.com"
+  />      <Items><Item><SKU>P65365</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>5</Quantity><Price>41.57</Price></Item><Item><SKU>P84788</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>10</Quantity><Price>58.91</Price></Item><Item><SKU>P85889</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>6</Quantity><Price>84.28</Price></Item><Item><SKU>P41447</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>7</Quantity><Price>6.33</Price></Item>
+      </Items>
+    </Order>

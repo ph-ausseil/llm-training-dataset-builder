@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-01-05" >
+      <Customer id="CUST25595"
+  firstname="Vanessa"
+  lastname="Faro"
+  email="Vanessa.Faro@example.com"
+  />        <Seller id="EMP46985"
+  firstname="Tatiania"
+  lastname="Heisel"
+  email="Tatiania.Heisel@examplecompany.com"
+  />      <Items><Item><SKU>P77144</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>8</Quantity><Price>22.2</Price></Item><Item><SKU>P18065</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>6</Quantity><Price>54.55</Price></Item><Item><SKU>P66849</SKU><Description>Work Gloves - Leather</Description><Quantity>4</Quantity><Price>72.57</Price></Item><Item><SKU>P43078</SKU><Description>Socket Set - 40 pieces</Description><Quantity>10</Quantity><Price>47.68</Price></Item>
+      </Items>
+    </Order>

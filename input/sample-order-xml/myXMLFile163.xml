@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-02" >
+      <Customer id="CUST10705"
+  firstname="Henriette"
+  lastname="Ochs"
+  email="Henriette.Ochs@example.com"
+  />        <Seller id="EMP39186"
+  firstname="Sean"
+  lastname="Saint"
+  email="Sean.Saint@examplecompany.com"
+  />      <Items><Item><SKU>P72227</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>6</Quantity><Price>13.1</Price></Item><Item><SKU>P93192</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>7</Quantity><Price>64.42</Price></Item><Item><SKU>P55966</SKU><Description>Workbench - Portable</Description><Quantity>10</Quantity><Price>15.3</Price></Item><Item><SKU>P19434</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>4</Quantity><Price>81.58</Price></Item>
+      </Items>
+    </Order>

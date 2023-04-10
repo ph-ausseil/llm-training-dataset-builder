@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-19" >
+      <Customer id="CUST27320"
+  firstname="Hannis"
+  lastname="Sibyls"
+  email="Hannis.Sibyls@example.com"
+  />        <Seller id="EMP90128"
+  firstname="Gabriellia"
+  lastname="Callista"
+  email="Gabriellia.Callista@examplecompany.com"
+  />      <Items><Item><SKU>P11581</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>5</Quantity><Price>68.74</Price></Item><Item><SKU>P37391</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>2</Quantity><Price>23.74</Price></Item><Item><SKU>P24588</SKU><Description>Tarp - 12x16 ft</Description><Quantity>2</Quantity><Price>78.97</Price></Item><Item><SKU>P65614</SKU><Description>Miter Saw - 10 inch</Description><Quantity>5</Quantity><Price>22.97</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-10" >
+      <Customer id="CUST55493"
+  firstname="Hildegaard"
+  lastname="Joli"
+  email="Hildegaard.Joli@example.com"
+  />        <Seller id="EMP94329"
+  firstname="Kenna"
+  lastname="Pulsifer"
+  email="Kenna.Pulsifer@examplecompany.com"
+  />      <Items><Item><SKU>P65117</SKU><Description>Work Gloves - Leather</Description><Quantity>5</Quantity><Price>59.05</Price></Item><Item><SKU>P54080</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>6</Quantity><Price>49.98</Price></Item><Item><SKU>P43964</SKU><Description>Stud Finder - Digital</Description><Quantity>7</Quantity><Price>52.04</Price></Item><Item><SKU>P73386</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>7</Quantity><Price>16.85</Price></Item>
+      </Items>
+    </Order>

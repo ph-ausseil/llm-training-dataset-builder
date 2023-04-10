@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-21" >
+      <Customer id="CUST95765"
+  firstname="Millie"
+  lastname="Weaks"
+  email="Millie.Weaks@example.com"
+  />        <Seller id="EMP62563"
+  firstname="Meghann"
+  lastname="Terencio"
+  email="Meghann.Terencio@examplecompany.com"
+  />      <Items><Item><SKU>P42042</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>8</Quantity><Price>57.4</Price></Item><Item><SKU>P14831</SKU><Description>Workbench - Portable</Description><Quantity>2</Quantity><Price>11.27</Price></Item><Item><SKU>P18565</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>9</Quantity><Price>58.56</Price></Item><Item><SKU>P93510</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>4</Quantity><Price>55.29</Price></Item>
+      </Items>
+    </Order>

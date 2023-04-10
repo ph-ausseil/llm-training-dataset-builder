@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-02-02" >
+      <Customer id="CUST22320"
+  firstname="Anica"
+  lastname="Persse"
+  email="Anica.Persse@example.com"
+  />        <Seller id="EMP84000"
+  firstname="Melanie"
+  lastname="Jerald"
+  email="Melanie.Jerald@examplecompany.com"
+  />      <Items><Item><SKU>P89173</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>3</Quantity><Price>45.16</Price></Item><Item><SKU>P63002</SKU><Description>Work Gloves - Leather</Description><Quantity>6</Quantity><Price>53.59</Price></Item><Item><SKU>P91485</SKU><Description>LED Light Bulb - 60W</Description><Quantity>5</Quantity><Price>35.61</Price></Item><Item><SKU>P58116</SKU><Description>Nail Gun - Electric</Description><Quantity>8</Quantity><Price>52.6</Price></Item>
+      </Items>
+    </Order>

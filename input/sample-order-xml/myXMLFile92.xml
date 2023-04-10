@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-26" >
+      <Customer id="CUST12502"
+  firstname="Sybille"
+  lastname="Yate"
+  email="Sybille.Yate@example.com"
+  />        <Seller id="EMP45177"
+  firstname="Emelina"
+  lastname="Ovid"
+  email="Emelina.Ovid@examplecompany.com"
+  />      <Items><Item><SKU>P18854</SKU><Description>Tile Cutter - Manual</Description><Quantity>1</Quantity><Price>52.13</Price></Item><Item><SKU>P17461</SKU><Description>Tile Cutter - Manual</Description><Quantity>5</Quantity><Price>54.77</Price></Item><Item><SKU>P53419</SKU><Description>Utility Knife - Retractable</Description><Quantity>8</Quantity><Price>23.13</Price></Item><Item><SKU>P52926</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>1</Quantity><Price>9.51</Price></Item>
+      </Items>
+    </Order>

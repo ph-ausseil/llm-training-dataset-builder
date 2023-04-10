@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-09-21" >
+      <Customer id="CUST20369"
+  firstname="Maud"
+  lastname="Old"
+  email="Maud.Old@example.com"
+  />        <Seller id="EMP66477"
+  firstname="Yetty"
+  lastname="Cullin"
+  email="Yetty.Cullin@examplecompany.com"
+  />      <Items><Item><SKU>P98798</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>8</Quantity><Price>39.26</Price></Item><Item><SKU>P70196</SKU><Description>Level - 24 inch</Description><Quantity>9</Quantity><Price>18.92</Price></Item><Item><SKU>P75528</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>64.02</Price></Item><Item><SKU>P16622</SKU><Description>Work Gloves - Leather</Description><Quantity>7</Quantity><Price>33.76</Price></Item>
+      </Items>
+    </Order>

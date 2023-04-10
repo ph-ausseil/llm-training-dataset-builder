@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-09" >
+      <Customer id="CUST12891"
+  firstname="Meg"
+  lastname="Georgy"
+  email="Meg.Georgy@example.com"
+  />        <Seller id="EMP24387"
+  firstname="Elsie"
+  lastname="Masao"
+  email="Elsie.Masao@examplecompany.com"
+  />      <Items><Item><SKU>P22903</SKU><Description>Workbench - Portable</Description><Quantity>7</Quantity><Price>37.49</Price></Item><Item><SKU>P96202</SKU><Description>Power Drill - 18V</Description><Quantity>9</Quantity><Price>31.16</Price></Item><Item><SKU>P84305</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>8</Quantity><Price>89.05</Price></Item><Item><SKU>P57817</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>6</Quantity><Price>83.36</Price></Item>
+      </Items>
+    </Order>

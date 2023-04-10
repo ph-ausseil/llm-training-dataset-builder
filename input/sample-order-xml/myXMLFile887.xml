@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-21" >
+      <Customer id="CUST65429"
+  firstname="Amalie"
+  lastname="Trinetta"
+  email="Amalie.Trinetta@example.com"
+  />        <Seller id="EMP60604"
+  firstname="Dorice"
+  lastname="Hazlett"
+  email="Dorice.Hazlett@examplecompany.com"
+  />      <Items><Item><SKU>P93711</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>3</Quantity><Price>52.53</Price></Item><Item><SKU>P32574</SKU><Description>LED Light Bulb - 60W</Description><Quantity>5</Quantity><Price>65.81</Price></Item><Item><SKU>P92747</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>8</Quantity><Price>85.05</Price></Item><Item><SKU>P76214</SKU><Description>Workbench - Portable</Description><Quantity>8</Quantity><Price>84.03</Price></Item>
+      </Items>
+    </Order>

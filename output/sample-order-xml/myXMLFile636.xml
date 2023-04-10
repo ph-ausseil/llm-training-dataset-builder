@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-06-02">
+  
+      
+  <Customer id="CUST40245" firstname="Fidelia" lastname="Aida" email="Fidelia.Aida@example.com"/>
+          
+  <Seller id="EMP29379" firstname="Kalina" lastname="Quent" email="Kalina.Quent@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>3</Quantity>
+      <Price>64.16</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>71.82</Price>
+    </Item>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>41.05</Price>
+    </Item>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>3</Quantity>
+      <Price>86.92</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1274.1</TotalPrice>
+</Order>

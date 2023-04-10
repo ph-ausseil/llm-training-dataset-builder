@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-14" >
+      <Customer id="CUST45109"
+  firstname="Clarice"
+  lastname="Ochs"
+  email="Clarice.Ochs@example.com"
+  />        <Seller id="EMP71792"
+  firstname="Tiffie"
+  lastname="Ezar"
+  email="Tiffie.Ezar@examplecompany.com"
+  />      <Items><Item><SKU>P81275</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>5</Quantity><Price>56.15</Price></Item><Item><SKU>P87323</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>6</Quantity><Price>62.62</Price></Item><Item><SKU>P66166</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>6</Quantity><Price>11.58</Price></Item><Item><SKU>P27925</SKU><Description>LED Light Bulb - 60W</Description><Quantity>3</Quantity><Price>28.85</Price></Item>
+      </Items>
+    </Order>

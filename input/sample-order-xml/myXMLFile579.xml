@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-25" >
+      <Customer id="CUST97264"
+  firstname="Hildegaard"
+  lastname="Jerald"
+  email="Hildegaard.Jerald@example.com"
+  />        <Seller id="EMP98561"
+  firstname="Chrystel"
+  lastname="Yoko"
+  email="Chrystel.Yoko@examplecompany.com"
+  />      <Items><Item><SKU>P34767</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>7</Quantity><Price>50.45</Price></Item><Item><SKU>P73910</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>4</Quantity><Price>19.66</Price></Item><Item><SKU>P53797</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>5</Quantity><Price>53.77</Price></Item><Item><SKU>P79898</SKU><Description>Tape Measure - 25 ft</Description><Quantity>7</Quantity><Price>24.65</Price></Item>
+      </Items>
+    </Order>

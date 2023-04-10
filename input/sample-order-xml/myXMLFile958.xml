@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-02-28" >
+      <Customer id="CUST85454"
+  firstname="Claresta"
+  lastname="Carmena"
+  email="Claresta.Carmena@example.com"
+  />        <Seller id="EMP51066"
+  firstname="Leanna"
+  lastname="Rosette"
+  email="Leanna.Rosette@examplecompany.com"
+  />      <Items><Item><SKU>P96228</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>3</Quantity><Price>63.13</Price></Item><Item><SKU>P61885</SKU><Description>Hammer - 16 oz</Description><Quantity>3</Quantity><Price>57.06</Price></Item><Item><SKU>P55386</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>7</Quantity><Price>11.2</Price></Item><Item><SKU>P28726</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>10</Quantity><Price>49.55</Price></Item>
+      </Items>
+    </Order>

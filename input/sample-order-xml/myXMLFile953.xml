@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-11" >
+      <Customer id="CUST56502"
+  firstname="Goldie"
+  lastname="Camden"
+  email="Goldie.Camden@example.com"
+  />        <Seller id="EMP68303"
+  firstname="Angelique"
+  lastname="Eiser"
+  email="Angelique.Eiser@examplecompany.com"
+  />      <Items><Item><SKU>P25355</SKU><Description>Workbench - Portable</Description><Quantity>6</Quantity><Price>48.7</Price></Item><Item><SKU>P38189</SKU><Description>Stud Finder - Digital</Description><Quantity>4</Quantity><Price>72.14</Price></Item><Item><SKU>P98115</SKU><Description>Safety Goggles - Clear</Description><Quantity>5</Quantity><Price>14.44</Price></Item><Item><SKU>P85059</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>4</Quantity><Price>9.02</Price></Item>
+      </Items>
+    </Order>

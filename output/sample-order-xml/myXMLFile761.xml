@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-05-02">
+  
+      
+  <Customer id="CUST77811" firstname="Jany" lastname="Leler" email="Jany.Leler@example.com"/>
+          
+  <Seller id="EMP21180" firstname="Ginnie" lastname="Dorcy" email="Ginnie.Dorcy@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P19253</SKU>
+      <Description>Outdoor Lantern - Solar Powered</Description>
+      <Quantity>10</Quantity>
+      <Price>77.17</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>6</Quantity>
+      <Price>11.27</Price>
+    </Item>
+    <Item>
+      <SKU>P17627</SKU>
+      <Description>Caulking Gun - Heavy Duty</Description>
+      <Quantity>4</Quantity>
+      <Price>18.63</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>2</Quantity>
+      <Price>89.6</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1093.04</TotalPrice>
+</Order>

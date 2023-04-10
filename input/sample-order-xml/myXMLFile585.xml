@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-07-02" >
+      <Customer id="CUST26563"
+  firstname="Lita"
+  lastname="Ledah"
+  email="Lita.Ledah@example.com"
+  />        <Seller id="EMP59671"
+  firstname="Georgetta"
+  lastname="Percy"
+  email="Georgetta.Percy@examplecompany.com"
+  />      <Items><Item><SKU>P98056</SKU><Description>LED Light Bulb - 60W</Description><Quantity>1</Quantity><Price>10.68</Price></Item><Item><SKU>P38986</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>3</Quantity><Price>30.35</Price></Item><Item><SKU>P39729</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>6.57</Price></Item><Item><SKU>P26110</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>5</Quantity><Price>32.89</Price></Item>
+      </Items>
+    </Order>

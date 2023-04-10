@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-03-27" >
+      <Customer id="CUST67732"
+  firstname="Phylis"
+  lastname="Susannah"
+  email="Phylis.Susannah@example.com"
+  />        <Seller id="EMP58229"
+  firstname="Micheline"
+  lastname="Waldron"
+  email="Micheline.Waldron@examplecompany.com"
+  />      <Items><Item><SKU>P51672</SKU><Description>Work Gloves - Leather</Description><Quantity>7</Quantity><Price>48.42</Price></Item><Item><SKU>P48411</SKU><Description>Socket Set - 40 pieces</Description><Quantity>6</Quantity><Price>27.02</Price></Item><Item><SKU>P18910</SKU><Description>Workbench - Portable</Description><Quantity>1</Quantity><Price>19.34</Price></Item><Item><SKU>P45892</SKU><Description>Level - 24 inch</Description><Quantity>5</Quantity><Price>79.26</Price></Item>
+      </Items>
+    </Order>

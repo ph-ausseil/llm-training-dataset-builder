@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-04-05" >
+      <Customer id="CUST28402"
+  firstname="Jenda"
+  lastname="Margarete"
+  email="Jenda.Margarete@example.com"
+  />        <Seller id="EMP94039"
+  firstname="Lacie"
+  lastname="Dalli"
+  email="Lacie.Dalli@examplecompany.com"
+  />      <Items><Item><SKU>P90028</SKU><Description>LED Light Bulb - 60W</Description><Quantity>8</Quantity><Price>17.27</Price></Item><Item><SKU>P80202</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>2</Quantity><Price>44.8</Price></Item><Item><SKU>P71138</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>8</Quantity><Price>26.94</Price></Item><Item><SKU>P98636</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>7</Quantity><Price>47.85</Price></Item>
+      </Items>
+    </Order>

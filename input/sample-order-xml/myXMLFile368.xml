@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-01-07" >
+      <Customer id="CUST29256"
+  firstname="Eugine"
+  lastname="Dominy"
+  email="Eugine.Dominy@example.com"
+  />        <Seller id="EMP28486"
+  firstname="Carmencita"
+  lastname="Vittoria"
+  email="Carmencita.Vittoria@examplecompany.com"
+  />      <Items><Item><SKU>P28946</SKU><Description>Hacksaw - 12 inch</Description><Quantity>5</Quantity><Price>75.96</Price></Item><Item><SKU>P52272</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>6</Quantity><Price>53.31</Price></Item><Item><SKU>P80862</SKU><Description>Level - 24 inch</Description><Quantity>2</Quantity><Price>12.38</Price></Item><Item><SKU>P65934</SKU><Description>Hand Saw - 12 inch</Description><Quantity>4</Quantity><Price>9.12</Price></Item>
+      </Items>
+    </Order>

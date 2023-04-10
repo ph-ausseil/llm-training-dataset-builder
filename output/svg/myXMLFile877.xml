@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-08-07">
+  
+      
+  <Customer id="CUST89493" firstname="Georgina" lastname="Sinegold" email="Georgina.Sinegold@example.com"/>
+          
+  <Seller id="EMP73642" firstname="Fawne" lastname="Henrie" email="Fawne.Henrie@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>10</Quantity>
+      <Price>73.899</Price>
+    </Item>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>91.266</Price>
+    </Item>
+    <Item>
+      <SKU>P28369</SKU>
+      <Description>Sandpaper - Assorted Grits</Description>
+      <Quantity>1</Quantity>
+      <Price>86.2995</Price>
+    </Item>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>3</Quantity>
+      <Price>40.7715</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1038.87</TotalPrice>
+</Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-28" >
+      <Customer id="CUST15460"
+  firstname="Angelique"
+  lastname="Horan"
+  email="Angelique.Horan@example.com"
+  />        <Seller id="EMP93575"
+  firstname="Diena"
+  lastname="Shelba"
+  email="Diena.Shelba@examplecompany.com"
+  />      <Items><Item><SKU>P91850</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>7</Quantity><Price>84.63</Price></Item><Item><SKU>P70707</SKU><Description>Stud Finder - Digital</Description><Quantity>10</Quantity><Price>30.32</Price></Item><Item><SKU>P23407</SKU><Description>Tool Box - 19 inch</Description><Quantity>6</Quantity><Price>14.33</Price></Item><Item><SKU>P27265</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>6</Quantity><Price>50.11</Price></Item>
+      </Items>
+    </Order>

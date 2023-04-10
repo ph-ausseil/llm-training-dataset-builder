@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-03" >
+      <Customer id="CUST18494"
+  firstname="Jinny"
+  lastname="Levey"
+  email="Jinny.Levey@example.com"
+  />        <Seller id="EMP29584"
+  firstname="Adelle"
+  lastname="Dex"
+  email="Adelle.Dex@examplecompany.com"
+  />      <Items><Item><SKU>P18370</SKU><Description>Hand Saw - 12 inch</Description><Quantity>7</Quantity><Price>16.42</Price></Item><Item><SKU>P62180</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>6</Quantity><Price>57.4</Price></Item><Item><SKU>P14843</SKU><Description>Tile Cutter - Manual</Description><Quantity>5</Quantity><Price>86.3</Price></Item><Item><SKU>P44449</SKU><Description>LED Light Bulb - 60W</Description><Quantity>4</Quantity><Price>17.3</Price></Item>
+      </Items>
+    </Order>

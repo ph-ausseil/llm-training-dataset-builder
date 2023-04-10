@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-02-03" >
+      <Customer id="CUST50424"
+  firstname="Hayley"
+  lastname="Darbie"
+  email="Hayley.Darbie@example.com"
+  />        <Seller id="EMP10180"
+  firstname="Justinn"
+  lastname="Joseph"
+  email="Justinn.Joseph@examplecompany.com"
+  />      <Items><Item><SKU>P19427</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>10</Quantity><Price>55.76</Price></Item><Item><SKU>P45394</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>5</Quantity><Price>59.83</Price></Item><Item><SKU>P21689</SKU><Description>Safety Goggles - Clear</Description><Quantity>6</Quantity><Price>49.97</Price></Item><Item><SKU>P95300</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>10</Quantity><Price>65.03</Price></Item>
+      </Items>
+    </Order>

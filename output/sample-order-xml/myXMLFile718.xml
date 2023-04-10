@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-11-28">
+  
+      
+  <Customer id="CUST63242" firstname="Xylina" lastname="Norrie" email="Xylina.Norrie@example.com"/>
+          
+  <Seller id="EMP86104" firstname="Nanete" lastname="Craggie" email="Nanete.Craggie@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P14222</SKU>
+      <Description>Nail Gun - Electric</Description>
+      <Quantity>6</Quantity>
+      <Price>62.97500000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P24286</SKU>
+      <Description>Paint Brush Set - 5 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>30.250000000000004</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>79.39800000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>1</Quantity>
+      <Price>44.176</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>531.67</TotalPrice>
+</Order>

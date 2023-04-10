@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-04-23">
+  
+      
+  <Customer id="CUST32925" firstname="Margette" lastname="Deegan" email="Margette.Deegan@example.com"/>
+          
+  <Seller id="EMP96966" firstname="Arlena" lastname="Gale" email="Arlena.Gale@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>64.16</Price>
+    </Item>
+    <Item>
+      <SKU>P90361</SKU>
+      <Description>Power Drill - 18V</Description>
+      <Quantity>4</Quantity>
+      <Price>44.54</Price>
+    </Item>
+    <Item>
+      <SKU>P77259</SKU>
+      <Description>Wire Stripper - 8 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>8.48</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>267.76</TotalPrice>
+</Order>

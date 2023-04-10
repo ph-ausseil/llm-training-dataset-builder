@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-09" >
+      <Customer id="CUST73498"
+  firstname="Blinni"
+  lastname="Winthorpe"
+  email="Blinni.Winthorpe@example.com"
+  />        <Seller id="EMP28133"
+  firstname="Maridel"
+  lastname="Soneson"
+  email="Maridel.Soneson@examplecompany.com"
+  />      <Items><Item><SKU>P26855</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>7</Quantity><Price>88.5</Price></Item><Item><SKU>P78744</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>1</Quantity><Price>60.6</Price></Item><Item><SKU>P18597</SKU><Description>Tape Measure - 25 ft</Description><Quantity>5</Quantity><Price>30.34</Price></Item><Item><SKU>P84528</SKU><Description>Hand Saw - 12 inch</Description><Quantity>2</Quantity><Price>69.85</Price></Item>
+      </Items>
+    </Order>

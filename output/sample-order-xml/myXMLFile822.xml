@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-09-19">
+  
+      
+  <Customer id="CUST90665" firstname="Linet" lastname="Blake" email="Linet.Blake@example.com"/>
+          
+  <Seller id="EMP96471" firstname="Emylee" lastname="Hebner" email="Emylee.Hebner@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P66553</SKU>
+      <Description>Screwdriver Set - 6 pieces</Description>
+      <Quantity>7</Quantity>
+      <Price>91.266</Price>
+    </Item>
+    <Item>
+      <SKU>P13379</SKU>
+      <Description>Measuring Tape - 16 ft</Description>
+      <Quantity>7</Quantity>
+      <Price>6.909000000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>39.36450000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P41806</SKU>
+      <Description>Electric Screwdriver - 3.6V</Description>
+      <Quantity>7</Quantity>
+      <Price>46.872</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1251.52</TotalPrice>
+</Order>

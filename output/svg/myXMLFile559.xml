@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-09-25">
+  
+      
+  <Customer id="CUST42038" firstname="Beatriz" lastname="Nedrud" email="Beatriz.Nedrud@example.com"/>
+          
+  <Seller id="EMP15490" firstname="Lelah" lastname="Delila" email="Lelah.Delila@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>44.176</Price>
+    </Item>
+    <Item>
+      <SKU>P91537</SKU>
+      <Description>Miter Saw - 10 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>64.13</Price>
+    </Item>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>70.57600000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P17941</SKU>
+      <Description>Hand Saw - 12 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>31.548000000000002</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1031.01</TotalPrice>
+</Order>

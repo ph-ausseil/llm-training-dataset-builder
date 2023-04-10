@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-19" >
+      <Customer id="CUST49116"
+  firstname="Genevra"
+  lastname="Smitt"
+  email="Genevra.Smitt@example.com"
+  />        <Seller id="EMP52279"
+  firstname="Bibby"
+  lastname="Egbert"
+  email="Bibby.Egbert@examplecompany.com"
+  />      <Items><Item><SKU>P23604</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>8</Quantity><Price>8.5</Price></Item><Item><SKU>P21032</SKU><Description>Level - 24 inch</Description><Quantity>10</Quantity><Price>81.97</Price></Item><Item><SKU>P62834</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>3</Quantity><Price>11.07</Price></Item><Item><SKU>P74982</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>4</Quantity><Price>11.62</Price></Item>
+      </Items>
+    </Order>

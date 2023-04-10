@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-22" >
+      <Customer id="CUST30835"
+  firstname="Dede"
+  lastname="Burnside"
+  email="Dede.Burnside@example.com"
+  />        <Seller id="EMP50581"
+  firstname="Vita"
+  lastname="Idelia"
+  email="Vita.Idelia@examplecompany.com"
+  />      <Items><Item><SKU>P66894</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>2</Quantity><Price>20.92</Price></Item><Item><SKU>P67758</SKU><Description>Hammer - 16 oz</Description><Quantity>6</Quantity><Price>55.79</Price></Item><Item><SKU>P94311</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>2</Quantity><Price>22.45</Price></Item><Item><SKU>P14082</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>4</Quantity><Price>48.89</Price></Item>
+      </Items>
+    </Order>

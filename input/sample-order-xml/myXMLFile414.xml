@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-05-22" >
+      <Customer id="CUST80775"
+  firstname="Quintina"
+  lastname="Hanshaw"
+  email="Quintina.Hanshaw@example.com"
+  />        <Seller id="EMP70268"
+  firstname="Lyssa"
+  lastname="Kaete"
+  email="Lyssa.Kaete@examplecompany.com"
+  />      <Items><Item><SKU>P58640</SKU><Description>Miter Saw - 10 inch</Description><Quantity>1</Quantity><Price>44.21</Price></Item><Item><SKU>P49060</SKU><Description>Hand Saw - 12 inch</Description><Quantity>6</Quantity><Price>79.32</Price></Item><Item><SKU>P93517</SKU><Description>LED Light Bulb - 60W</Description><Quantity>5</Quantity><Price>19.73</Price></Item><Item><SKU>P63499</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>2</Quantity><Price>54.23</Price></Item>
+      </Items>
+    </Order>

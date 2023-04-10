@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-04-04" >
+      <Customer id="CUST47908"
+  firstname="Gretal"
+  lastname="Miru"
+  email="Gretal.Miru@example.com"
+  />        <Seller id="EMP13015"
+  firstname="Lucy"
+  lastname="Arathorn"
+  email="Lucy.Arathorn@examplecompany.com"
+  />      <Items><Item><SKU>P25031</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>3</Quantity><Price>34.22</Price></Item><Item><SKU>P38033</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>1</Quantity><Price>69.86</Price></Item><Item><SKU>P83125</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>7</Quantity><Price>28.3</Price></Item><Item><SKU>P82573</SKU><Description>Hacksaw - 12 inch</Description><Quantity>5</Quantity><Price>47.66</Price></Item>
+      </Items>
+    </Order>

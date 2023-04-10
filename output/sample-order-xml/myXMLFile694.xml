@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-07-29">
+  
+      
+  <Customer id="CUST79428" firstname="Michaelina" lastname="Duwalt" email="Michaelina.Duwalt@example.com"/>
+          
+  <Seller id="EMP18468" firstname="Jinny" lastname="Berne" email="Jinny.Berne@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>75.411</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>8</Quantity>
+      <Price>39.36450000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P65232</SKU>
+      <Description>Level - 24 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>70.27650000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>8</Quantity>
+      <Price>75.78900000000002</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1584.52</TotalPrice>
+</Order>

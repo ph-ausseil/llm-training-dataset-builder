@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-06-14" >
+      <Customer id="CUST86905"
+  firstname="Lauryn"
+  lastname="Phyllis"
+  email="Lauryn.Phyllis@example.com"
+  />        <Seller id="EMP86672"
+  firstname="Tina"
+  lastname="Dorothy"
+  email="Tina.Dorothy@examplecompany.com"
+  />      <Items><Item><SKU>P85970</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>5</Quantity><Price>12.51</Price></Item><Item><SKU>P35956</SKU><Description>Safety Goggles - Clear</Description><Quantity>4</Quantity><Price>87.7</Price></Item><Item><SKU>P13715</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>4</Quantity><Price>58.37</Price></Item><Item><SKU>P61311</SKU><Description>Stud Finder - Digital</Description><Quantity>9</Quantity><Price>80</Price></Item>
+      </Items>
+    </Order>

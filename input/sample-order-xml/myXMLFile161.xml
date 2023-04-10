@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-20" >
+      <Customer id="CUST59004"
+  firstname="Mathilda"
+  lastname="Havens"
+  email="Mathilda.Havens@example.com"
+  />        <Seller id="EMP45764"
+  firstname="Rori"
+  lastname="Mott"
+  email="Rori.Mott@examplecompany.com"
+  />      <Items><Item><SKU>P13591</SKU><Description>Hammer - 16 oz</Description><Quantity>9</Quantity><Price>36.47</Price></Item><Item><SKU>P87932</SKU><Description>Workbench - Portable</Description><Quantity>9</Quantity><Price>79.62</Price></Item><Item><SKU>P94691</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>2</Quantity><Price>34.17</Price></Item><Item><SKU>P44835</SKU><Description>Safety Goggles - Clear</Description><Quantity>10</Quantity><Price>16.47</Price></Item>
+      </Items>
+    </Order>

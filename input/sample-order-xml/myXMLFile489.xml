@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-03" >
+      <Customer id="CUST68392"
+  firstname="Linzy"
+  lastname="Mauer"
+  email="Linzy.Mauer@example.com"
+  />        <Seller id="EMP80626"
+  firstname="Maridel"
+  lastname="Joli"
+  email="Maridel.Joli@examplecompany.com"
+  />      <Items><Item><SKU>P67029</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>6</Quantity><Price>89.97</Price></Item><Item><SKU>P86253</SKU><Description>Hand Saw - 12 inch</Description><Quantity>6</Quantity><Price>19.02</Price></Item><Item><SKU>P24871</SKU><Description>Workbench - Portable</Description><Quantity>6</Quantity><Price>83.61</Price></Item><Item><SKU>P48607</SKU><Description>Workbench - Portable</Description><Quantity>2</Quantity><Price>68.4</Price></Item>
+      </Items>
+    </Order>

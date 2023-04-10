@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-05-07" >
+      <Customer id="CUST76340"
+  firstname="Selia"
+  lastname="Daniele"
+  email="Selia.Daniele@example.com"
+  />        <Seller id="EMP21299"
+  firstname="Harmonia"
+  lastname="Wesle"
+  email="Harmonia.Wesle@examplecompany.com"
+  />      <Items><Item><SKU>P82912</SKU><Description>Socket Set - 40 pieces</Description><Quantity>1</Quantity><Price>58.68</Price></Item><Item><SKU>P75683</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>5</Quantity><Price>33.24</Price></Item><Item><SKU>P48918</SKU><Description>Safety Goggles - Clear</Description><Quantity>4</Quantity><Price>33.52</Price></Item><Item><SKU>P64156</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>10</Quantity><Price>36.52</Price></Item>
+      </Items>
+    </Order>

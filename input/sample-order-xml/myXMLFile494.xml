@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-22" >
+      <Customer id="CUST72660"
+  firstname="Addia"
+  lastname="Paton"
+  email="Addia.Paton@example.com"
+  />        <Seller id="EMP50523"
+  firstname="Darci"
+  lastname="Matthew"
+  email="Darci.Matthew@examplecompany.com"
+  />      <Items><Item><SKU>P16401</SKU><Description>Nail Gun - Electric</Description><Quantity>4</Quantity><Price>84.6</Price></Item><Item><SKU>P51925</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>29.86</Price></Item><Item><SKU>P49160</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>2</Quantity><Price>6.67</Price></Item><Item><SKU>P11622</SKU><Description>Tape Measure - 25 ft</Description><Quantity>7</Quantity><Price>83.08</Price></Item>
+      </Items>
+    </Order>

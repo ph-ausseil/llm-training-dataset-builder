@@ -1,0 +1,8 @@
+<Order id="ODR74109903" date="2022-01-06">
+      
+      <Customer id="CUST95485" firstname="Gilda" lastname="Monk" email="Gilda.Monk@example.com" />
+        <Seller id="EMP76353" firstname="Konstance" lastname="Daniele" email="Konstance.Daniele@company.com" />
+      <Items>
+        <Item><SKU>P34140</SKU><Description>Socket Set - 40 pieces</Description><Quantity>2</Quantity><Price>36.89</Price></Item><Item><SKU>P57640</SKU><Description>Tarp - 12x16 ft</Description><Quantity>4</Quantity><Price>69.65</Price></Item><Item><SKU>P29399</SKU><Description>Tool Box - 19 inch</Description><Quantity>5</Quantity><Price>18.8</Price></Item>
+      </Items>
+    <TotalPrice>73.78</TotalPrice><TotalPrice>352.38</TotalPrice><TotalPrice>446.38</TotalPrice></Order>

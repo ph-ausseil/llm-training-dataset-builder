@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-25" >
+      <Customer id="CUST25202"
+  firstname="Daune"
+  lastname="Peg"
+  email="Daune.Peg@example.com"
+  />        <Seller id="EMP68441"
+  firstname="Lynnea"
+  lastname="Cherianne"
+  email="Lynnea.Cherianne@examplecompany.com"
+  />      <Items><Item><SKU>P25052</SKU><Description>Miter Saw - 10 inch</Description><Quantity>3</Quantity><Price>33.95</Price></Item><Item><SKU>P58214</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>10</Quantity><Price>5.12</Price></Item><Item><SKU>P56645</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>3</Quantity><Price>59.95</Price></Item><Item><SKU>P61448</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>7</Quantity><Price>26.15</Price></Item>
+      </Items>
+    </Order>

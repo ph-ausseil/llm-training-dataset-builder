@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-02" >
+      <Customer id="CUST59749"
+  firstname="Leia"
+  lastname="Lissi"
+  email="Leia.Lissi@example.com"
+  />        <Seller id="EMP65084"
+  firstname="Vere"
+  lastname="Edmund"
+  email="Vere.Edmund@examplecompany.com"
+  />      <Items><Item><SKU>P31259</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>2</Quantity><Price>79.91</Price></Item><Item><SKU>P86192</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>2</Quantity><Price>24.94</Price></Item><Item><SKU>P90707</SKU><Description>Jigsaw - Cordless</Description><Quantity>9</Quantity><Price>33.03</Price></Item><Item><SKU>P86270</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>3</Quantity><Price>18.27</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-05-12">
+  
+      
+  <Customer id="CUST87180" firstname="Binny" lastname="Pacorro" email="Binny.Pacorro@example.com"/>
+          
+  <Seller id="EMP79898" firstname="Tera" lastname="Dorcy" email="Tera.Dorcy@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P41806</SKU>
+      <Description>Electric Screwdriver - 3.6V</Description>
+      <Quantity>2</Quantity>
+      <Price>49.104000000000006</Price>
+    </Item>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>6</Quantity>
+      <Price>22.484</Price>
+    </Item>
+    <Item>
+      <SKU>P79695</SKU>
+      <Description>Tile Cutter - Manual</Description>
+      <Quantity>5</Quantity>
+      <Price>40.18300000000001</Price>
+    </Item>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>10.340000000000002</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>444.37</TotalPrice>
+</Order>

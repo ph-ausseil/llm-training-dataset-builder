@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-23" >
+      <Customer id="CUST14428"
+  firstname="Adriana"
+  lastname="Forrer"
+  email="Adriana.Forrer@example.com"
+  />        <Seller id="EMP96791"
+  firstname="Kassey"
+  lastname="Baylor"
+  email="Kassey.Baylor@examplecompany.com"
+  />      <Items><Item><SKU>P78266</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>3</Quantity><Price>88.06</Price></Item><Item><SKU>P99240</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>2</Quantity><Price>20.94</Price></Item><Item><SKU>P32999</SKU><Description>Miter Saw - 10 inch</Description><Quantity>1</Quantity><Price>88.34</Price></Item><Item><SKU>P29251</SKU><Description>Stud Finder - Digital</Description><Quantity>2</Quantity><Price>76.59</Price></Item>
+      </Items>
+    </Order>

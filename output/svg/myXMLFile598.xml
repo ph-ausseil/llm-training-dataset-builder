@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-04-19">
+  
+      
+  <Customer id="CUST72969" firstname="Cristabel" lastname="Fadiman" email="Cristabel.Fadiman@example.com"/>
+          
+  <Seller id="EMP75119" firstname="Valera" lastname="Juan" email="Valera.Juan@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P72757</SKU>
+      <Description>Tape Measure - 25 ft</Description>
+      <Quantity>4</Quantity>
+      <Price>90.08</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>10</Quantity>
+      <Price>72.18</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>6</Quantity>
+      <Price>89.6</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>3</Quantity>
+      <Price>11.27</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1653.53</TotalPrice>
+</Order>

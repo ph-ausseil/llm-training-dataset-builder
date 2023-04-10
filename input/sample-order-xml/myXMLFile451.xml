@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-24" >
+      <Customer id="CUST61872"
+  firstname="Nonnah"
+  lastname="Ricki"
+  email="Nonnah.Ricki@example.com"
+  />        <Seller id="EMP61869"
+  firstname="Dotty"
+  lastname="Urania"
+  email="Dotty.Urania@examplecompany.com"
+  />      <Items><Item><SKU>P49608</SKU><Description>Jigsaw - Cordless</Description><Quantity>9</Quantity><Price>74.89</Price></Item><Item><SKU>P42660</SKU><Description>Tape Measure - 25 ft</Description><Quantity>4</Quantity><Price>9.6</Price></Item><Item><SKU>P58811</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>2</Quantity><Price>72.69</Price></Item><Item><SKU>P12114</SKU><Description>Jigsaw - Cordless</Description><Quantity>8</Quantity><Price>86.41</Price></Item>
+      </Items>
+    </Order>

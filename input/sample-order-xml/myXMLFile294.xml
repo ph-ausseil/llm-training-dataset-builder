@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-25" >
+      <Customer id="CUST89795"
+  firstname="Elka"
+  lastname="Beebe"
+  email="Elka.Beebe@example.com"
+  />        <Seller id="EMP93902"
+  firstname="Kassey"
+  lastname="Gamaliel"
+  email="Kassey.Gamaliel@examplecompany.com"
+  />      <Items><Item><SKU>P15607</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>3</Quantity><Price>71.96</Price></Item><Item><SKU>P19270</SKU><Description>Tool Box - 19 inch</Description><Quantity>1</Quantity><Price>47.18</Price></Item><Item><SKU>P50008</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>6</Quantity><Price>34.01</Price></Item><Item><SKU>P36989</SKU><Description>Jigsaw - Cordless</Description><Quantity>8</Quantity><Price>58.92</Price></Item>
+      </Items>
+    </Order>

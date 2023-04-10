@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-08" >
+      <Customer id="CUST10740"
+  firstname="Valeda"
+  lastname="Lory"
+  email="Valeda.Lory@example.com"
+  />        <Seller id="EMP36143"
+  firstname="Almeta"
+  lastname="Esmaria"
+  email="Almeta.Esmaria@examplecompany.com"
+  />      <Items><Item><SKU>P23187</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>5</Quantity><Price>83.76</Price></Item><Item><SKU>P81126</SKU><Description>Level - 24 inch</Description><Quantity>6</Quantity><Price>62.28</Price></Item><Item><SKU>P65036</SKU><Description>Socket Set - 40 pieces</Description><Quantity>9</Quantity><Price>55.36</Price></Item><Item><SKU>P75649</SKU><Description>Jigsaw - Cordless</Description><Quantity>8</Quantity><Price>8.11</Price></Item>
+      </Items>
+    </Order>

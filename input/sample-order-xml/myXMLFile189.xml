@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-04-17" >
+      <Customer id="CUST81517"
+  firstname="Marline"
+  lastname="Rooney"
+  email="Marline.Rooney@example.com"
+  />        <Seller id="EMP84519"
+  firstname="Taffy"
+  lastname="Kristi"
+  email="Taffy.Kristi@examplecompany.com"
+  />      <Items><Item><SKU>P25784</SKU><Description>Work Gloves - Leather</Description><Quantity>1</Quantity><Price>28.79</Price></Item><Item><SKU>P45731</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>4</Quantity><Price>9.84</Price></Item><Item><SKU>P27384</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>1</Quantity><Price>60.52</Price></Item><Item><SKU>P89678</SKU><Description>Jigsaw - Cordless</Description><Quantity>2</Quantity><Price>59.64</Price></Item>
+      </Items>
+    </Order>

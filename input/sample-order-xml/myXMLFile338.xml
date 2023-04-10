@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-16" >
+      <Customer id="CUST76005"
+  firstname="Lanna"
+  lastname="Pozzy"
+  email="Lanna.Pozzy@example.com"
+  />        <Seller id="EMP89881"
+  firstname="Lynnea"
+  lastname="Seagraves"
+  email="Lynnea.Seagraves@examplecompany.com"
+  />      <Items><Item><SKU>P65579</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>1</Quantity><Price>11.11</Price></Item><Item><SKU>P16041</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>9</Quantity><Price>36.35</Price></Item><Item><SKU>P48733</SKU><Description>Tape Measure - 25 ft</Description><Quantity>5</Quantity><Price>41.21</Price></Item><Item><SKU>P21798</SKU><Description>Stud Finder - Digital</Description><Quantity>9</Quantity><Price>62.82</Price></Item>
+      </Items>
+    </Order>

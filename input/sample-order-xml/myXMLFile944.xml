@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-05-06" >
+      <Customer id="CUST77347"
+  firstname="Shell"
+  lastname="Miru"
+  email="Shell.Miru@example.com"
+  />        <Seller id="EMP71626"
+  firstname="Babita"
+  lastname="Alfons"
+  email="Babita.Alfons@examplecompany.com"
+  />      <Items><Item><SKU>P68665</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>11.5</Price></Item><Item><SKU>P29348</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>10</Quantity><Price>34.96</Price></Item><Item><SKU>P97851</SKU><Description>Utility Knife - Retractable</Description><Quantity>1</Quantity><Price>70.69</Price></Item><Item><SKU>P16051</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>2</Quantity><Price>27.16</Price></Item>
+      </Items>
+    </Order>

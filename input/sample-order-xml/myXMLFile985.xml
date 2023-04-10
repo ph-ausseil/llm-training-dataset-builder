@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-06-08" >
+      <Customer id="CUST73083"
+  firstname="Hayley"
+  lastname="Mathilde"
+  email="Hayley.Mathilde@example.com"
+  />        <Seller id="EMP90785"
+  firstname="Jobi"
+  lastname="Erlandson"
+  email="Jobi.Erlandson@examplecompany.com"
+  />      <Items><Item><SKU>P67561</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>7</Quantity><Price>45.74</Price></Item><Item><SKU>P36553</SKU><Description>Jigsaw - Cordless</Description><Quantity>1</Quantity><Price>20.29</Price></Item><Item><SKU>P36614</SKU><Description>Hand Saw - 12 inch</Description><Quantity>1</Quantity><Price>69.82</Price></Item><Item><SKU>P99823</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>4</Quantity><Price>58.18</Price></Item>
+      </Items>
+    </Order>

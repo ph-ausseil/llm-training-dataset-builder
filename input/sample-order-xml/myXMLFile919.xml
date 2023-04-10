@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-26" >
+      <Customer id="CUST86776"
+  firstname="Hayley"
+  lastname="Jehu"
+  email="Hayley.Jehu@example.com"
+  />        <Seller id="EMP38362"
+  firstname="Doro"
+  lastname="Cutlerr"
+  email="Doro.Cutlerr@examplecompany.com"
+  />      <Items><Item><SKU>P55368</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>2</Quantity><Price>26.63</Price></Item><Item><SKU>P29863</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>82.07</Price></Item><Item><SKU>P68587</SKU><Description>Nail Gun - Electric</Description><Quantity>10</Quantity><Price>82.48</Price></Item><Item><SKU>P85506</SKU><Description>Nail Gun - Electric</Description><Quantity>6</Quantity><Price>77.01</Price></Item>
+      </Items>
+    </Order>

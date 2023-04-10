@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-06-11" >
+      <Customer id="CUST68068"
+  firstname="Lily"
+  lastname="Bobbee"
+  email="Lily.Bobbee@example.com"
+  />        <Seller id="EMP97889"
+  firstname="Rhoda"
+  lastname="Arvo"
+  email="Rhoda.Arvo@examplecompany.com"
+  />      <Items><Item><SKU>P50202</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>2</Quantity><Price>41.93</Price></Item><Item><SKU>P39934</SKU><Description>Level - 24 inch</Description><Quantity>10</Quantity><Price>38.27</Price></Item><Item><SKU>P10569</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>8</Quantity><Price>21.77</Price></Item><Item><SKU>P34774</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>4</Quantity><Price>20.43</Price></Item>
+      </Items>
+    </Order>

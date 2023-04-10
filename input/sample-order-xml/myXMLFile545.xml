@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-03-28" >
+      <Customer id="CUST18729"
+  firstname="Tobe"
+  lastname="Sacken"
+  email="Tobe.Sacken@example.com"
+  />        <Seller id="EMP30477"
+  firstname="Sam"
+  lastname="Halla"
+  email="Sam.Halla@examplecompany.com"
+  />      <Items><Item><SKU>P98642</SKU><Description>Power Drill - 18V</Description><Quantity>8</Quantity><Price>87.89</Price></Item><Item><SKU>P70014</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>9</Quantity><Price>59.8</Price></Item><Item><SKU>P42121</SKU><Description>Tarp - 12x16 ft</Description><Quantity>7</Quantity><Price>29.11</Price></Item><Item><SKU>P47371</SKU><Description>Socket Set - 40 pieces</Description><Quantity>1</Quantity><Price>46.43</Price></Item>
+      </Items>
+    </Order>

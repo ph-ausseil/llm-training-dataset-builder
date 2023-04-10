@@ -1,0 +1,8 @@
+<Order id="ODR16830281" date="2022-08-26">
+      
+      <Customer id="CUST92651" firstname="Kaja" lastname="Sothena" email="Kaja.Sothena@example.com" />
+        <Seller id="EMP1338" firstname="Adore" lastname="Bartlett" email="Adore.Bartlett@company.com" />
+      <Items>
+        <Item><SKU>P58006</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>3</Quantity><Price>86.26</Price></Item><Item><SKU>P51990</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>3</Quantity><Price>11.89</Price></Item><Item><SKU>P40946</SKU><Description>Miter Saw - 10 inch</Description><Quantity>4</Quantity><Price>53.21</Price></Item>
+      </Items>
+    <TotalPrice>258.78000000000003</TotalPrice><TotalPrice>294.45000000000005</TotalPrice><TotalPrice>507.2900000000001</TotalPrice></Order>

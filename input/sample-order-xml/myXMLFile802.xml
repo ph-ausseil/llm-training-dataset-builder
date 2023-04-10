@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-24" >
+      <Customer id="CUST98605"
+  firstname="Marylou"
+  lastname="Berl"
+  email="Marylou.Berl@example.com"
+  />        <Seller id="EMP83003"
+  firstname="Dulce"
+  lastname="Koziara"
+  email="Dulce.Koziara@examplecompany.com"
+  />      <Items><Item><SKU>P91461</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>8</Quantity><Price>81.62</Price></Item><Item><SKU>P15008</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>7</Quantity><Price>73.44</Price></Item><Item><SKU>P23985</SKU><Description>Garden Hose - 50ft</Description><Quantity>7</Quantity><Price>67.56</Price></Item><Item><SKU>P84813</SKU><Description>Safety Goggles - Clear</Description><Quantity>8</Quantity><Price>26.54</Price></Item>
+      </Items>
+    </Order>

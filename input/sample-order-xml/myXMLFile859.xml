@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-03-03" >
+      <Customer id="CUST43487"
+  firstname="Camile"
+  lastname="Arathorn"
+  email="Camile.Arathorn@example.com"
+  />        <Seller id="EMP34020"
+  firstname="Binny"
+  lastname="Screens"
+  email="Binny.Screens@examplecompany.com"
+  />      <Items><Item><SKU>P43390</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>1</Quantity><Price>36.32</Price></Item><Item><SKU>P36722</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>5</Quantity><Price>9.51</Price></Item><Item><SKU>P54760</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>6</Quantity><Price>51.99</Price></Item><Item><SKU>P50777</SKU><Description>Tape Measure - 25 ft</Description><Quantity>6</Quantity><Price>19.01</Price></Item>
+      </Items>
+    </Order>

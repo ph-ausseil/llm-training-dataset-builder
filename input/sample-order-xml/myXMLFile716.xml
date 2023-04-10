@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-08-25" >
+      <Customer id="CUST91275"
+  firstname="Valli"
+  lastname="Xerxes"
+  email="Valli.Xerxes@example.com"
+  />        <Seller id="EMP20956"
+  firstname="Jaime"
+  lastname="Raychel"
+  email="Jaime.Raychel@examplecompany.com"
+  />      <Items><Item><SKU>P26388</SKU><Description>Hacksaw - 12 inch</Description><Quantity>7</Quantity><Price>10.11</Price></Item><Item><SKU>P44586</SKU><Description>Hand Saw - 12 inch</Description><Quantity>3</Quantity><Price>36.58</Price></Item><Item><SKU>P83262</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>10</Quantity><Price>76.53</Price></Item><Item><SKU>P91548</SKU><Description>Garden Hose - 50ft</Description><Quantity>4</Quantity><Price>47.68</Price></Item>
+      </Items>
+    </Order>

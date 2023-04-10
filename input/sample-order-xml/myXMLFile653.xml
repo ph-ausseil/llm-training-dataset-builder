@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-03-10" >
+      <Customer id="CUST69851"
+  firstname="Leia"
+  lastname="Madox"
+  email="Leia.Madox@example.com"
+  />        <Seller id="EMP61262"
+  firstname="Stephanie"
+  lastname="Celestine"
+  email="Stephanie.Celestine@examplecompany.com"
+  />      <Items><Item><SKU>P26860</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>7</Quantity><Price>76.61</Price></Item><Item><SKU>P62947</SKU><Description>Jigsaw - Cordless</Description><Quantity>8</Quantity><Price>41.6</Price></Item><Item><SKU>P43607</SKU><Description>Power Drill - 18V</Description><Quantity>8</Quantity><Price>13.1</Price></Item><Item><SKU>P59198</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>72.35</Price></Item>
+      </Items>
+    </Order>

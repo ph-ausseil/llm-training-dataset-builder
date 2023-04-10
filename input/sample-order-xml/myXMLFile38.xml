@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-25" >
+      <Customer id="CUST98910"
+  firstname="Kara-Lynn"
+  lastname="Jalbert"
+  email="Kara-Lynn.Jalbert@example.com"
+  />        <Seller id="EMP20220"
+  firstname="Cathie"
+  lastname="Celestine"
+  email="Cathie.Celestine@examplecompany.com"
+  />      <Items><Item><SKU>P29358</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>9</Quantity><Price>63.62</Price></Item><Item><SKU>P52258</SKU><Description>Workbench - Portable</Description><Quantity>5</Quantity><Price>39.44</Price></Item><Item><SKU>P66022</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>7</Quantity><Price>60.27</Price></Item><Item><SKU>P62420</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>3</Quantity><Price>45.4</Price></Item>
+      </Items>
+    </Order>

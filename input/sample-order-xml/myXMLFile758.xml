@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-10-11" >
+      <Customer id="CUST63556"
+  firstname="Lucille"
+  lastname="Anselmi"
+  email="Lucille.Anselmi@example.com"
+  />        <Seller id="EMP32724"
+  firstname="Sophia"
+  lastname="Astra"
+  email="Sophia.Astra@examplecompany.com"
+  />      <Items><Item><SKU>P37777</SKU><Description>Tool Box - 19 inch</Description><Quantity>6</Quantity><Price>39.92</Price></Item><Item><SKU>P29396</SKU><Description>Socket Set - 40 pieces</Description><Quantity>3</Quantity><Price>43.38</Price></Item><Item><SKU>P45657</SKU><Description>Tape Measure - 25 ft</Description><Quantity>10</Quantity><Price>75.48</Price></Item><Item><SKU>P15113</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>6</Quantity><Price>76.69</Price></Item>
+      </Items>
+    </Order>

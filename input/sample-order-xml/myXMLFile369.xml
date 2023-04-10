@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-22" >
+      <Customer id="CUST79702"
+  firstname="Steffane"
+  lastname="Drus"
+  email="Steffane.Drus@example.com"
+  />        <Seller id="EMP97646"
+  firstname="Stephanie"
+  lastname="Bury"
+  email="Stephanie.Bury@examplecompany.com"
+  />      <Items><Item><SKU>P20395</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>5</Quantity><Price>38.56</Price></Item><Item><SKU>P24434</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>8</Quantity><Price>49.4</Price></Item><Item><SKU>P41673</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>10</Quantity><Price>34.19</Price></Item><Item><SKU>P62512</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>7</Quantity><Price>23.49</Price></Item>
+      </Items>
+    </Order>

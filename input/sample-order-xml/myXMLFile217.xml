@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-22" >
+      <Customer id="CUST43903"
+  firstname="Caressa"
+  lastname="Evangelia"
+  email="Caressa.Evangelia@example.com"
+  />        <Seller id="EMP81667"
+  firstname="Sophia"
+  lastname="Rebecka"
+  email="Sophia.Rebecka@examplecompany.com"
+  />      <Items><Item><SKU>P52256</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>3</Quantity><Price>34.63</Price></Item><Item><SKU>P79304</SKU><Description>LED Light Bulb - 60W</Description><Quantity>6</Quantity><Price>76.03</Price></Item><Item><SKU>P84778</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>10</Quantity><Price>79.2</Price></Item><Item><SKU>P71715</SKU><Description>Tile Cutter - Manual</Description><Quantity>2</Quantity><Price>46.49</Price></Item>
+      </Items>
+    </Order>

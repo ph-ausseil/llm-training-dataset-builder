@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-15" >
+      <Customer id="CUST10946"
+  firstname="Xylina"
+  lastname="Orlene"
+  email="Xylina.Orlene@example.com"
+  />        <Seller id="EMP64593"
+  firstname="Kathi"
+  lastname="Ophelia"
+  email="Kathi.Ophelia@examplecompany.com"
+  />      <Items><Item><SKU>P10058</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>8</Quantity><Price>57.7</Price></Item><Item><SKU>P87743</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>5</Quantity><Price>87.88</Price></Item><Item><SKU>P57978</SKU><Description>Hammer - 16 oz</Description><Quantity>3</Quantity><Price>58.79</Price></Item><Item><SKU>P33958</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>7</Quantity><Price>19.52</Price></Item>
+      </Items>
+    </Order>

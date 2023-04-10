@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-10-30" >
+      <Customer id="CUST45688"
+  firstname="Mamie"
+  lastname="Howlyn"
+  email="Mamie.Howlyn@example.com"
+  />        <Seller id="EMP63560"
+  firstname="Chickie"
+  lastname="Fosque"
+  email="Chickie.Fosque@examplecompany.com"
+  />      <Items><Item><SKU>P55873</SKU><Description>Tape Measure - 25 ft</Description><Quantity>9</Quantity><Price>14.27</Price></Item><Item><SKU>P14786</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>2</Quantity><Price>63.72</Price></Item><Item><SKU>P50883</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>2</Quantity><Price>71.51</Price></Item><Item><SKU>P17492</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>6</Quantity><Price>83.79</Price></Item>
+      </Items>
+    </Order>

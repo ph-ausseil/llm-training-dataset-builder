@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-10-17" >
+      <Customer id="CUST83345"
+  firstname="Gabi"
+  lastname="Karylin"
+  email="Gabi.Karylin@example.com"
+  />        <Seller id="EMP30574"
+  firstname="Amelia"
+  lastname="Marden"
+  email="Amelia.Marden@examplecompany.com"
+  />      <Items><Item><SKU>P55057</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>10</Quantity><Price>6.37</Price></Item><Item><SKU>P68147</SKU><Description>Power Drill - 18V</Description><Quantity>10</Quantity><Price>69.28</Price></Item><Item><SKU>P17803</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>18.7</Price></Item><Item><SKU>P29025</SKU><Description>Hacksaw - 12 inch</Description><Quantity>2</Quantity><Price>45.12</Price></Item>
+      </Items>
+    </Order>

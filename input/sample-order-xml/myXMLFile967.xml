@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-09-30" >
+      <Customer id="CUST63604"
+  firstname="Mallory"
+  lastname="Truc"
+  email="Mallory.Truc@example.com"
+  />        <Seller id="EMP29050"
+  firstname="Elsie"
+  lastname="Standing"
+  email="Elsie.Standing@examplecompany.com"
+  />      <Items><Item><SKU>P15289</SKU><Description>Safety Goggles - Clear</Description><Quantity>2</Quantity><Price>52.71</Price></Item><Item><SKU>P93276</SKU><Description>Power Drill - 18V</Description><Quantity>2</Quantity><Price>86.47</Price></Item><Item><SKU>P84620</SKU><Description>Miter Saw - 10 inch</Description><Quantity>7</Quantity><Price>54.17</Price></Item><Item><SKU>P91088</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>3</Quantity><Price>6.95</Price></Item>
+      </Items>
+    </Order>

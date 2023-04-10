@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-09-30" >
+      <Customer id="CUST25103"
+  firstname="Belinda"
+  lastname="Solitta"
+  email="Belinda.Solitta@example.com"
+  />        <Seller id="EMP59959"
+  firstname="Valera"
+  lastname="Denis"
+  email="Valera.Denis@examplecompany.com"
+  />      <Items><Item><SKU>P12998</SKU><Description>Power Drill - 18V</Description><Quantity>7</Quantity><Price>62.77</Price></Item><Item><SKU>P19967</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>5</Quantity><Price>66.83</Price></Item><Item><SKU>P13542</SKU><Description>Garden Hose - 50ft</Description><Quantity>10</Quantity><Price>23.29</Price></Item><Item><SKU>P63105</SKU><Description>Hand Saw - 12 inch</Description><Quantity>7</Quantity><Price>9.03</Price></Item>
+      </Items>
+    </Order>

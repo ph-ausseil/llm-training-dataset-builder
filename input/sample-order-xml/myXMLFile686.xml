@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-04-28" >
+      <Customer id="CUST51089"
+  firstname="Phedra"
+  lastname="Wildermuth"
+  email="Phedra.Wildermuth@example.com"
+  />        <Seller id="EMP65258"
+  firstname="Cecile"
+  lastname="Kenney"
+  email="Cecile.Kenney@examplecompany.com"
+  />      <Items><Item><SKU>P85491</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>8</Quantity><Price>30.69</Price></Item><Item><SKU>P70319</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>2</Quantity><Price>18.06</Price></Item><Item><SKU>P58686</SKU><Description>Level - 24 inch</Description><Quantity>3</Quantity><Price>78.86</Price></Item><Item><SKU>P57972</SKU><Description>Level - 24 inch</Description><Quantity>7</Quantity><Price>41.84</Price></Item>
+      </Items>
+    </Order>

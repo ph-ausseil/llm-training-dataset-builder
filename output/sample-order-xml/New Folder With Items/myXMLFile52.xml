@@ -1,0 +1,8 @@
+<Order id="ODR33009219" date="2022-07-11">
+      
+      <Customer id="CUST3187" firstname="Vivia" lastname="Melleta" email="Vivia.Melleta@example.com" />
+        <Seller id="EMP69149" firstname="Iseabal" lastname="Milde" email="Iseabal.Milde@company.com" />
+      <Items>
+        <Item><SKU>P97392</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>3</Quantity><Price>76.18</Price></Item><Item><SKU>P28262</SKU><Description>LED Light Bulb - 60W</Description><Quantity>4</Quantity><Price>48.6</Price></Item><Item><SKU>P75950</SKU><Description>LED Light Bulb - 60W</Description><Quantity>4</Quantity><Price>87.54</Price></Item>
+      </Items>
+    <TotalPrice>228.54000000000002</TotalPrice><TotalPrice>422.94000000000005</TotalPrice><TotalPrice>773.1000000000001</TotalPrice></Order>

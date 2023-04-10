@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-04-09">
+  
+      
+  <Customer id="CUST27968" firstname="Jenilee" lastname="Pelagias" email="Jenilee.Pelagias@example.com"/>
+          
+  <Seller id="EMP54211" firstname="Emylee" lastname="Longfellow" email="Emylee.Longfellow@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P41806</SKU>
+      <Description>Electric Screwdriver - 3.6V</Description>
+      <Quantity>2</Quantity>
+      <Price>49.104000000000006</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>8</Quantity>
+      <Price>68.486</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>79.002</Price>
+    </Item>
+    <Item>
+      <SKU>P42816</SKU>
+      <Description>Paint Roller Kit - 9 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>44.176</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1296.81</TotalPrice>
+</Order>

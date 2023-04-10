@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-01-03">
+  
+      
+  <Customer id="CUST89218" firstname="Ulrike" lastname="Friede" email="Ulrike.Friede@example.com"/>
+          
+  <Seller id="EMP27899" firstname="Belinda" lastname="Armanda" email="Belinda.Armanda@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P77259</SKU>
+      <Description>Wire Stripper - 8 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>8.904000000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>6</Quantity>
+      <Price>40.7715</Price>
+    </Item>
+    <Item>
+      <SKU>P19253</SKU>
+      <Description>Outdoor Lantern - Solar Powered</Description>
+      <Quantity>2</Quantity>
+      <Price>81.02850000000001</Price>
+    </Item>
+  </Items>
+  
+    
+  <TotalPrice>433.4</TotalPrice>
+</Order>

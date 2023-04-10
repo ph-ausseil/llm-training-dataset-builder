@@ -1,0 +1,8 @@
+<Order id="ODR13895127" date="2022-09-06">
+      
+      <Customer id="CUST48249" firstname="Ileana" lastname="Erskine" email="Ileana.Erskine@example.com" />
+        <Seller id="EMP58066" firstname="Shannah" lastname="Mata" email="Shannah.Mata@company.com" />
+      <Items>
+        <Item><SKU>P57228</SKU><Description>Stud Finder - Digital</Description><Quantity>3</Quantity><Price>22.32</Price></Item><Item><SKU>P75879</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>5</Quantity><Price>67.4</Price></Item><Item><SKU>P6260</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>5</Quantity><Price>28.36</Price></Item>
+      </Items>
+    <TotalPrice>66.96000000000001</TotalPrice><TotalPrice>403.96000000000004</TotalPrice><TotalPrice>545.76</TotalPrice></Order>

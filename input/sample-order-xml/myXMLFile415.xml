@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-02-09" >
+      <Customer id="CUST48845"
+  firstname="Joleen"
+  lastname="Pulsifer"
+  email="Joleen.Pulsifer@example.com"
+  />        <Seller id="EMP28868"
+  firstname="Ketti"
+  lastname="Idelia"
+  email="Ketti.Idelia@examplecompany.com"
+  />      <Items><Item><SKU>P81901</SKU><Description>Tile Cutter - Manual</Description><Quantity>2</Quantity><Price>90.13</Price></Item><Item><SKU>P86087</SKU><Description>Level - 24 inch</Description><Quantity>9</Quantity><Price>26.01</Price></Item><Item><SKU>P73216</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>68.77</Price></Item><Item><SKU>P29915</SKU><Description>Tarp - 12x16 ft</Description><Quantity>9</Quantity><Price>5.88</Price></Item>
+      </Items>
+    </Order>

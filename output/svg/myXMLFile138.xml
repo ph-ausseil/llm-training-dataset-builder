@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-07-05">
+  
+      
+  <Customer id="CUST32699" firstname="Katuscha" lastname="Allys" email="Katuscha.Allys@example.com"/>
+          
+  <Seller id="EMP87465" firstname="Sissy" lastname="Arne" email="Sissy.Arne@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>1</Quantity>
+      <Price>89.98</Price>
+    </Item>
+    <Item>
+      <SKU>P73288</SKU>
+      <Description>Stud Finder - Digital</Description>
+      <Quantity>8</Quantity>
+      <Price>24.13</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>71.82</Price>
+    </Item>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>6</Quantity>
+      <Price>20.44</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>836.58</TotalPrice>
+</Order>

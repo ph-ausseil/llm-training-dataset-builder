@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-07-26">
+  
+      
+  <Customer id="CUST81606" firstname="Hildegaard" lastname="Wildermuth" email="Hildegaard.Wildermuth@example.com"/>
+          
+  <Seller id="EMP92755" firstname="Kial" lastname="Taam" email="Kial.Taam@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>7</Quantity>
+      <Price>85.16</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>5</Quantity>
+      <Price>62.26</Price>
+    </Item>
+    <Item>
+      <SKU>P17627</SKU>
+      <Description>Caulking Gun - Heavy Duty</Description>
+      <Quantity>4</Quantity>
+      <Price>18.63</Price>
+    </Item>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>2</Quantity>
+      <Price>89.98</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1161.9</TotalPrice>
+</Order>

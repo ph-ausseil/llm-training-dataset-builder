@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-03-27" >
+      <Customer id="CUST34669"
+  firstname="Lorne"
+  lastname="Thar"
+  email="Lorne.Thar@example.com"
+  />        <Seller id="EMP35482"
+  firstname="Pollyanna"
+  lastname="Soneson"
+  email="Pollyanna.Soneson@examplecompany.com"
+  />      <Items><Item><SKU>P63364</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>8</Quantity><Price>29.77</Price></Item><Item><SKU>P59882</SKU><Description>Workbench - Portable</Description><Quantity>2</Quantity><Price>17.77</Price></Item><Item><SKU>P82885</SKU><Description>Hand Saw - 12 inch</Description><Quantity>10</Quantity><Price>35.02</Price></Item><Item><SKU>P12101</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>10</Quantity><Price>86.15</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,8 @@
+<Order id="ODR67721355" date="2021-01-18">
+      
+      <Customer id="CUST46128" firstname="Merle" lastname="Ellerey" email="Merle.Ellerey@example.com" />
+        <Seller id="EMP22284" firstname="Dotty" lastname="Redmond" email="Dotty.Redmond@company.com" />
+      <Items>
+        <Item><SKU>P53182</SKU><Description>Hacksaw - 12 inch</Description><Quantity>5</Quantity><Price>90.4</Price></Item><Item><SKU>P62847</SKU><Description>Socket Set - 40 pieces</Description><Quantity>5</Quantity><Price>40.64</Price></Item><Item><SKU>P90667</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>3</Quantity><Price>75.47</Price></Item>
+      </Items>
+    <TotalPrice>452.0</TotalPrice><TotalPrice>655.2</TotalPrice><TotalPrice>881.61</TotalPrice></Order>

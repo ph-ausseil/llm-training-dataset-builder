@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-01-27" >
+      <Customer id="CUST99454"
+  firstname="Brietta"
+  lastname="Septima"
+  email="Brietta.Septima@example.com"
+  />        <Seller id="EMP80089"
+  firstname="Arlena"
+  lastname="Abernon"
+  email="Arlena.Abernon@examplecompany.com"
+  />      <Items><Item><SKU>P79853</SKU><Description>Garden Hose - 50ft</Description><Quantity>3</Quantity><Price>39.05</Price></Item><Item><SKU>P89504</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>6</Quantity><Price>59.12</Price></Item><Item><SKU>P90241</SKU><Description>Jigsaw - Cordless</Description><Quantity>3</Quantity><Price>46.71</Price></Item><Item><SKU>P19252</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>2</Quantity><Price>46.65</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-01-18" >
+      <Customer id="CUST81242"
+  firstname="Britni"
+  lastname="Waldron"
+  email="Britni.Waldron@example.com"
+  />        <Seller id="EMP69476"
+  firstname="Fred"
+  lastname="Uird"
+  email="Fred.Uird@examplecompany.com"
+  />      <Items><Item><SKU>P32577</SKU><Description>Hacksaw - 12 inch</Description><Quantity>4</Quantity><Price>19.66</Price></Item><Item><SKU>P48382</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>2</Quantity><Price>37.98</Price></Item><Item><SKU>P12758</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>2</Quantity><Price>6.91</Price></Item><Item><SKU>P73043</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>4</Quantity><Price>58.14</Price></Item>
+      </Items>
+    </Order>

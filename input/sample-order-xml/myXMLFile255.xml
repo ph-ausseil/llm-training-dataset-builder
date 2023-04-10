@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-25" >
+      <Customer id="CUST35768"
+  firstname="Moyna"
+  lastname="Hewitt"
+  email="Moyna.Hewitt@example.com"
+  />        <Seller id="EMP66737"
+  firstname="Brandise"
+  lastname="Brodench"
+  email="Brandise.Brodench@examplecompany.com"
+  />      <Items><Item><SKU>P96833</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>9.63</Price></Item><Item><SKU>P38341</SKU><Description>Hacksaw - 12 inch</Description><Quantity>2</Quantity><Price>10.96</Price></Item><Item><SKU>P70233</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>1</Quantity><Price>26.94</Price></Item><Item><SKU>P60802</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>6</Quantity><Price>80.82</Price></Item>
+      </Items>
+    </Order>

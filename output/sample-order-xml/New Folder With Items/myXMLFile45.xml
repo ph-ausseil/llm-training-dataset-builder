@@ -1,0 +1,8 @@
+<Order id="ODR43151405" date="2021-04-27">
+      
+      <Customer id="CUST33563" firstname="Pearline" lastname="Gladstone" email="Pearline.Gladstone@example.com" />
+        <Seller id="EMP4756" firstname="Maurene" lastname="Alice" email="Maurene.Alice@company.com" />
+      <Items>
+        <Item><SKU>P93609</SKU><Description>Miter Saw - 10 inch</Description><Quantity>2</Quantity><Price>11.29</Price></Item><Item><SKU>P70754</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>1</Quantity><Price>70.04</Price></Item><Item><SKU>P7390</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>4</Quantity><Price>21.47</Price></Item>
+      </Items>
+    <TotalPrice>22.58</TotalPrice><TotalPrice>92.62</TotalPrice><TotalPrice>178.5</TotalPrice></Order>

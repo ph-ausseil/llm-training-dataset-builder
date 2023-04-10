@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-04-28">
+  
+      
+  <Customer id="CUST54280" firstname="Daryl" lastname="Clara" email="Daryl.Clara@example.com"/>
+          
+  <Seller id="EMP62840" firstname="Belva" lastname="Christine" email="Belva.Christine@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>5</Quantity>
+      <Price>11.27</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>9</Quantity>
+      <Price>37.49</Price>
+    </Item>
+    <Item>
+      <SKU>P37543</SKU>
+      <Description>Safety Goggles - Clear</Description>
+      <Quantity>5</Quantity>
+      <Price>62.26</Price>
+    </Item>
+    <Item>
+      <SKU>P56185</SKU>
+      <Description>Hacksaw - 12 inch</Description>
+      <Quantity>10</Quantity>
+      <Price>89.98</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1604.86</TotalPrice>
+</Order>

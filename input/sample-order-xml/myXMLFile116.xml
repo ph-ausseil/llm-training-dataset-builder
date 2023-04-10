@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-09" >
+      <Customer id="CUST74654"
+  firstname="Yetty"
+  lastname="Hunfredo"
+  email="Yetty.Hunfredo@example.com"
+  />        <Seller id="EMP27887"
+  firstname="Dennie"
+  lastname="Bettine"
+  email="Dennie.Bettine@examplecompany.com"
+  />      <Items><Item><SKU>P69994</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>6</Quantity><Price>8.46</Price></Item><Item><SKU>P29471</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>83.95</Price></Item><Item><SKU>P42559</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>7</Quantity><Price>66.88</Price></Item><Item><SKU>P62092</SKU><Description>Power Drill - 18V</Description><Quantity>4</Quantity><Price>29.43</Price></Item>
+      </Items>
+    </Order>

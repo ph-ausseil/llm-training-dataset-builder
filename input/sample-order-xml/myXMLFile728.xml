@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-12-08" >
+      <Customer id="CUST35277"
+  firstname="Aigneis"
+  lastname="Haerr"
+  email="Aigneis.Haerr@example.com"
+  />        <Seller id="EMP53998"
+  firstname="Marline"
+  lastname="Merell"
+  email="Marline.Merell@examplecompany.com"
+  />      <Items><Item><SKU>P46136</SKU><Description>Hammer - 16 oz</Description><Quantity>6</Quantity><Price>65.55</Price></Item><Item><SKU>P66431</SKU><Description>Nail Gun - Electric</Description><Quantity>8</Quantity><Price>90.38</Price></Item><Item><SKU>P43846</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>7</Quantity><Price>23.27</Price></Item><Item><SKU>P51094</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>10</Quantity><Price>69.34</Price></Item>
+      </Items>
+    </Order>

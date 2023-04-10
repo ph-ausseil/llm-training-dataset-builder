@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-01-01" >
+      <Customer id="CUST82460"
+  firstname="Reeba"
+  lastname="Jerold"
+  email="Reeba.Jerold@example.com"
+  />        <Seller id="EMP84406"
+  firstname="Suzette"
+  lastname="Diogenes"
+  email="Suzette.Diogenes@examplecompany.com"
+  />      <Items><Item><SKU>P67612</SKU><Description>Tool Box - 19 inch</Description><Quantity>9</Quantity><Price>81.34</Price></Item><Item><SKU>P47372</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>7</Quantity><Price>64.5</Price></Item><Item><SKU>P90721</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>6</Quantity><Price>22.85</Price></Item><Item><SKU>P76480</SKU><Description>Hacksaw - 12 inch</Description><Quantity>9</Quantity><Price>58.28</Price></Item>
+      </Items>
+    </Order>

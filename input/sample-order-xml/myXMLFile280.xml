@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-02-10" >
+      <Customer id="CUST95886"
+  firstname="Chickie"
+  lastname="Cadmar"
+  email="Chickie.Cadmar@example.com"
+  />        <Seller id="EMP67779"
+  firstname="Cam"
+  lastname="Turne"
+  email="Cam.Turne@examplecompany.com"
+  />      <Items><Item><SKU>P32782</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>4</Quantity><Price>9.17</Price></Item><Item><SKU>P66177</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>3</Quantity><Price>41.03</Price></Item><Item><SKU>P89118</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>1</Quantity><Price>14.38</Price></Item><Item><SKU>P86383</SKU><Description>Socket Set - 40 pieces</Description><Quantity>5</Quantity><Price>10.46</Price></Item>
+      </Items>
+    </Order>

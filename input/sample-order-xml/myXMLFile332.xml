@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-17" >
+      <Customer id="CUST70229"
+  firstname="Penelopa"
+  lastname="Dimitris"
+  email="Penelopa.Dimitris@example.com"
+  />        <Seller id="EMP36232"
+  firstname="Aurore"
+  lastname="Bollay"
+  email="Aurore.Bollay@examplecompany.com"
+  />      <Items><Item><SKU>P30983</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>2</Quantity><Price>7.53</Price></Item><Item><SKU>P83727</SKU><Description>Hammer - 16 oz</Description><Quantity>2</Quantity><Price>65.25</Price></Item><Item><SKU>P91081</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>1</Quantity><Price>88.27</Price></Item><Item><SKU>P94408</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>3</Quantity><Price>36.64</Price></Item>
+      </Items>
+    </Order>

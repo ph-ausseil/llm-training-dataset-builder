@@ -1,0 +1,8 @@
+<Order id="ODR26975510" date="2022-07-02">
+      
+      <Customer id="CUST25567" firstname="Emma" lastname="Jacinda" email="Emma.Jacinda@example.com" />
+        <Seller id="EMP29868" firstname="Korrie" lastname="Odell" email="Korrie.Odell@company.com" />
+      <Items>
+        <Item><SKU>P98635</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>3</Quantity><Price>88.1</Price></Item><Item><SKU>P76807</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>1</Quantity><Price>60.64</Price></Item><Item><SKU>P51805</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>3</Quantity><Price>18.23</Price></Item>
+      </Items>
+    <TotalPrice>264.29999999999995</TotalPrice><TotalPrice>324.93999999999994</TotalPrice><TotalPrice>379.62999999999994</TotalPrice></Order>

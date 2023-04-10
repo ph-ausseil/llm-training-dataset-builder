@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-07-04" >
+      <Customer id="CUST86969"
+  firstname="Nelle"
+  lastname="Hailee"
+  email="Nelle.Hailee@example.com"
+  />        <Seller id="EMP78681"
+  firstname="Joceline"
+  lastname="Boycey"
+  email="Joceline.Boycey@examplecompany.com"
+  />      <Items><Item><SKU>P20993</SKU><Description>Hacksaw - 12 inch</Description><Quantity>3</Quantity><Price>79.76</Price></Item><Item><SKU>P14623</SKU><Description>Utility Knife - Retractable</Description><Quantity>4</Quantity><Price>22.01</Price></Item><Item><SKU>P11108</SKU><Description>LED Light Bulb - 60W</Description><Quantity>9</Quantity><Price>85.47</Price></Item><Item><SKU>P72868</SKU><Description>Miter Saw - 10 inch</Description><Quantity>9</Quantity><Price>16.44</Price></Item>
+      </Items>
+    </Order>

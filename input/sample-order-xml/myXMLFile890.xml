@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-06-10" >
+      <Customer id="CUST54806"
+  firstname="Dorice"
+  lastname="Sherfield"
+  email="Dorice.Sherfield@example.com"
+  />        <Seller id="EMP83455"
+  firstname="Jordan"
+  lastname="Rad"
+  email="Jordan.Rad@examplecompany.com"
+  />      <Items><Item><SKU>P95515</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>5</Quantity><Price>11.81</Price></Item><Item><SKU>P28477</SKU><Description>Level - 24 inch</Description><Quantity>5</Quantity><Price>63.33</Price></Item><Item><SKU>P53418</SKU><Description>Hacksaw - 12 inch</Description><Quantity>8</Quantity><Price>62.67</Price></Item><Item><SKU>P89374</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>4</Quantity><Price>15.53</Price></Item>
+      </Items>
+    </Order>

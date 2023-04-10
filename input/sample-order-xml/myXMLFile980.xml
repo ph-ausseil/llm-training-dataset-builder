@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2023-02-26" >
+      <Customer id="CUST76316"
+  firstname="Aaren"
+  lastname="Edvard"
+  email="Aaren.Edvard@example.com"
+  />        <Seller id="EMP72509"
+  firstname="Berget"
+  lastname="Chesna"
+  email="Berget.Chesna@examplecompany.com"
+  />      <Items><Item><SKU>P63838</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>7</Quantity><Price>22.41</Price></Item><Item><SKU>P96286</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>4</Quantity><Price>35.36</Price></Item><Item><SKU>P74803</SKU><Description>Jigsaw - Cordless</Description><Quantity>1</Quantity><Price>53.92</Price></Item><Item><SKU>P82980</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>8</Quantity><Price>69.88</Price></Item>
+      </Items>
+    </Order>

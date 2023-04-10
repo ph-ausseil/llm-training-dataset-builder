@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-15" >
+      <Customer id="CUST35748"
+  firstname="Elyssa"
+  lastname="Hepsibah"
+  email="Elyssa.Hepsibah@example.com"
+  />        <Seller id="EMP58678"
+  firstname="Morganica"
+  lastname="Vacuva"
+  email="Morganica.Vacuva@examplecompany.com"
+  />      <Items><Item><SKU>P16597</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>3</Quantity><Price>7.15</Price></Item><Item><SKU>P22097</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>4</Quantity><Price>36.91</Price></Item><Item><SKU>P18708</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>3</Quantity><Price>39.12</Price></Item><Item><SKU>P49451</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>9</Quantity><Price>68.59</Price></Item>
+      </Items>
+    </Order>

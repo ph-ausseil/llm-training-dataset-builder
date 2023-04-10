@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-08-06" >
+      <Customer id="CUST48033"
+  firstname="Beth"
+  lastname="Burch"
+  email="Beth.Burch@example.com"
+  />        <Seller id="EMP78785"
+  firstname="Adele"
+  lastname="Croix"
+  email="Adele.Croix@examplecompany.com"
+  />      <Items><Item><SKU>P77481</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>9</Quantity><Price>88.61</Price></Item><Item><SKU>P62747</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>7</Quantity><Price>32.69</Price></Item><Item><SKU>P49862</SKU><Description>Jigsaw - Cordless</Description><Quantity>4</Quantity><Price>11.01</Price></Item><Item><SKU>P19298</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>4</Quantity><Price>70.58</Price></Item>
+      </Items>
+    </Order>

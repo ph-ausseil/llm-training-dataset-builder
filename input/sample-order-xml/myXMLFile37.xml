@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-01-28" >
+      <Customer id="CUST75606"
+  firstname="Rochette"
+  lastname="Thornburg"
+  email="Rochette.Thornburg@example.com"
+  />        <Seller id="EMP37632"
+  firstname="Natka"
+  lastname="Jacqui"
+  email="Natka.Jacqui@examplecompany.com"
+  />      <Items><Item><SKU>P74810</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>6</Quantity><Price>67.31</Price></Item><Item><SKU>P13450</SKU><Description>Tool Box - 19 inch</Description><Quantity>3</Quantity><Price>53.23</Price></Item><Item><SKU>P82691</SKU><Description>Workbench - Portable</Description><Quantity>8</Quantity><Price>82.51</Price></Item><Item><SKU>P64720</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>2</Quantity><Price>79</Price></Item>
+      </Items>
+    </Order>

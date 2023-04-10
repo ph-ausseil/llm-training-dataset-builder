@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-28" >
+      <Customer id="CUST86805"
+  firstname="Mara"
+  lastname="Sibyls"
+  email="Mara.Sibyls@example.com"
+  />        <Seller id="EMP51105"
+  firstname="Merci"
+  lastname="Burkle"
+  email="Merci.Burkle@examplecompany.com"
+  />      <Items><Item><SKU>P33923</SKU><Description>Level - 24 inch</Description><Quantity>6</Quantity><Price>71.12</Price></Item><Item><SKU>P54090</SKU><Description>Hand Saw - 12 inch</Description><Quantity>5</Quantity><Price>19.46</Price></Item><Item><SKU>P68918</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>8</Quantity><Price>81.2</Price></Item><Item><SKU>P36780</SKU><Description>Workbench - Portable</Description><Quantity>9</Quantity><Price>31.74</Price></Item>
+      </Items>
+    </Order>

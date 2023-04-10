@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-07-30" >
+      <Customer id="CUST49373"
+  firstname="Rosaline"
+  lastname="Dom"
+  email="Rosaline.Dom@example.com"
+  />        <Seller id="EMP75361"
+  firstname="Cam"
+  lastname="Harriman"
+  email="Cam.Harriman@examplecompany.com"
+  />      <Items><Item><SKU>P94057</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>2</Quantity><Price>8.78</Price></Item><Item><SKU>P34202</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>6</Quantity><Price>23.38</Price></Item><Item><SKU>P33665</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>6</Quantity><Price>16.44</Price></Item><Item><SKU>P58946</SKU><Description>Work Gloves - Leather</Description><Quantity>6</Quantity><Price>78.15</Price></Item>
+      </Items>
+    </Order>

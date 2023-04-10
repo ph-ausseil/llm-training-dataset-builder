@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-08-21">
+  
+      
+  <Customer id="CUST89514" firstname="Laure" lastname="Karylin" email="Laure.Karylin@example.com"/>
+          
+  <Seller id="EMP15790" firstname="Louella" lastname="Meter" email="Louella.Meter@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>4</Quantity>
+      <Price>41.05</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>10</Quantity>
+      <Price>90.99</Price>
+    </Item>
+    <Item>
+      <SKU>P85960</SKU>
+      <Description>LED Light Bulb - 60W</Description>
+      <Quantity>6</Quantity>
+      <Price>41.81</Price>
+    </Item>
+    <Item>
+      <SKU>P85138</SKU>
+      <Description>Tarp - 12x16 ft</Description>
+      <Quantity>7</Quantity>
+      <Price>37.82</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1589.7</TotalPrice>
+</Order>

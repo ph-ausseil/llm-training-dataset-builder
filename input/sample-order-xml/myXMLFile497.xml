@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-11-25" >
+      <Customer id="CUST18054"
+  firstname="Bertine"
+  lastname="Carri"
+  email="Bertine.Carri@example.com"
+  />        <Seller id="EMP31977"
+  firstname="Tersina"
+  lastname="Pernick"
+  email="Tersina.Pernick@examplecompany.com"
+  />      <Items><Item><SKU>P79533</SKU><Description>Nail Gun - Electric</Description><Quantity>6</Quantity><Price>90.69</Price></Item><Item><SKU>P86418</SKU><Description>Miter Saw - 10 inch</Description><Quantity>5</Quantity><Price>49.92</Price></Item><Item><SKU>P42042</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>10</Quantity><Price>59.32</Price></Item><Item><SKU>P88781</SKU><Description>Power Drill - 18V</Description><Quantity>3</Quantity><Price>28.4</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2021-08-08">
+  
+      
+  <Customer id="CUST49590" firstname="Eve" lastname="Stevy" email="Eve.Stevy@example.com"/>
+          
+  <Seller id="EMP43587" firstname="Ericka" lastname="Jacqui" email="Ericka.Jacqui@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P87047</SKU>
+      <Description>Wrench Set - 10 pieces</Description>
+      <Quantity>5</Quantity>
+      <Price>89.418</Price>
+    </Item>
+    <Item>
+      <SKU>P35922</SKU>
+      <Description>Chisel Set - 4 pieces</Description>
+      <Quantity>7</Quantity>
+      <Price>75.78900000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P85960</SKU>
+      <Description>LED Light Bulb - 60W</Description>
+      <Quantity>6</Quantity>
+      <Price>43.9005</Price>
+    </Item>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>1</Quantity>
+      <Price>9.870000000000001</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>1250.89</TotalPrice>
+</Order>

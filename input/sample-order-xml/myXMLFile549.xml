@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-25" >
+      <Customer id="CUST96995"
+  firstname="Kristan"
+  lastname="Jarib"
+  email="Kristan.Jarib@example.com"
+  />        <Seller id="EMP93092"
+  firstname="Vita"
+  lastname="Tillford"
+  email="Vita.Tillford@examplecompany.com"
+  />      <Items><Item><SKU>P49536</SKU><Description>Level - 24 inch</Description><Quantity>1</Quantity><Price>65.61</Price></Item><Item><SKU>P12826</SKU><Description>Hammer - 16 oz</Description><Quantity>8</Quantity><Price>90.82</Price></Item><Item><SKU>P70643</SKU><Description>Tape Measure - 25 ft</Description><Quantity>10</Quantity><Price>90.78</Price></Item><Item><SKU>P74317</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>2</Quantity><Price>53.05</Price></Item>
+      </Items>
+    </Order>

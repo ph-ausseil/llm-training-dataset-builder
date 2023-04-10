@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-03-06" >
+      <Customer id="CUST96489"
+  firstname="Gisela"
+  lastname="Ludewig"
+  email="Gisela.Ludewig@example.com"
+  />        <Seller id="EMP49993"
+  firstname="Zaria"
+  lastname="Lytton"
+  email="Zaria.Lytton@examplecompany.com"
+  />      <Items><Item><SKU>P61162</SKU><Description>Socket Set - 40 pieces</Description><Quantity>4</Quantity><Price>90.5</Price></Item><Item><SKU>P87587</SKU><Description>Tool Box - 19 inch</Description><Quantity>9</Quantity><Price>26.31</Price></Item><Item><SKU>P46757</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>10</Quantity><Price>31.39</Price></Item><Item><SKU>P98798</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>88.31</Price></Item>
+      </Items>
+    </Order>

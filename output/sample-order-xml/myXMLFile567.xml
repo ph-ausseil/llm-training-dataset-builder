@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-11-04">
+  
+      
+  <Customer id="CUST75586" firstname="Chickie" lastname="Hartnett" email="Chickie.Hartnett@example.com"/>
+          
+  <Seller id="EMP57732" firstname="Coral" lastname="Orlene" email="Coral.Orlene@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P64945</SKU>
+      <Description>Utility Knife - Retractable</Description>
+      <Quantity>4</Quantity>
+      <Price>9.8</Price>
+    </Item>
+    <Item>
+      <SKU>P24286</SKU>
+      <Description>Paint Brush Set - 5 pieces</Description>
+      <Quantity>8</Quantity>
+      <Price>27.5</Price>
+    </Item>
+    <Item>
+      <SKU>P33159</SKU>
+      <Description>Garden Hose - 50ft</Description>
+      <Quantity>4</Quantity>
+      <Price>70.38</Price>
+    </Item>
+    <Item>
+      <SKU>P57547</SKU>
+      <Description>Cordless Leaf Blower - 20V</Description>
+      <Quantity>2</Quantity>
+      <Price>89.6</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>719.92</TotalPrice>
+</Order>

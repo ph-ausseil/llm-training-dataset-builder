@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-11-03" >
+      <Customer id="CUST72716"
+  firstname="Lyssa"
+  lastname="Tound"
+  email="Lyssa.Tound@example.com"
+  />        <Seller id="EMP58341"
+  firstname="Eugine"
+  lastname="Moseley"
+  email="Eugine.Moseley@examplecompany.com"
+  />      <Items><Item><SKU>P87697</SKU><Description>Workbench - Portable</Description><Quantity>4</Quantity><Price>61.85</Price></Item><Item><SKU>P28156</SKU><Description>Safety Goggles - Clear</Description><Quantity>6</Quantity><Price>69.76</Price></Item><Item><SKU>P70426</SKU><Description>Level - 24 inch</Description><Quantity>9</Quantity><Price>68.81</Price></Item><Item><SKU>P83213</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>3</Quantity><Price>36.5</Price></Item>
+      </Items>
+    </Order>

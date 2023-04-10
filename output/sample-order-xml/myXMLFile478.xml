@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-07-14">
+  
+      
+  <Customer id="CUST21752" firstname="Berta" lastname="Orelee" email="Berta.Orelee@example.com"/>
+          
+  <Seller id="EMP25691" firstname="Layla" lastname="Bivins" email="Layla.Bivins@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P73288</SKU>
+      <Description>Stud Finder - Digital</Description>
+      <Quantity>2</Quantity>
+      <Price>24.13</Price>
+    </Item>
+    <Item>
+      <SKU>P88497</SKU>
+      <Description>Adjustable Wrench - 12 inch</Description>
+      <Quantity>7</Quantity>
+      <Price>71.82</Price>
+    </Item>
+    <Item>
+      <SKU>P14831</SKU>
+      <Description>Workbench - Portable</Description>
+      <Quantity>3</Quantity>
+      <Price>11.27</Price>
+    </Item>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>10</Quantity>
+      <Price>20.44</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>789.21</TotalPrice>
+</Order>

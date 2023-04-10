@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-02-21" >
+      <Customer id="CUST67428"
+  firstname="Marnia"
+  lastname="Morehouse"
+  email="Marnia.Morehouse@example.com"
+  />        <Seller id="EMP83044"
+  firstname="Annora"
+  lastname="Baylor"
+  email="Annora.Baylor@examplecompany.com"
+  />      <Items><Item><SKU>P63778</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>7</Quantity><Price>15.74</Price></Item><Item><SKU>P64434</SKU><Description>Hammer - 16 oz</Description><Quantity>8</Quantity><Price>20.23</Price></Item><Item><SKU>P64227</SKU><Description>Safety Goggles - Clear</Description><Quantity>4</Quantity><Price>55.18</Price></Item><Item><SKU>P57704</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>4</Quantity><Price>49.08</Price></Item>
+      </Items>
+    </Order>

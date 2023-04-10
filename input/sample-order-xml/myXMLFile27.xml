@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-19" >
+      <Customer id="CUST82451"
+  firstname="Sashenka"
+  lastname="Gower"
+  email="Sashenka.Gower@example.com"
+  />        <Seller id="EMP47650"
+  firstname="Amalie"
+  lastname="Odysseus"
+  email="Amalie.Odysseus@examplecompany.com"
+  />      <Items><Item><SKU>P32266</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>4</Quantity><Price>81.9</Price></Item><Item><SKU>P43410</SKU><Description>Work Gloves - Leather</Description><Quantity>1</Quantity><Price>65.11</Price></Item><Item><SKU>P17632</SKU><Description>Power Drill - 18V</Description><Quantity>5</Quantity><Price>31.77</Price></Item><Item><SKU>P82892</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>8</Quantity><Price>41.73</Price></Item>
+      </Items>
+    </Order>

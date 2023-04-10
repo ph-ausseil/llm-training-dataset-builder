@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-07-01">
+  
+      
+  <Customer id="CUST90561" firstname="Desirae" lastname="Fosque" email="Desirae.Fosque@example.com"/>
+          
+  <Seller id="EMP45792" firstname="Daphne" lastname="Ackerley" email="Daphne.Ackerley@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P60272</SKU>
+      <Description>Socket Set - 40 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>9.4</Price>
+    </Item>
+    <Item>
+      <SKU>P12338</SKU>
+      <Description>Hammer - 16 oz</Description>
+      <Quantity>1</Quantity>
+      <Price>90.99</Price>
+    </Item>
+    <Item>
+      <SKU>P64945</SKU>
+      <Description>Utility Knife - Retractable</Description>
+      <Quantity>1</Quantity>
+      <Price>9.8</Price>
+    </Item>
+    <Item>
+      <SKU>P85960</SKU>
+      <Description>LED Light Bulb - 60W</Description>
+      <Quantity>6</Quantity>
+      <Price>41.81</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>389.25</TotalPrice>
+</Order>

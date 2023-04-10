@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-11-08" >
+      <Customer id="CUST91337"
+  firstname="Cecile"
+  lastname="Remmer"
+  email="Cecile.Remmer@example.com"
+  />        <Seller id="EMP77665"
+  firstname="Carmela"
+  lastname="Horan"
+  email="Carmela.Horan@examplecompany.com"
+  />      <Items><Item><SKU>P46164</SKU><Description>Hacksaw - 12 inch</Description><Quantity>4</Quantity><Price>34.62</Price></Item><Item><SKU>P31267</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>73.98</Price></Item><Item><SKU>P42586</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>2</Quantity><Price>88.75</Price></Item><Item><SKU>P44310</SKU><Description>Tile Cutter - Manual</Description><Quantity>8</Quantity><Price>11.71</Price></Item>
+      </Items>
+    </Order>

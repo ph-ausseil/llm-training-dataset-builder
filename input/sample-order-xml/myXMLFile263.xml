@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-01-07" >
+      <Customer id="CUST62519"
+  firstname="Sibella"
+  lastname="Bivins"
+  email="Sibella.Bivins@example.com"
+  />        <Seller id="EMP50977"
+  firstname="Mathilda"
+  lastname="Kazimir"
+  email="Mathilda.Kazimir@examplecompany.com"
+  />      <Items><Item><SKU>P21277</SKU><Description>Tool Box - 19 inch</Description><Quantity>2</Quantity><Price>24.93</Price></Item><Item><SKU>P80216</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>9</Quantity><Price>55.35</Price></Item><Item><SKU>P78403</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>6</Quantity><Price>65.36</Price></Item><Item><SKU>P44667</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>1</Quantity><Price>30.81</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,8 @@
+<Order id="ODR8350684" date="2021-07-18">
+      
+      <Customer id="CUST47507" firstname="Krystle" lastname="Luhe" email="Krystle.Luhe@example.com" />
+        <Seller id="EMP58873" firstname="Sherrie" lastname="Azeria" email="Sherrie.Azeria@company.com" />
+      <Items>
+        <Item><SKU>P54110</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>4</Quantity><Price>14.73</Price></Item><Item><SKU>P34948</SKU><Description>Tile Cutter - Manual</Description><Quantity>1</Quantity><Price>31.36</Price></Item><Item><SKU>P54892</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>5</Quantity><Price>16.57</Price></Item>
+      </Items>
+    <TotalPrice>58.92</TotalPrice><TotalPrice>90.28</TotalPrice><TotalPrice>173.13</TotalPrice></Order>

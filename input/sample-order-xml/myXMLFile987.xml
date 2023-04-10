@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-05-18" >
+      <Customer id="CUST83548"
+  firstname="Jordan"
+  lastname="Carbo"
+  email="Jordan.Carbo@example.com"
+  />        <Seller id="EMP70039"
+  firstname="Christian"
+  lastname="Astra"
+  email="Christian.Astra@examplecompany.com"
+  />      <Items><Item><SKU>P12803</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>4</Quantity><Price>10.11</Price></Item><Item><SKU>P95928</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>4</Quantity><Price>21.56</Price></Item><Item><SKU>P53082</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>67.56</Price></Item><Item><SKU>P63501</SKU><Description>Safety Goggles - Clear</Description><Quantity>1</Quantity><Price>5.49</Price></Item>
+      </Items>
+    </Order>

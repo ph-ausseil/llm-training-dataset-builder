@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-03-06" >
+      <Customer id="CUST37597"
+  firstname="Marguerite"
+  lastname="Whiffen"
+  email="Marguerite.Whiffen@example.com"
+  />        <Seller id="EMP86791"
+  firstname="Larine"
+  lastname="Ventre"
+  email="Larine.Ventre@examplecompany.com"
+  />      <Items><Item><SKU>P64341</SKU><Description>Tool Box - 19 inch</Description><Quantity>3</Quantity><Price>57.46</Price></Item><Item><SKU>P38156</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>5</Quantity><Price>64.91</Price></Item><Item><SKU>P41204</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>2</Quantity><Price>54.97</Price></Item><Item><SKU>P78311</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>9</Quantity><Price>76.14</Price></Item>
+      </Items>
+    </Order>

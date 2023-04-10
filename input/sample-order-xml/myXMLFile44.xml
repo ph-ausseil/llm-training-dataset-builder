@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-11-27" >
+      <Customer id="CUST21604"
+  firstname="Wileen"
+  lastname="Poppy"
+  email="Wileen.Poppy@example.com"
+  />        <Seller id="EMP17380"
+  firstname="Asia"
+  lastname="Yoko"
+  email="Asia.Yoko@examplecompany.com"
+  />      <Items><Item><SKU>P27172</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>40.97</Price></Item><Item><SKU>P80178</SKU><Description>Nail Gun - Electric</Description><Quantity>9</Quantity><Price>11.99</Price></Item><Item><SKU>P91526</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>10</Quantity><Price>85.47</Price></Item><Item><SKU>P68806</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>57.13</Price></Item>
+      </Items>
+    </Order>

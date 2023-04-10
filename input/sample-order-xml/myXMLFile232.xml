@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-12-09" >
+      <Customer id="CUST89170"
+  firstname="Rivalee"
+  lastname="Zetta"
+  email="Rivalee.Zetta@example.com"
+  />        <Seller id="EMP57933"
+  firstname="Berta"
+  lastname="Thad"
+  email="Berta.Thad@examplecompany.com"
+  />      <Items><Item><SKU>P82897</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>6</Quantity><Price>15.65</Price></Item><Item><SKU>P11836</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>4</Quantity><Price>88.33</Price></Item><Item><SKU>P54803</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>4</Quantity><Price>61.31</Price></Item><Item><SKU>P48245</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>9</Quantity><Price>75.04</Price></Item>
+      </Items>
+    </Order>

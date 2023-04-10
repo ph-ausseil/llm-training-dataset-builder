@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2020-09-20">
+  
+      
+  <Customer id="CUST64042" firstname="Rosanne" lastname="Durware" email="Rosanne.Durware@example.com"/>
+          
+  <Seller id="EMP12057" firstname="Olwen" lastname="Cavan" email="Olwen.Cavan@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P73288</SKU>
+      <Description>Stud Finder - Digital</Description>
+      <Quantity>6</Quantity>
+      <Price>24.13</Price>
+    </Item>
+    <Item>
+      <SKU>P44943</SKU>
+      <Description>Tool Box - 19 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>41.05</Price>
+    </Item>
+    <Item>
+      <SKU>P32122</SKU>
+      <Description>Pliers Set - 3 pieces</Description>
+      <Quantity>4</Quantity>
+      <Price>64.16</Price>
+    </Item>
+    <Item>
+      <SKU>P53084</SKU>
+      <Description>Cordless Circular Saw - 6.5 inch</Description>
+      <Quantity>3</Quantity>
+      <Price>37.49</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>637.04</TotalPrice>
+</Order>

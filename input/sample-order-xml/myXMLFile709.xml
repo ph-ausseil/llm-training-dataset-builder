@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2022-05-07" >
+      <Customer id="CUST43614"
+  firstname="Cacilie"
+  lastname="Sheng"
+  email="Cacilie.Sheng@example.com"
+  />        <Seller id="EMP56466"
+  firstname="Joceline"
+  lastname="Lutero"
+  email="Joceline.Lutero@examplecompany.com"
+  />      <Items><Item><SKU>P31301</SKU><Description>Miter Saw - 10 inch</Description><Quantity>4</Quantity><Price>16.12</Price></Item><Item><SKU>P88378</SKU><Description>Hand Saw - 12 inch</Description><Quantity>2</Quantity><Price>40.21</Price></Item><Item><SKU>P62204</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>6</Quantity><Price>65.68</Price></Item><Item><SKU>P94577</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>3</Quantity><Price>24.82</Price></Item>
+      </Items>
+    </Order>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<Order id="ODR50574929" date="2022-08-31">
+  
+      
+  <Customer id="CUST77426" firstname="Annaliese" lastname="Desai" email="Annaliese.Desai@example.com"/>
+          
+  <Seller id="EMP64661" firstname="Lynnea" lastname="Whittaker" email="Lynnea.Whittaker@examplecompany.com"/>
+        
+  <Items>
+    <Item>
+      <SKU>P65232</SKU>
+      <Description>Level - 24 inch</Description>
+      <Quantity>6</Quantity>
+      <Price>73.62300000000002</Price>
+    </Item>
+    <Item>
+      <SKU>P28369</SKU>
+      <Description>Sandpaper - Assorted Grits</Description>
+      <Quantity>4</Quantity>
+      <Price>90.409</Price>
+    </Item>
+    <Item>
+      <SKU>P10753</SKU>
+      <Description>Work Gloves - Leather</Description>
+      <Quantity>1</Quantity>
+      <Price>22.484</Price>
+    </Item>
+    <Item>
+      <SKU>P51598</SKU>
+      <Description>Sledge Hammer - 10 lb</Description>
+      <Quantity>2</Quantity>
+      <Price>42.713</Price>
+    </Item>
+    
+      
+  </Items>
+  
+    
+  <TotalPrice>911.28</TotalPrice>
+</Order>

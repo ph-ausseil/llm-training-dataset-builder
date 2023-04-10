@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2021-08-26" >
+      <Customer id="CUST52285"
+  firstname="Elora"
+  lastname="Joachim"
+  email="Elora.Joachim@example.com"
+  />        <Seller id="EMP67532"
+  firstname="Gwenneth"
+  lastname="Bouchard"
+  email="Gwenneth.Bouchard@examplecompany.com"
+  />      <Items><Item><SKU>P69311</SKU><Description>Garden Hose - 50ft</Description><Quantity>4</Quantity><Price>24.97</Price></Item><Item><SKU>P28475</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>10</Quantity><Price>21.16</Price></Item><Item><SKU>P22210</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>9</Quantity><Price>39.43</Price></Item><Item><SKU>P61363</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>5</Quantity><Price>49.62</Price></Item>
+      </Items>
+    </Order>

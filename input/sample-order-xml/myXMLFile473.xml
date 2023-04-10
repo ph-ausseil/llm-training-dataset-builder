@@ -1,0 +1,12 @@
+<Order id="ODR50574929" date="2020-07-02" >
+      <Customer id="CUST68651"
+  firstname="Marjie"
+  lastname="Sibyls"
+  email="Marjie.Sibyls@example.com"
+  />        <Seller id="EMP71081"
+  firstname="Lusa"
+  lastname="Oriana"
+  email="Lusa.Oriana@examplecompany.com"
+  />      <Items><Item><SKU>P54886</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>6</Quantity><Price>77.26</Price></Item><Item><SKU>P35232</SKU><Description>Stud Finder - Digital</Description><Quantity>9</Quantity><Price>77.5</Price></Item><Item><SKU>P13023</SKU><Description>Workbench - Portable</Description><Quantity>1</Quantity><Price>78.3</Price></Item><Item><SKU>P86941</SKU><Description>Socket Set - 40 pieces</Description><Quantity>5</Quantity><Price>58.4</Price></Item>
+      </Items>
+    </Order>
