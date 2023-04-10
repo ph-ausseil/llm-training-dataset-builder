@@ -46,8 +46,6 @@ This file contains custom functions to pretreat datasets and generate question-a
 
 ## Getting Started
 
-## Getting Started
-
 1. Choose one of the three processing methods to implement:
    - process_xml_file(filename): Processing XML files (already implemented in the example)
    - process_json_file(filename): Processing JSON files (now implemented)
