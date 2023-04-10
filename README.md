@@ -1,4 +1,8 @@
-# This project processes sample orders in various formats (XML, JSON, and PostgreSQL database) and generates question-answer pairs based on the orders' information 😊
+#Llama-lora-fine-tuner
+
+Works for all with llama-lora & alpaca-lora to finetune llama-based LLM.
+
+This project processes sample orders in various formats (XML, JSON, and PostgreSQL database) and generates question-answer pairs based on the orders' information 😊
 
 The code is designed to be **modular** and easily **customizable**, allowing for various pretreatment methods and instruction generation.
 
