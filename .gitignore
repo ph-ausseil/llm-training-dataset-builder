@@ -1,0 +1,40 @@
+/input/*
+/output/*
+
+# macOS files
+.DS_Store
+
+# Xcode files
+*.xcworkspace/
+*.xcodeproj/
+*.pbxproj
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+
+# Cocoapods
+Pods/
+Podfile.lock
+
+# Carthage
+/Carthage/Build
+
+# Localizations
+*.strings
+*.storyboard
+
+# Generated files
+DerivedData/
+.build/
+
+# Dependencies
+Pods/
+Carthage/
+
+# IDEs
+.vscode/
+.idea/
