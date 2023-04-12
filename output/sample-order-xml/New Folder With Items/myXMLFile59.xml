@@ -1,8 +1,0 @@
-<Order id="ODR70207627" date="2022-07-18">
-      
-      <Customer id="CUST89993" firstname="Codie" lastname="Rillings" email="Codie.Rillings@example.com" />
-        <Seller id="EMP70002" firstname="Zondra" lastname="Juan" email="Zondra.Juan@company.com" />
-      <Items>
-        <Item><SKU>P55500</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>3</Quantity><Price>57.49</Price></Item><Item><SKU>P35252</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>4</Quantity><Price>3.36</Price></Item><Item><SKU>P21613</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>69.65</Price></Item>
-      </Items>
-    <TotalPrice>172.47</TotalPrice><TotalPrice>185.91</TotalPrice><TotalPrice>325.21000000000004</TotalPrice></Order>

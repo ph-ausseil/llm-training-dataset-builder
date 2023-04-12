@@ -1,8 +1,0 @@
-<Order id="ODR15875000" date="2022-09-28">
-      
-      <Customer id="CUST17761" firstname="Cindelyn" lastname="Concha" email="Cindelyn.Concha@example.com" />
-        <Seller id="EMP44379" firstname="Annora" lastname="Dulciana" email="Annora.Dulciana@company.com" />
-      <Items>
-        <Item><SKU>P95199</SKU><Description>Garden Hose - 50ft</Description><Quantity>5</Quantity><Price>19.09</Price></Item><Item><SKU>P23017</SKU><Description>Tarp - 12x16 ft</Description><Quantity>2</Quantity><Price>56.06</Price></Item><Item><SKU>P33147</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>3</Quantity><Price>67.43</Price></Item>
-      </Items>
-    <TotalPrice>95.45</TotalPrice><TotalPrice>207.57</TotalPrice><TotalPrice>409.86</TotalPrice></Order>

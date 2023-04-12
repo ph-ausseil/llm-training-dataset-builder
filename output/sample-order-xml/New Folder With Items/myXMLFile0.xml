@@ -1,8 +1,0 @@
-<Order id="ODR97998911" date="2022-03-03">
-      
-      <Customer id="CUST17875" firstname="Elora" lastname="Shirberg" email="Elora.Shirberg@example.com" />
-        <Seller id="EMP93247" firstname="Sadie" lastname="Ortrude" email="Sadie.Ortrude@company.com" />
-      <Items>
-        <Item><SKU>P45144</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>2</Quantity><Price>48.23</Price></Item><Item><SKU>P51662</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>5</Quantity><Price>6.85</Price></Item><Item><SKU>P62127</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>4</Quantity><Price>81.55</Price></Item>
-      </Items>
-    <TotalPrice>96.46</TotalPrice><TotalPrice>130.70999999999998</TotalPrice><TotalPrice>456.90999999999997</TotalPrice></Order>

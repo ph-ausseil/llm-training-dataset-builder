@@ -1,8 +1,0 @@
-<Order id="ODR44227199" date="2021-03-22">
-      
-      <Customer id="CUST96136" firstname="Randa" lastname="Konyn" email="Randa.Konyn@example.com" />
-        <Seller id="EMP53171" firstname="Sheelagh" lastname="Melony" email="Sheelagh.Melony@company.com" />
-      <Items>
-        <Item><SKU>P79231</SKU><Description>Paint Brush Set - 5 pieces</Description><Quantity>1</Quantity><Price>13.22</Price></Item><Item><SKU>P70177</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>5</Quantity><Price>54.75</Price></Item><Item><SKU>P60482</SKU><Description>Stud Finder - Digital</Description><Quantity>2</Quantity><Price>44.01</Price></Item>
-      </Items>
-    <TotalPrice>13.22</TotalPrice><TotalPrice>286.97</TotalPrice><TotalPrice>374.99</TotalPrice></Order>

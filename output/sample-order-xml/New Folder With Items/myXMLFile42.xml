@@ -1,8 +1,0 @@
-<Order id="ODR48221455" date="2021-05-26">
-      
-      <Customer id="CUST565" firstname="Eadie" lastname="Redmond" email="Eadie.Redmond@example.com" />
-        <Seller id="EMP88180" firstname="Philis" lastname="Leler" email="Philis.Leler@company.com" />
-      <Items>
-        <Item><SKU>P75745</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>3</Quantity><Price>50.52</Price></Item><Item><SKU>P86163</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>4</Quantity><Price>61.81</Price></Item><Item><SKU>P80458</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>5</Quantity><Price>47.29</Price></Item>
-      </Items>
-    <TotalPrice>151.56</TotalPrice><TotalPrice>398.8</TotalPrice><TotalPrice>635.25</TotalPrice></Order>

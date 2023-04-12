@@ -1,8 +1,0 @@
-<Order id="ODR35482387" date="2021-08-01">
-      
-      <Customer id="CUST74839" firstname="Max" lastname="Madox" email="Max.Madox@example.com" />
-        <Seller id="EMP47495" firstname="Betta" lastname="Primalia" email="Betta.Primalia@company.com" />
-      <Items>
-        <Item><SKU>P66892</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>1</Quantity><Price>47.7</Price></Item><Item><SKU>P45837</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>1</Quantity><Price>81.37</Price></Item><Item><SKU>P38774</SKU><Description>Garden Hose - 50ft</Description><Quantity>4</Quantity><Price>80.39</Price></Item>
-      </Items>
-    <TotalPrice>47.7</TotalPrice><TotalPrice>129.07</TotalPrice><TotalPrice>450.63</TotalPrice></Order>

@@ -1,8 +1,0 @@
-<Order id="ODR66857043" date="2021-05-09">
-      
-      <Customer id="CUST34860" firstname="Brooks" lastname="Merat" email="Brooks.Merat@example.com" />
-        <Seller id="EMP6225" firstname="Merle" lastname="Hoenack" email="Merle.Hoenack@company.com" />
-      <Items>
-        <Item><SKU>P48880</SKU><Description>Miter Saw - 10 inch</Description><Quantity>5</Quantity><Price>44.67</Price></Item><Item><SKU>P39745</SKU><Description>Miter Saw - 10 inch</Description><Quantity>1</Quantity><Price>51.05</Price></Item><Item><SKU>P44547</SKU><Description>Workbench - Portable</Description><Quantity>1</Quantity><Price>39.59</Price></Item>
-      </Items>
-    <TotalPrice>223.35000000000002</TotalPrice><TotalPrice>274.40000000000003</TotalPrice><TotalPrice>313.99</TotalPrice></Order>

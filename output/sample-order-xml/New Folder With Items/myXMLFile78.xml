@@ -1,8 +1,0 @@
-<Order id="ODR47577304" date="2021-12-12">
-      
-      <Customer id="CUST48676" firstname="Blinni" lastname="Leler" email="Blinni.Leler@example.com" />
-        <Seller id="EMP40163" firstname="Fanchon" lastname="Mike" email="Fanchon.Mike@company.com" />
-      <Items>
-        <Item><SKU>P98444</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>2</Quantity><Price>68.23</Price></Item><Item><SKU>P64730</SKU><Description>Safety Goggles - Clear</Description><Quantity>5</Quantity><Price>39.78</Price></Item><Item><SKU>P59267</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>2</Quantity><Price>69.22</Price></Item>
-      </Items>
-    <TotalPrice>136.46</TotalPrice><TotalPrice>335.36</TotalPrice><TotalPrice>473.8</TotalPrice></Order>

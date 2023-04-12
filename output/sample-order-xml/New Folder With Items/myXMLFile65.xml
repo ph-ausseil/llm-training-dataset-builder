@@ -1,8 +1,0 @@
-<Order id="ODR48320268" date="2022-06-30">
-      
-      <Customer id="CUST45249" firstname="Constance" lastname="Gerge" email="Constance.Gerge@example.com" />
-        <Seller id="EMP39509" firstname="Dode" lastname="Fillbert" email="Dode.Fillbert@company.com" />
-      <Items>
-        <Item><SKU>P92718</SKU><Description>Level - 24 inch</Description><Quantity>3</Quantity><Price>31.1</Price></Item><Item><SKU>P15048</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>4</Quantity><Price>63.45</Price></Item><Item><SKU>P2230</SKU><Description>Hacksaw - 12 inch</Description><Quantity>3</Quantity><Price>64.04</Price></Item>
-      </Items>
-    <TotalPrice>93.30000000000001</TotalPrice><TotalPrice>347.1</TotalPrice><TotalPrice>539.22</TotalPrice></Order>

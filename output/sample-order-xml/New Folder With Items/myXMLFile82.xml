@@ -1,8 +1,0 @@
-<Order id="ODR22948690" date="2022-05-01">
-      
-      <Customer id="CUST81693" firstname="Dorothy" lastname="Juliet" email="Dorothy.Juliet@example.com" />
-        <Seller id="EMP72167" firstname="Anthia" lastname="Hylan" email="Anthia.Hylan@company.com" />
-      <Items>
-        <Item><SKU>P28744</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>5</Quantity><Price>36.97</Price></Item><Item><SKU>P12716</SKU><Description>Miter Saw - 10 inch</Description><Quantity>4</Quantity><Price>13.55</Price></Item><Item><SKU>P22128</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>66.44</Price></Item>
-      </Items>
-    <TotalPrice>184.85</TotalPrice><TotalPrice>239.05</TotalPrice><TotalPrice>571.25</TotalPrice></Order>

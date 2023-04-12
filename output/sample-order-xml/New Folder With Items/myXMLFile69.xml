@@ -1,8 +1,0 @@
-<Order id="ODR75163380" date="2022-07-07">
-      
-      <Customer id="CUST27721" firstname="Emelina" lastname="Schonfeld" email="Emelina.Schonfeld@example.com" />
-        <Seller id="EMP78986" firstname="Jolyn" lastname="Camden" email="Jolyn.Camden@company.com" />
-      <Items>
-        <Item><SKU>P75344</SKU><Description>Hacksaw - 12 inch</Description><Quantity>4</Quantity><Price>78.4</Price></Item><Item><SKU>P97156</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>1</Quantity><Price>18.01</Price></Item><Item><SKU>P17002</SKU><Description>Safety Goggles - Clear</Description><Quantity>3</Quantity><Price>84.69</Price></Item>
-      </Items>
-    <TotalPrice>313.6</TotalPrice><TotalPrice>331.61</TotalPrice><TotalPrice>585.6800000000001</TotalPrice></Order>

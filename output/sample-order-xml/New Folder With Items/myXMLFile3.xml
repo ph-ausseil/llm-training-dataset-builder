@@ -1,8 +1,0 @@
-<Order id="ODR82426013" date="2021-09-22">
-      
-      <Customer id="CUST62684" firstname="Madalyn" lastname="Cressida" email="Madalyn.Cressida@example.com" />
-        <Seller id="EMP60918" firstname="Benita" lastname="Rudolph" email="Benita.Rudolph@company.com" />
-      <Items>
-        <Item><SKU>P90699</SKU><Description>Paint Roller Kit - 9 inch</Description><Quantity>1</Quantity><Price>52.02</Price></Item><Item><SKU>P43121</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>4</Quantity><Price>28.98</Price></Item><Item><SKU>P33881</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>3</Quantity><Price>2.16</Price></Item>
-      </Items>
-    <TotalPrice>52.02</TotalPrice><TotalPrice>167.94</TotalPrice><TotalPrice>174.42</TotalPrice></Order>

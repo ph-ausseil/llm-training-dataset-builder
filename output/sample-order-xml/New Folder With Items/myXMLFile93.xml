@@ -1,8 +1,0 @@
-<Order id="ODR55818381" date="2022-06-15">
-      
-      <Customer id="CUST97626" firstname="Valera" lastname="Bluh" email="Valera.Bluh@example.com" />
-        <Seller id="EMP68810" firstname="Averyl" lastname="Chandler" email="Averyl.Chandler@company.com" />
-      <Items>
-        <Item><SKU>P2562</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>5</Quantity><Price>5.72</Price></Item><Item><SKU>P19202</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>4</Quantity><Price>4.19</Price></Item><Item><SKU>P26700</SKU><Description>Work Gloves - Leather</Description><Quantity>5</Quantity><Price>35.86</Price></Item>
-      </Items>
-    <TotalPrice>28.599999999999998</TotalPrice><TotalPrice>45.36</TotalPrice><TotalPrice>224.66000000000003</TotalPrice></Order>

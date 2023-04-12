@@ -1,8 +1,0 @@
-<Order id="ODR3182607" date="2022-07-25">
-      
-      <Customer id="CUST90282" firstname="Jacquetta" lastname="Lutero" email="Jacquetta.Lutero@example.com" />
-        <Seller id="EMP56055" firstname="Tersina" lastname="Georas" email="Tersina.Georas@company.com" />
-      <Items>
-        <Item><SKU>P38389</SKU><Description>Socket Set - 40 pieces</Description><Quantity>4</Quantity><Price>58.79</Price></Item><Item><SKU>P20728</SKU><Description>Wrench Set - 10 pieces</Description><Quantity>1</Quantity><Price>81.35</Price></Item><Item><SKU>P60937</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>3</Quantity><Price>75.19</Price></Item>
-      </Items>
-    <TotalPrice>235.16</TotalPrice><TotalPrice>316.51</TotalPrice><TotalPrice>542.0799999999999</TotalPrice></Order>

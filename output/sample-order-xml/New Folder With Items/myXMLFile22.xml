@@ -1,8 +1,0 @@
-<Order id="ODR40586629" date="2021-03-11">
-      
-      <Customer id="CUST55981" firstname="Bobbi" lastname="Madelene" email="Bobbi.Madelene@example.com" />
-        <Seller id="EMP17181" firstname="Kalina" lastname="Ochs" email="Kalina.Ochs@company.com" />
-      <Items>
-        <Item><SKU>P76331</SKU><Description>Level - 24 inch</Description><Quantity>2</Quantity><Price>8.29</Price></Item><Item><SKU>P22776</SKU><Description>Tool Box - 19 inch</Description><Quantity>1</Quantity><Price>80.3</Price></Item><Item><SKU>P38033</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>3</Quantity><Price>68.27</Price></Item>
-      </Items>
-    <TotalPrice>16.58</TotalPrice><TotalPrice>96.88</TotalPrice><TotalPrice>301.69</TotalPrice></Order>

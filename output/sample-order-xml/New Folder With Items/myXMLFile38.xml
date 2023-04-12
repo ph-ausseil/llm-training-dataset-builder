@@ -1,8 +1,0 @@
-<Order id="ODR95562639" date="2021-10-01">
-      
-      <Customer id="CUST27307" firstname="Eolanda" lastname="Tyson" email="Eolanda.Tyson@example.com" />
-        <Seller id="EMP17792" firstname="Violet" lastname="Han" email="Violet.Han@company.com" />
-      <Items>
-        <Item><SKU>P89050</SKU><Description>Stud Finder - Digital</Description><Quantity>3</Quantity><Price>22.52</Price></Item><Item><SKU>P85513</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>5</Quantity><Price>18.4</Price></Item><Item><SKU>P39582</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>2</Quantity><Price>80.6</Price></Item>
-      </Items>
-    <TotalPrice>67.56</TotalPrice><TotalPrice>159.56</TotalPrice><TotalPrice>320.76</TotalPrice></Order>

@@ -1,8 +1,0 @@
-<Order id="ODR35032147" date="2022-02-22">
-      
-      <Customer id="CUST21776" firstname="Aimil" lastname="Anis" email="Aimil.Anis@example.com" />
-        <Seller id="EMP16541" firstname="Clary" lastname="Junie" email="Clary.Junie@company.com" />
-      <Items>
-        <Item><SKU>P86457</SKU><Description>Tile Cutter - Manual</Description><Quantity>4</Quantity><Price>63.74</Price></Item><Item><SKU>P83198</SKU><Description>Miter Saw - 10 inch</Description><Quantity>5</Quantity><Price>2.7</Price></Item><Item><SKU>P91013</SKU><Description>Hammer - 16 oz</Description><Quantity>2</Quantity><Price>14.2</Price></Item>
-      </Items>
-    <TotalPrice>254.96</TotalPrice><TotalPrice>268.46000000000004</TotalPrice><TotalPrice>296.86</TotalPrice></Order>

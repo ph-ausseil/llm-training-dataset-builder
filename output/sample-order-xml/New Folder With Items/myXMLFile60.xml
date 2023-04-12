@@ -1,8 +1,0 @@
-<Order id="ODR10317353" date="2022-04-26">
-      
-      <Customer id="CUST62722" firstname="Zsa Zsa" lastname="Natica" email="Zsa Zsa.Natica@example.com" />
-        <Seller id="EMP82654" firstname="Ann-Marie" lastname="Jenness" email="Ann-Marie.Jenness@company.com" />
-      <Items>
-        <Item><SKU>P64613</SKU><Description>Utility Knife - Retractable</Description><Quantity>4</Quantity><Price>21.07</Price></Item><Item><SKU>P29183</SKU><Description>Hammer - 16 oz</Description><Quantity>3</Quantity><Price>27.28</Price></Item><Item><SKU>P36492</SKU><Description>Tool Box - 19 inch</Description><Quantity>3</Quantity><Price>41.66</Price></Item>
-      </Items>
-    <TotalPrice>84.28</TotalPrice><TotalPrice>166.12</TotalPrice><TotalPrice>291.1</TotalPrice></Order>

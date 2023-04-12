@@ -1,8 +1,0 @@
-<Order id="ODR2650829" date="2021-10-24">
-      
-      <Customer id="CUST71770" firstname="Dorothy" lastname="Wu" email="Dorothy.Wu@example.com" />
-        <Seller id="EMP28652" firstname="Aeriela" lastname="Erlandson" email="Aeriela.Erlandson@company.com" />
-      <Items>
-        <Item><SKU>P15259</SKU><Description>Level - 24 inch</Description><Quantity>4</Quantity><Price>1.66</Price></Item><Item><SKU>P79939</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>3</Quantity><Price>14.29</Price></Item><Item><SKU>P65284</SKU><Description>Socket Set - 40 pieces</Description><Quantity>3</Quantity><Price>9.22</Price></Item>
-      </Items>
-    <TotalPrice>6.64</TotalPrice><TotalPrice>49.51</TotalPrice><TotalPrice>77.17</TotalPrice></Order>

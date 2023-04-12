@@ -1,8 +1,0 @@
-<Order id="ODR5413553" date="2022-10-13">
-      
-      <Customer id="CUST49643" firstname="Glynnis" lastname="Payson" email="Glynnis.Payson@example.com" />
-        <Seller id="EMP81200" firstname="Gianina" lastname="Schenck" email="Gianina.Schenck@company.com" />
-      <Items>
-        <Item><SKU>P16819</SKU><Description>Hand Saw - 12 inch</Description><Quantity>1</Quantity><Price>78.9</Price></Item><Item><SKU>P83408</SKU><Description>Tape Measure - 25 ft</Description><Quantity>1</Quantity><Price>24.7</Price></Item><Item><SKU>P64799</SKU><Description>LED Light Bulb - 60W</Description><Quantity>4</Quantity><Price>85.53</Price></Item>
-      </Items>
-    <TotalPrice>78.9</TotalPrice><TotalPrice>103.60000000000001</TotalPrice><TotalPrice>445.72</TotalPrice></Order>

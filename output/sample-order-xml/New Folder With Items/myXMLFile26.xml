@@ -1,8 +1,0 @@
-<Order id="ODR66389472" date="2021-11-15">
-      
-      <Customer id="CUST27712" firstname="Moyna" lastname="Gahl" email="Moyna.Gahl@example.com" />
-        <Seller id="EMP99726" firstname="Rebeca" lastname="Decato" email="Rebeca.Decato@company.com" />
-      <Items>
-        <Item><SKU>P27133</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>5</Quantity><Price>65.14</Price></Item><Item><SKU>P89226</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>3</Quantity><Price>41.47</Price></Item><Item><SKU>P826</SKU><Description>Nail Gun - Electric</Description><Quantity>3</Quantity><Price>84.77</Price></Item>
-      </Items>
-    <TotalPrice>325.7</TotalPrice><TotalPrice>450.11</TotalPrice><TotalPrice>704.4200000000001</TotalPrice></Order>

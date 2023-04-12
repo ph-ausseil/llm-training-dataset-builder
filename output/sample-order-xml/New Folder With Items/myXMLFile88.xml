@@ -1,8 +1,0 @@
-<Order id="ODR27990606" date="2022-04-08">
-      
-      <Customer id="CUST18075" firstname="Max" lastname="Crudden" email="Max.Crudden@example.com" />
-        <Seller id="EMP28790" firstname="Orelia" lastname="Rossner" email="Orelia.Rossner@company.com" />
-      <Items>
-        <Item><SKU>P91119</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>3</Quantity><Price>47.21</Price></Item><Item><SKU>P53491</SKU><Description>Tarp - 12x16 ft</Description><Quantity>3</Quantity><Price>73.78</Price></Item><Item><SKU>P88214</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>5</Quantity><Price>56.2</Price></Item>
-      </Items>
-    <TotalPrice>141.63</TotalPrice><TotalPrice>362.97</TotalPrice><TotalPrice>643.97</TotalPrice></Order>

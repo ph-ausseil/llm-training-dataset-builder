@@ -70,6 +70,31 @@ def generate_general_instructions(dataset):
     # Create instructions as a list of dictionaries
     instructions = [
         # Add instructions for the total cost of the order, seller, date, customer email, and total quantity
+        {
+        "instruction": f"Question : What was the total cost of the order with ID '{order_id}'?",
+        "input": "",
+        "output": f"Answer : The total cost of the order was ${total_price}"
+    },
+    {
+        "instruction": f"Question : Who was the seller for the order with ID '{order_id}'?",
+        "input": "",
+        "output": f"Answer : The seller for the order with ID '{order_id}' was {seller}."
+    },
+    {
+        "instruction": f"Question : What was the date of the sales order with ID '{order_id}'?",
+        "input": "",
+        "output": f"Answer : The date of the sales order with ID '{order_id}' was '{order_date}'."
+    },
+    {
+        "instruction": f"Question : What is the email address of the customer with ID '{order_id}'?",
+        "input": "",
+        "output": f"Answer : The email address of the customer with ID '{customer_id}' was '{customer_email}'."
+    },
+    {
+        "instruction": f"Question : What is the total quantity of items ordered in the sales order with ID '{order_id}'?",
+        "input": "",
+        "output": f"Answer : The total quantity of items ordered in the sales order with ID '{order_id}' was {total_quantity}."
+    },
     ]
     return instructions
 
@@ -82,15 +107,23 @@ def generate_item_instructions(item_node):
     price = float(item_node.find('Price').text)
     item_cost = round(quantity * price, 2)
 
-    # Create instructions as a list of dictionaries
     instructions = [
+            {'instruction': f"What is the cost of item '{sku}'?",
+            'input': '', 'output': f"The cost of item '{sku}' was ${item_cost}."},
+            {'instruction': f"What is the name of item '{sku}'?",
+            'input': '', 'output': f"The name of item '{sku}' was '{description}'."},
+            {'instruction': f"What is the SKU of item '{description}'?",
+            'input': '', 'output': f"The SKU of item '{description}' was '{sku}'."}
+        ]
+    # Create instructions as a list of dictionaries
+    """instructions = [
         {'instruction': f"Question : What is the cost of item '{sku}'?",
          'input': '', 'output': f"Answer : The cost of item '{sku}' was ${item_cost}."},
         {'instruction': f"Question : What is the name of item '{sku}'?",
          'input': '', 'output': f"Answer : The name of item '{sku}' was '{description}'."},
         {'instruction': f"Question : What is the SKU of item '{description}'?",
          'input': '', 'output': f"Answer : The SKU of item '{description}' was '{sku}'."}
-    ]
+    ]"""
 
     return instructions
 

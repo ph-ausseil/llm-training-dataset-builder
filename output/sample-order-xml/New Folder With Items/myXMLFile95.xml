@@ -1,8 +1,0 @@
-<Order id="ODR15662922" date="2021-12-05">
-      
-      <Customer id="CUST40795" firstname="Ketti" lastname="Schalles" email="Ketti.Schalles@example.com" />
-        <Seller id="EMP53418" firstname="Margette" lastname="Reinke" email="Margette.Reinke@company.com" />
-      <Items>
-        <Item><SKU>P13628</SKU><Description>Miter Saw - 10 inch</Description><Quantity>3</Quantity><Price>66.31</Price></Item><Item><SKU>P92559</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>1</Quantity><Price>42.71</Price></Item><Item><SKU>P52609</SKU><Description>Tarp - 12x16 ft</Description><Quantity>2</Quantity><Price>16.79</Price></Item>
-      </Items>
-    <TotalPrice>198.93</TotalPrice><TotalPrice>241.64000000000001</TotalPrice><TotalPrice>275.22</TotalPrice></Order>

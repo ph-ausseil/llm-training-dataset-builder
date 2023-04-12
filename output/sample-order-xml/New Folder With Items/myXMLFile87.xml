@@ -1,8 +1,0 @@
-<Order id="ODR22821131" date="2022-07-22">
-      
-      <Customer id="CUST68482" firstname="Patricia" lastname="Aaberg" email="Patricia.Aaberg@example.com" />
-        <Seller id="EMP89963" firstname="Nariko" lastname="Uund" email="Nariko.Uund@company.com" />
-      <Items>
-        <Item><SKU>P70760</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>2</Quantity><Price>4.74</Price></Item><Item><SKU>P81646</SKU><Description>Tarp - 12x16 ft</Description><Quantity>2</Quantity><Price>54.53</Price></Item><Item><SKU>P47408</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>1</Quantity><Price>53</Price></Item>
-      </Items>
-    <TotalPrice>9.48</TotalPrice><TotalPrice>118.54</TotalPrice><TotalPrice>171.54000000000002</TotalPrice></Order>

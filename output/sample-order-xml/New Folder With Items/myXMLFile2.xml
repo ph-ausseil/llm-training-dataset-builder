@@ -1,8 +1,0 @@
-<Order id="ODR60611282" date="2022-03-03">
-      
-      <Customer id="CUST66371" firstname="Cristine" lastname="Obed" email="Cristine.Obed@example.com" />
-        <Seller id="EMP44225" firstname="Dominga" lastname="Naor" email="Dominga.Naor@company.com" />
-      <Items>
-        <Item><SKU>P39415</SKU><Description>Hacksaw - 12 inch</Description><Quantity>5</Quantity><Price>17.26</Price></Item><Item><SKU>P37876</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>5</Quantity><Price>3.3</Price></Item><Item><SKU>P50784</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>1</Quantity><Price>42.25</Price></Item>
-      </Items>
-    <TotalPrice>86.30000000000001</TotalPrice><TotalPrice>102.80000000000001</TotalPrice><TotalPrice>145.05</TotalPrice></Order>

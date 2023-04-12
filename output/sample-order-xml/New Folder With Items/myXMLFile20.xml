@@ -1,8 +1,0 @@
-<Order id="ODR69689732" date="2022-02-04">
-      
-      <Customer id="CUST96075" firstname="Sharai" lastname="Kunin" email="Sharai.Kunin@example.com" />
-        <Seller id="EMP64049" firstname="Claresta" lastname="Oneida" email="Claresta.Oneida@company.com" />
-      <Items>
-        <Item><SKU>P86911</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>3</Quantity><Price>47.8</Price></Item><Item><SKU>P25426</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>4</Quantity><Price>62.31</Price></Item><Item><SKU>P12115</SKU><Description>Utility Knife - Retractable</Description><Quantity>2</Quantity><Price>30.59</Price></Item>
-      </Items>
-    <TotalPrice>143.39999999999998</TotalPrice><TotalPrice>392.64</TotalPrice><TotalPrice>453.82</TotalPrice></Order>

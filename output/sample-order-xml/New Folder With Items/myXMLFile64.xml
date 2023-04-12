@@ -1,8 +1,0 @@
-<Order id="ODR15510614" date="2021-04-24">
-      
-      <Customer id="CUST73631" firstname="Chastity" lastname="Quent" email="Chastity.Quent@example.com" />
-        <Seller id="EMP46720" firstname="Frieda" lastname="Bach" email="Frieda.Bach@company.com" />
-      <Items>
-        <Item><SKU>P49209</SKU><Description>Safety Goggles - Clear</Description><Quantity>4</Quantity><Price>54.92</Price></Item><Item><SKU>P75251</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>3</Quantity><Price>90.42</Price></Item><Item><SKU>P34546</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>4</Quantity><Price>82.49</Price></Item>
-      </Items>
-    <TotalPrice>219.68</TotalPrice><TotalPrice>490.94</TotalPrice><TotalPrice>820.9</TotalPrice></Order>

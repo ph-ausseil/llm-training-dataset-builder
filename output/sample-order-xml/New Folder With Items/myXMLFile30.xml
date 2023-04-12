@@ -1,8 +1,0 @@
-<Order id="ODR6307737" date="2022-02-02">
-      
-      <Customer id="CUST40538" firstname="Cacilie" lastname="Sigfrid" email="Cacilie.Sigfrid@example.com" />
-        <Seller id="EMP78879" firstname="Danika" lastname="Alrich" email="Danika.Alrich@company.com" />
-      <Items>
-        <Item><SKU>P29101</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>5</Quantity><Price>10.78</Price></Item><Item><SKU>P90634</SKU><Description>Hand Saw - 12 inch</Description><Quantity>3</Quantity><Price>82.69</Price></Item><Item><SKU>P17311</SKU><Description>Safety Goggles - Clear</Description><Quantity>3</Quantity><Price>3.36</Price></Item>
-      </Items>
-    <TotalPrice>53.9</TotalPrice><TotalPrice>301.96999999999997</TotalPrice><TotalPrice>312.04999999999995</TotalPrice></Order>

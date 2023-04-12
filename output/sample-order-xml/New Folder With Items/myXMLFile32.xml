@@ -1,8 +1,0 @@
-<Order id="ODR95936038" date="2021-07-26">
-      
-      <Customer id="CUST67095" firstname="Ricky" lastname="Dowski" email="Ricky.Dowski@example.com" />
-        <Seller id="EMP75661" firstname="Therine" lastname="Yorick" email="Therine.Yorick@company.com" />
-      <Items>
-        <Item><SKU>P97503</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>2</Quantity><Price>61.84</Price></Item><Item><SKU>P19764</SKU><Description>Level - 24 inch</Description><Quantity>1</Quantity><Price>48.87</Price></Item><Item><SKU>P38969</SKU><Description>Level - 24 inch</Description><Quantity>1</Quantity><Price>37.75</Price></Item>
-      </Items>
-    <TotalPrice>123.68</TotalPrice><TotalPrice>172.55</TotalPrice><TotalPrice>210.3</TotalPrice></Order>

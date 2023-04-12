@@ -1,8 +1,0 @@
-<Order id="ODR81167818" date="2022-11-15">
-      
-      <Customer id="CUST20246" firstname="Leia" lastname="Gaynor" email="Leia.Gaynor@example.com" />
-        <Seller id="EMP79500" firstname="Cecile" lastname="Hanshaw" email="Cecile.Hanshaw@company.com" />
-      <Items>
-        <Item><SKU>P42665</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>4</Quantity><Price>32.4</Price></Item><Item><SKU>P91694</SKU><Description>Chisel Set - 4 pieces</Description><Quantity>1</Quantity><Price>17.41</Price></Item><Item><SKU>P34723</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>3</Quantity><Price>74.73</Price></Item>
-      </Items>
-    <TotalPrice>129.6</TotalPrice><TotalPrice>147.01</TotalPrice><TotalPrice>371.2</TotalPrice></Order>

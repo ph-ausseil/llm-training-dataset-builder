@@ -1,8 +1,0 @@
-<Order id="ODR66254471" date="2022-10-30">
-      
-      <Customer id="CUST19082" firstname="Vivia" lastname="Dituri" email="Vivia.Dituri@example.com" />
-        <Seller id="EMP36019" firstname="Perry" lastname="Baptlsta" email="Perry.Baptlsta@company.com" />
-      <Items>
-        <Item><SKU>P18534</SKU><Description>Heavy-Duty Extension Cord - 100ft</Description><Quantity>4</Quantity><Price>45.6</Price></Item><Item><SKU>P57327</SKU><Description>LED Light Bulb - 60W</Description><Quantity>2</Quantity><Price>86.34</Price></Item><Item><SKU>P32612</SKU><Description>Bolt Cutter - 24 inch</Description><Quantity>4</Quantity><Price>57.5</Price></Item>
-      </Items>
-    <TotalPrice>182.4</TotalPrice><TotalPrice>355.08000000000004</TotalPrice><TotalPrice>585.08</TotalPrice></Order>

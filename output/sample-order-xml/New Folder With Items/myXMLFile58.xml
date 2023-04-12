@@ -1,8 +1,0 @@
-<Order id="ODR78864418" date="2022-04-25">
-      
-      <Customer id="CUST56374" firstname="Hope" lastname="Rosalba" email="Hope.Rosalba@example.com" />
-        <Seller id="EMP27394" firstname="Nadine" lastname="Read" email="Nadine.Read@company.com" />
-      <Items>
-        <Item><SKU>P29628</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>4</Quantity><Price>75.73</Price></Item><Item><SKU>P64526</SKU><Description>Socket Set - 40 pieces</Description><Quantity>4</Quantity><Price>83.33</Price></Item><Item><SKU>P83525</SKU><Description>Level - 24 inch</Description><Quantity>5</Quantity><Price>54.53</Price></Item>
-      </Items>
-    <TotalPrice>302.92</TotalPrice><TotalPrice>636.24</TotalPrice><TotalPrice>908.89</TotalPrice></Order>

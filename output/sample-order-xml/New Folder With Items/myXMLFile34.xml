@@ -1,8 +1,0 @@
-<Order id="ODR22694196" date="2022-03-22">
-      
-      <Customer id="CUST27914" firstname="Keelia" lastname="Johnsson" email="Keelia.Johnsson@example.com" />
-        <Seller id="EMP41110" firstname="Gabi" lastname="Leonard" email="Gabi.Leonard@company.com" />
-      <Items>
-        <Item><SKU>P98103</SKU><Description>Utility Knife - Retractable</Description><Quantity>2</Quantity><Price>61.92</Price></Item><Item><SKU>P99278</SKU><Description>Workbench - Portable</Description><Quantity>2</Quantity><Price>21.95</Price></Item><Item><SKU>P12216</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>2</Quantity><Price>45.74</Price></Item>
-      </Items>
-    <TotalPrice>123.84</TotalPrice><TotalPrice>167.74</TotalPrice><TotalPrice>259.22</TotalPrice></Order>

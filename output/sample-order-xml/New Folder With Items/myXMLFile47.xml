@@ -1,8 +1,0 @@
-<Order id="ODR96259729" date="2021-03-07">
-      
-      <Customer id="CUST52122" firstname="Letizia" lastname="Mike" email="Letizia.Mike@example.com" />
-        <Seller id="EMP93847" firstname="Hollie" lastname="Peonir" email="Hollie.Peonir@company.com" />
-      <Items>
-        <Item><SKU>P32439</SKU><Description>Power Drill - 18V</Description><Quantity>1</Quantity><Price>37.34</Price></Item><Item><SKU>P76306</SKU><Description>Hammer - 16 oz</Description><Quantity>4</Quantity><Price>10.78</Price></Item><Item><SKU>P35754</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>5</Quantity><Price>72.48</Price></Item>
-      </Items>
-    <TotalPrice>37.34</TotalPrice><TotalPrice>80.46000000000001</TotalPrice><TotalPrice>442.86</TotalPrice></Order>

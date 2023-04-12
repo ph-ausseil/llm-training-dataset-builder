@@ -1,8 +1,0 @@
-<Order id="ODR17473374" date="2021-10-24">
-      
-      <Customer id="CUST64760" firstname="Kenna" lastname="Lamoree" email="Kenna.Lamoree@example.com" />
-        <Seller id="EMP72139" firstname="Brandise" lastname="Wittie" email="Brandise.Wittie@company.com" />
-      <Items>
-        <Item><SKU>P94540</SKU><Description>Caulking Gun - Heavy Duty</Description><Quantity>3</Quantity><Price>46</Price></Item><Item><SKU>P11455</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>2</Quantity><Price>39.87</Price></Item><Item><SKU>P3098</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>5</Quantity><Price>12.09</Price></Item>
-      </Items>
-    <TotalPrice>138.0</TotalPrice><TotalPrice>217.74</TotalPrice><TotalPrice>278.19</TotalPrice></Order>

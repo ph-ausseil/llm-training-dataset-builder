@@ -1,8 +1,0 @@
-<Order id="ODR86919194" date="2021-03-03">
-      
-      <Customer id="CUST53095" firstname="Tiffie" lastname="Pauly" email="Tiffie.Pauly@example.com" />
-        <Seller id="EMP44068" firstname="Sidoney" lastname="Ulphia" email="Sidoney.Ulphia@company.com" />
-      <Items>
-        <Item><SKU>P87764</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>2</Quantity><Price>55.7</Price></Item><Item><SKU>P72089</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>3</Quantity><Price>26.65</Price></Item><Item><SKU>P91139</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>4</Quantity><Price>74.69</Price></Item>
-      </Items>
-    <TotalPrice>111.4</TotalPrice><TotalPrice>191.35</TotalPrice><TotalPrice>490.11</TotalPrice></Order>

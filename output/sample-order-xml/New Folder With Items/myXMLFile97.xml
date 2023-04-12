@@ -1,8 +1,0 @@
-<Order id="ODR1307745" date="2022-10-22">
-      
-      <Customer id="CUST53859" firstname="Elfreda" lastname="Klemperer" email="Elfreda.Klemperer@example.com" />
-        <Seller id="EMP73251" firstname="Maryellen" lastname="Sallyann" email="Maryellen.Sallyann@company.com" />
-      <Items>
-        <Item><SKU>P29600</SKU><Description>Safety Goggles - Clear</Description><Quantity>4</Quantity><Price>42.94</Price></Item><Item><SKU>P7623</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>1</Quantity><Price>10.24</Price></Item><Item><SKU>P87459</SKU><Description>Tile Cutter - Manual</Description><Quantity>5</Quantity><Price>9.95</Price></Item>
-      </Items>
-    <TotalPrice>171.76</TotalPrice><TotalPrice>182.0</TotalPrice><TotalPrice>231.75</TotalPrice></Order>

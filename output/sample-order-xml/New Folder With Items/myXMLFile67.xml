@@ -1,8 +1,0 @@
-<Order id="ODR46758952" date="2021-04-14">
-      
-      <Customer id="CUST3249" firstname="Brynna" lastname="Brenn" email="Brynna.Brenn@example.com" />
-        <Seller id="EMP99908" firstname="Hyacinthe" lastname="Zamora" email="Hyacinthe.Zamora@company.com" />
-      <Items>
-        <Item><SKU>P24995</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>4</Quantity><Price>82.72</Price></Item><Item><SKU>P10684</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>3</Quantity><Price>58.6</Price></Item><Item><SKU>P33723</SKU><Description>Stud Finder - Digital</Description><Quantity>5</Quantity><Price>10.39</Price></Item>
-      </Items>
-    <TotalPrice>330.88</TotalPrice><TotalPrice>506.68</TotalPrice><TotalPrice>558.63</TotalPrice></Order>

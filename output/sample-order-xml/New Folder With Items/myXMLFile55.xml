@@ -1,8 +1,0 @@
-<Order id="ODR5785024" date="2021-03-02">
-      
-      <Customer id="CUST75795" firstname="Emylee" lastname="Loeb" email="Emylee.Loeb@example.com" />
-        <Seller id="EMP74712" firstname="Gusty" lastname="Egbert" email="Gusty.Egbert@company.com" />
-      <Items>
-        <Item><SKU>P96058</SKU><Description>Wooden Ladder - 8 ft</Description><Quantity>5</Quantity><Price>84.22</Price></Item><Item><SKU>P42769</SKU><Description>Sledge Hammer - 10 lb</Description><Quantity>5</Quantity><Price>87.6</Price></Item><Item><SKU>P90748</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>2</Quantity><Price>34.57</Price></Item>
-      </Items>
-    <TotalPrice>421.1</TotalPrice><TotalPrice>859.1</TotalPrice><TotalPrice>928.24</TotalPrice></Order>

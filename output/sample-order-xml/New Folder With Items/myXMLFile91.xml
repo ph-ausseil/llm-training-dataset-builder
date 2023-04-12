@@ -1,8 +1,0 @@
-<Order id="ODR10546629" date="2022-11-07">
-      
-      <Customer id="CUST92770" firstname="Tressa" lastname="Clara" email="Tressa.Clara@example.com" />
-        <Seller id="EMP90545" firstname="Andeee" lastname="Kamaria" email="Andeee.Kamaria@company.com" />
-      <Items>
-        <Item><SKU>P87179</SKU><Description>Outdoor Lantern - Solar Powered</Description><Quantity>3</Quantity><Price>89.46</Price></Item><Item><SKU>P50745</SKU><Description>Tile Cutter - Manual</Description><Quantity>5</Quantity><Price>40.86</Price></Item><Item><SKU>P8915</SKU><Description>Utility Knife - Retractable</Description><Quantity>3</Quantity><Price>28.61</Price></Item>
-      </Items>
-    <TotalPrice>268.38</TotalPrice><TotalPrice>472.68</TotalPrice><TotalPrice>558.51</TotalPrice></Order>

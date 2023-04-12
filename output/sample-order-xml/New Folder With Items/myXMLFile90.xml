@@ -1,8 +1,0 @@
-<Order id="ODR6980298" date="2021-05-09">
-      
-      <Customer id="CUST39432" firstname="Glenda" lastname="Willie" email="Glenda.Willie@example.com" />
-        <Seller id="EMP39874" firstname="Sadie" lastname="Konyn" email="Sadie.Konyn@company.com" />
-      <Items>
-        <Item><SKU>P15502</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>5</Quantity><Price>44.99</Price></Item><Item><SKU>P61206</SKU><Description>Cordless Leaf Blower - 20V</Description><Quantity>1</Quantity><Price>47.6</Price></Item><Item><SKU>P89001</SKU><Description>Pliers Set - 3 pieces</Description><Quantity>1</Quantity><Price>52.4</Price></Item>
-      </Items>
-    <TotalPrice>224.95000000000002</TotalPrice><TotalPrice>272.55</TotalPrice><TotalPrice>324.95</TotalPrice></Order>

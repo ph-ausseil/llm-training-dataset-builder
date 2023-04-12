@@ -1,8 +1,0 @@
-<Order id="ODR78478274" date="2022-07-13">
-      
-      <Customer id="CUST74075" firstname="Fidelia" lastname="Creamer" email="Fidelia.Creamer@example.com" />
-        <Seller id="EMP89141" firstname="Ursulina" lastname="Loleta" email="Ursulina.Loleta@company.com" />
-      <Items>
-        <Item><SKU>P43934</SKU><Description>Tape Measure - 25 ft</Description><Quantity>5</Quantity><Price>41.24</Price></Item><Item><SKU>P74241</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>2</Quantity><Price>10.05</Price></Item><Item><SKU>P77145</SKU><Description>Jigsaw - Cordless</Description><Quantity>3</Quantity><Price>39.44</Price></Item>
-      </Items>
-    <TotalPrice>206.20000000000002</TotalPrice><TotalPrice>226.3</TotalPrice><TotalPrice>344.62</TotalPrice></Order>

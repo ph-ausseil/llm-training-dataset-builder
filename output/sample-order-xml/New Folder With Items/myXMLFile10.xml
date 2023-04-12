@@ -1,8 +1,0 @@
-<Order id="ODR64462057" date="2021-05-12">
-      
-      <Customer id="CUST23703" firstname="Joy" lastname="Cloris" email="Joy.Cloris@example.com" />
-        <Seller id="EMP37395" firstname="Aurelie" lastname="Hashim" email="Aurelie.Hashim@company.com" />
-      <Items>
-        <Item><SKU>P7128</SKU><Description>Workbench - Portable</Description><Quantity>5</Quantity><Price>35.93</Price></Item><Item><SKU>P72660</SKU><Description>Hacksaw - 12 inch</Description><Quantity>5</Quantity><Price>29.69</Price></Item><Item><SKU>P70201</SKU><Description>Miter Saw - 10 inch</Description><Quantity>5</Quantity><Price>27.75</Price></Item>
-      </Items>
-    <TotalPrice>179.65</TotalPrice><TotalPrice>328.1</TotalPrice><TotalPrice>466.85</TotalPrice></Order>

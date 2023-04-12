@@ -1,8 +1,0 @@
-<Order id="ODR50574929" date="2021-11-22">
-      
-      <Customer id="CUST40227" firstname="Lanae" lastname="Lamoree" email="Lanae.Lamoree@example.com" />
-        <Seller id="EMP66735" firstname="Brana" lastname="Bakerman" email="Brana.Bakerman@company.com" />
-      <Items>
-        <Item><SKU>P98941</SKU><Description>Tile Cutter - Manual</Description><Quantity>2</Quantity><Price>67.71</Price></Item><Item><SKU>P25262</SKU><Description>Utility Knife - Retractable</Description><Quantity>4</Quantity><Price>7.89</Price></Item><Item><SKU>P19238</SKU><Description>Utility Knife - Retractable</Description><Quantity>3</Quantity><Price>84.31</Price></Item>
-      </Items>
-    <TotalPrice>135.42</TotalPrice><TotalPrice>166.98</TotalPrice><TotalPrice>419.90999999999997</TotalPrice></Order>

@@ -1,8 +1,0 @@
-<Order id="ODR93927887" date="2022-08-18">
-      
-      <Customer id="CUST74841" firstname="Alie" lastname="Hylan" email="Alie.Hylan@example.com" />
-        <Seller id="EMP7946" firstname="Felice" lastname="Mathilde" email="Felice.Mathilde@company.com" />
-      <Items>
-        <Item><SKU>P26208</SKU><Description>Cordless Circular Saw - 6.5 inch</Description><Quantity>4</Quantity><Price>58.26</Price></Item><Item><SKU>P38453</SKU><Description>Pipe Wrench - 14 inch</Description><Quantity>3</Quantity><Price>14.88</Price></Item><Item><SKU>P86259</SKU><Description>Measuring Tape - 16 ft</Description><Quantity>4</Quantity><Price>60.18</Price></Item>
-      </Items>
-    <TotalPrice>233.04</TotalPrice><TotalPrice>277.68</TotalPrice><TotalPrice>518.4</TotalPrice></Order>

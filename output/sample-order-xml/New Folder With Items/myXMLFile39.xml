@@ -1,8 +1,0 @@
-<Order id="ODR73494169" date="2021-06-30">
-      
-      <Customer id="CUST34349" firstname="Merle" lastname="Ranjiv" email="Merle.Ranjiv@example.com" />
-        <Seller id="EMP47553" firstname="Ruthe" lastname="Bebe" email="Ruthe.Bebe@company.com" />
-      <Items>
-        <Item><SKU>P96581</SKU><Description>Tape Measure - 25 ft</Description><Quantity>1</Quantity><Price>44.44</Price></Item><Item><SKU>P94462</SKU><Description>Adjustable Wrench - 12 inch</Description><Quantity>4</Quantity><Price>26.48</Price></Item><Item><SKU>P39657</SKU><Description>Hammer - 16 oz</Description><Quantity>3</Quantity><Price>42.77</Price></Item>
-      </Items>
-    <TotalPrice>44.44</TotalPrice><TotalPrice>150.36</TotalPrice><TotalPrice>278.67</TotalPrice></Order>

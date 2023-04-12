@@ -1,8 +1,0 @@
-<Order id="ODR83180580" date="2022-11-27">
-      
-      <Customer id="CUST91383" firstname="Nickie" lastname="Grimbly" email="Nickie.Grimbly@example.com" />
-        <Seller id="EMP13340" firstname="Kaia" lastname="Keily" email="Kaia.Keily@company.com" />
-      <Items>
-        <Item><SKU>P79336</SKU><Description>Jigsaw - Cordless</Description><Quantity>5</Quantity><Price>35.25</Price></Item><Item><SKU>P80107</SKU><Description>Hand Saw - 12 inch</Description><Quantity>4</Quantity><Price>10.6</Price></Item><Item><SKU>P56787</SKU><Description>Wire Stripper - 8 inch</Description><Quantity>2</Quantity><Price>81.96</Price></Item>
-      </Items>
-    <TotalPrice>176.25</TotalPrice><TotalPrice>218.65</TotalPrice><TotalPrice>382.57</TotalPrice></Order>

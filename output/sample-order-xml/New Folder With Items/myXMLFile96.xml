@@ -1,8 +1,0 @@
-<Order id="ODR51534299" date="2021-05-31">
-      
-      <Customer id="CUST87701" firstname="Corry" lastname="Darrell" email="Corry.Darrell@example.com" />
-        <Seller id="EMP97788" firstname="Ninnetta" lastname="Carleen" email="Ninnetta.Carleen@company.com" />
-      <Items>
-        <Item><SKU>P98846</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>3</Quantity><Price>37.55</Price></Item><Item><SKU>P25892</SKU><Description>Sandpaper - Assorted Grits</Description><Quantity>3</Quantity><Price>54.83</Price></Item><Item><SKU>P56641</SKU><Description>Level - 24 inch</Description><Quantity>3</Quantity><Price>32.07</Price></Item>
-      </Items>
-    <TotalPrice>112.64999999999999</TotalPrice><TotalPrice>277.14</TotalPrice><TotalPrice>373.35</TotalPrice></Order>

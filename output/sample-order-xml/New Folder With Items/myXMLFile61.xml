@@ -1,8 +1,0 @@
-<Order id="ODR3571263" date="2021-11-08">
-      
-      <Customer id="CUST54193" firstname="Nelle" lastname="Myrilla" email="Nelle.Myrilla@example.com" />
-        <Seller id="EMP48116" firstname="Sonni" lastname="Goth" email="Sonni.Goth@company.com" />
-      <Items>
-        <Item><SKU>P60920</SKU><Description>Screwdriver Set - 6 pieces</Description><Quantity>2</Quantity><Price>56.44</Price></Item><Item><SKU>P35731</SKU><Description>Electric Screwdriver - 3.6V</Description><Quantity>2</Quantity><Price>65.56</Price></Item><Item><SKU>P37672</SKU><Description>Workbench - Portable</Description><Quantity>3</Quantity><Price>66.22</Price></Item>
-      </Items>
-    <TotalPrice>112.88</TotalPrice><TotalPrice>244.0</TotalPrice><TotalPrice>442.65999999999997</TotalPrice></Order>
