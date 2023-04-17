@@ -1,6 +1,6 @@
-# Llama-lora-fine-tuner
+# llm-training-dataset-builder
 
-Works for all with llama-lora & alpaca-lora to finetune llama-based LLM.
+Streamlines the creation of dataset to train a Large Language Model with triplets : instruction-input-output . The default configuration fits github.com/tloen/alpaca-lora requirements.
 
 This project processes sample orders in various formats (XML, JSON, and PostgreSQL database) and generates question-answer pairs based on the orders' information 😊
 
